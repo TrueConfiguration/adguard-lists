@@ -1,0 +1,849 @@
+/(^|\\.)ibs\\.lgappstv\\.com/
+/(^|\\.)lgsmartad\\.com/
+/(^|\\.)smartshare\\.lgtvsdp\\.com/
+/(^|\\.)rdx2\\.lgtvsdp\\.com/
+/^[a-z]{7,15}$/
+/(^|\\.)giraffic\\.com$/
+/(^|\\.)internetat\\.tv$/
+/(^|\\.)pavv\\.co\\.kr$/
+/(^|\\.)samsungcloudcdn\\.com$/
+/(^|\\.)samsungcloudsolution\\.com$/
+/(^|\\.)samsungcloudsolution\\.net$/
+/(^|\\.)samsungelectronics\\.com$/
+/(^|\\.)samsungotn\\.net$/
+/(^|\\.)samsungrm\\.net$/
+/(\\.|^)tvinteractive\\.tv$/
+/^api\\..*\\.hismarttv\\.com$/
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+/^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]/
+/^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]/
+/^(.+[-_.])??telemetry[-.]/
+/^(.+[-_.])??xn--/
+/^adim(age|g)s?[0-9]*[-_.]/
+/^adtrack(er|ing)?[0-9]*[-.]/
+/^advert(s|is(ing|ements?))?[0-9]*[-_.]/
+/^aff(iliat(es?|ion))?[-.]/
+/^analytics?[-.]/
+/^banners?[-.]/
+/^beacons?[0-9]*[-.]/
+/^count(ers?)?[0-9]*[-.]/
+/^stat(s|istics)?[0-9]*[-.]/
+/^track(ers?|ing)?[0-9]*[-.]/
+/^traff(ic)?[-.]/
+/google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\\.[a-z]{2,7}$/
+/google-{0,}(analytics{0,}|(ad|tag)manager)\\.[a-z]{2,7}$/
+/double-{0,}clic(k|k[.]*by-{0,}google)\\.[a-z]{2,7}$/
+/(google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\\.[a-z]{2,7}$/
+/(^|\\.)facebook\\.[a-za-z0-9]+$/
+/(^|\\.)fb\\.[a-za-z0-9]+$/
+/(^|\\.)fbcdn\\.[a-za-z0-9]+$/
+/(^|\\.)fbsbx\\.com$/
+/(^|\\.)fbsbx\\.com\\.online-metrix\\.net$/
+/(^|\\.)m\\.me$/
+/(^|\\.)messenger\\.com$/
+/(^|\\.)tfbnw\\.net$/
+/(^|\\.)instagram\\.com$/
+/(^|\\.)whatsapp\\.com$/
+/^(.+\\.)?amp\\..+\\.com$/
+/^(.+\\.)?ampproject\\.org$/
+/^(.+\\.)?amp\\.cloudflare\\.com$/
+/^(.+\\.)?cdn\\.ampproject\\.org$/
+/(.*\\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\\..+)))/
+/([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo\\.com//
+/([A-Za-z0-9.-]*\\.)?secure\\.footprint\\.net//
+/([A-Za-z0-9.-]*\\.)?match\\.com//
+/,4})//
+/([A-Za-z0-9.-]*\\.)?sitescout(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?appnexus(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?evidon(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?mediamath(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?scorecardresearch(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?doubleclick(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?flashtalking(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?turn(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?mathtag(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?googlesyndication(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?s\\.yimg\\.com/cv/ae/us/audience//
+/([A-Za-z0-9.-]*\\.)?clicks\\.beap//
+/([A-Za-z0-9.-]*\\.)?.doubleclick(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?yieldmanager(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?w55c(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?adnxs(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
+/([A-Za-z0-9.-]*\\.)?advertising\\.com//
+/([A-Za-z0-9.-]*\\.)?evidon\\.com//
+/([A-Za-z0-9.-]*\\.)?scorecardresearch\\.com//
+/([A-Za-z0-9.-]*\\.)?flashtalking\\.com//
+/([A-Za-z0-9.-]*\\.)?turn\\.com//
+/([A-Za-z0-9.-]*\\.)?mathtag\\.com//
+/([A-Za-z0-9.-]*\\.)?surveylink//
+/([A-Za-z0-9.-]*\\.)?info\\.yahoo\\.com//
+/([A-Za-z0-9.-]*\\.)?ads\\.yahoo\\.com//
+/([A-Za-z0-9.-]*\\.)?global\\.ard\\.yahoo\\.com//
+/(^|\\.)lgsmartad\\.com$/
+/ngfts.lge.com/
+/lgtvonline.lge.com/
+/(^|\\.)buffpanel\\.com$/
+/(^|\\.)bugsnag\\.com$/
+/(^|\\.)redshell\\.io$/
+/(^|\\.)treasuredata\\.com$/
+/(^|\\.)unity(|3d)\\.com$/
+/(^|\\.)unityads(|\\.co)\\.com$/
+/([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo(\\.\\w{2}\\.\\w{2}|\\.\\w{2})/
+||home-prize-winner-ma5d.live
+||law832speedlength.live^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||mailtrack.io^
+||analytics.twitter.com^
+||stats.wp.com^
+||mads.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||law832speedlength.live^
+||home-prize-winner-ma5d.live^
+||email-opn.adguard.com^
+@@||makemeapassword.ligos.net^
+@@||sefaz.mt.gov.br^
+@@||gpm-mobile.samsungqbe.com^
+@@||ads-serve.brave.com^
+@@||brave.com^
+@@||negocio.site^
+@@||event.wbinsights.com^
+@@||t.imgur.com^
+@@||tracing-collector.strava.com^
+@@||api.micloud.xiaomi.net^
+@@||find.api.micloud.xiaomi.net^
+@@||movies-v2.api.fetch.sh^
+@@||campaign.aliexpress.com^
+@@||d1oxlq5h9kq8q5.cloudfront.net^
+@@||email.uber.com^
+@@||fmcdn.mfcdn.net^
+@@||mag.bancointer.com.br^
+@@||banner1.itau.com.br^
+@@||go.microsoft.com^
+@@||rarbgproxied.org^
+@@||rarbg.to^
+@@||rarbg.me^
+@@||tracker.trackerfix.com^
+@@||pcva5.manifest.auditude.com^
+@@||pcor3.manifest.auditude.com^
+@@||pcor4.manifest.auditude.com^
+@@||pcva3.manifest.auditude.com^
+@@||pcva4.manifest.auditude.com^
+@@||manifest.auditude.com^
+@@||ib.huluim.com^
+@@||www.samsungrm.net^
+@@||sso.internetat.tv^
+@@||sas.samsungcloudsolution.com^
+@@||osb.samsungqbe.com^
+@@||notice.samsungcloudsolution.com^
+@@||osb-apps.samsungqbe.com^
+@@||acr0.samsungcloudsolution.com^
+@@||positivocasainteligente.com.br^
+@@||ns11.whois.co.kr^
+@@||otn.samsungcloudcdn.com^
+@@||osb-ussvc.samsungqbe.com^
+@@||samsungotn.net^
+@@||samsungosp.com^
+@@||otnprd9.samsungcloudsolution.net^
+@@||otnprd8.samsungcloudsolution.net^
+@@||otnprd11.samsungcloudsolution.net^
+@@||otnprd10.samsungcloudsolution.net^
+@@||infolink.pavv.co.kr^
+@@||auth.samsungosp.com^
+@@||ocfconnect-shard-na03-useast2.samsungiotcloud.com^
+@@||brastemp.com.br^
+@@||glotorrents.pw^
+@@||tracker.opentrackr.org^
+@@||guc-dealer.spotify.com^
+@@||electrolux.com.br^
+@@||ibbl.com.br^
+@@||router.bittorrent.com^
+@@||tracker.openwebtorrent.com^
+@@||api.pinterest.com^
+@@||osb-v2.samsungqbe.com^
+@@||filters.adtidy.org^
+@@||scp-wiki.net^
+@@||scpwiki.com^
+@@||lcprd1.samsungcloudsolution.net^
+@@||t.scdn.co^
+@@||p.scdn.co^
+@@||o.scdn.co^
+@@||i.scdn.co^
+@@||tv.scdn.co^
+@@||googlehosted.l.googleusercontent.com^
+@@||wg.spotify.com^
+@@||sto3.spotify.com^
+@@||spclient.spotify.com^
+@@||play.spotify.com^
+@@||open.spotify.com^
+@@||open.scdn.co^
+@@||gslb.spotify.com^
+@@||dealer-ssl.spotify.com^
+@@||dealer.spotify.com^
+@@||audio-fa.spotify.com^
+@@||audio-sp.spotify.com^
+@@||ash.weblb-wg.dual-gslb.spotify.com^
+@@||ash-dealer.spotify.com^
+@@||api-tv.spotify.com^
+@@||api-partner.spotify.com^
+@@||audio-sp-fra2.pscdn.co^
+@@||dns4.p07.nsone.net^
+@@||dns3.p07.nsone.net^
+@@||dns2.p07.nsone.net^
+@@||dns1.p07.nsone.net^
+@@||ns4.p23.dynect.net^
+@@||ns3.p23.dynect.net^
+@@||ns1.p23.dynect.net^
+@@||gew1-accesspoint-b-zzfg.ap.spotify.com^
+@@||r9---sn-n4v7kn76.c.2mdn.net^
+@@||gcdn.2mdn.net^
+@@||gvt2.com^
+@@||gvt1.com^
+@@||ocsp.pki.goog^
+@@||cri.pki.goog^
+@@||ogs.google.com^
+@@||notifications.google.com^
+@@||apis.google.com^
+@@||accounts.youtube.com^
+@@||fonts.googleapis.com^
+@@||accounts.google.com.br^
+@@||accounts.google.com^
+@@||dl-ssl.google.com^
+@@||ggpht.com^
+@@||googleusercontent.com^
+@@||android.com^
+@@||play.google.com^
+@@||chevrolet.com^
+@@||www.appleiphonecell.com^
+@@||www.apple.com^
+@@||gsp1.apple.com^
+@@||captive.apple.com^
+@@||itunes.apple.com^
+@@||s.mzstatic.com^
+@@||m.hotmail.com^
+@@||arc.msn.com^
+@@||settings-win.data.microsoft.com^
+@@||v10.vortex-win.data.microsoft.com^
+@@||www.xboxlive.com^
+@@||client-s.gateway.messenger.live.com^
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
+@@||sls.update.microsoft.com.akadns.net^
+@@||i.s-microsoft.com^
+@@||dl.google.com^
+@@||googleapis.l.google.com^
+@@||gstaticadssl.l.google.com^
+@@||firestore.googleapis.com^
+@@||reminders-pa.googleapis.com^
+@@||s.shopify.com^
+@@||nicequest.com^
+@@||folha.uol.com.br^
+@@||i.rmbl.ws^
+@@||rumble.com^
+@@||time.samsungcloudsolution.com^
+@@||cdn.samsungcloudsolution.com^
+@@||ubiservices.data.ubi.com^
+@@||public-ws-ubiservices.ubi.com^
+@@||lb-lt-rdv-storm.ubisoft.com^
+@@||v20.events.data.microsoft.com^
+@@||v10.events.data.microsoft.com^
+@@||amzn.com^
+@@||amzn.to^
+@@||ow.ly^
+@@||goo.gl^
+@@||bit.ly^
+@@||adf.ly^
+@@||audio-ake.spotify.com.edgesuite.net^
+@@||market.spotify.com^
+@@||upgrade.scdn.com^
+@@||apresolve.spotify.com^
+@@||mobile-ap.spotify.com^
+@@||players.pluto.tv^
+@@||api.pluto.tv^
+@@||cdn-mobile.api.pluto.tv^
+@@||silo.pluto.tv^
+@@||siloh.pluto.tv^
+@@||stitcher.pluto.tv^
+@@||images.pluto.tv^
+@@||ota-downloads.nvidia.com^
+@@||secure.netflix.com^
+@@||appboot.netflix.com^
+@@||api-global.netflix.com^
+@@||ae01.alicdn.com^
+@@||zeustracker.abuse.ch^
+@@||pgl.yoyo.org^
+@@||sysctl.org^
+@@||winhelp2002.mvps.org^
+@@||hostsfile.mine.nu^
+@@||someonewhocares.org^
+@@||hostsfile.org^
+@@||v.firebog.net^
+@@||hosts-file.net^
+@@||prod.telemetry.ros.rockstargames.com^
+@@||events.gfe.nvidia.com^
+@@||sqs.us-east-1.amazonaws.com^
+@@||us-east-1.amazonaws.com^
+@@||s3-eu-west-1.amazonaws.com^
+@@||device-messaging-na.amazon.com^
+@@||todo-ta-g7g.amazon.com^
+@@||det-ta-g7g.amazon.com^
+@@||ocsp.rootg2.amazontrust.com^
+@@||unagi-na.amazon.com^
+@@||cognito-identity.us-east-1.amazonaws.com^
+@@||device-metrics-us.amazon.com^
+@@||device-metrics-us-2.amazon.com^
+@@||amd.cdn.turner.com^
+@@||z.cdn.turner.com^
+@@||s.cdn.turner.com^
+@@||i.cdn.turner.com^
+@@||pmd.cdn.turner.com^
+@@||ipv6.msftconnecttest.com^
+@@||msftconnecttest.com^
+@@||ipv6.msftncsi.com^
+@@||connectivitycheck.android.com^
+@@||connectivitycheck.gstatic.com^
+@@||continuum.dds.microsoft.com^
+@@||vidtech.cbsinteractive.com^
+@@||appspot-preview.l.google.com^
+@@||gfwsl.geforce.com^
+@@||livepassdl.conviva.com^
+@@||cws.conviva.com^
+@@||pings.conviva.com^
+@@||zee.cws.conviva.com^
+@@||yt3.ggpht.com^
+@@||youtube-nocookie.com^
+@@||youtu.be^
+@@||xsts.auth.xboxlive.com^
+@@||xkms.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||xboxexperiencesprod.experimentation.xboxlive.com^
+@@||xbox.ipv6.microsoft.com^
+@@||www.youtube-nocookie.com^
+@@||www.no-ip.com^
+@@||www.msftncsi.com^
+@@||www.googleapis.com^
+@@||www.dataplicity.com^
+@@||ws.audioscrobbler.com^
+@@||wp.com^
+@@||win10.ipv6.microsoft.com^
+@@||widget-cdn.rpxnow.com^
+@@||videos.vidible.tv^
+@@||video-stats.l.google.com^
+@@||ui.skype.com^
+@@||twimg.com^
+@@||tvthemes.plexapp.com^
+@@||tvdb2.plex.tv^
+@@||traffic.libsyn.com^
+@@||title.mgt.xboxlive.com^
+@@||title.auth.xboxlive.com^
+@@||tinyurl.com^
+@@||thetvdb.com^
+@@||themoviedb.com^
+@@||tedcdn.com^
+@@||tawk.to^
+@@||t0.ssl.ak.tiles.virtualearth.net^
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^
+@@||t.co^
+@@||status.plex.tv^
+@@||staging.plex.tv^
+@@||ssl.p.jwpcdn.com^
+@@||spclient.wg.spotify.com^
+@@||skyhook.sonarr.tv^
+@@||services.sonarr.tv^
+@@||secure.surveymonkey.com^
+@@||secure.brightcove.com^
+@@||secure.avangate.com^
+@@||sa.symcb.com^
+@@||s3.amazonaws.com^
+@@||s2.youtube.com^
+@@||s1.wp.com^
+@@||s.ytimg.com^
+@@||s.youtube.com^
+@@||s.marketwatch.com^
+@@||s.gateway.messenger.live.com^
+@@||res.cloudinary.com^
+@@||redirector.googlevideo.com^
+@@||raw.githubusercontent.com^
+@@||pubsub.plex.tv^
+@@||pubsub.plex.bz^
+@@||proxy02.pop.ord.plex.bz^
+@@||proxy.plex.tv^
+@@||proxy.plex.bz^
+@@||products.office.com^
+@@||pricelist.skype.com^
+@@||players.brightcove.net^
+@@||placeholdit.imgix.net^
+@@||placehold.it^
+@@||outlook.office365.com^
+@@||outlook.live.com^
+@@||onedrive.live.com^
+@@||om.cbsi.com^
+@@||officeclient.microsoft.com^
+@@||office365.com^
+@@||office.net^
+@@||office.com^
+@@||ocsp.apple.com^
+@@||o2.sg0.plex.tv^
+@@||o1.email.plex.tv^
+@@||ns2.dropbox.com^
+@@||ns1.dropbox.com^
+@@||notify.xboxlive.com^
+@@||node.plexapp.com^
+@@||no-ip.com^
+@@||nine.plugins.plexapp.com^
+@@||npr-news.streaming.adswizz.com^
+@@||nexusrules.officeapps.live.com^
+@@||my.plexapp.com^
+@@||msftncsi.com^
+@@||microsoftonline.com^
+@@||meta.plex.tv^
+@@||meta.plex.bz^
+@@||meta-db-worker02.pop.ric.plex.bz^
+@@||manifest.googlevideo.com^
+@@||login.microsoftonline.com^
+@@||login.live.com^
+@@||live.com^
+@@||licensing.xboxlive.com^
+@@||lastfm-img2.akamaized.net^
+@@||keystone.mwbsys.com^
+@@||jsdelivr.net^
+@@||jquery.com^
+@@||intercom.io^
+@@||instantmessaging-pa.googleapis.com^
+@@||imgs.xkcd.com^
+@@||imgix.net^
+@@||img.vidible.tv^
+@@||imagesak.secureserver.net^
+@@||i1.ytimg.com^
+@@||i.ytimg.com^
+@@||hls.ted.com^
+@@||help.ui.xboxlive.com^
+@@||gstatic.com^
+@@||gravatar.com^
+@@||googleapis.com^
+@@||github.io^
+@@||github.com^
+@@||giphy.com^
+@@||geo3.ggpht.com^
+@@||geo-prod.do.dsp.mp.microsoft.com^
+@@||g.live.com^
+@@||forums.sonarr.tv^
+@@||fonts.gstatic.com^
+@@||eds.xboxlive.com^
+@@||edge.api.brightcove.com^
+@@||ecn.dev.virtualearth.net^
+@@||dynupdate.no-ip.com^
+@@||driftt.com^
+@@||drift.com^
+@@||download.sonarr.tv^
+@@||dns.msftncsi.com^
+@@||dl.dropboxusercontent.com^
+@@||dl.dropbox.com^
+@@||dl.delivery.mp.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
+@@||display.ugc.bazaarvoice.com^
+@@||device.auth.xboxlive.com^
+@@||dev.virtualearth.net^
+@@||delivery.vidible.tv^
+@@||def-vef.xboxlive.com^
+@@||dataplicity.com^
+@@||dashboard.plex.tv^
+@@||d2gatte9o95jao.cloudfront.net^
+@@||d2c8v52ll5s99u.cloudfront.net^
+@@||ctldl.windowsupdate.com^
+@@||cse.google.com^
+@@||cpms35.spop10.ams.plex.bz^
+@@||cpms.spop10.ams.plex.bz^
+@@||clients6.google.com^
+@@||clients5.google.com^
+@@||clients4.google.com^
+@@||clients3.google.com^
+@@||clients2.google.com^
+@@||clients1.google.com^
+@@||clientconfig.passport.net^
+@@||cert.mgt.xboxlive.com^
+@@||cdnjs.cloudflare.com^
+@@||cdn3.optimizely.com^
+@@||cdn2.optimizely.com^
+@@||cdn.vidible.tv^
+@@||cdn.optimizely.com^
+@@||cdn.embedly.com^
+@@||cdn.cloudflare.net^
+@@||c.s-microsoft.com^
+@@||brightcove.net^
+@@||ax.phobos.apple.com.edgesuite.net^
+@@||attestation.xboxlive.com^
+@@||aspnetcdn.com^
+@@||apt.sonarr.tv^
+@@||appsbackup-pa.googleapis.com^
+@@||appsbackup-pa.clients6.google.com^
+@@||apps.skype.com^
+@@||appleid.apple.com^
+@@||app-api.ted.com^
+@@||api.rlje.net^
+@@||api.ipify.org^
+@@||android.clients.google.com^
+@@||amazonaws.com^
+@@||akamaized.net^
+@@||akamaitechnologies.com^
+@@||akamaihd.net^
+@@||1drv.com^
+@@||0.client-channel.google.com^
+@@||ipinfo.io^
+@@||economia.uol.com.br^
+# Em alguma das minhas blocklists que por algum motivo eu não queira editar
+@@||anti-ad.net^
+# Bloqueios reforçados por estarem presentes em whitelists de terceiros
+||graph.facebook.com^
+#Lista de desbloqueios de sites do UOL
+@@uol.com.br^
+@@economia.uol.com.br^
+# Bloqueio do AMP via Regex por MMotti
+/^(.+[_.-])?amp(project)?\./
+# Rastreadores de e-mail (tracking pixel etc.)
+||email-opn.adguard.com^
+||mailtrack.io^$important
+#Redirecionamentos
+||router.net^$dnsrewrite=NOERROR;A;192.168.31.1
+||modem.net^$dnsrewrite=NOERROR;A;192.168.100.1
+# Regras diversas
+@@||ligos.net^
+@@us.api.io.mi.com^$client='Redmi-Note-10-Pro'
+@@||translate.google.com^
+# Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
+# LG
+/(^|\.)ibs\.lgappstv\.com/
+/(^|\.)lgsmartad\.com/
+/(^|\.)smartshare\.lgtvsdp\.com/
+/(^|\.)rdx2\.lgtvsdp\.com/
+/^[a-z]{11,15}$/
+# Samsung
+/(^|\.)giraffic\.com$/
+/(^|\.)internetat\.tv$/
+/(^|\.)pavv\.co\.kr$/
+# /(^|\.)samsungcloudcdn\.com$ # prevents updates/
+# /(^|\.)samsungcloudsolution\.com$ # prevents internet connection/
+/(^|\.)samsungcloudsolution\.net$/
+/(^|\.)samsungelectronics\.com$/
+# (^|\.)samsungotn\.net$ # prevents updates
+/(^|\.)samsungrm\.net$/
+# Vizio
+/(\.|^)tvinteractive\.tv$/
+# Other
+# (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
+/^api\..*\.hismarttv\.com$/
+# Regex filters provided by MMotti
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+# Pi-hole Regex Megathread
+/(.*)\.g00\.(.*)/
+# GoodbyeAds Xiaomi AdBlock
+0.0.0.0 a.hl.mi.com
+0.0.0.0 a.stat.xiaomi.com
+0.0.0.0 a.union.mi.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 activeqq.3g.qq.com
+0.0.0.0 ad.intl.xiaomi.com
+0.0.0.0 ad.mi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad1.xiaomi.com
+0.0.0.0 adfuture.cn
+0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
+0.0.0.0 adsunflower.com
+0.0.0.0 adups.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 analytics3.starschina.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 api.chat.xiaomi.net
+0.0.0.0 api.collect.data.intl.miui.com
+0.0.0.0 api.comm.miui.com
+0.0.0.0 api.cupid.ptqy.gitv.tv
+0.0.0.0 api.d.xiaomi.com
+0.0.0.0 api.g.micloud.xiaomi.net
+0.0.0.0 api.hybrid.intl.xiaomi.com
+0.0.0.0 api.io.mi.com
+0.0.0.0 api.jr.mi.com
+0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.ra2.xlmc.sec.miui.com
+0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.tuisong.baidu.com
+0.0.0.0 api.tw06.xlmc.sec.miui.com
+0.0.0.0 api.vip.miui.com
+0.0.0.0 api.xiaomi.com
+0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 app.migc.xiaomi.com
+0.0.0.0 app01.nodes.gslb.mi-idc.com
+0.0.0.0 app02.nodes.gslb.mi-idc.com
+0.0.0.0 applog.uc.cn
+0.0.0.0 appstore.cdn.pandora.xiaomi.com
+0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 assistant.pandora.xiaomi.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
+0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
+0.0.0.0 bbs.game.xiaomi.com
+0.0.0.0 be01.hh.xiaomi.com
+0.0.0.0 beha.ksmobile.com
+0.0.0.0 benteng.ad.xiaomi.com
+0.0.0.0 bgp.fe01.c3.xiaomi.com
+0.0.0.0 bigdata.adfuture.cn
+0.0.0.0 bigdata.adsunflower.com
+0.0.0.0 bigdata.adups.com
+0.0.0.0 bigdata.advmob.cn
+0.0.0.0 bk01.hh.xiaomi.com
+0.0.0.0 blog.xiaomi.com
+0.0.0.0 bss.pandora.xiaomi.com
+0.0.0.0 c.id.mi.com
+0.0.0.0 calopenupdate.comm.miui.com
+0.0.0.0 cc.sys.intl.xiaomi.com
+0.0.0.0 cc.sys.miui.com
+0.0.0.0 ccc.sys.intl.xiaomi.com
+0.0.0.0 ccc.sys.miui.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 cdn.fds-ssl.api.xiaomi.com
+0.0.0.0 clock.ad.xiaomi.com
+0.0.0.0 cm.adkmob.com
+0.0.0.0 cm066.getui.igexin.com
+0.0.0.0 cnc.fe01.lg.xiaomi.com
+0.0.0.0 config.kuyun.com
+0.0.0.0 contactapi.micloud.xiaomi.net
+0.0.0.0 controller.intl.xiaomi.com
+0.0.0.0 ctc.fe01.c3.xiaomi.com
+0.0.0.0 ctc.fe02.c3.xiaomi.com
+0.0.0.0 d.g.mi.com
+0.0.0.0 d.xiaomi.com
+0.0.0.0 data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
+0.0.0.0 data.game.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.intl.miui.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 de.pandora.xiaomi.com
+0.0.0.0 diagnosis.ad.xiaomi.com
+0.0.0.0 dvb.pandora.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 etl.xlmc.sec.miui.comm
+0.0.0.0 f1.g.mi.com
+0.0.0.0 f4.market.xiaomi.com
+0.0.0.0 f8.market.xiaomi.com
+0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 fclick.baidu.com
+0.0.0.0 fe02.lg.xiaomi.com
+0.0.0.0 fe05.lg.xiaomi.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 folder.adfuture.cn
+0.0.0.0 folder.adsunflower.com
+0.0.0.0 folder.advmob.cn
+0.0.0.0 fota4.adups.cn
+0.0.0.0 fotacontrol.adfuture.cn
+0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 gallery.cdn.pandora.xiaomi.com
+0.0.0.0 gallery.pandora.xiaomi.com
+0.0.0.0 game.xiaomi.com
+0.0.0.0 geofence.sys.miui.com
+0.0.0.0 global.search.xiaomi.net
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 gvod.aiseejapp.atianqi.com
+0.0.0.0 hd.xiaomi.com
+0.0.0.0 hd02.lg.xiaomi.com
+0.0.0.0 heyue.xiaomi.com
+0.0.0.0 hk.mibi.xiaomi.com
+0.0.0.0 hm.xiaomi.com
+0.0.0.0 huodong.xiaomi.com
+0.0.0.0 huosai.xiaomi.com
+0.0.0.0 i.xiaomi.com
+0.0.0.0 igame.xiaomi.com
+0.0.0.0 image.box.xiaomi.com
+0.0.0.0 image.cdn.mvideo.xiaomi.com
+0.0.0.0 image.pandora.xiaomi.com
+0.0.0.0 ime.api.xiaomi.com
+0.0.0.0 imgg.traffic-media.co
+0.0.0.0 in.o2o.api.xiaomi.com
+0.0.0.0 info.analysis.kp.sec.miui.com
+0.0.0.0 info.sec.miui.com
+0.0.0.0 iosdl.game.xiaomi.com
+0.0.0.0 jellyfish.pandora.xiaomi.com
+0.0.0.0 lbs.pandora.xiaomi.com
+0.0.0.0 lg-bgp.pandora.xiaomi.com
+0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 log.pandora.xiaomi.com
+0.0.0.0 login.game.xiaomi.com
+0.0.0.0 logonext.tv.kuyun.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 lxcdn.dl.files.xiaomi.net
+0.0.0.0 m.bss.pandora.xiaomi.com
+0.0.0.0 m.irs01.com
+0.0.0.0 m.sjzhushou.com
+0.0.0.0 m.track.ad.xiaomi.com
+0.0.0.0 masdk.3g.qq.com
+0.0.0.0 max.ad.xiaomi.com
+0.0.0.0 mazu.3g.qq.com
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mcc.intl.inf.miui.com
+0.0.0.0 mdap.alipaylog.com
+0.0.0.0 meihua.xiaomi.com
+0.0.0.0 metok.sys.miui.com
+0.0.0.0 mibi.api.xiaomi.com
+0.0.0.0 mibi.xiaomi.com
+0.0.0.0 micardapi.micloud.xiaomi.net
+0.0.0.0 migc.g.mi.com
+0.0.0.0 migcreport.g.mi.com
+0.0.0.0 migrate.driveapi.micloud.xiaomi.net
+0.0.0.0 milink.pandora.xiaomi.com
+0.0.0.0 mini.cpc.sogou.com
+0.0.0.0 mis.g.mi.com
+0.0.0.0 mis.migc.xiaomi.com
+0.0.0.0 mis.migc.xiaomi.comfile.m
+0.0.0.0 mishop.cdn.pandora.xiaomi.com
+0.0.0.0 mishop.pandora.xiaomi.com
+0.0.0.0 mitunes.game.xiaomi.com
+0.0.0.0 mitv.tracking.intl.miui.com
+0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 mp.huangye.miui.com
+0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 notice.game.xiaomi.com
+0.0.0.0 nsclick.baidu.com
+0.0.0.0 o.data.mistat.xiaomi.com
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 order.music.xiaomi.com
+0.0.0.0 p.alimama.com
+0.0.0.0 pdc.micloud.xiaomi.net
+0.0.0.0 phonecallapi.micloud.xiaomi.net
+0.0.0.0 pmall.migc.xiaomi.com
+0.0.0.0 pmir.3g.qq.com
+0.0.0.0 ppurifier.game.xiaomi.com
+0.0.0.0 proxy.sec.miui.com
+0.0.0.0 ptmi.gitv.pandora.xiaomi.com
+0.0.0.0 qiye.xiaomi.com
+0.0.0.0 r.browser.miui.com
+0.0.0.0 r.sg.sec.miui.com
+0.0.0.0 report.adview.cn
+0.0.0.0 resolver.gslb.mi-idc.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 sa.tuisong.baidu.com
+0.0.0.0 sa3.tuisong.baidu.com
+0.0.0.0 sdk.open.phone.igexin.com
+0.0.0.0 sdk.open.talk.gepush.com
+0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sec-cdn.static.xiaomi.net
+0.0.0.0 sec.resource.xiaomi.net
+0.0.0.0 secode2.hd.xiaomi.com
+0.0.0.0 security.browser.miui.com
+0.0.0.0 sfsapi.micloud.xiaomi.net
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 sg.a.stat.mi.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
+0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 shoes.app-xae.xiaomi.com
+0.0.0.0 shouji.sougou.com
+0.0.0.0 sousuo.xm.sjzhushou.com
+0.0.0.0 ssdk.adkmob.com
+0.0.0.0 ssl-cdn.static.browser.mi-img.com
+0.0.0.0 ssp.ad.xiaomi.com
+0.0.0.0 sstc.ngrok.xiaomiqiu.cn
+0.0.0.0 staging.admin.e.mi.com
+0.0.0.0 staging.ai.api.xiaomi.com
+0.0.0.0 starfish.pandora.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 static.game.xiaomi.com
+0.0.0.0 static.mibi.xiaomi.com
+0.0.0.0 stat.xiaomi.com
+0.0.0.0 stats.xiaomi.com
+0.0.0.0 statusapi.micloud.xiaomi.net
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 t.track.ad.xiaomi.com
+0.0.0.0 t1.a.market.xiaomi.com
+0.0.0.0 t1.g.mi.com
+0.0.0.0 t2.a.market.xiaomi.com
+0.0.0.0 t3.a.market.xiaomi.com
+0.0.0.0 t4.a.market.xiaomi.com
+0.0.0.0 t5.a.market.xiaomi.com
+0.0.0.0 tc.hd.xiaomi.com
+0.0.0.0 tel.fe01.hh.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 test.api.xlmc.sandai.net
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 test.log.ad.xiaomi.com
+0.0.0.0 test.new.api.ad.xiaomi.com
+0.0.0.0 test.xiaomi.com
+0.0.0.0 test.zeus.ad.xiaomi.com
+0.0.0.0 tools.3g.qq.com
+0.0.0.0 track.ad.xiaomi.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 trial.api.huangye.miui.com
+0.0.0.0 tv.app.migc.xiaomi.com
+0.0.0.0 tw13b093.sandai.net
+0.0.0.0 union.dbba.cn
+0.0.0.0 update.avlyun.sec.miui.com
+0.0.0.0 upgrade.mishop.pandora.xiaomi.com
+0.0.0.0 url8807.global.passport.xiaomi.com
+0.0.0.0 userid.xiaomi.com
+0.0.0.0 v2.fm.n.duokanbox.com
+0.0.0.0 v2.reachmax.cn
+0.0.0.0 video.market.xiaomi.com
+0.0.0.0 video.xiaomi.com
+0.0.0.0 voip.game.xiaomi.com
+0.0.0.0 wallpaper.cdn.pandora.xiaomi.com
+0.0.0.0 wallpaper.pandora.xiaomi.com
+0.0.0.0 wap.game.xiaomi.com
+0.0.0.0 watchdog.goodbyeads
+0.0.0.0 watchdog.goodbyeads.xiaomi
+0.0.0.0 weather.pandora.xiaomi.com
+0.0.0.0 wtradv.market.xiaomi.com
+0.0.0.0 www.adview.cn
+0.0.0.0 www.api.ad.intl.xiaomi.com
+0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
+0.0.0.0 xiaomi.m.cn.miaozhen.com
+0.0.0.0 xiaomiir.yaokantv.com
+0.0.0.0 xiazai.xiaomi.com
+0.0.0.0 xitong.xiaomi.com
+0.0.0.0 xlmc.sec.miui.com
+0.0.0.0 xshare.api.xiaomi.com
+0.0.0.0 yun.rili.cn
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zhuti.xiaomi.com
+0.0.0.0 zhwnlapi.etouch.cn
+0.0.0.0 zx.game.xiaomi.com
