@@ -496,16 +496,17 @@
 # Em alguma das minhas blocklists que por algum motivo eu não queira editar
 @@||anti-ad.net^
 # Bloqueios reforçados por estarem presentes em whitelists de terceiros
-||graph.facebook.com^
+||graph.facebook.com^$important
 @@uol.com.br^
 @@economia.uol.com.br^
 # Bloqueio do AMP via Regex por MMotti
 /^(.+[_.-])?amp(project)?\./
 # Rastreadores de e-mail (tracking pixel etc.)
 ||mailtrack.io^$important
-# Regras diversas
-@@||ligos.net^
-@@||translate.google.com^
+#Redirecionamentos
+||router.net^$dnsrewrite=NOERROR;A;192.168.31.1
+||modem.net^$dnsrewrite=NOERROR;A;192.168.100.1
+||router-ecobrasil.net^$dnsrewrite=NOERROR;A;192.168.3.1
 # Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
 # LG
 /(^|\.)ibs\.lgappstv\.com/
@@ -761,3 +762,7 @@
 ||yun.rili.cn^
 ||zhuti.xiaomi.com^
 ||zhwnlapi.etouch.cn^
+# Regras diversas
+@@||ligos.net^
+@@||translate.google.com^
+@@us.api.io.mi.com^$client='Redmi-Note-10-Pro'
