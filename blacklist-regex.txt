@@ -28,7 +28,7 @@
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^mads\./
 /^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$/
-/^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$/
+! /^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$/ ! Breaks Twitter
 /^(.+[_.-])?eulerian\.net$/
 /^(.+[_.-])?dnsdelegation\.io$/
 !! Regras diversas
