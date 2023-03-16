@@ -1,6 +1,5 @@
-! <--- ^$important
-! Imported from NextDNS^$important
-!! Whitelist^$important
+! <---
+! Imported from NextDNS
 @@||acctcdnmsftuswe2.azureedge.net^$important
 @@||lgincdnmsftuswe2.azureedge.net^$important
 @@||p.sfx.ms^$important
@@ -420,40 +419,40 @@
 @@||akamaihd.net^$important
 @@||1drv.com^$important
 @@||0.client-channel.google.com^$important
-! --->^$important
-! <--- ^$important
-! Mozilla Firefox Services ^$important
-! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox^$important
-!! Sync^$important
+! --->
+! <---
+! Mozilla Firefox Services
+! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
+!! Sync
 @@||firefox.settings.services.mozilla.com^$important
 @@||firefox-settings-attachments.cdn.mozilla.net^$important
 @@||content-signature-2.cdn.mozilla.net^$important
 @@||sync-1-us-west1-g.sync.services.mozilla.com^$important
 @@||token.services.mozilla.com^$important
-!! Downloads and updates^$important
+!! Downloads and updates
 @@||ftp.mozilla.org^$important
 @@||archive.mozilla.org^$important
 @@||download.cdn.mozilla.net^$important
 @@||download.mozilla.org^$important
-!! Accounts^$important
+!! Accounts
 @@||profile.accounts.firefox.com^$important
 @@||accounts.firefox.com^$important
-!! Tracking Protection (updates whitelists and blacklists for ETP)^$important
+!! Tracking Protection (updates whitelists and blacklists for ETP)
 @@||tracking-protection.cdn.mozilla.net^$important
-!! Codecs and DRM^$important
+!! Codecs and DRM
 @@||ciscobinary.openh264.org^$important
 @@||clients2.googleusercontent.com ! Widevine^$important
 @@||redirector.gvt1.com ! Widevine^$important
-!! DNS over HTTPS^$important
+!! DNS over HTTPS
 @@||private.canadianshield.cira.ca^$important
 @@||firefox.dns.nextdns.io^$important
 @@||doh.xfinity.com^$important
 @@||dns.shaw.ca^$important
 @@||mozilla.cloudflare-dns.com^$important
-!! Extension updates and metadata^$important
+!! Extension updates and metadata
 @@||versioncheck.addons.mozilla.org/^$important
 @@||services.addons.mozilla.org^$important
-! --->^$important
-! <---^$important
-! Personal day to day whitelist^$important
-@@||archive.ubuntu.com ! Unbreak Ubuntu apt repositories^$important
+! --->
+! <---
+! Personal day to day whitelist
+@@||archive.ubuntu.com^$important ! Unbreak Ubuntu apt repositories
