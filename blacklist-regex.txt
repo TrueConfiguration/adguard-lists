@@ -1,8 +1,56 @@
+! <---
+! Regex
+!! Blocks AMP (disabled due to Firefox Extensions doing their jobs well)
+! /^(.+[_.-])?amp(project)?\./
+!! Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
+!!! LG
+/(^|\.)ibs\.lgappstv\.com/
+/(^|\.)lgsmartad\.com/
+/(^|\.)smartshare\.lgtvsdp\.com/
+/(^|\.)rdx2\.lgtvsdp\.com/
+/^[a-z]{11,15}$/
+!!! Samsung
+/(^|\.)giraffic\.com$/
+/(^|\.)internetat\.tv$/
+/(^|\.)pavv\.co\.kr$/
+! /(^|\.)samsungcloudcdn\.com$ ! prevents updates/
+! /(^|\.)samsungcloudsolution\.com$ ! prevents internet connection/
+/(^|\.)samsungcloudsolution\.net$/
+/(^|\.)samsungelectronics\.com$/
+! (^|\.)samsungotn\.net$ ! prevents updates
+/(^|\.)samsungrm\.net$/
+!!! Vizio
+/(\.|^)tvinteractive\.tv$/
+!!! Other
+! (^|\.)myhomescreen\.tv$ ! can produce false positives, rather block individual domains
+/^api\..*\.hismarttv\.com$/
+! Regex filters provided by MMotti
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^mads\./
+/^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$/
+/^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$/
+/^(.+[_.-])?eulerian\.net$/
+/^(.+[_.-])?dnsdelegation\.io$/
+!! Regras diversas
+/.*\.g[0-9]+\..*/
+/((^)|(.))metric./
+/((^)|(.))telemetry./
+/((^)|(.))analytic./
+/((^)|(.))adchoice./
+/((^)|(.))adsdk./
+/((^)|(.))adserv./
+/((^)|(.))tracking./
+/(^|\.)xn--.*$/
+/(^|\.)buffpanel\.com$/
+/(^|\.)bugsnag\.com$/
+/(^|\.)redshell\.io$/
+/(^|\.)treasuredata\.com$/
+/(^|\.)unity(|3d)\.com$/
+/(^|\.)unityads(|\.co)\.com$/
 /(^|\\.)ibs\\.lgappstv\\.com/
 /(^|\\.)lgsmartad\\.com/
 /(^|\\.)smartshare\\.lgtvsdp\\.com/
 /(^|\\.)rdx2\\.lgtvsdp\\.com/
-/^[a-z]{7,15}$/
 /(^|\\.)giraffic\\.com$/
 /(^|\\.)internetat\\.tv$/
 /(^|\\.)pavv\\.co\\.kr$/
@@ -65,7 +113,6 @@
 /([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo\\.com//
 /([A-Za-z0-9.-]*\\.)?secure\\.footprint\\.net//
 /([A-Za-z0-9.-]*\\.)?match\\.com//
-/,4})//
 /([A-Za-z0-9.-]*\\.)?sitescout(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
 /([A-Za-z0-9.-]*\\.)?appnexus(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
 /([A-Za-z0-9.-]*\\.)?evidon(\\.\\w{2}\\.\\w{2}|\\.\\w{2,4})//
@@ -102,18 +149,4 @@
 /(^|\\.)unity(|3d)\\.com$/
 /(^|\\.)unityads(|\\.co)\\.com$/
 /([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo(\\.\\w{2}\\.\\w{2}|\\.\\w{2})/
-/.*\.g[0-9]+\..*/
-/((^)|(.))metric./
-/((^)|(.))telemetry./
-/((^)|(.))analytic./
-/((^)|(.))adchoice./
-/((^)|(.))adsdk./
-/((^)|(.))adserv./
-/((^)|(.))tracking./
-/(^|\.)xn--.*$/
-/(^|\.)buffpanel\.com$/
-/(^|\.)bugsnag\.com$/
-/(^|\.)redshell\.io$/
-/(^|\.)treasuredata\.com$/
-/(^|\.)unity(|3d)\.com$/
-/(^|\.)unityads(|\.co)\.com$/
+! --->
