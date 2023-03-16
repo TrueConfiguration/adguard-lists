@@ -5,10 +5,10 @@
 !! Author: https://www.github.com/TrueConfiguration
 !! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
-! <---
 ! Regex
 !! Blocks AMP (disabled due to Firefox Extensions doing their jobs well)
 ! /^(.+[_.-])?amp(project)?\./
+
 !! Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
 !!! LG
 /(^|\.)ibs\.lgappstv\.com/
@@ -16,6 +16,7 @@
 /(^|\.)smartshare\.lgtvsdp\.com/
 /(^|\.)rdx2\.lgtvsdp\.com/
 /^[a-z]{11,15}$/
+
 !!! Samsung
 /(^|\.)giraffic\.com$/
 /(^|\.)internetat\.tv$/
@@ -26,8 +27,10 @@
 /(^|\.)samsungelectronics\.com$/
 ! (^|\.)samsungotn\.net$ ! prevents updates
 /(^|\.)samsungrm\.net$/
+
 !!! Vizio
 /(\.|^)tvinteractive\.tv$/
+
 !!! Other
 ! (^|\.)myhomescreen\.tv$ ! can produce false positives, rather block individual domains
 /^api\..*\.hismarttv\.com$/
@@ -38,6 +41,7 @@
 ! /^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$/ ! Breaks Twitter
 /^(.+[_.-])?eulerian\.net$/
 /^(.+[_.-])?dnsdelegation\.io$/
+
 !! Regras diversas
 /.*\.g[0-9]+\..*/
 /((^)|(.))metric./
@@ -156,4 +160,3 @@
 /(^|\\.)unity(|3d)\\.com$/
 /(^|\\.)unityads(|\\.co)\\.com$/
 /([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo(\\.\\w{2}\\.\\w{2}|\\.\\w{2})/
-! --->

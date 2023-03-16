@@ -6,7 +6,6 @@
 !! Author: https://www.github.com/TrueConfiguration
 !! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
-! <---
 ! Imported from NextDNS
 @@||acctcdnmsftuswe2.azureedge.net^$important
 @@||lgincdnmsftuswe2.azureedge.net^$important
@@ -427,9 +426,7 @@
 @@||akamaihd.net^$important
 @@||1drv.com^$important
 @@||0.client-channel.google.com^$important
-! --->
 
-! <---
 ! Mozilla Firefox Services
 ! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
 !! Sync
@@ -438,33 +435,36 @@
 @@||content-signature-2.cdn.mozilla.net^$important
 @@||sync-1-us-west1-g.sync.services.mozilla.com^$important
 @@||token.services.mozilla.com^$important
+
 !! Downloads and updates
 @@||ftp.mozilla.org^$important
 @@||archive.mozilla.org^$important
 @@||download.cdn.mozilla.net^$important
 @@||download.mozilla.org^$important
+
 !! Accounts
 @@||profile.accounts.firefox.com^$important
 @@||accounts.firefox.com^$important
+
 !! Tracking Protection (updates whitelists and blacklists for ETP)
 @@||tracking-protection.cdn.mozilla.net^$important
+
 !! Codecs and DRM
 @@||ciscobinary.openh264.org^$important
 @@||clients2.googleusercontent.com ! Widevine^$important
 @@||redirector.gvt1.com ! Widevine^$important
+
 !! DNS over HTTPS
 @@||private.canadianshield.cira.ca^$important
 @@||firefox.dns.nextdns.io^$important
 @@||doh.xfinity.com^$important
 @@||dns.shaw.ca^$important
 @@||mozilla.cloudflare-dns.com^$important
+
 !! Extension updates and metadata
 @@||versioncheck.addons.mozilla.org/^$important
 @@||services.addons.mozilla.org^$important
-! --->
 
-! <---
 ! Personal day to day whitelist
 @@||archive.ubuntu.com^$important ! Unbreak Ubuntu apt repositories
 @@||telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important ! Oracle Cloud control panel
-! --->
