@@ -1,3 +1,11 @@
+!! Personal Whitelists that I compiled from various sources, plus domains I 
+!! found to break things in day to day internet usage.
+!! To be used in Adguard Home or similar software.
+!! Will mix formats, but the main 'language' will be ABP syntax, which
+!! I personally consider superior to hosts/domains lists.
+!! Author: https://www.github.com/TrueConfiguration
+!! Source: https://www.github.com/TrueConfiguration/adguard-lists
+
 ! <---
 ! Imported from NextDNS
 @@||acctcdnmsftuswe2.azureedge.net^$important
@@ -420,6 +428,7 @@
 @@||1drv.com^$important
 @@||0.client-channel.google.com^$important
 ! --->
+
 ! <---
 ! Mozilla Firefox Services
 ! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
@@ -453,6 +462,9 @@
 @@||versioncheck.addons.mozilla.org/^$important
 @@||services.addons.mozilla.org^$important
 ! --->
+
 ! <---
 ! Personal day to day whitelist
 @@||archive.ubuntu.com^$important ! Unbreak Ubuntu apt repositories
+@@||telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important ! Oracle Cloud control panel
+! --->
