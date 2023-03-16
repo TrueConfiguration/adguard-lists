@@ -35,7 +35,7 @@
 ! (^|\.)myhomescreen\.tv$ ! can produce false positives, rather block individual domains
 /^api\..*\.hismarttv\.com$/
 ! Regex filters provided by MMotti
-! /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/ ! AdguardHome for some reason is not respecting priorities with whitelist and regex
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^mads\./
 /^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$/
 ! /^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$/ ! Breaks Twitter
@@ -45,12 +45,12 @@
 !! Regras diversas
 /.*\.g[0-9]+\..*/
 /((^)|(.))metric./
-! /((^)|(.))telemetry./ ! AdguardHome for some reason is not respecting priorities with whitelist and regex
+/((^)|(.))telemetry./
 /((^)|(.))analytic./
 /((^)|(.))adchoice./
 /((^)|(.))adsdk./
 /((^)|(.))adserv./
-! /((^)|(.))tracking./ ! AdguardHome for some reason is not respecting priorities with whitelist and regex
+/((^)|(.))tracking./
 /(^|\.)xn--.*$/
 /(^|\.)buffpanel\.com$/
 /(^|\.)bugsnag\.com$/
