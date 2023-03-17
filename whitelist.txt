@@ -466,5 +466,7 @@
 @@||services.addons.mozilla.org^$important
 
 ! Personal day to day whitelist
-@@||archive.ubuntu.com^$important ! Unbreak Ubuntu apt repositories
-@@||telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important ! Oracle Cloud control panel
+!! Unbreak Ubuntu apt repositories
+@@||archive.ubuntu.com^$important
+!! Oracle Cloud control panel
+@@||telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
