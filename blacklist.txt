@@ -30,5 +30,26 @@
 ||law832speedlength.live^
 ||home-prize-winner-ma5d.live^
 
-! Microsoft live tiles are annoying
+! Microsoft telemetry and other annoyances
 ||tile-service.weather.microsoft.com^
+||self.events.data.microsoft.com^
+||vscodeexperiments.azureedge.net^  # VSCode experiments, not a tracker per se, but does sends your data to Microsoft
+||mobile.events.data.microsoft.com^
+
+!! Microsoft uses this domains to sync, monitor and modify your Windows Settings
+||settings.data.microsoft.com^
+||settings-win.data.microsoft.com^
+
+!! CAUTION Microsoft Smartscreen (I already have antivirus, thank you)
+||nav.smartscreen.microsoft.com^
+
+!! Amazon trackers (don't break shopping)
+||amazon-adsystem.com^
+||aax-us-west.amazon-adsystem.com^
+||aax-us-east.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||s.amazon-adsystem.com^
+||associates-amazon.com^
+||assoc-na.associates-amazon.com^
+||unagi.amazon.com^
+||unagi-na.amazon.com^
