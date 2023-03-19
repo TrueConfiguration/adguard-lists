@@ -33,7 +33,7 @@
 ! Microsoft telemetry and other annoyances
 ||tile-service.weather.microsoft.com^
 ||self.events.data.microsoft.com^
-||vscodeexperiments.azureedge.net^  # VSCode experiments, not a tracker per se, but does sends your data to Microsoft
+||vscodeexperiments.azureedge.net^
 ||mobile.events.data.microsoft.com^
 
 !! Microsoft uses this domains to sync, monitor and modify your Windows Settings
@@ -41,7 +41,7 @@
 ||settings-win.data.microsoft.com^
 
 !! CAUTION Microsoft Smartscreen (I already have antivirus, thank you)
-||nav.smartscreen.microsoft.com^
+||smartscreen.microsoft.com^
 
 !! Amazon trackers (don't break shopping)
 ||amazon-adsystem.com^
