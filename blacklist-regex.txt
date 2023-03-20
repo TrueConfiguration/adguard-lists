@@ -2,7 +2,7 @@
 !! found in day to day internet usage.
 !! To be used in Adguard Home or similar software.
 !! Also adequate for Pi-hole, but requires formatting.
-!! Cntributed by: https://www.github.com/TrueConfiguration
+!! Contributed by: https://www.github.com/TrueConfiguration
 !! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
 ! Regex
@@ -15,32 +15,32 @@
 /(^|\.)lgsmartad\.com/
 /(^|\.)smartshare\.lgtvsdp\.com/
 /(^|\.)rdx2\.lgtvsdp\.com/
-/^[a-z]{11,15}$/
+/^[a-z]{11,15}/
 
 !!! Samsung
-/(^|\.)giraffic\.com$/
-/(^|\.)internetat\.tv$/
-/(^|\.)pavv\.co\.kr$/
+/(^|\.)giraffic\.com/
+/(^|\.)internetat\.tv/
+/(^|\.)pavv\.co\.kr/
 ! /(^|\.)samsungcloudcdn\.com$ # prevents updates/
 ! /(^|\.)samsungcloudsolution\.com$ # prevents internet connection/
-/(^|\.)samsungcloudsolution\.net$/
-/(^|\.)samsungelectronics\.com$/
+/(^|\.)samsungcloudsolution\.net/
+/(^|\.)samsungelectronics\.com/
 ! (^|\.)samsungotn\.net$ # prevents updates
-/(^|\.)samsungrm\.net$/
+/(^|\.)samsungrm\.net/
 
 !!! Vizio
-/(\.|^)tvinteractive\.tv$/
+/(\.|^)tvinteractive\.tv/
 
 !!! Other
 ! (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
-/^api\..*\.hismarttv\.com$/
+/^api\..*\.hismarttv\.com/
 ! Regex filters provided by MMotti
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^mads\./
-/^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$/
-! /^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$/ # Breaks Twitter
-/^(.+[_.-])?eulerian\.net$/
-/^(.+[_.-])?dnsdelegation\.io$/
+/^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+/
+! /^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+/ # Breaks Twitter
+/^(.+[_.-])?eulerian\.net/
+/^(.+[_.-])?dnsdelegation\.io/
 
 !! Rules compiled from various sources over the internet
 /.*\.g[0-9]+\..*/
@@ -51,28 +51,28 @@
 /((^)|(.))adsdk./
 /((^)|(.))adserv./
 /((^)|(.))tracking./
-/(^|\.)xn--.*$/
-/(^|\.)buffpanel\.com$/
-/(^|\.)bugsnag\.com$/
-/(^|\.)redshell\.io$/
-/(^|\.)treasuredata\.com$/
-/(^|\.)unity(|3d)\.com$/
-/(^|\.)unityads(|\.co)\.com$/
+/(^|\.)xn--.*/
+/(^|\.)buffpanel\.com/
+/(^|\.)bugsnag\.com/
+/(^|\.)redshell\.io/
+/(^|\.)treasuredata\.com/
+/(^|\.)unity(|3d)\.com/
+/(^|\.)unityads(|\.co)\.com/
 /(^|\\.)ibs\\.lgappstv\\.com/
 /(^|\\.)lgsmartad\\.com/
 /(^|\\.)smartshare\\.lgtvsdp\\.com/
 /(^|\\.)rdx2\\.lgtvsdp\\.com/
-/(^|\\.)giraffic\\.com$/
-/(^|\\.)internetat\\.tv$/
-/(^|\\.)pavv\\.co\\.kr$/
-/(^|\\.)samsungcloudcdn\\.com$/
-/(^|\\.)samsungcloudsolution\\.com$/
-/(^|\\.)samsungcloudsolution\\.net$/
-/(^|\\.)samsungelectronics\\.com$/
-/(^|\\.)samsungotn\\.net$/
-/(^|\\.)samsungrm\\.net$/
-/(\\.|^)tvinteractive\\.tv$/
-/^api\\..*\\.hismarttv\\.com$/
+/(^|\\.)giraffic\\.com/
+/(^|\\.)internetat\\.tv/
+/(^|\\.)pavv\\.co\\.kr/
+/(^|\\.)samsungcloudcdn\\.com/
+/(^|\\.)samsungcloudsolution\\.com/
+/(^|\\.)samsungcloudsolution\\.net/
+/(^|\\.)samsungelectronics\\.com/
+/(^|\\.)samsungotn\\.net/
+/(^|\\.)samsungrm\\.net/
+/(\\.|^)tvinteractive\\.tv/
+/^api\\..*\\.hismarttv\\.com/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
@@ -102,32 +102,32 @@
 /^stat(s|istics)?[0-9]*[-.]/
 /^track(ers?|ing)?[0-9]*[-.]/
 /^traff(ic)?[-.]/
-/google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\\.[a-z]{2,7}$/
-/google-{0,}(analytics{0,}|(ad|tag)manager)\\.[a-z]{2,7}$/
-/double-{0,}clic(k|k[.]*by-{0,}google)\\.[a-z]{2,7}$/
-/(google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\\.[a-z]{2,7}$/
-/(^|\\.)facebook\\.[a-za-z0-9]+$/
-/(^|\\.)fb\\.[a-za-z0-9]+$/
-/(^|\\.)fbcdn\\.[a-za-z0-9]+$/
-/(^|\\.)fbsbx\\.com$/
-/(^|\\.)fbsbx\\.com\\.online-metrix\\.net$/
-/(^|\\.)m\\.me$/
-/(^|\\.)messenger\\.com$/
-/(^|\\.)tfbnw\\.net$/
-/(^|\\.)instagram\\.com$/
-/(^|\\.)whatsapp\\.com$/
-/^(.+\\.)?amp\\..+\\.com$/
-/^(.+\\.)?ampproject\\.org$/
-/^(.+\\.)?amp\\.cloudflare\\.com$/
-/^(.+\\.)?cdn\\.ampproject\\.org$/
+/google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\\.[a-z]{2,7}/
+/google-{0,}(analytics{0,}|(ad|tag)manager)\\.[a-z]{2,7}/
+/double-{0,}clic(k|k[.]*by-{0,}google)\\.[a-z]{2,7}/
+/(google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\\.[a-z]{2,7}/
+/(^|\\.)facebook\\.[a-za-z0-9]+/
+/(^|\\.)fb\\.[a-za-z0-9]+/
+/(^|\\.)fbcdn\\.[a-za-z0-9]+/
+/(^|\\.)fbsbx\\.com/
+/(^|\\.)fbsbx\\.com\\.online-metrix\\.net/
+/(^|\\.)m\\.me/
+/(^|\\.)messenger\\.com/
+/(^|\\.)tfbnw\\.net/
+/(^|\\.)instagram\\.com/
+/(^|\\.)whatsapp\\.com/
+/^(.+\\.)?amp\\..+\\.com/
+/^(.+\\.)?ampproject\\.org/
+/^(.+\\.)?amp\\.cloudflare\\.com/
+/^(.+\\.)?cdn\\.ampproject\\.org/
 /(.*\\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\\..+)))/
-/(^|\\.)lgsmartad\\.com$/
+/(^|\\.)lgsmartad\\.com/
 /ngfts.lge.com/
 /lgtvonline.lge.com/
-/(^|\\.)buffpanel\\.com$/
-/(^|\\.)bugsnag\\.com$/
-/(^|\\.)redshell\\.io$/
-/(^|\\.)treasuredata\\.com$/
-/(^|\\.)unity(|3d)\\.com$/
-/(^|\\.)unityads(|\\.co)\\.com$/
+/(^|\\.)buffpanel\\.com/
+/(^|\\.)bugsnag\\.com/
+/(^|\\.)redshell\\.io/
+/(^|\\.)treasuredata\\.com/
+/(^|\\.)unity(|3d)\\.com/
+/(^|\\.)unityads(|\\.co)\\.com/
 /([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo(\\.\\w{2}\\.\\w{2}|\\.\\w{2})/
