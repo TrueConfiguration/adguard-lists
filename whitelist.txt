@@ -14,33 +14,27 @@
 @@||content-signature-2.cdn.mozilla.net^$important
 @@||sync-1-us-west1-g.sync.services.mozilla.com^$important
 @@||token.services.mozilla.com^$important
-
 !! Firefox binaries Downloads and updates
 @@||ftp.mozilla.org^$important
 @@||archive.mozilla.org^$important
 @@||download.cdn.mozilla.net^$important
 @@||download.mozilla.org^$important
-
 !! Accounts
 @@||profile.accounts.firefox.com^$important
 @@||accounts.firefox.com^$important
-
 !! Tracking Protection (updates whitelists and blacklists for ETP)
 @@||tracking-protection.cdn.mozilla.net^$important
-
 !! Codecs and DRM 
 !! Google domains are necessary for Widevine to work properly (Netflix, Amazon Prime, Disney etc.)
 @@||ciscobinary.openh264.org^$important
 @@||clients2.googleusercontent.com^$important
 @@||redirector.gvt1.com^$important
-
 !! DNS over HTTPS
 @@||private.canadianshield.cira.ca^$important
 @@||firefox.dns.nextdns.io^$important
 @@||doh.xfinity.com^$important
 @@||dns.shaw.ca^$important
 @@||mozilla.cloudflare-dns.com^$important
-
 !! Extension updates and metadata
 @@||versioncheck.addons.mozilla.org^$important
 @@||services.addons.mozilla.org^$important
@@ -66,15 +60,24 @@
 !! Ubuntu apt repositories
 @@||archive.ubuntu.com^$important
 @@||security.ubuntu.com^$important
-
 !! Oracle Cloud control panel
 @@||telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
-
 !! Xbox App (Windows) thumbnails
 @@||store-images.s-microsoft.com^$important
-
 !! Visual Studio Code updates
 @@||vo.msecnd.net^$important
-
 !! Chrome Web Store
 @@chrome.google.com^$important
+!! Uglyemail has the word "tracker" in its operating subdomains
+@@||uglyemail.com^$important
+!! Android Pay CDN
+@@||androidpay-users-pa.googleapis.com^$important
+!! Breaks sites that uses JSDeliver
+@@||cdn.jsdelivr.net^$important
+!! Unfortunately breaks some sites
+@@||jnn-pa.googleapis.com^$important
+!! Android forums and utilities
+@@||answers.microsoft.com^$important
+@@||time.windows.com^$important
+!! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
+@@||graph.microsoft.com^$important

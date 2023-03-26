@@ -8,14 +8,12 @@
 ! Regex
 !! Blocks AMP (disabled due to Firefox Extensions doing their jobs well)
 ! /^(.+[_.-])?amp(project)?\./
-
 !! Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
 !!! LG
 /(^|\.)ibs\.lgappstv\.com/
 /(^|\.)lgsmartad\.com/
 /(^|\.)smartshare\.lgtvsdp\.com/
 /(^|\.)rdx2\.lgtvsdp\.com/
-
 !!! Samsung
 /(^|\.)giraffic\.com/
 /(^|\.)internetat\.tv/
@@ -26,10 +24,8 @@
 /(^|\.)samsungelectronics\.com/
 ! (^|\.)samsungotn\.net$ # prevents updates
 /(^|\.)samsungrm\.net/
-
 !!! Vizio
 /(\.|^)tvinteractive\.tv/
-
 !!! Other
 ! (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
 /^api\..*\.hismarttv\.com/
@@ -41,7 +37,7 @@
 /^(.+[_.-])?eulerian\.net/
 /^(.+[_.-])?dnsdelegation\.io/
 
-!! Rules compiled from various sources over the internet
+! Rules compiled from various sources over the internet
 /.*\.g[0-9]+\..*/
 /((^)|(.))metric./
 /((^)|(.))telemetry./

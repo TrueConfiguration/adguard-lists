@@ -9,4 +9,6 @@
 !! ##############################
 
 ! OneDrive connects to random subdomains for sync, but I don't want to whitelist all blob.core subs, so I wrote this regex rule
-@@/onedriveclucprodbn\d{5}\.blob\.core\.windows\.net/^$important
+@@/onedriveclucprodbn\d{5}\.blob\.core\.windows\.net/$important
+! Wordpress sites
+@@/\w{2}\.wp\.com/$important
