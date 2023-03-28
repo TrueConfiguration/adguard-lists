@@ -81,3 +81,9 @@
 @@||time.windows.com^$important
 !! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
 @@||graph.microsoft.com^$important
+!! Reddit GraphQL (breaks Reddit site, avatars, some comments etc.)
+@@||gql.reddit.com^$important
+!! Cloudflare captcha to access sites
+@@||challenges.cloudflare.com^$important
+!! Gmail Attachments downloads
+@@||mail-attachment.googleusercontent.com^$important
