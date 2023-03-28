@@ -74,14 +74,12 @@
 @@||androidpay-users-pa.googleapis.com^$important
 !! Breaks sites that uses JSDeliver
 @@||cdn.jsdelivr.net^$important
-!! Unfortunately breaks some sites
-@@||jnn-pa.googleapis.com^$important
 !! Android forums and utilities
 @@||answers.microsoft.com^$important
 @@||time.windows.com^$important
 !! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
 @@||graph.microsoft.com^$important
-!! Reddit GraphQL (breaks Reddit site, avatars, some comments etc.)
+!! Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
 @@||gql.reddit.com^$important
 !! Cloudflare captcha to access sites
 @@||challenges.cloudflare.com^$important
