@@ -12,3 +12,4 @@
 @@/onedriveclucprodbn\d{5}\.blob\.core\.windows\.net/$important
 ! Wordpress sites
 @@/\w{2}\.wp\.com/$important
+@@/(^|.)ftp\.\w+\.debian.org$/$important
