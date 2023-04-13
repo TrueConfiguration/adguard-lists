@@ -12,4 +12,9 @@
 @@/onedriveclucprodbn\d{5}\.blob\.core\.windows\.net/$important
 ! Wordpress sites
 @@/\w{2}\.wp\.com/$important
+! Debian mirror FTP repositories
 @@/(^|.)ftp\.\w+\.debian.org$/$important
+! G2 software comparison site
+@@/(^|www)\.g2\.com/$important
+! Instagram photos
+@@/instagram\.\w+\-d\.fna\.fbcdn\.net/$important

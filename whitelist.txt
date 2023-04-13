@@ -43,35 +43,35 @@
 @@||nextdns.io^$important
 
 ! Disney Plus
-@@||disneyplus.com^$important
-@@||bamgrid.com^$important
-@@||bam.nr-data.net^$important
-@@||cdn.registerdisney.go.com^$important
-@@||cws.conviva.com^$important
-@@||d9.flashtalking.com^$important
-@@||disney-portal.my.onetrust.com^$important
-@@||disneyplus.bn5x.net^$important
-@@||js-agent.newrelic.com^$important
-@@||disney-plus.net^$important
-@@||dssott.com^$important
-@@||adobedtm.com^$important
+@@disneyplus.com^$important
+@@bamgrid.com^$important
+@@bam.nr-data.net^$important
+@@cdn.registerdisney.go.com^$important
+@@cws.conviva.com^$important
+@@d9.flashtalking.com^$important
+@@disney-portal.my.onetrust.com^$important
+@@disneyplus.bn5x.net^$important
+@@js-agent.newrelic.com^$important
+@@disney-plus.net^$important
+@@dssott.com^$important
+@@adobedtm.com^$important
 
 ! Personal day to day whitelist
 !! Ubuntu apt repositories
 @@||archive.ubuntu.com^$important
 @@||security.ubuntu.com^$important
 !! Oracle Cloud control panel
-@@||telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
+@@telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
 !! Xbox App (Windows) thumbnails
 @@||store-images.s-microsoft.com^$important
 !! Visual Studio Code updates
-@@||vo.msecnd.net^$important
+@@vo.msecnd.net^$important
 !! Chrome Web Store
 @@chrome.google.com^$important
 !! Uglyemail has the word "tracker" in its operating subdomains
 @@||uglyemail.com^$important
 !! Android Pay CDN
-@@||androidpay-users-pa.googleapis.com^$important
+@@androidpay-users-pa.googleapis.com^$important
 !! Breaks sites that uses JSDeliver
 @@||cdn.jsdelivr.net^$important
 !! Microsoft forums and utilities
@@ -80,14 +80,17 @@
 !! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
 @@||graph.microsoft.com^$important
 !! Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
-@@||gql.reddit.com^$important
+@@gql.reddit.com^$important
 !! Cloudflare captcha to access sites
 @@||challenges.cloudflare.com^$important
 !! Gmail Attachments downloads
 @@||mail-attachment.googleusercontent.com^$important
 !! Xbox Perks panel
-@@||arc.msn.com^$important
+@@arc.msn.com^$important
 !! Debian repositories
 @@||tracker.debian.org^$important
 @@||ftp.debian.org^$important
 @@||deb.debian.org^$important
+!! Steam CDN, slows games downloads
+@@clientconfig.akamai.steamstatic.com^$important
+@@steamcdn-a.akamaihd.net^$important
