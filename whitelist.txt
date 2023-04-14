@@ -7,40 +7,37 @@
 !! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
 ! Mozilla Firefox Services
-! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
+!! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
 !! Sync
-@@||firefox.settings.services.mozilla.com^$important
-@@||firefox-settings-attachments.cdn.mozilla.net^$important
-@@||content-signature-2.cdn.mozilla.net^$important
-@@||sync-1-us-west1-g.sync.services.mozilla.com^$important
-@@||token.services.mozilla.com^$important
+@@firefox.settings.services.mozilla.com^$important
+@@firefox-settings-attachments.cdn.mozilla.net^$important
+@@content-signature-2.cdn.mozilla.net^$important
+@@sync-1-us-west1-g.sync.services.mozilla.com^$important
+@@token.services.mozilla.com^$important
 !! Firefox binaries Downloads and updates
-@@||ftp.mozilla.org^$important
-@@||archive.mozilla.org^$important
-@@||download.cdn.mozilla.net^$important
-@@||download.mozilla.org^$important
+@@ftp.mozilla.org^$important
+@@archive.mozilla.org^$important
+@@download.cdn.mozilla.net^$important
+@@download.mozilla.org^$important
 !! Accounts
-@@||profile.accounts.firefox.com^$important
-@@||accounts.firefox.com^$important
+@@profile.accounts.firefox.com^$important
+@@accounts.firefox.com^$important
 !! Tracking Protection (updates whitelists and blacklists for ETP)
-@@||tracking-protection.cdn.mozilla.net^$important
+@@tracking-protection.cdn.mozilla.net^$important
 !! Codecs and DRM 
 !! Google domains are necessary for Widevine to work properly (Netflix, Amazon Prime, Disney etc.)
-@@||ciscobinary.openh264.org^$important
-@@||clients2.googleusercontent.com^$important
-@@||redirector.gvt1.com^$important
+@@ciscobinary.openh264.org^$important
+@@clients2.googleusercontent.com^$important
+@@redirector.gvt1.com^$important
 !! DNS over HTTPS
-@@||private.canadianshield.cira.ca^$important
-@@||firefox.dns.nextdns.io^$important
-@@||doh.xfinity.com^$important
-@@||dns.shaw.ca^$important
-@@||mozilla.cloudflare-dns.com^$important
+@@private.canadianshield.cira.ca^$important
+@@firefox.dns.nextdns.io^$important
+@@doh.xfinity.com^$important
+@@dns.shaw.ca^$important
+@@mozilla.cloudflare-dns.com^$important
 !! Extension updates and metadata
-@@||versioncheck.addons.mozilla.org^$important
-@@||services.addons.mozilla.org^$important
-
-! Ensures NextDNS services keep working
-@@||nextdns.io^$important
+@@versioncheck.addons.mozilla.org^$important
+@@services.addons.mozilla.org^$important
 
 ! Disney Plus
 @@disneyplus.com^$important
@@ -58,12 +55,13 @@
 
 ! Personal day to day whitelist
 !! Ubuntu apt repositories
+!! Canonical uses subdomains to point to mirrors
 @@||archive.ubuntu.com^$important
 @@||security.ubuntu.com^$important
 !! Oracle Cloud control panel
 @@telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
 !! Xbox App (Windows) thumbnails
-@@||store-images.s-microsoft.com^$important
+@@store-images.s-microsoft.com^$important
 !! Visual Studio Code updates
 @@vo.msecnd.net^$important
 !! Chrome Web Store
@@ -73,26 +71,26 @@
 !! Android Pay CDN
 @@androidpay-users-pa.googleapis.com^$important
 !! Breaks sites that uses JSDeliver
-@@||cdn.jsdelivr.net^$important
+@@cdn.jsdelivr.net^$important
 !! Microsoft forums and utilities
-@@||answers.microsoft.com^$important
-@@||time.windows.com^$important
+@@answers.microsoft.com^$important
+!! Windows NTP
+@@time.windows.com^$important
 !! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
-@@||graph.microsoft.com^$important
+@@graph.microsoft.com^$important
 !! Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
 @@gql.reddit.com^$important
-!! Cloudflare captcha to access sites
-@@||challenges.cloudflare.com^$important
+!! Cloudflare captcha to access protected sites
+@@challenges.cloudflare.com^$important
 !! Gmail Attachments downloads
-@@||mail-attachment.googleusercontent.com^$important
-!! Xbox Perks panel
+@@mail-attachment.googleusercontent.com^$important
+!! Xbox Perks panel requires trackers
 @@arc.msn.com^$important
-!! Debian repositories
-@@||tracker.debian.org^$important
-@@||deb.debian.org^$important
+!! Debian repositories (the word tracker is blocked by regex rules)
+@@tracker.debian.org^$important
 !! Steam CDN, slows games downloads
 @@clientconfig.akamai.steamstatic.com^$important
 @@steamcdn-a.akamaihd.net^$important
-!! I hate Ubisoft
+!! Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price. 
 @@fp2e7a.wpc.2be4.phicdn.net^$important
 @@fp2e7a.wpc.phicdn.net^$important

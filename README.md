@@ -8,4 +8,5 @@ Also contains domains that I collected from my own experience.
 I'm certain that except from some very specific cases, most of these will already be included in the major blacklists out there, but I keep them just in case.
 
 > **Disclaimer**:
-> This lists are provided *as-is*, and are designed with my personal use and preferences in mind, and WILL break some internet services, because I'm ok with sacrificing some convenience for privacy. 
+> This lists are provided *as-is*, and are designed with my personal use and preferences in mind, and WILL break some internet services, because I'm ok with sacrificing some convenience for privacy.
+> I also experiment a lot with these lists, so things will break from time to time until I figure out what and why is broken and fix it. 
