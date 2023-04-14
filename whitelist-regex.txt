@@ -9,12 +9,12 @@
 !! ##############################
 
 ! OneDrive connects to random subdomains for sync, but I don't want to whitelist all blob.core subs, so I wrote this regex rule
-@@/onedriveclucprodbn\d{5}\.blob\.core\.windows\.net/$important
+@@/^onedriveclucprodbn\d{5}\.blob\.core\.windows\.net$/$important
 ! Wordpress sites
-@@/\w{2}\.wp\.com/$important
+@@/(^|www\.)\w{2}\.wp\.com$/$important
 ! Debian mirror FTP repositories
-@@/(^|.)ftp\.\w+\.debian.org$/$important
+@@/(^|.+\.)ftp\.\w+\.debian.org$/$important
 ! G2 software comparison site
-@@/(^|www)\.g2\.com/$important
+@@/(^|www\.)g2\.com/$important
 ! Instagram photos
-@@/instagram\.\w+\-d\.fna\.fbcdn\.net/$important
+@@/^instagram\.\w+\-\d\.fna.fbcdn\.net$/$important
