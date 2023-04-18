@@ -1,8 +1,6 @@
 !! Personal Whitelists that I compiled from various sources, plus domains I 
 !! found to break things in day to day internet usage.
 !! To be used in Adguard Home or similar software.
-!! Will mix formats, but the main 'language' will be ABP syntax, which
-!! I personally consider superior to hosts/domains lists.
 !! Contributed by: https://www.github.com/TrueConfiguration
 !! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
@@ -92,5 +90,5 @@
 @@clientconfig.akamai.steamstatic.com^$important
 @@steamcdn-a.akamaihd.net^$important
 !! Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price. 
-@@fp2e7a.wpc.2be4.phicdn.net^$important
-@@fp2e7a.wpc.phicdn.net^$important
+! @@fp2e7a.wpc.2be4.phicdn.net^$important
+! @@fp2e7a.wpc.phicdn.net^$important
