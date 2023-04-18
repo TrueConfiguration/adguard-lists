@@ -37,6 +37,10 @@
 @@versioncheck.addons.mozilla.org^$important
 @@services.addons.mozilla.org^$important
 
+! Ads lists - The address for this lists will often contain the words 'ad' or 'tracker' which are blocked by regex rules
+!! CHN: anti-AD
+@@||anti-ad.net^$important
+
 ! Disney Plus
 @@disneyplus.com^$important
 @@bamgrid.com^$important
