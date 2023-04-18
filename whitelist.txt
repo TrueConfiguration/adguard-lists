@@ -96,3 +96,202 @@
 !! Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price. 
 ! @@fp2e7a.wpc.2be4.phicdn.net^$important
 ! @@fp2e7a.wpc.phicdn.net^$important
+
+! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
+! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
+!! Google Maps and other Google services
+@@clients4.google.com^$important
+@@clients2.google.com^$important
+!! YouTube history
+@@s.youtube.com^$important
+@@video-stats.l.google.com^$important
+!! YouTube App for iOS
+@@www.googleapis.com^$important
+@@youtubei.googleapis.com^$important
+@@oauthaccountmanager.googleapis.com^$important
+!! Google Play
+@@android.clients.google.com^$important
+!! Google Keep
+@@reminders-pa.googleapis.com^$important
+@@firestore.googleapis.com^$important
+!! Google Fonts
+@@gstaticadssl.l.google.com^$important
+!! Gmail (on iOS)
+! @@googleapis.l.google.com^$important
+!! Google Chrome updates
+@@dl.google.com^$important
+!! Android TV
+@@redirector.gvt1.com^$important
+!! Microsoft NCSI
+@@www.msftncsi.com^$important
+@@www.msftconnecttest.com^$important
+!! Several Microsoft Services
+@@outlook.office365.com^$important
+@@products.office.com^$important
+@@||c.s-microsoft.com^$important
+@@||i.s-microsoft.com^$important
+@@login.live.com^$important
+@@login.microsoftonline.com^$important
+!! Backup bitlocker recovery key to Microsoft account
+@@g.live.com^$important
+!! Microsoft Store (Windows Store)
+@@dl.delivery.mp.microsoft.com^$important
+! @@geo-prod.do.dsp.mp.microsoft.com^$important
+@@displaycatalog.mp.microsoft.com^$important
+!! Windows Updates
+@@sls.update.microsoft.com.akadns.net^$important
+@@fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
+@@tlu.dl.delivery.mp.microsoft.com^$important
+!! Microsoft Edge Browser Update
+@@msedge.api.cdp.microsoft.com^$important
+!! Xbox App/Live - CAUTION: this 'events' CNAME is also used by telemetry, keep this rules very strict.
+@@clientconfig.passport.net^$important
+@@v10.events.data.microsoft.com^$important
+@@v20.events.data.microsoft.com^$important
+@@client-s.gateway.messenger.live.com^$important
+!!! This is a domain for EA and Xbox to work together, but mine is working fine without it so far
+! @@activity.windows.com^$important
+@@xbox.ipv6.microsoft.com^$important
+@@device.auth.xboxlive.com^$important
+@@title.mgt.xboxlive.com^$important
+@@xsts.auth.xboxlive.com^$important
+@@title.auth.xboxlive.com^$important
+@@ctldl.windowsupdate.com^$important
+@@attestation.xboxlive.com^$important
+@@xboxexperiencesprod.experimentation.xboxlive.com^$important
+@@xflight.xboxlive.com^$important
+@@cert.mgt.xboxlive.com^$important
+@@xkms.xboxlive.com^$important
+@@def-vef.xboxlive.com^$important
+@@notify.xboxlive.com^$important
+@@help.ui.xboxlive.com^$important
+@@licensing.xboxlive.com^$important
+@@eds.xboxlive.com^$important
+@@www.xboxlive.com^$important
+@@v10.vortex-win.data.microsoft.com^$important
+!!! Telemetry domain, I have it specifically blocked and no problem so far
+! @@settings-win.data.microsoft.com^$important
+!! Skype
+@@s.gateway.messenger.live.com^$important
+@@client-s.gateway.messenger.live.com^$important
+@@ui.skype.com^$important
+@@pricelist.skype.com^$important
+@@apps.skype.com^$important
+@@m.hotmail.com^$important
+@@sa.symcb.com^$important
+!! Microsoft Office
+@@officeclient.microsoft.com^$important
+!! Bing Maps Platform
+@@dev.virtualearth.net^$important
+@@ecn.dev.virtualearth.net^$important
+@@t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@t0.ssl.ak.tiles.virtualearth.net^$important
+!! Apple Music
+@@itunes.apple.com^$important
+@@s.mzstatic.com^$important
+!! Apple ID
+@@appleid.apple.com^$important
+!! iOS Weather app
+! @@gsp-ssl.ls.apple.com^$important
+! @@gsp-ssl.ls-apple.com.akadns.net^$important
+!! Android Captive-portal tests
+@@connectivitycheck.android.com^$important
+@@android.clients.google.com^$important
+@@clients3.google.com^$important
+@@connectivitycheck.gstatic.com^$important
+!! Microsoft Captive-portal tests
+@@msftncsi.com^$important
+@@ipv6.msftncsi.comT$important
+!! Apple Captive-portal tests
+@@captive.apple.com^$important
+@@gsp1.apple.com^$important
+@@www.apple.com^$important
+@@www.appleiphonecell.com^$important
+!! Spotify
+@@spclient.wg.spotify.com^$important
+@@apresolve.spotify.com^$important
+@@api-tv.spotify.com^$important
+!! Plex
+@@plex.tv^$important
+@@tvdb2.plex.tv^$important
+@@pubsub.plex.bz^$important
+@@proxy.plex.bz^$important
+@@proxy02.pop.ord.plex.bz^$important
+@@cpms.spop10.ams.plex.bz^$important
+@@meta-db-worker02.pop.ric.plex.bz^$important
+@@meta.plex.bz^$important
+@@tvthemes.plexapp.com.cdn.cloudflare.net^$important
+@@tvthemes.plexapp.com^$important
+@@106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services^$important
+@@meta.plex.tv^$important
+@@cpms35.spop10.ams.plex.bz^$important
+@@proxy.plex.tv^$important
+! @@metrics.plex.tv
+@@pubsub.plex.tv^$important
+@@status.plex.tv^$important
+@@www.plex.tv^$important
+@@node.plexapp.com^$important
+@@nine.plugins.plexapp.com^$important
+@@staging.plex.tv^$important
+@@app.plex.tv^$important
+@@o1.email.plex.tv^$important
+@@o2.sg0.plex.tv^$important
+@@dashboard.plex.tv^$important
+!! Services used by Plex
+@@gravatar.com^$important
+@@thetvdb.com^$important
+@@themoviedb.com^$important
+!!! Podcasts service for Plex
+! @@chtbl.com^$important
+!! Dropbox
+@@dl.dropboxusercontent.com^$important
+@@ns1.dropbox.com^$important
+@@ns2.dropbox.com^$important
+!! Fox News
+@@widget-cdn.rpxnow.com^$important
+!! GoDaddy webmail buttons
+@@imagesak.secureserver.net^$important
+!! NVIDIA GeForce Experience
+@@gfwsl.geforce.com^$important
+!! Grand Theft Auto V Online PC
+@@prod.telemetry.ros.rockstargames.com^$important
+!! Epic Games Store
+!!! The tracking domain is required to make a purchase on the website, otherwise the order modal will appear to be loading forever.
+!!! It is also required when logging into the Epic Launcher when using two-factor authentication.
+@@tracking.epicgames.com^$important
+!! Origin (Savegame-Sync)
+@@cloudsync-prod.s3.amazonaws.com^$important
+!! Reddit
+@@styles.redditmedia.com^$important
+@@www.redditstatic.com^$important
+@@reddit.map.fastly.net^$important
+@@www.redditmedia.com^$important
+@@reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
+!! WhatsApp - So far none of my blacklists blocks it
+! @@wa.me^$important
+! @@www.wa.me^$important
+!! Signal
+@@ud-chat.signal.org^$important
+@@chat.signal.org^$important
+@@storage.signal.org^$important
+@@signal.org^$important
+@@www.signal.org^$important
+@@updates2.signal.org^$important
+@@textsecure-service-whispersystems.org^$important
+@@giphy-proxy-production.whispersystems.org^$important
+@@cdn.signal.org^$important
+@@whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com^$important
+@@d83eunklitikj.cloudfront.net^$important
+@@souqcdn.com^$important
+@@cms.souqcdn.com^$important
+@@api.directory.signal.org^$important
+@@contentproxy.signal.org^$important
+@@turn1.whispersystems.org^$important
+!! Twitter
+@@twitter.com^$important
+@@upload.twitter.com^$important
+@@api.twitter.com^$important
+@@mobile.twitter.com^$important
+!! Rewards/Discounts in Burger King app
+@@appboy-images.com^$important
+@@rest.iad-03.braze.com^$important
