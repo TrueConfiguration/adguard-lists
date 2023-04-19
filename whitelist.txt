@@ -1,47 +1,47 @@
-!! Personal Whitelists that I compiled from various sources, plus domains I 
-!! found to break things in day to day internet usage.
-!! To be used in Adguard Home or similar software.
-!! Contributed by: https://www.github.com/TrueConfiguration
-!! Source: https://www.github.com/TrueConfiguration/adguard-lists
+# Personal Whitelists that I compiled from various sources, plus domains I 
+# found to break things in day to day internet usage.
+# To be used in Adguard Home or similar software.
+# Contributed by: https://www.github.com/TrueConfiguration
+# Source: https://www.github.com/TrueConfiguration/adguard-lists
 
-! Mozilla Firefox Services
-!! Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
-!! Sync
+# Mozilla Firefox Services
+# Source: https://support.mozilla.org/en-US/kb/domains-allow-firefox
+# Sync
 @@firefox.settings.services.mozilla.com^$important
 @@firefox-settings-attachments.cdn.mozilla.net^$important
 @@content-signature-2.cdn.mozilla.net^$important
 @@sync-1-us-west1-g.sync.services.mozilla.com^$important
 @@token.services.mozilla.com^$important
-!! Firefox binaries Downloads and updates
+# Firefox binaries Downloads and updates
 @@ftp.mozilla.org^$important
 @@archive.mozilla.org^$important
 @@download.cdn.mozilla.net^$important
 @@download.mozilla.org^$important
-!! Accounts
+# Accounts
 @@profile.accounts.firefox.com^$important
 @@accounts.firefox.com^$important
-!! Tracking Protection (updates whitelists and blacklists for ETP)
+# Tracking Protection (updates whitelists and blacklists for ETP)
 @@tracking-protection.cdn.mozilla.net^$important
-!! Codecs and DRM 
-!! Google domains are necessary for Widevine to work properly (Netflix, Amazon Prime, Disney etc.)
+# Codecs and DRM 
+# Google domains are necessary for Widevine to work properly (Netflix, Amazon Prime, Disney etc.)
 @@ciscobinary.openh264.org^$important
 @@clients2.googleusercontent.com^$important
 @@redirector.gvt1.com^$important
-!! DNS over HTTPS
+# DNS over HTTPS
 @@private.canadianshield.cira.ca^$important
 @@firefox.dns.nextdns.io^$important
 @@doh.xfinity.com^$important
 @@dns.shaw.ca^$important
 @@mozilla.cloudflare-dns.com^$important
-!! Extension updates and metadata
+# Extension updates and metadata
 @@versioncheck.addons.mozilla.org^$important
 @@services.addons.mozilla.org^$important
 
-! Ads lists - The address for this lists will often contain the words 'ad' or 'tracker' which are blocked by regex rules
-!! CHN: anti-AD
+# Ads lists - The address for this lists will often contain the words 'ad' or 'tracker' which are blocked by regex rules
+# CHN: anti-AD
 @@||anti-ad.net^$important
 
-! Disney Plus
+# Disney Plus
 @@disneyplus.com^$important
 @@bamgrid.com^$important
 @@bam.nr-data.net^$important
@@ -55,102 +55,102 @@
 @@dssott.com^$important
 @@adobedtm.com^$important
 
-! Personal day to day whitelist
-!! Ubuntu apt repositories
-!! Canonical uses subdomains to point to mirrors
+# Personal day to day whitelist
+# Ubuntu apt repositories
+# Canonical uses subdomains to point to mirrors
 @@||archive.ubuntu.com^$important
 @@||security.ubuntu.com^$important
-!! Oracle Cloud control panel
+# Oracle Cloud control panel
 @@telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
-!! Xbox App (Windows) thumbnails
+# Xbox App (Windows) thumbnails
 @@store-images.s-microsoft.com^$important
-!! Visual Studio Code updates
+# Visual Studio Code updates
 @@vo.msecnd.net^$important
-!! Chrome Web Store
+# Chrome Web Store
 @@chrome.google.com^$important
-!! Uglyemail has the word "tracker" in its operating subdomains
+# Uglyemail has the word "tracker" in its operating subdomains
 @@||uglyemail.com^$important
-!! Android Pay CDN
+# Android Pay CDN
 @@androidpay-users-pa.googleapis.com^$important
-!! Breaks sites that uses JSDeliver
+# Breaks sites that uses JSDeliver
 @@cdn.jsdelivr.net^$important
-!! Microsoft forums and utilities
+# Microsoft forums and utilities
 @@answers.microsoft.com^$important
-!! Windows NTP
+# Windows NTP
 @@time.windows.com^$important
-!! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
+# Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
 @@graph.microsoft.com^$important
-!! Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
+# Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
 @@gql.reddit.com^$important
-!! Cloudflare captcha to access protected sites
+# Cloudflare captcha to access protected sites
 @@challenges.cloudflare.com^$important
-!! Gmail Attachments downloads
+# Gmail Attachments downloads
 @@mail-attachment.googleusercontent.com^$important
-!! Xbox Perks panel requires trackers
+# Xbox Perks panel requires trackers
 @@arc.msn.com^$important
-!! Debian repositories (the word tracker is blocked by regex rules)
+# Debian repositories (the word tracker is blocked by regex rules)
 @@tracker.debian.org^$important
-!! Steam CDN, slows games downloads
+# Steam CDN, slows games downloads
 @@clientconfig.akamai.steamstatic.com^$important
 @@steamcdn-a.akamaihd.net^$important
-!! Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price. 
-! @@fp2e7a.wpc.2be4.phicdn.net^$important
-! @@fp2e7a.wpc.phicdn.net^$important
+# Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price. 
+# @@fp2e7a.wpc.2be4.phicdn.net^$important
+# @@fp2e7a.wpc.phicdn.net^$important
 
-! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
-! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
-!! Google Maps and other Google services
+# Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
+# https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
+# Google Maps and other Google services
 @@clients4.google.com^$important
 @@clients2.google.com^$important
-!! YouTube history
+# YouTube history
 @@s.youtube.com^$important
 @@video-stats.l.google.com^$important
-!! YouTube App for iOS
+# YouTube App for iOS
 @@www.googleapis.com^$important
 @@youtubei.googleapis.com^$important
 @@oauthaccountmanager.googleapis.com^$important
-!! Google Play
+# Google Play
 @@android.clients.google.com^$important
-!! Google Keep
+# Google Keep
 @@reminders-pa.googleapis.com^$important
 @@firestore.googleapis.com^$important
-!! Google Fonts
+# Google Fonts
 @@gstaticadssl.l.google.com^$important
-!! Gmail (on iOS)
-! @@googleapis.l.google.com^$important
-!! Google Chrome updates
+# Gmail (on iOS)
+# @@googleapis.l.google.com^$important
+# Google Chrome updates
 @@dl.google.com^$important
-!! Android TV
+# Android TV
 @@redirector.gvt1.com^$important
-!! Microsoft NCSI
+# Microsoft NCSI
 @@www.msftncsi.com^$important
 @@www.msftconnecttest.com^$important
-!! Several Microsoft Services
+# Several Microsoft Services
 @@outlook.office365.com^$important
 @@products.office.com^$important
 @@||c.s-microsoft.com^$important
 @@||i.s-microsoft.com^$important
 @@login.live.com^$important
 @@login.microsoftonline.com^$important
-!! Backup bitlocker recovery key to Microsoft account
+# Backup bitlocker recovery key to Microsoft account
 @@g.live.com^$important
-!! Microsoft Store (Windows Store)
+# Microsoft Store (Windows Store)
 @@dl.delivery.mp.microsoft.com^$important
-! @@geo-prod.do.dsp.mp.microsoft.com^$important
+# @@geo-prod.do.dsp.mp.microsoft.com^$important
 @@displaycatalog.mp.microsoft.com^$important
-!! Windows Updates
+# Windows Updates
 @@sls.update.microsoft.com.akadns.net^$important
 @@fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
 @@tlu.dl.delivery.mp.microsoft.com^$important
-!! Microsoft Edge Browser Update
+# Microsoft Edge Browser Update
 @@msedge.api.cdp.microsoft.com^$important
-!! Xbox App/Live - CAUTION: this 'events' CNAME is also used by telemetry, keep this rules very strict.
+# Xbox App/Live - CAUTION: this 'events' CNAME is also used by telemetry, keep this rules very strict.
 @@clientconfig.passport.net^$important
 @@v10.events.data.microsoft.com^$important
 @@v20.events.data.microsoft.com^$important
 @@client-s.gateway.messenger.live.com^$important
-!!! This is a domain for EA and Xbox to work together, but mine is working fine without it so far
-! @@activity.windows.com^$important
+# This is a domain for EA and Xbox to work together, but mine is working fine without it so far
+# @@activity.windows.com^$important
 @@xbox.ipv6.microsoft.com^$important
 @@device.auth.xboxlive.com^$important
 @@title.mgt.xboxlive.com^$important
@@ -169,9 +169,9 @@
 @@eds.xboxlive.com^$important
 @@www.xboxlive.com^$important
 @@v10.vortex-win.data.microsoft.com^$important
-!!! Telemetry domain, I have it specifically blocked and no problem so far
-! @@settings-win.data.microsoft.com^$important
-!! Skype
+# Telemetry domain, I have it specifically blocked and no problem so far
+# @@settings-win.data.microsoft.com^$important
+# Skype
 @@s.gateway.messenger.live.com^$important
 @@client-s.gateway.messenger.live.com^$important
 @@ui.skype.com^$important
@@ -179,39 +179,39 @@
 @@apps.skype.com^$important
 @@m.hotmail.com^$important
 @@sa.symcb.com^$important
-!! Microsoft Office
+# Microsoft Office
 @@officeclient.microsoft.com^$important
-!! Bing Maps Platform
+# Bing Maps Platform
 @@dev.virtualearth.net^$important
 @@ecn.dev.virtualearth.net^$important
 @@t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@t0.ssl.ak.tiles.virtualearth.net^$important
-!! Apple Music
+# Apple Music
 @@itunes.apple.com^$important
 @@s.mzstatic.com^$important
-!! Apple ID
+# Apple ID
 @@appleid.apple.com^$important
-!! iOS Weather app
-! @@gsp-ssl.ls.apple.com^$important
-! @@gsp-ssl.ls-apple.com.akadns.net^$important
-!! Android Captive-portal tests
+# iOS Weather app
+# @@gsp-ssl.ls.apple.com^$important
+# @@gsp-ssl.ls-apple.com.akadns.net^$important
+# Android Captive-portal tests
 @@connectivitycheck.android.com^$important
 @@android.clients.google.com^$important
 @@clients3.google.com^$important
 @@connectivitycheck.gstatic.com^$important
-!! Microsoft Captive-portal tests
+# Microsoft Captive-portal tests
 @@msftncsi.com^$important
 @@ipv6.msftncsi.comT$important
-!! Apple Captive-portal tests
+# Apple Captive-portal tests
 @@captive.apple.com^$important
 @@gsp1.apple.com^$important
 @@www.apple.com^$important
 @@www.appleiphonecell.com^$important
-!! Spotify
+# Spotify
 @@spclient.wg.spotify.com^$important
 @@apresolve.spotify.com^$important
 @@api-tv.spotify.com^$important
-!! Plex
+# Plex
 @@plex.tv^$important
 @@tvdb2.plex.tv^$important
 @@pubsub.plex.bz^$important
@@ -226,7 +226,7 @@
 @@meta.plex.tv^$important
 @@cpms35.spop10.ams.plex.bz^$important
 @@proxy.plex.tv^$important
-! @@metrics.plex.tv
+# @@metrics.plex.tv
 @@pubsub.plex.tv^$important
 @@status.plex.tv^$important
 @@www.plex.tv^$important
@@ -237,40 +237,40 @@
 @@o1.email.plex.tv^$important
 @@o2.sg0.plex.tv^$important
 @@dashboard.plex.tv^$important
-!! Services used by Plex
+# Services used by Plex
 @@gravatar.com^$important
 @@thetvdb.com^$important
 @@themoviedb.com^$important
-!!! Podcasts service for Plex
-! @@chtbl.com^$important
-!! Dropbox
+# Podcasts service for Plex
+# @@chtbl.com^$important
+# Dropbox
 @@dl.dropboxusercontent.com^$important
 @@ns1.dropbox.com^$important
 @@ns2.dropbox.com^$important
-!! Fox News
+# Fox News
 @@widget-cdn.rpxnow.com^$important
-!! GoDaddy webmail buttons
+# GoDaddy webmail buttons
 @@imagesak.secureserver.net^$important
-!! NVIDIA GeForce Experience
+# NVIDIA GeForce Experience
 @@gfwsl.geforce.com^$important
-!! Grand Theft Auto V Online PC
+# Grand Theft Auto V Online PC
 @@prod.telemetry.ros.rockstargames.com^$important
-!! Epic Games Store
-!!! The tracking domain is required to make a purchase on the website, otherwise the order modal will appear to be loading forever.
-!!! It is also required when logging into the Epic Launcher when using two-factor authentication.
+# Epic Games Store
+# The tracking domain is required to make a purchase on the website, otherwise the order modal will appear to be loading forever.
+# It is also required when logging into the Epic Launcher when using two-factor authentication.
 @@tracking.epicgames.com^$important
-!! Origin (Savegame-Sync)
+# Origin (Savegame-Sync)
 @@cloudsync-prod.s3.amazonaws.com^$important
-!! Reddit
+# Reddit
 @@styles.redditmedia.com^$important
 @@www.redditstatic.com^$important
 @@reddit.map.fastly.net^$important
 @@www.redditmedia.com^$important
 @@reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
-!! WhatsApp - So far none of my blacklists blocks it
-! @@wa.me^$important
-! @@www.wa.me^$important
-!! Signal
+# WhatsApp - So far none of my blacklists blocks it, so whitelisting is not necessary
+# @@wa.me^$important
+# @@www.wa.me^$important
+# Signal
 @@ud-chat.signal.org^$important
 @@chat.signal.org^$important
 @@storage.signal.org^$important
@@ -287,11 +287,11 @@
 @@api.directory.signal.org^$important
 @@contentproxy.signal.org^$important
 @@turn1.whispersystems.org^$important
-!! Twitter
+# Twitter
 @@twitter.com^$important
 @@upload.twitter.com^$important
 @@api.twitter.com^$important
 @@mobile.twitter.com^$important
-!! Rewards/Discounts in Burger King app
+# Rewards/Discounts in Burger King app
 @@appboy-images.com^$important
 @@rest.iad-03.braze.com^$important

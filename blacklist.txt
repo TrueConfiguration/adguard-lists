@@ -1,16 +1,15 @@
-!! Personal Blacklists that I compiled from various sources, plus domains I 
-!! found in day to day internet usage.
-!! To be used in Adguard Home or similar software.
-!! Contributed by: https://www.github.com/TrueConfiguration
-!! Source: https://www.github.com/TrueConfiguration/adguard-lists
+# Personal Blacklists that I compiled from various sources, plus domains I 
+# found in day to day internet usage.
+# To be used in Adguard Home or similar software.
+# Contributed by: https://www.github.com/TrueConfiguration
+# Source: https://www.github.com/TrueConfiguration/adguard-lists
 
-! Imported from NextDNS
-!! Intrusive Licensing modules
+# Intrusive Licensing modules
 ||uds.licenses.adobe.com^
-!! Office telemetry
+# Office telemetry
 ||messaging.action.office.com^
 ||messaging.engagement.office.com^
-!! Email trackers (browser extensions would probably work better, but this is a failsafe)
+# Email trackers (browser extensions would probably work better, but this is a failsafe)
 ||mailtrack.io^
 ||email.wetransfer.com^
 ||beacon.krxd.net^
@@ -194,30 +193,30 @@
 ||mltrk.io^
 ||tinyletterapp.com^
 ||t.sidekickopen.com^
-!! Social media and blogging trackers
+# Social media and blogging trackers
 ||analytics.twitter.com^
 ||stats.wp.com^
-!! Amazon ads ecosystem
+# Amazon ads ecosystem
 ||mads.amazon-adsystem.com^
 ||c.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
-!! Other annoyances
+# Other annoyances
 ||law832speedlength.live^
 ||home-prize-winner-ma5d.live^
 ||sentry.io^
-! Microsoft telemetry and other annoyances
+# Microsoft telemetry and other annoyances
 ||tile-service.weather.microsoft.com^
 ||self.events.data.microsoft.com^
 ||vscodeexperiments.azureedge.net^
 ||mobile.events.data.microsoft.com^
 ||graph.microsoft.com^
-! ||config.teams.microsoft.com^ # Microsoft Teams sucks, but I'll have to comment this because of work
-!! Microsoft uses this domains to sync, monitor and modify your Windows Settings
+# ||config.teams.microsoft.com^ # Microsoft Teams sucks, but I'll have to comment this because of work
+# Microsoft uses this domains to sync, monitor and modify your Windows Settings
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
-!! CAUTION Microsoft Smartscreen (I already have antivirus, thank you)
+# CAUTION Microsoft Smartscreen (I already have antivirus, thank you)
 ||smartscreen.microsoft.com^
-!! Amazon trackers (don't break shopping, Kindle working nice so far)
+# Amazon trackers (don't break shopping, Kindle working nice so far)
 ||amazon-adsystem.com^
 ||aax-us-west.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
