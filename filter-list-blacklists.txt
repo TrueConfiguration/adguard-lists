@@ -1,41 +1,79 @@
-!! Personal filterlists that I use as my main in AdGuard Home 
-!! To be used in Adguard Home or similar software.
+# Personal filterlists that I use as my main in AdGuard Home 
+# To be used in Adguard Home or similar software.
 
+# AdGuard DNS filter
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+# AdAway Default Blocklist
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# Dan Pollock's List
 https://someonewhocares.org/hosts/zero/hosts
+# The NoTracking blocklist
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+# OISD Blocklist Full
 https://big.oisd.nl/
+# Peter Lowe's Blocklist
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+# Steven Black's List
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Dandelion Sprout's Game Console Adblock List
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+# Perflyst and Dandelion Sprout's Smart-TV Blocklist
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
-https://anti-ad.net/adguard.txt
+# Anti-AD.net
+https://anti-ad.net/easylist.txt
+# Phishing URL Blocklist (PhishTank and OpenPhish)
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
+# Dandelion Sprout's Anti-Malware List
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+# NoCoin Filter List
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+# Scam Blocklist by DurableNapkin
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+# Stalkerware Indicators List
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+# The Big List of Hacked Malware Web Sites
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+# Malicious URL Blocklist (URLHaus)
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+# DRSDavidSoft Ad and tracker servers
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+# DRSDavidSoft Activation servers
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt
+# DRSDavidSoft Search blacklist
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/search-blacklist.txt
+# NoTrack Blocklist Malware
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+# NoTrack Blocklist
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# NoTracking blocklist
 https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt
+# Disconnect.me
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# My Privacy DNS
 https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
+# Disconnect.me
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+# NoGoogle Analytics
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analytics.txt
+# NoGoogle Doubleclick
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed
+# SpyMicrosoft
 https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/SpyMicrosoft
+# kowith337's Personal Filter List Collection
 https://github.com/kowith337/PersonalFilterListCollection/raw/master/hosts/hosts_facebook0.txt
+# kowith337's Personal Filter List Collection
 https://github.com/kowith337/PersonalFilterListCollection/raw/master/hosts/hosts_google_adservice_id.txt
+# AnudeepND Adservers
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+# AnudeepND Facebook
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+# Personal blacklist
 https://raw.githubusercontent.com/TrueConfiguration/adguard-lists/main/blacklist.txt
+# Personal regex blacklist
 https://raw.githubusercontent.com/TrueConfiguration/adguard-lists/main/blacklist-regex.txt
+# CrazyMax - WindowsSpyBlocker - Hosts spy rules
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+# CrazyMax - WindowsSpyBlocker - Hosts update rules
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
+# CrazyMax - WindowsSpyBlocker - Hosts extra rules
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
