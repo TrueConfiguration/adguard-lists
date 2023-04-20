@@ -6,7 +6,7 @@
   "sources": [
     {
       "name": "NoTrack Tracker Blocklist",
-      "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
+      "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate", "RemoveModifiers"]
     }
