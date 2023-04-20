@@ -1,0 +1,15 @@
+{
+  "name": "Facebook Zero Hosts Block",
+  "description": "This aim to block non-formal hosts that serve all `Facebook` contents and resources",
+  "homepage": "https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "Facebook Zero Hosts Block",
+      "source": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

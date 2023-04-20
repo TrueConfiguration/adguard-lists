@@ -1,0 +1,15 @@
+{
+  "name": "Stalkerware Indicators of Compromise",
+  "description": "Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS",
+  "homepage": "https://github.com/AssoEchap/stalkerware-indicators",
+  "license": "CC-BY",
+  "sources": [
+    {
+      "name": "Stalkerware Indicators of Compromise",
+      "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

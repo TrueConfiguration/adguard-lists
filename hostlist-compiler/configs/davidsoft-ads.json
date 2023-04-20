@@ -1,0 +1,15 @@
+{
+  "name": "DRSDavidSoft Ad and tracker servers",
+  "description": "This is a list of categorized domains, with additional entries for wildcard blocking. The domains are documented as to keep a record of what is being blocked or allowed.",
+  "homepage": "https://github.com/DRSDavidSoft/additional-hosts",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "DRSDavidSoft Ad and tracker servers",
+      "source": "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

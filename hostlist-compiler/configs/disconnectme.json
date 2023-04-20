@@ -1,0 +1,15 @@
+{
+  "name": "Disconnect.me",
+  "description": "Basic tracking list by Disconnect",
+  "homepage": "",
+  "license": "",
+  "sources": [
+    {
+      "name": "Disconnect.me",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

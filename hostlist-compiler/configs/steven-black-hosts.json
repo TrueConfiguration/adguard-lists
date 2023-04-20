@@ -1,0 +1,15 @@
+{
+  "name": "StevenBlack/hosts",
+  "description": "This hosts file is a merged collection of hosts from reputable sources, with a dash of crowd sourcing via GitHub",
+  "homepage": "https://github.com/StevenBlack/hosts",
+  "license": "",
+  "sources": [
+    {
+      "name": "StevenBlack/hosts",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "Compress", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

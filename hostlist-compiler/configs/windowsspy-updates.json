@@ -1,0 +1,15 @@
+{
+  "name": "WindowsSpyBlocker - Hosts update rules",
+  "description": "WindowsSpyBlocker is an application written in Go and delivered as a single executable to block spying and tracking on Windows systems.",
+  "homepage": "https://github.com/crazy-max/WindowsSpyBlocker",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "https://github.com/crazy-max/WindowsSpyBlocker",
+      "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "NoTrack Tracker Blocklist",
+  "description": "Domains classified as tracking or advertising",
+  "homepage": "https://gitlab.com/quidsup/notrack-blocklists",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "NoTrack Tracker Blocklist",
+      "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate", "RemoveModifiers"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

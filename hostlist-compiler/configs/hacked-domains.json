@@ -1,0 +1,15 @@
+{
+  "name": "The Big List of Hacked Malware Web Sites",
+  "description": "Use this file to prevent your computer or server from connecting to selected internet hosts",
+  "homepage": "https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "The Big List of Hacked Malware Web Sites",
+      "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

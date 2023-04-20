@@ -1,0 +1,15 @@
+{
+  "name": "Anudeep's Blacklist",
+  "description": "Host file to block ads, tracking and more! Updated daily",
+  "homepage": "https://github.com/anudeepND/blacklist",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Anudeep's Blacklist",
+      "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

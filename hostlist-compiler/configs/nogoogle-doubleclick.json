@@ -1,0 +1,15 @@
+{
+  "name": "NoGoogle Doubleclick",
+  "description": "This blocklist helps to restrict access to Google and its domains",
+  "homepage": "https://github.com/nickspaargaren/no-google",
+  "license": "The Unlicense",
+  "sources": [
+    {
+      "name": "https://github.com/nickspaargaren/no-google",
+      "source": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

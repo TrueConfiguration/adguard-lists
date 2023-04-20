@@ -1,0 +1,15 @@
+{
+  "name": "Dan Pollock's List",
+  "description": "Use this file to prevent your computer from connecting to selected internet hosts",
+  "homepage": "http://someonewhocares.org/hosts/zero/",
+  "license": "",
+  "sources": [
+    {
+      "name": "Dan Pollock's List",
+      "source": "https://someonewhocares.org/hosts/zero/hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "Compress", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
