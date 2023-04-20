@@ -15,4 +15,3 @@ for CONFIG_FILE in $CONFIGS_DIR/*.json; do
   # Executa o hostlist-compiler com as opções de configuração e output
   $HOSTLIST_COMPILER -c "$CONFIG_FILE" -o "$COMPILED_DIR/$OUTPUT_FILE"
 done
-
