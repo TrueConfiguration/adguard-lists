@@ -76,6 +76,7 @@
 @@cdn.jsdelivr.net^$important
 # Microsoft forums and utilities
 @@answers.microsoft.com^$important
+@@support.microsoft.com^$important
 # Windows NTP
 @@time.windows.com^$important
 # Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
@@ -86,7 +87,7 @@
 @@challenges.cloudflare.com^$important
 # Gmail Attachments downloads
 @@mail-attachment.googleusercontent.com^$important
-# Xbox Perks panel requires trackers
+# Xbox Perks panel requires this tracker, which relates to Windows Spotlight (Bing advertisement server)
 @@arc.msn.com^$important
 # Debian repositories (the word tracker is blocked by regex rules)
 @@tracker.debian.org^$important
@@ -127,19 +128,23 @@
 # Microsoft NCSI
 @@www.msftncsi.com^$important
 @@www.msftconnecttest.com^$important
-# Several Microsoft Services
+# Several Microsoft Services (Online Office, Outlook.com, Skype etc.)
 @@outlook.office365.com^$important
 @@products.office.com^$important
 @@||c.s-microsoft.com^$important
 @@||i.s-microsoft.com^$important
 @@login.live.com^$important
 @@login.microsoftonline.com^$important
+@@nexus.officeapps.live.com^$important
+@@nexusrules.officeapps.live.com^$important
 # Backup bitlocker recovery key to Microsoft account
 @@g.live.com^$important
 # Microsoft Store (Windows Store)
 @@dl.delivery.mp.microsoft.com^$important
 # @@geo-prod.do.dsp.mp.microsoft.com^$important
 @@displaycatalog.mp.microsoft.com^$important
+# Used to revoke licenses for malicious apps on the Microsoft Store
+@@storecatalogrevocation.storequality.microsoft.com^$important
 # Windows Updates
 @@sls.update.microsoft.com.akadns.net^$important
 @@fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important

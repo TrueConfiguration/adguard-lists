@@ -210,12 +210,16 @@
 ||vscodeexperiments.azureedge.net^
 ||mobile.events.data.microsoft.com^
 ||graph.microsoft.com^
+||ris.api.iris.microsoft.com^
+||manage.devcenter.microsoft.com^
+||tsfe.trafficshaping.dsp.mp.microsoft.com^
 # ||config.teams.microsoft.com^ # Microsoft Teams sucks, but I'll have to comment this because of work
 # Microsoft uses this domains to sync, monitor and modify your Windows Settings
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 # CAUTION Microsoft Smartscreen (I already have antivirus, thank you)
 ||smartscreen.microsoft.com^
+||smartscreen-prod.microsoft.com^
 # Amazon trackers (don't break shopping, Kindle working nice so far)
 ||amazon-adsystem.com^
 ||aax-us-west.amazon-adsystem.com^
