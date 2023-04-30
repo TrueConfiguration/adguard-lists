@@ -1,4 +1,4 @@
-# Personal Whitelists that I compiled from various sources, plus domains I 
+# Personal Whitelists that I compiled from various sources, plus domains I
 # found to break things in day to day internet usage.
 # To be used in Adguard Home or similar software.
 # Contributed by: https://www.github.com/TrueConfiguration
@@ -22,7 +22,7 @@
 @@accounts.firefox.com^$important
 # Tracking Protection (updates whitelists and blacklists for ETP)
 @@tracking-protection.cdn.mozilla.net^$important
-# Codecs and DRM 
+# Codecs and DRM
 # Google domains are necessary for Widevine to work properly (Netflix, Amazon Prime, Disney etc.)
 @@ciscobinary.openh264.org^$important
 @@clients2.googleusercontent.com^$important
@@ -94,11 +94,13 @@
 # Steam CDN, slows games downloads
 @@clientconfig.akamai.steamstatic.com^$important
 @@steamcdn-a.akamaihd.net^$important
-# Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price. 
+# Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price.
 # @@fp2e7a.wpc.2be4.phicdn.net^$important
 # @@fp2e7a.wpc.phicdn.net^$important
 # Internet banking customer service
 @@qs976j62-android.mobile-messenger.intercom.com^$important
+# Mozilla's telemetry documentation
+@@docs.telemetry.mozilla.org^$important
 
 # Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
 # https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
