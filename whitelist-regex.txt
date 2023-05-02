@@ -18,13 +18,13 @@
 # Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
 # https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
 # Skype
-@@/^s{1..5}.symcb.com$/^$important
+@@/^s{1..5}.symcb.com$/$important
 # Reddit
-@@/^[a-z]\.thumbs\.redditmedia\.com$/^$important
-@@/(^www\.|^)redd\.it$/^$important
-@@/(^www\.|^)reddit\.com$/^$important
+@@/^[a-z]\.thumbs\.redditmedia\.com$/$important
+@@/(^www\.|^)redd\.it$/$important
+@@/(^www\.|^)reddit\.com$/$important
 # WhatsApp - So far I'm not having problems with WhatsApp with it disabled. Will allow telemetry through.
 # @@/^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9]\.fbcdn\.net$/^$important
 # @@/^((www|(w[0-9]\.)?web|media((-[a-z]{3}|\.[a-z]{4})[0-9]{1,2}-[0-9](\.|-)(cdn|fna))?)\.)?whatsapp\.(com|net)$/^$important
 # Twitter
-@@/(^www\.|^)twimg\.com$/^$important
+@@/(^www\.|^)twimg\.com$/$important
