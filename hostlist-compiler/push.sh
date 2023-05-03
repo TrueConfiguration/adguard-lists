@@ -1,20 +1,23 @@
 #!/bin/bash
 
-# atualiza o branch remoto
+# NOTE: For some reason this script is not inheriting the git location from the
+# PATH declarations in crontab, so I'm using full path for the binary. If used
+# in another instance/machine, it may be required to manually update paths.
+
+# Fetch remote
 /usr/bin/git fetch
 
-# verifica se há alterações no branch local em relação ao branch remoto
+# Check for local changes
 if ! /usr/bin/git diff-index --quiet HEAD --; then
-  # adiciona todas as alterações
+  # Add local changes
   /usr/bin/git add .
 
-  # adiciona a data atual à mensagem de commit
+  # Set commit message
   commit_message="Updated in $(date +%Y-%m-%d)"
 
-  # cria um commit assinado com a mensagem e a data atual
+  # Commit changes
   /usr/bin/git commit -S -m "$commit_message"
 
-  # envia as alterações para o branch remoto
+  # Push changes
   /usr/bin/git push
 fi
-
