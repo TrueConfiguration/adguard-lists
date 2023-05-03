@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2023-05-02T17:00:29.371Z
+! Last modified: 2023-05-03T17:00:29.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -862,6 +862,7 @@
 ||asia-vcode-od.vivoglobal.com^
 ||asianmedia.com^
 ||assemblyexchange.com^
+||assets.emarsys.net^
 ||assistantelizabethraw.com^
 ||astonishmentfuneral.com^
 ||astutemetrics.com^
@@ -14297,12 +14298,12 @@
 ||purch.com^
 ||purebushesprop.com^
 ||purpleads.io^
+||push-ad.com^
 ||push-link.duowan.com^
 ||push-sdk.net^
 ||pushagim.com^
 ||pushclk.com^
 ||pushcrew.com^
-||pusher.com^
 ||pusherapp.com^
 ||pushio.com^
 ||pushlinck.com^
@@ -15767,6 +15768,7 @@
 ||stats.norton.com^
 ||stats.opkode.com^
 ||stats.paypal.com^
+||stats.pusher.com^
 ||stats.rebrickable.com^
 ||stats.redditmedia.com^
 ||stats.royalbank.com^
