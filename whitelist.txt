@@ -55,54 +55,8 @@
 @@dssott.com^$important
 @@adobedtm.com^$important
 
-! Personal day to day whitelist
-! Ubuntu apt repositories
-! Canonical uses subdomains to point to mirrors
-@@||archive.ubuntu.com^$important
-@@||security.ubuntu.com^$important
-! Oracle Cloud control panel
-@@telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
-! Xbox App (Windows) thumbnails
-@@store-images.s-microsoft.com^$important
-! Visual Studio Code updates
-@@vo.msecnd.net^$important
-! Chrome Web Store
-@@chrome.google.com^$important
-! Uglyemail has the word "tracker" in its operating subdomains
-@@||uglyemail.com^$important
-! Android Pay CDN
-@@androidpay-users-pa.googleapis.com^$important
-! Breaks sites that uses JSDeliver
-@@cdn.jsdelivr.net^$important
-! Microsoft forums and utilities
-@@answers.microsoft.com^$important
-@@support.microsoft.com^$important
-! Windows NTP
-@@time.windows.com^$important
-! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
-@@graph.microsoft.com^$important
-! Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
-@@gql.reddit.com^$important
-! Cloudflare captcha to access protected sites
-@@challenges.cloudflare.com^$important
-! Gmail Attachments downloads
-@@mail-attachment.googleusercontent.com^$important
-! Xbox Perks panel requires this tracker, which relates to Windows Spotlight (Bing advertisement server)
-@@arc.msn.com^$important
-! Debian repositories (the word tracker is blocked by regex rules)
-@@tracker.debian.org^$important
-! Steam CDN, slows games downloads
-@@clientconfig.akamai.steamstatic.com^$important
-@@steamcdn-a.akamaihd.net^$important
-! Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price.
-! @@fp2e7a.wpc.2be4.phicdn.net^$important
-! @@fp2e7a.wpc.phicdn.net^$important
-! Internet banking customer service
-@@qs976j62-android.mobile-messenger.intercom.com^$important
-! Mozilla's telemetry documentation
-@@docs.telemetry.mozilla.org^$important
-
 ! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
+! Date: 2023-04-19
 ! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
 ! Google Maps and other Google services
 @@clients4.google.com^$important
@@ -178,7 +132,7 @@
 @@eds.xboxlive.com^$important
 @@www.xboxlive.com^$important
 @@v10.vortex-win.data.microsoft.com^$important
-! Telemetry domain, I have it specifically blocked and no problem so far
+! Telemetry domain, I have it specifically blocked and no problem so far. Will break Windows settings sync
 ! @@settings-win.data.microsoft.com^$important
 ! Skype
 @@s.gateway.messenger.live.com^$important
@@ -304,3 +258,52 @@
 ! Rewards/Discounts in Burger King app
 @@appboy-images.com^$important
 @@rest.iad-03.braze.com^$important
+
+! Personal day to day whitelist
+! Ubuntu apt repositories
+! Canonical uses subdomains to point to mirrors
+@@||archive.ubuntu.com^$important
+@@||security.ubuntu.com^$important
+! Oracle Cloud control panel
+@@telemetry-ingestion.sa-saopaulo-1.oraclecloud.com^$important
+! Xbox App (Windows) thumbnails
+@@store-images.s-microsoft.com^$important
+! Visual Studio Code updates
+@@vo.msecnd.net^$important
+! Chrome Web Store
+@@chrome.google.com^$important
+! Uglyemail has the word "tracker" in its operating subdomains
+@@||uglyemail.com^$important
+! Android Pay CDN
+@@androidpay-users-pa.googleapis.com^$important
+! Breaks sites that uses JSDeliver
+@@cdn.jsdelivr.net^$important
+! Microsoft forums and utilities
+@@answers.microsoft.com^$important
+@@support.microsoft.com^$important
+! Windows NTP
+@@time.windows.com^$important
+! Microsoft turned graph into a "feature" of Office. If blocked, it breaks various sync and online functions
+@@graph.microsoft.com^$important
+! Reddit Graph Query Language (breaks Reddit site, avatars, some comments etc.)
+@@gql.reddit.com^$important
+! Cloudflare captcha to access protected sites
+@@challenges.cloudflare.com^$important
+! Gmail Attachments downloads
+@@mail-attachment.googleusercontent.com^$important
+! Xbox Perks panel requires this tracker, which relates to Windows Spotlight (Bing advertisement server)
+@@arc.msn.com^$important
+! Debian repositories (the word tracker is blocked by regex rules)
+@@tracker.debian.org^$important
+! Steam CDN, slows games downloads
+@@clientconfig.akamai.steamstatic.com^$important
+@@steamcdn-a.akamaihd.net^$important
+! Ubisoft crap launcher requires trackers to be allowed or it won't let you play your games, even in offline mode. Don't buy ANYTHING from Ubisoft at full price.
+! @@fp2e7a.wpc.2be4.phicdn.net^$important
+! @@fp2e7a.wpc.phicdn.net^$important
+! Internet banking customer service
+@@qs976j62-android.mobile-messenger.intercom.com^$important
+! Mozilla's telemetry documentation
+@@docs.telemetry.mozilla.org^$important
+! VS Code/Visual Studio Marketplace domains
+@@mads-hartmann.gallerycdn.vsassets.io^$important
