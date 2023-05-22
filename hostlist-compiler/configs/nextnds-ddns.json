@@ -1,0 +1,15 @@
+{
+  "name": "NextDNS Native DDNS domains",
+  "description": "",
+  "homepage": "https://github.com/nextdns/ddns-domains",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "https://github.com/nextdns/ddns-domains",
+      "source": "https://raw.githubusercontent.com/nextdns/ddns-domains/main/suffixes",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

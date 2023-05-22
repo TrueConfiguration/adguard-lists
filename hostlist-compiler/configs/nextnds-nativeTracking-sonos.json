@@ -1,0 +1,15 @@
+{
+  "name": "NextDNS Native Tracking - Sonos",
+  "description": "",
+  "homepage": "https://github.com/nextdns/native-tracking-domains/",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "https://github.com/nextdns/native-tracking-domains/",
+      "source": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

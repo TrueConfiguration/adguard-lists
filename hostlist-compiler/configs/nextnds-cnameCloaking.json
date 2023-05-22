@@ -1,0 +1,15 @@
+{
+  "name": "NextDNS CNAME Cloaking Blocklist",
+  "description": "Important: For this blocklist to work, the blocking logic must wildcard match (domain and all its multi-level subdomains) CNAMEs against the domains in this list.",
+  "homepage": "https://github.com/nextdns/cname-cloaking-blocklist",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "https://github.com/nextdns/cname-cloaking-blocklist",
+      "source": "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
