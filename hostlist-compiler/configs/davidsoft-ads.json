@@ -8,7 +8,7 @@
       "name": "DRSDavidSoft Ad and tracker servers",
       "source": "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]

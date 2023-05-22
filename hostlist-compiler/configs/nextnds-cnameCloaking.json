@@ -8,7 +8,7 @@
       "name": "https://github.com/nextdns/cname-cloaking-blocklist",
       "source": "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]

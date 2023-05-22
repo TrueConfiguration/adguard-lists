@@ -8,7 +8,7 @@
       "name": "The Big List of Hacked Malware Web Sites",
       "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]

@@ -8,7 +8,7 @@
       "name": "https://github.com/nextdns/ddns-domains",
       "source": "https://raw.githubusercontent.com/nextdns/ddns-domains/main/exclusions",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "InvertAllow", "RemoveEmptyLines", "InsertFinalNewLine"]

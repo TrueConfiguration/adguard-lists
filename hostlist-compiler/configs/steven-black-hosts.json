@@ -8,7 +8,7 @@
       "name": "StevenBlack/hosts",
       "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "Compress", "RemoveEmptyLines", "InsertFinalNewLine"]

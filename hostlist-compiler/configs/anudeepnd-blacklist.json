@@ -8,7 +8,7 @@
       "name": "Anudeep's Blacklist",
       "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]

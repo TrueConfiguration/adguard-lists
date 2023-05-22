@@ -8,7 +8,7 @@
       "name": "Stalkerware Indicators of Compromise",
       "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]

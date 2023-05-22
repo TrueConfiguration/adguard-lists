@@ -8,7 +8,7 @@
       "name": "Dan Pollock's List",
       "source": "https://someonewhocares.org/hosts/zero/hosts",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "Compress", "RemoveEmptyLines", "InsertFinalNewLine"]

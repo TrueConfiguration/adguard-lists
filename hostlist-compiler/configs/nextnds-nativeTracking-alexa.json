@@ -8,7 +8,7 @@
       "name": "https://github.com/nextdns/native-tracking-domains/",
       "source": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]

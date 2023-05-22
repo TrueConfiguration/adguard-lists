@@ -8,7 +8,7 @@
       "name": "Disconnect.me",
       "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
+      "transformations": ["Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
