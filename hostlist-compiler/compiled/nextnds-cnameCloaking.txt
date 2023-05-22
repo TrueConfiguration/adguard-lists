@@ -1,0 +1,48 @@
+!
+! Title: NextDNS CNAME Cloaking Blocklist
+! Description: Important: For this blocklist to work, the blocking logic must wildcard match (domain and all its multi-level subdomains) CNAMEs against the domains in this list.
+! Homepage: https://github.com/nextdns/cname-cloaking-blocklist
+! License: MIT License
+! Last modified: 2023-05-22T12:54:11.371Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: https://github.com/nextdns/cname-cloaking-blocklist
+! Source: https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+!
+||eulerian.net^
+||at-o.net^
+||k.keyade.com^
+||k.madmetrics.com^
+||2o7.net^
+||data.adobedc.net^
+||sc.adobedc.net^
+||sc.omtrdc.net^
+||dnsdelegation.io^
+||storetail.io^
+||tagcommander.com^
+||wizaly.com^
+||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
+||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^
+||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
+||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
+||affex.org^
+||webtrekk.net^
+||wt-eu02.net^
+||oghub.io^
+||tracking.bp01.net^
+||trck.a8.net^
+||mm.actionlink.jp^
+||cname.ebis.ne.jp^
+||0i0i0i0.com^
+||actonservice.com^
+||actonsoftware.com^
+||thirdparty.bnc.lt^
+||ddns.dataunlocker.com^
+||starman.fathomdns.com^
+||ad-cloud.jp^
+||hs.eloqua.com^
+||custom.plausible.io^
+||go.pardot.com^
+||ghochv3eng.trafficmanager.net^

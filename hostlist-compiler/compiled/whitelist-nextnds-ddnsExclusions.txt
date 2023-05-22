@@ -1,0 +1,31 @@
+!
+! Title: NextDNS Native DDNS domains - Exclusions
+! Homepage: https://github.com/nextdns/ddns-domains
+! License: MIT License
+! Last modified: 2023-05-22T12:54:47.890Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: https://github.com/nextdns/ddns-domains
+! Source: https://raw.githubusercontent.com/nextdns/ddns-domains/main/exclusions
+!
+@@||www.duckdns.org^
+@@||www.no-ip.com^
+@@||dynupdate.no-ip.com^
+@@||www.dynu.com^
+@@||freeddns.dynu.com^
+@@||api.dynu.com^
+@@||checkip.dynu.com^
+@@||ipcheck.dynu.com^
+@@||ipcheckv6.dynu.com^
+@@||ipcheckudp.dynu.com^
+@@||checkip.dyndns.org^
+@@||checkipv6.dyndns.org^
+@@||members.dyndns.org^
+@@||freedns.afraid.org^
+@@||sync.afraid.org^
+@@||www.nsupdate.info^
+@@||ipv4.nsupdate.info^
+@@||update.dedyn.io^
+@@||update6.dedyn.io^
