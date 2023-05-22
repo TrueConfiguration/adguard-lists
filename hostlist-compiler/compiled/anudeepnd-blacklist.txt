@@ -3,7 +3,7 @@
 ! Description: Host file to block ads, tracking and more! Updated daily
 ! Homepage: https://github.com/anudeepND/blacklist
 ! License: MIT License
-! Last modified: 2023-05-22T12:53:55.096Z
+! Last modified: 2023-05-22T13:15:53.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11,6 +11,16 @@
 ! Source name: Anudeep's Blacklist
 ! Source: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 !
+# Host file to block ads, tracking and more! Updated daily
+# Homepage: https://github.com/anudeepND/blacklist
+# Mirror: https://hosts.anudeep.me/mirror/
+# Release: https://github.com/anudeepND/blacklist/releases
+# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
+# Title: Anudeep's Blacklist
+# Expires: 1 days
+# Hosts contributed by Anudeep <anudeep@protonmail.com>
+# Domain count: 42,536
+# ===================================================================
 ||0001-cab8-4c8c-43de.reporo.net^
 ||002-slq-470.mktoresp.com^
 ||004-btr-463.mktoresp.com^

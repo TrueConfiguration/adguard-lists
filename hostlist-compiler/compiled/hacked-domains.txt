@@ -3,7 +3,7 @@
 ! Description: Use this file to prevent your computer or server from connecting to selected internet hosts
 ! Homepage: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
 ! License: MIT License
-! Last modified: 2023-05-22T12:54:08.985Z
+! Last modified: 2023-05-22T13:16:07.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11,6 +11,7 @@
 ! Source name: The Big List of Hacked Malware Web Sites
 ! Source: https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 !
+# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 ||00005ik.rcomhost.com^
 ||000owamail0.000webhostapp.com^
 ||01ad681.netsolhost.com^
@@ -13427,3 +13428,4 @@
 ||zytrade.cn^
 ||zzhomes.com^
 ||zzzort10xtest123.com^
+# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###

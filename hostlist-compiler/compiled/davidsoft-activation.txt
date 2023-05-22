@@ -3,7 +3,7 @@
 ! Description: This is a list of categorized domains, with additional entries for wildcard blocking. The domains are documented as to keep a record of what is being blocked or allowed.
 ! Homepage: https://github.com/DRSDavidSoft/additional-hosts
 ! License: MIT License
-! Last modified: 2023-05-22T12:54:00.654Z
+! Last modified: 2023-05-22T13:15:59.197Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11,6 +11,7 @@
 ! Source name: DRSDavidSoft Ad and tracker servers
 ! Source: https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt
 !
+# Adobe
 ||3dns.adobe.com^
 ||3dns-1.adobe.com^
 ||3dns-2.adobe.com^
@@ -80,11 +81,13 @@
 ||s-3.adobe.com^
 ||tss-geotrust-crl.thawte.com^
 ||uds.licenses.adobe.com^
+# Adobe wildcard
 ||wwis-dubc1-vip60.adobe.com^
 wwis-dubc1-vip*.adobe.com
 wwis-dubc1-vip*.adobe.de
 wwis-dubc1-vip*
 practivate.adobe.*
+# Autodesk
 autodesk.fi 
 ||autodesk.de^
 ||autodesk.es^
@@ -192,7 +195,9 @@ autodesk.fi
 ||webservices.autodesk.com^
 ||wormhole.autodesk.com^
 ||www3.autodesk.com^
+# ACDSee
 ||acdid.acdsystems.com^
+# Acronis
 ||activation.acronis.com^
 ||web-api-tih.acronis.com^
 ||web-api-tie.acronis.com^
@@ -200,18 +205,25 @@ autodesk.fi
 ||cloud-rs-us2-acronis.com^
 ||cloud-fes-us2-acronis.com^
 ||rpc.acronis.com^
+# Ashampoo
 ||licenses.ashampoo.com^
+# Alcohol
 ||serial.alcohol-soft.com^
 ||trial.alcohol-soft.com^
+# Avast
 ||ns2.avast.com^
 ||pns.avast.com^
 ||bartelsmedia.com^
+# BitSum and Process Lasso
 ||activate.bitsum.com^
 ||bitsumactivationserver.com^
+# BlueSoleil
 ||license.bluesoleil.com^
 ||license2.bluesoleil.com^
 ||license3.bluesoleil.com^
+# Capture One
 ||activation.phaseone.com^
+# Corel
 ||apps.corel.com^
 ||product.corel.com^
 ||mc.corel.com^
@@ -223,6 +235,7 @@ autodesk.fi
 ||deploy.akamaitechnologies.com^
 ||compute-1.amazonaws.com^
 ||dev1.ipm.corel.public.corel.net^
+# Connectify Hotspot
 ||activate.connectify.me^
 ||updates.connectify.me^
 ||d.connectify.me^
@@ -233,22 +246,32 @@ autodesk.fi
 ||bc.connectify.me^
 ||data.connectify.me^
 ||news.connectify.me^
+# Cyberlink
 ||activation.cyberlink.com^
 ||cap.cyberlink.com^
+# DAEMON Tools
 ||secure.disc-soft.com^
+# CuteFTP
 ||dbregistration.cuteftp.com^
+# EaseUS
 ||activation.easeus.com^
 ||track.easeus.com^
+# Eltima
 ||activate.eltima.com^
+# Folder Lock
 ||password-protect-folders.net^
+# Deep Freeze
 ||upd.faronicslabs.com^
+# HDD Regenerator
 ||dposoft.net^
 ||techbrowsing.com^
 ||box.anchorfree.net^
 ||a433.com^
+# Internet Download Manager
 ||internetdownloadmanager.com^
 ||registeridm.com^
 ||tonec.com^
+# IObit
 ||asc55.iobit.com^
 ||idb.iobit.com^
 ||is360.iobit.com^
@@ -256,52 +279,74 @@ autodesk.fi
 ||pf.iobit.com^
 ||iunins.iobit.com^
 ||sd.iobit.com^
+# iSkysoft
 ||cbs.iskysoft.com^
+# Lumion3D
 ||backup.lumion3d.com^
 ||backup.lumion3d.net^
 ||license.lumion3d.com^
 ||license.lumion3d.net^
 ||activate.lumion.net^
 ||license.lumiontech.net^
+# MacDrive
 ||act2.mediafour.com^
+# MalwareBytes
 ||sirius.mwbsys.com^
 ||keystone.mwbsys.com^
 ||data.service.malwarebytes.org^
 ||telemetry.malwarebytes.com^
 ||skipittok.com^
+# MiniTool Partition Wizard
 ||pas2.partitionwizard.com^
 ||pas2.minitool.com^
 ||pas2.eofsoft.com^
 ||tracking.minitool.com^
+# Newsoftwares USB Block
 ||newsoftwares.net^
+# Nikon CaptureNX
 ||sams.nikonimaging.com^
+# NCH Software 
 ||secure.nch.com.au^
+# Piriform
 ||license.piriform.com^
 ||secure.piriform.com^
 ||ccleaner.com^
+# Red Gate (e.g. .NET Reflector)
 ||licensing.red-gate.com^
+# Reallusion
 ||widgetcast.reallusion.com^
 ||da.reallusion.com^
 ||ctifiles2.reallusion.com^
+# Rhinoceros 3D 
 ||api.mcneel.com^
+# SmartAssembly
 ||sawebservice.red-gate.com^
+# Systweak
 ||updateservice1.systweak.com^
 ||systemspeedup.systweak.com^
+# Sublime Text
 ||license.sublimehq.com^
+# SUPERAntiSpyware
 ||license.superantispyware.com^
+# Tableau Desktop
 ||licensing.tableausoftware.com^
+# TeamSpeak
 ||accounting.teamspeak.com^
 ||backupaccounting.teamspeak.com^
 ||ipcheck.teamspeak.com^
+# TotalFinder
 ||binaryage-leechgate.herokuapp.com^
 ||updates-s3.binaryage.com^
+# TechSmith Camtasia Studio
 ||activation.cloud.techsmith.com^
 ||oscount.techsmith.com^
 ||updater.techsmith.com^
 ||camtasiatudi.techsmith.com^
 ||tsccloud.cloudapp.net^
 ||assets.cloud.techsmith.com^
+# VideoMakerFX
 ||auth7.videomakerfx.com^
+# Wondershare
 ||cbs.wondershare.com^
 ||platform.wondershare.com^
 ||macplatform.wondershare.com^

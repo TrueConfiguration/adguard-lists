@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Use this file to prevent your computer from connecting to selected internet hosts
 ! Homepage: http://someonewhocares.org/hosts/zero/
-! Last modified: 2023-05-22T12:53:59.474Z
+! Last modified: 2023-05-22T13:15:57.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11,6 +11,7 @@
 ! Source: https://someonewhocares.org/hosts/zero/hosts
 !
 ||localhost.localdomain^
+# For example, to block unpleasant pages, try:
 ||goatse.cx^
 ||oralse.cx^
 ||goatse.ca^
@@ -108,6 +109,13 @@
 ||www.ypmate.com^
 ||youaresogay.com^
 ||zentastic.com^
+# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
+# and redirect all requests through their servers. You may need to use spyware 
+# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
+# nasty parasite. It's possible that blocking these sites using a hosts file 
+# may not work, in which case you should remove the following lines from this
+# file and try the tools listed above immediately. Don't forget to reboot 
+# after a scan.
 ||ads234.com^
 ||ads345.com^
 ||006.free-counter.co.uk^
@@ -1125,6 +1133,7 @@
 ||xxxcounter.com^
 ||xyz.freelogs.com^
 ||zz.cqcounter.com^
+# sites with known trojans, phishing, or other malware
 ||0.nextyourcontent.com^
 ||05tz2e9.com^
 ||1001paixnidia.fr^
@@ -2668,9 +2677,11 @@
 ||wi-fitechnology.uk.intellitxt.com^
 ||imrworldwide.com^
 ||redsheriff.com^
+# cydoor -- server side tracking
 ||cydoor.com^
 ||j.2004cms.com^
 ||2o7.net^
+# oewabox.at -- 'Austrian Webanalysis Society'
 ||1000ps.oewabox.at^
 ||afinder.oewabox.at^
 ||alphalux.oewabox.at^
@@ -2796,6 +2807,7 @@
 ||woche.oewabox.at^
 ||wohnnet.oewabox.at^
 ||zfm.oewabox.at^
+# Pegasus spyware sites.
 ||24-7clinic.com^
 ||365redirect.co^
 ||a-redirect.com^
@@ -8500,11 +8512,14 @@
 ||y3.ifengimg.com^
 ||in.yimg.com^
 ||us.a1.yimg.com^
+# hitbox.com web bugs
 ||hitbox.com^
 ||hitboxbenchmarker.com^
 ||hitboxcentral.com^
 ||myhitbox.com^
+# www.extreme-dm.com tracking
 ||extreme-dm.com^
+# realmedia.com's Open Ad Stream
 ||ap.oasfile.aftenposten.no^
 ||oas-central.east.realmedia.com^
 ||oas-central.realmedia.com^
@@ -8615,7 +8630,9 @@
 ||oascentral.yellowpages.com^
 ||oascentral.zwire.com^
 ||oascentralnx.comcast.net^
+# fastclick banner ads
 ||fastclick.net^
+# belo interactive ads
 ||te.about.com^
 ||te.adlandpro.com^
 ||te.advance.net^
@@ -8638,6 +8655,7 @@
 ||te.thestar.com^
 ||te.trb.com^
 ||te.versiontracker.com^
+# popup traps -- sites that bounce you around or won't let you leave
 ||adultfriendfinder.com^
 ||incestland.com^
 ||lesview.com^
@@ -9166,6 +9184,7 @@
 ||zyrtec.1.p2l.info^
 ||zyrtec.3.p2l.info^
 ||zyrtec.4.p2l.info^
+# Windows 10 reporting domains. 
 ||a.ads2.msads.net^
 ||adnexus.net^
 ||az361816.vo.msecnd.net^
@@ -9181,3 +9200,36 @@
 ||secure.flashtalking.com^
 ||statsfe2.ws.microsoft.com^
 ||wes.df.telemetry.microsoft.com^
+# Acknowledgements
+# I'd like to thank the following people for submitting sites, and
+# helping promote the site.
+# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
+#  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
+#  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
+#  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
+#  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
+#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
+#  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
+#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
+#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
+#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
+#  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
+#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
+#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
+#  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
+#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
+#  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
+#  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
+#  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
+#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
+#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
+#  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
+#  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
+#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
+#  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
+#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
+#  the hosts file.
+# Russell O'Connor for OS/2 information
+# kwadronaut for Windows 7 and Vista information
+# John Mueller and Lawrence H Smith for Mac Pre-OSX information
+# Jesse Baird for the Cisco IOS script

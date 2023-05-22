@@ -2,7 +2,7 @@
 ! Title: NextDNS Native DDNS domains
 ! Homepage: https://github.com/nextdns/ddns-domains
 ! License: MIT License
-! Last modified: 2023-05-22T12:54:12.462Z
+! Last modified: 2023-05-22T13:16:11.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -10,7 +10,9 @@
 ! Source name: https://github.com/nextdns/ddns-domains
 ! Source: https://raw.githubusercontent.com/nextdns/ddns-domains/main/suffixes
 !
+# https://www.duckdns.org
 ||duckdns.org^
+# https://www.noip.com
 ||3utilities.com^
 ||access.ly^
 ||blogsyte.com^
@@ -105,6 +107,7 @@
 ||webhop.me^
 ||workisboring.com^
 ||zapto.org^
+# https://www.changeip.com/dns.php
 ||1dumb.com^
 ||25u.com^
 ||2waky.com^
@@ -277,14 +280,18 @@
 ||yourtrap.com^
 ||zyns.com^
 ||zzux.com^
+# https://www.spdyn.de
 ||spdns.org^
+# https://dynv6.com
 ||dns.army^
 ||dns.navy^
 ||dynv6.net^
 ||v6.army^
 ||v6.navy^
 ||v6.rocks^
+# https://ydns.io
 ||ydns.eu^
+# https://www.dynu.com/DynamicDNS
 ||1cooldns.com^
 ||4cloud.click^
 ||accesscam.org^
@@ -309,11 +316,15 @@
 ||ooguy.com^
 ||theworkpc.com^
 ||webredirect.org^
+# https://dnsexit.com/services/free-dynamic-dns-service
 ||linkpc.net^
 ||publicvm.com^
+# https://www.duiadns.net
 ||duia.eu^
 ||duia.ro^
 ||duia.us^
+# https://account.dyn.com
+# https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names
 ||at-band-camp.net^
 ||ath.cx^
 ||barrel-of-knowledge.info^
@@ -597,9 +608,13 @@
 ||webhop.org^
 ||worse-than.tv^
 ||writesthisblog.com^
+# http://autoipset.com
 ||autoipset.com^
+# https://dyndns.dk
 ||dyndns.dk^
+# https://nodns.ca
 ||nodns.ca^
+# https://pubyun.com/products/dyndns
 ||2288.org^
 ||3322.org^
 ||6600.org^
@@ -611,10 +626,14 @@
 ||f3322.net^
 ||f3322.org^
 ||webok.net^
+# https://www.nsupdate.info
 ||nsupdate.info^
 ||nerdpol.ovh^
+# https://free-ddns.com
 ||free-ddns.com^
+# https://freemyip.com
 ||freemyip.com^
+# https://now-dns.com
 ||001www.com^
 ||16-b.it^
 ||2mydns.net^
@@ -647,6 +666,7 @@
 ||vpndns.net^
 ||wifizone.org^
 ||x443.pw^
+# https://dtdns.org (legacy)
 ||3d-game.com^
 ||4irc.com^
 ||b0ne.com^
@@ -664,6 +684,7 @@
 ||slyip.com^
 ||slyip.net^
 ||suroot.com^
+# https://www.twodns.de
 ||dd-dns.de^
 ||diskstation.eu^
 ||diskstation.org^
@@ -677,12 +698,16 @@
 ||syno-ds.de^
 ||synology-diskstation.de^
 ||synology-ds.de^
+# https://ipq.co
 ||ipq.co^
 ||fdns.uk^
+# https://alviy.com
 ||4nmn.com^
 ||didns.ru^
 ||dynnamn.ru^
+# http://www.codns.com
 ||codns.com^
+# http://legitdns.com
 ||12bittirade.com^
 ||ipoac.net^
 ||ipoac.org^
@@ -692,6 +717,8 @@
 ||pihq.net^
 ||pishell.com^
 ||pishell.net^
+# https://freedns.afraid.org
+# see also https://freedns.afraid.org/domain/registry
 ||afraid.org^
 ||mooo.com^
 ||chickenkiller.com^
@@ -793,7 +820,9 @@
 ||wiki.gd^
 ||airlinemeals.net^
 ||h0stname.net^
+# https://desec.io
 ||dedyn.io^
+# others
 ||dvrlists.com^
 ||myq-see.com^
 ||thddns.net^

@@ -1,7 +1,7 @@
 !
 ! Title: Disconnect.me
 ! Description: Basic tracking list by Disconnect
-! Last modified: 2023-05-22T12:54:04.945Z
+! Last modified: 2023-05-22T13:16:03.172Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -9,6 +9,9 @@
 ! Source name: Disconnect.me
 ! Source: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 !
+# Basic tracking list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
 ||adjust.io^
 ||airbrake.io^
 ||appboy.com^
