@@ -9,6 +9,12 @@ CONFIGS_DIR=./configs
 COMPILED_DIR=./compiled
 TEMP_DIR=./temp
 
+# Checks if ./temp exists, hostlist-compiler will fail otherwise.
+
+if [ ! -d "$TEMP_DIR" ]; then
+    mkdir "$TEMP_DIR"
+fi
+
 # Loop files in ./configs
 for CONFIG_FILE in $CONFIGS_DIR/*.json; do
   # Defines output file names
@@ -24,7 +30,7 @@ for file in "$TEMP_DIR"/*; do
 
   # Checks if file already existis in ./compiled
   if [ -e "$COMPILED_DIR/$filename" ]; then
-    # Compares files im ./temp and ./compiled
+    # Compares files in ./temp and ./compiled
     diff_output=$(diff "$file" "$COMPILED_DIR/$filename")
 
     # Counts diff lines (because hostlist-compiler will always update created date to match fetch date)
