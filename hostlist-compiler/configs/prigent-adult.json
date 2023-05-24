@@ -1,0 +1,15 @@
+{
+  "name": "Prigent-Adult",
+  "description": "Prigent-Adult, parsed and mirrored by https://firebog.net",
+  "homepage": "https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Prigent-Adult",
+      "source": "https://v.firebog.net/hosts/Prigent-Adult.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

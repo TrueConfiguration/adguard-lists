@@ -1,0 +1,15 @@
+{
+  "name": "Phishing Army | The Blocklist to filter Phishing",
+  "description": "This is the extended version, also contains domains without subdomains.",
+  "homepage": "https://phishing.army",
+  "license": "Creative Commons Attribution-NonCommercial 4.0",
+  "sources": [
+    {
+      "name": "Phishing Army | The Blocklist to filter Phishing",
+      "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

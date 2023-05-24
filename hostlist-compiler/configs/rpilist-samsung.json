@@ -1,0 +1,15 @@
+{
+  "name": "RPiList-Samsung",
+  "description": "RPiList-Samsung",
+  "homepage": "https://github.com/RPiList/specials/",
+  "license": "https://github.com/RPiList/specials/blob/master/Copyright%20-%20Woher%20kommen%20unsere%20Listen.md",
+  "sources": [
+    {
+      "name": "RPiList-Samsung",
+      "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

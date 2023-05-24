@@ -1,0 +1,15 @@
+{
+  "name": "RPiList-Win10Telemetry",
+  "description": "RPiList-Win10Telemetry",
+  "homepage": "https://github.com/RPiList/specials/",
+  "license": "https://github.com/RPiList/specials/blob/master/Copyright%20-%20Woher%20kommen%20unsere%20Listen.md",
+  "sources": [
+    {
+      "name": "RPiList-Win10Telemetry",
+      "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

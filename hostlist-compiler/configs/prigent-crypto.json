@@ -1,0 +1,15 @@
+{
+  "name": "Prigent-Crypto",
+  "description": "Prigent-Crypto, parsed and mirrored by https://firebog.net",
+  "homepage": "https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Prigent-Crypto",
+      "source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

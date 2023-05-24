@@ -1,0 +1,15 @@
+{
+  "name": "Spam404",
+  "description": "Spam404",
+  "homepage": "https://github.com/Spam404/lists",
+  "license": "CC BY-SA",
+  "sources": [
+    {
+      "name": "Spam404",
+      "source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
