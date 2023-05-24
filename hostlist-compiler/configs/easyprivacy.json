@@ -1,0 +1,15 @@
+{
+  "name": "Easyprivacy",
+  "description": "General tracking systems",
+  "homepage": "https://github.com/easylist/easylist",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Easyprivacy",
+      "source": "https://v.firebog.net/hosts/Easyprivacy.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

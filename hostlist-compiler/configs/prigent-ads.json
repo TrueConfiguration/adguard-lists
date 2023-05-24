@@ -1,0 +1,16 @@
+{
+  "name": "Prigent-Ads",
+  "description": "Prigent-Ads, parsed and mirrored by https://firebog.net",
+  "homepage": "https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+  ",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Prigent-Ads",
+      "source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

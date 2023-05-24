@@ -1,0 +1,15 @@
+{
+  "name": "VeleSila yHosts",
+  "description": "Dedicated to smart devices (more comprehensive, there may be errors when watching video websites with a computer): hosts yhosts",
+  "homepage": "https://github.com/VeleSila/yhosts/blob/master/hosts",
+  "license": "CC BY-NC-ND 4.0",
+  "sources": [
+    {
+      "name": "VeleSila yHosts",
+      "source": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

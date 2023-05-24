@@ -1,0 +1,15 @@
+{
+  "name": "BarbBlock",
+  "description": "A general ad & tracking domain blocklist for pi-hole.",
+  "homepage": "https://paulgb.github.io/",
+  "license": "WTFPL",
+  "sources": [
+    {
+      "name": "BarbBlock",
+      "source": "https://raw.githubusercontent.com/paulgb/BarbBlock/main/blacklists/hosts-file.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

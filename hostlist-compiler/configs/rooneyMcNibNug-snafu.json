@@ -1,0 +1,15 @@
+{
+  "name": "The SNAFU Blocklist",
+  "description": "A general ad & tracking domain blocklist for pi-hole.",
+  "homepage": "https://github.com/RooneyMcNibNug/pihole-stuff",
+  "license": "WTFPL",
+  "sources": [
+    {
+      "name": "The SNAFU Blocklist",
+      "source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

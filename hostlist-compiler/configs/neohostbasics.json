@@ -1,0 +1,15 @@
+{
+  "name": "Neohostsbasic",
+  "description": "neohostsbasic, parsed and mirrored by https://firebog.net",
+  "homepage": "https://firebog.net",
+  "license": "CC BY-NC-ND 4.0",
+  "sources": [
+    {
+      "name": "Neohostsbasic",
+      "source": "https://v.firebog.net/hosts/neohostsbasic.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

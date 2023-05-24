@@ -1,0 +1,15 @@
+{
+  "name": "Personal Blocklist by WaLLy3K",
+  "description": "Content added to this list has been manually verified, and is updated irregularly",
+  "homepage": "https://firebog.net/about",
+  "license": "CC BY 4.0",
+  "sources": [
+    {
+      "name": "Personal Blocklist by WaLLy3K",
+      "source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Matomo Referrer Spam List",
+  "description": "This is a community-contributed list of referrer spammers maintained by Matomo, the leading open source web analytics platform.",
+  "homepage": "https://github.com/matomo-org/referrer-spam-list",
+  "license": "Public Domain (no copyright)",
+  "sources": [
+    {
+      "name": "Matomo Referrer Spam List",
+      "source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

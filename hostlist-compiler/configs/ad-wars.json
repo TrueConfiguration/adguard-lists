@@ -1,0 +1,15 @@
+{
+  "name": "AdWars",
+  "description": "A general ad & tracking domain blocklist for pi-hole.",
+  "homepage": "https://github.com/jdlingyu/ad-wars/",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "AdWars",
+      "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
