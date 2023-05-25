@@ -47,7 +47,7 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # NoTracking blocklist
 https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt
-# Disconnect.me
+# Disconnect.me tracking
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 # My Privacy DNS
 https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
@@ -119,3 +119,40 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://v.firebog.net/hosts/Easyprivacy.txt
 # Geoffrey Frogeye's block list of first-party trackers
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# Disconnect.me malvertising
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+# Prigent-Crypto
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+# Prigent-Ads
+https://v.firebog.net/hosts/Prigent-Ads.txt
+# Phishing Army
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+# RPiList-Malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+# RPiList-Phishing
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+# RPiList-Win10 Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+# RPiList-Cryptojacking
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+# RPiList-Notserious
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
+# RPiList-Spam.Mails
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+# RPiList-Proxies
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
+# RPiList-Samsung
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+# RPiList-Pornblock (Disabled, too big of a list (Over 9 million domains), keeps crashing the compiler)
+https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock1
+https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock2
+https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock3
+https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock4
+https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock5
+https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock6
+# Spam404
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+# Prigent-Malware
+https://v.firebog.net/hosts/Prigent-Malware.txt
+# Prigent-Adult (Disabled, too big of a list (Over 4 million domains), keeps crashing the compiler)
+https://v.firebog.net/hosts/Prigent-Adult.txt

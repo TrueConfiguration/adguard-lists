@@ -24,3 +24,6 @@ I'm certain that except from some very specific cases, most of these will alread
 
 > This lists are provided *as-is*, and are designed with my personal use and preferences in mind, and WILL break some internet services, because I'm ok with sacrificing some convenience for privacy.
 > I also experiment a lot with these lists, so things will break from time to time until I figure out what and why is broken and fix it. 
+> Therefore in no event shall this list, or the list author be liable for any indirect, direct, punitive,
+> special, incidental, or consequential damages whatsoever. By downloading or viewing, or using
+> this list, you are accepting these terms and the license.
