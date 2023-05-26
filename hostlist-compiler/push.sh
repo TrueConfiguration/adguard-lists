@@ -5,7 +5,7 @@
 # in another instance/machine, it may be required to manually update paths.
 
 # Fetch remote
-/usr/bin/git pull 
+/usr/bin/git fetch 
 
 # Check for local changes
 if ! /usr/bin/git diff-index --quiet HEAD --; then
