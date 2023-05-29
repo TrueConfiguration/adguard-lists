@@ -6,10 +6,6 @@
 
 # Fetch remote
 /usr/bin/git fetch 
-if ! /usr/bin/git diff --quiet origin/$(git symbolic-ref --short HEAD); then
-  # Pull and merge remote changes
-  /usr/bin/git pull
-fi
 
 # Check for local changes
 if ! /usr/bin/git diff-index --quiet HEAD --; then
