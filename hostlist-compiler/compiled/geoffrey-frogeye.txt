@@ -3,7 +3,7 @@
 ! Description: First-party trackers host list
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2023-05-26T23:00:26.789Z
+! Last modified: 2023-05-29T23:00:28.667Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -25,16 +25,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v3.0.0
-# List generation date: 2023-05-27T00:13:54+02:00
+# List generation date: 2023-05-30T00:13:56+02:00
 # Oldest record: 2021-12-31T14:30:24+01:00
 # Number of source websites: 873
 # Number of source subdomains: 18981
-# Number of source DNS records: 18042
+# Number of source DNS records: 18028
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14130, ip4s: 64, zones: 48
+# Subsequent rules: asns: 6, hostnames: 14131, ip4s: 64, zones: 48
 # … no dupplicates: asns: 6, hostnames: 11898, zones: 48
-# Output rules: hostnames: 14130
+# Output rules: hostnames: 14131
 #
 ||101230059950694.wt-eu02.net^
 ||106075.genieessp.com^
@@ -2409,6 +2409,7 @@
 ||gbc8.sg1.as.criteo.com^
 ||gbc8.va.us.criteo.com^
 ||gbc.criteo.com^
+||gbc.nl3.vip.prod.criteo.com^
 ||gblock.greenhousedata.com^
 ||gbr.pg.com^
 ||gbs1.supdecreation.com^
