@@ -11,5 +11,5 @@
       "transformations": ["Compress", "Validate"]
     }
   ],
-  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine", "RemoveComments"]
 }
