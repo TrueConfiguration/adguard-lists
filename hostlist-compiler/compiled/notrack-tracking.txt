@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2023-06-05T23:00:53.097Z
+! Last modified: 2023-06-07T23:00:54.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -68,9 +68,11 @@
 ||53b270bc32.com^
 ||58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com^
 ||5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com^
+||5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com^
 ||5min.com^
 ||5nt1gx7o57.com^
 ||5ovrmmmoubi71efvatfd.com^
+||5umpz4evlgkm.com^
 ||5xd3jfwl9e8v.com^
 ||63r2vxacp0pr.com^
 ||65twenty.com^
@@ -360,6 +362,7 @@
 ||ads.twitter.com^
 ||ads.veterinaren.nu^
 ||ads.viber.com^
+||ads.viralize.tv^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads1.knxs.net^
@@ -582,6 +585,7 @@
 ||amgdgt.com^
 ||amnyescsmgcagjj.com^
 ||amobee.com^
+||amountdonutproxy.com^
 ||amp.services^
 ||amplience.com^
 ||amplitude.com^
@@ -1159,6 +1163,7 @@
 ||byteinstitution.com^
 ||bytesabbreviation.com^
 ||bzgint.com^
+||bzwo2lmwioxa.com^
 ||c-api-bit.shopeemobile.com^
 ||c-ctrip.com^
 ||c-rtb.com^
@@ -1385,6 +1390,7 @@
 ||concertads-configs.vox-cdn.com^
 ||concisepressing.com^
 ||condenastdigital.com^
+||condolencespicturesquetracks.com^
 ||condolencessumcomics.com^
 ||conductmassage.com^
 ||confidethirstyfrightful.com^
@@ -2837,6 +2843,7 @@
 ||metrics.kmsmep.com^
 ||metrics.media-amazon.com^
 ||metrics.mzstatic.com^
+||metrics.onewegg.com^
 ||metrics.pico.tools^
 ||metrics.plex.tv^
 ||metrics.postoffice.co.uk^
@@ -4597,6 +4604,7 @@
 ||mkt11609.com^
 ||mkt1161.com^
 ||mkt11611.com^
+||mkt11612.com^
 ||mkt11613.com^
 ||mkt11615.com^
 ||mkt11616.com^
@@ -4613,8 +4621,10 @@
 ||mkt11629.com^
 ||mkt1163.com^
 ||mkt11631.com^
+||mkt11632.com^
 ||mkt11634.com^
 ||mkt11637.com^
+||mkt11638.com^
 ||mkt11639.com^
 ||mkt1164.com^
 ||mkt11640.com^
@@ -4631,9 +4641,11 @@
 ||mkt11666.com^
 ||mkt11669.com^
 ||mkt1167.com^
+||mkt11670.com^
 ||mkt11671.com^
 ||mkt11672.com^
 ||mkt11674.com^
+||mkt11675.com^
 ||mkt11676.com^
 ||mkt11677.com^
 ||mkt1168.com^
@@ -4643,6 +4655,8 @@
 ||mkt1169.com^
 ||mkt117.com^
 ||mkt1170.com^
+||mkt11700.com^
+||mkt11701.com^
 ||mkt1171.com^
 ||mkt1172.com^
 ||mkt1173.com^
@@ -16042,6 +16056,7 @@
 ||tiqcdn.com^
 ||tiqcloud.com^
 ||tkqlhce.com^
+||tl.foxnews.com^
 ||tl813.com^
 ||tm-awx.com^
 ||tm1-001.com^
