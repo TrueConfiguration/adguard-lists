@@ -259,6 +259,24 @@
 @@appboy-images.com^$important
 @@rest.iad-03.braze.com^$important
 
+! yokoffing (https://github.com/yokoffing/NextDNS-Config)
+! Apple iMessage GIFs / Spotlight Search
+@@smoot.apple.com^$important
+! Apple Store
+@@amp-api-edge.apps.apple.com^
+@@amp-api-search-edge.apps.apple.com^
+! Xiaomi device updates 
+@@update.intl.miui.com^$important
+! YouTube history
+@@s.youtube.com^$important
+! Epic Games Launcher
+@@eulatracking-public-service-prod06.ol.epicgames.com^$important
+! NVIDIA Gefore Experience
+@@gfe.nvidia.com^$important
+@@nvgs.nvidia.cn^$important
+! Imgur
+@@js.media-lab.ai^$important
+
 ! Personal day to day whitelist
 ! Ubuntu apt repositories
 ! Canonical uses subdomains to point to mirrors

@@ -3,6 +3,23 @@
 ! Contributed by: https://www.github.com/TrueConfiguration
 ! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
+! yokoffing (https://github.com/yokoffing/NextDNS-Config)
+! Apple tracking domains
+||xp.apple.com (unblock for device updates!)
+||acfeedbackws.icloud.com^
+||api-adservices.apple.com^
+||feedbackws.fe.apple-dns.net^
+||feedbackws.icloud.com^
+||iadsdk.apple.com^
+||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
+||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns^
+! Twitter tracker
+||syndication.twitter.com^
+! NVidia Geforce Experience
+||events.gfe.nvidia.com^
+
 ! Intrusive Licensing modules
 ||uds.licenses.adobe.com^
 ! Office telemetry
@@ -230,7 +247,31 @@
 ||unagi.amazon.com^
 ||unagi-na.amazon.com^
 
-! Google's new (very) dangerous TLDs
+! Dangerous TLDs
 ||zip^
 ||foo^
 ||mov^
+||.bid^
+||.cfd^
+||.discount^
+||.gdn^
+||.loan^
+||.loans^
+||.ooo^
+||.sbs^
+||.agency^
+||.buzz^
+||.cf^
+||.dad^
+||.esq^
+||.ga^
+||.gq^
+||.ml^
+||.mov^
+||.nexus^
+||.phd^
+||.prof^
+||.pw^
+||.tk^
+||.top^
+||.zone^
