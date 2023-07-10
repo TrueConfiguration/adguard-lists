@@ -3,7 +3,7 @@
 ! Description: Prigent-Ads, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2023-07-05T12:22:48.060Z
+! Last modified: 2023-07-10T11:23:32.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Ads.txt
 !
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 28MAY23 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 09JUL23 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 # List corrections can be requested upstream at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0nlinemeds.com^
 ||1-2-money.com^
@@ -71,6 +71,7 @@
 ||a135.wftv.com^
 ||a2dfp.net^
 ||aaddzz.com^
+||aadrm.com^
 ||abacho.net^
 ||abackchain.com^
 ||abandonedaction.com^
@@ -411,6 +412,7 @@
 ||adlabs.ru^
 ||adland.ru^
 ||adlantis.jp^
+||adleadevent.com^
 ||adledge.com^
 ||adlegend.com^
 ||adlightning.com^
@@ -467,6 +469,7 @@
 ||adotmob.com^
 ||adotomy.com^
 ||adotube.com^
+||adpartner.pro^
 ||adpenguin.biz^
 ||adpepper.dk^
 ||adpepper.nl^
@@ -1112,6 +1115,7 @@
 ||adtechjp.com^
 ||adtechus.com^
 ||adtegrity.net^
+||adtelligent.com^
 ||adthis.com^
 ||adthrive.com^
 ||adtiger.de^
@@ -1141,6 +1145,7 @@
 ||adv.wp.pl^
 ||adv.yo.cz^
 ||advariant.com^
+||adventori.com^
 ||adventory.com^
 ||adverserve.net^
 ||advert.bayarea.com^
@@ -2080,7 +2085,6 @@
 ||getclicky.com^
 ||getlack.net^
 ||getwisdom.io^
-||ghb.adtelligent.com^
 ||giddycoat.com^
 ||glam.com^
 ||glispa.com^
@@ -2096,6 +2100,7 @@
 ||go-clicks.de^
 ||go-rank.de^
 ||go2affise.com^
+||go2cloud.org^
 ||goingplatinum.com^
 ||goldstats.com^
 ||gondolagnome.com^
@@ -2112,7 +2117,6 @@
 ||gracefulsock.com^
 ||grandioseguide.com^
 ||grapeshot.co.uk^
-||graph.instagram.com^
 ||greetzebra.com^
 ||greyinstrument.com^
 ||greystripe.com^
@@ -2235,6 +2239,8 @@
 ||immensehoney.com^
 ||imonitor.nethost.cz^
 ||imp20.com^
+||impactify.io^
+||impactify.media^
 ||importedincrease.com^
 ||impossibleexpansion.com^
 ||impresionesweb.com^
@@ -2425,6 +2431,7 @@
 ||loveandchic.com^
 ||lovelypackage.com^
 ||lp3tdqle.com^
+||lpsnmedia.net^
 ||lucidmedia.com^
 ||lucklayed.info^
 ||lumpyleaf.com^
@@ -2897,6 +2904,7 @@
 ||pub.nomade.fr^
 ||pub.petitfute.com^
 ||pub.realmedia.fr^
+||pub.tappx.com^
 ||pub.uchimit.fr^
 ||pubdirecte.com^
 ||publicidad.elmundo.es^
@@ -3541,6 +3549,7 @@
 ||vitabri.com^
 ||vitrine.buscape.com.ar^
 ||vizu.com^
+||vlyby.com^
 ||vmmpxl.com^
 ||voicefive.com^
 ||voicevegetable.com^
