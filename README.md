@@ -19,6 +19,7 @@ I'm certain that except from some very specific cases, most of these will alread
 - [`blacklist.txt`](./blacklist-regex.txt) and [`blacklist-regex.txt`](./blacklist-regex.txt): contains the domains that I collected and compiled myself or got from forums/discourses, Discord, other lists and servers etc. and use on my AGH instance. Credit for each (where possible) is in the file's comments.
 - [`whitelist.txt`](./whitelist.txt) and [`whitelist-regex.txt`](./whitelist-regex.txt): contains the domains that I found that broke important things in my day-to-day use. Also has lists I got from various sources, as described above, credits in the comments.
 - [`filter-list-blacklist.txt`](./filter-list-blacklists.txt) and [`filter-list-whitelist.txt`](./filter-list-whitelists.txt): contains the source lists that I use in my AGH.
+- [`ip-blacklist.txt`](./ip-blacklist.txt): List of blacklisted IP Addresses. Will not work with AGH or Pi-hole, it's designed to be used with firewall software, to deny connections to telemetry and other spyware that does not rely on DNS.
 
 ---
 
