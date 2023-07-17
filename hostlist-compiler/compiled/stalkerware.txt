@@ -3,7 +3,7 @@
 ! Description: Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
 ! License: CC-BY
-! Last modified: 2023-07-05T12:24:15.706Z
+! Last modified: 2023-07-17T09:02:07.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -63,6 +63,7 @@
 ||api.childsafetytrackerapp.com^
 ||api.clevguard.com^
 ||api.cp.onemonitar.com^
+||api.findmykids.org^
 ||api.flexispy.com^
 ||api.free-spy.com^
 ||api.lifecircle.app^
@@ -285,6 +286,7 @@
 ||mtf.re^
 ||mtoolapp.biz^
 ||mtoolapp.net^
+||mtracker.fortess.net^
 ||mxspy.com^
 ||my-spy-a9c92.firebaseio.com^
 ||my.aispyer.com^
@@ -295,6 +297,7 @@
 ||my.thespyapp.com^
 ||my.thetruthspy.com^
 ||myappmobile-537f7.firebaseio.com^
+||mycloud.wisemo.com^
 ||mydwnd.com^
 ||mzpgfh.uhabq9.com^
 ||n6sm2m.celltracker.io^
@@ -410,6 +413,7 @@
 ||q12z.net^
 ||q95294fs.beget.tech^
 ||quanly24h.net^
+||r.findmykids.org^
 ||rc-api.lifecircle.app^
 ||rcomlogin.com^
 ||realtime-spy-mobile.com^
@@ -577,7 +581,9 @@
 ||webwatcherdata.com^
 ||webwatchernow.com^
 ||wethnc067.xyz^
+||where-is-my-children.firebase.io^
 ||wmdcommander.appspot.com^
+||wss.findmykids.org^
 ||www.bark.us^
 ||www.mspy.com^
 ||www.sentrypc.download^
