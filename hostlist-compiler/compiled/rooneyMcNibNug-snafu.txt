@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-07-12T13:21:11.461Z
+! Last modified: 2023-07-18T09:00:38.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -562,7 +562,6 @@
 ||vice-web-statics-cdn.vice.com^
 ||o0bc.com^
 ||listgrowth.ctctcdn.com^
-||coveo.com^
 ||hare.tamgrt.com^
 ||moengage.com^
 ||go.singular.net^
@@ -8900,6 +8899,26 @@
 ||spocs.getpocket.com^
 ||linksynergy.com^
 ||ws.pusherapp.com^
+||blitz.coveo.com^
+||monitoringdev.cloud.coveo.com^
+||npra-usageanalytics.cloud.coveo.com^
+||usageanalyticshipaa.cloud.coveo.com^
+||hg.corp.coveo.com^
+||mbg.corp.coveo.com^
+||vsvr-landeskprx01.corp.coveo.com^
+||vsvr-sccm02.corp.coveo.com^
+||vsvr-sophos01.corp.coveo.com^
+||vsvr-symantec.corp.coveo.com^
+||impact.coveo.com^
+||marketing.coveo.com^
+||mtl2016.coveo.com^
+||munki.coveo.com^
+||pages.coveo.com^
+||path.coveo.com^
+||staticassets.coveo.com^
+||usageanalytics.coveo.com^
+||usageanalyticsdev.coveo.com^
+||usageanalyticsstaging.coveo.com^
 ||v20.events.data.microsoft.com^
 ||databrokerservice.trafficmanager.net^
 ||databrokerservice2.trafficmanager.net^
