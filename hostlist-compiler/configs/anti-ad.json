@@ -1,0 +1,16 @@
+{
+  "name": "Anti-Ad",
+  "description": "Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.",
+  "homepage": "https://github.com/privacy-protection-tools/anti-AD",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Anti-Ad",
+      "source": "https://anti-ad.net/easylist.txt",
+      "type": "adblock",
+      "exclusions": ["@@||"],
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
