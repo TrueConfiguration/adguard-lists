@@ -1,0 +1,73 @@
+{
+  "name": "anudeepND Whitelist",
+  "description": "Collection of commonly white listed domains for Pi-Hole®",
+  "homepage": "https://github.com/anudeepND/whitelist",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "Optional",
+      "source": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt",
+      "type": "hosts",
+      "exclusions": [
+        "device-metrics-us-2.amazon.com",
+        "device-metrics-us.amazon.com",
+        "cognito-identity.us-east-1.amazonaws.com",
+        "unagi-na.amazon.com",
+        "det-ta-g7g.amazon.com",
+        "todo-ta-g7g.amazon.com",
+        "device-messaging-na.amazon.com",
+        "sqs.us-east-1.amazonaws.com",
+        "*fbcdn.net",
+        "fbcdn-creative-a.akamaihd.net",
+        "facebook.com",
+        "*.facebook.com",
+        "facebook.net",
+        "*.facebook.net",
+        "graph.instagram.com",
+        "fbsbx.com",
+        "*.fbsbx.com",
+        "google-analytics.com",
+        "*.google-analytics.com",
+        "lotustalk.com",
+        "*.lotustalk.com",
+        "cdns.gigya.com",
+        "assets.adobedtm.com",
+        "weeklyad.target.com",
+        "m.weeklyad.target.com",
+        "weeklyad.target.com.edgesuite.net",
+        "d2c8v52ll5s99u.cloudfront.net",
+        "f1.media.brightcove.com",
+        "adobe.com",
+        "*.adobe.com",
+        "*.adnxs.com",
+        "*.smartadserver.com"
+
+      ],
+      "transformations": ["Compress", "Validate"]
+    },
+    {
+      "name": "Referral sites",
+      "source": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt",
+      "type": "hosts",
+      "exclusions": [
+        "doubleclick.net",
+        "*.doubleclick.net",
+        "clickserve.cc-dt.com",
+        "tradetracker.net",
+        "*.tradetracker.net",
+        "tradedoubler.com",
+        "*.tradedoubler.com",
+        "adform.net",
+        "*.adform.net"
+      ],
+      "transformations": ["Compress", "Validate"]
+    },
+    {
+      "name": "Whitelist",
+      "source": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "InvertAllow", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
