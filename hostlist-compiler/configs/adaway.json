@@ -1,0 +1,15 @@
+{
+  "name": "AdAway default blocklist",
+  "description": "Blocking mobile ad providers and some analytics providers.",
+  "homepage": "https://github.com/jdlingyu/ad-wars/",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "AdAway",
+      "source": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
