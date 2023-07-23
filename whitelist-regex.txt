@@ -17,9 +17,12 @@
 ! Postimg (service for users to embed images in forums
 @@/^(i\.)?postimg\.cc$/$important
 ! Oracle cloud control panel
-@@/^telemetry-ingestion\.\w{2}-\w+-\d\.oraclecloud\.com/$important
+@@/^telemetry(-ingestion)?\.\w{2}-\w+-\d\.oraclecloud\.com$/$important
+@@/^console-telemetry\.\w{2}-\w+-\d{1}\.oci\.oraclecloud\.com$/$important
 ! Canonical uses subdomains to point to mirrors in Ubuntu apt repositories
 @@/^(\w+\.)?(archive|security|ports)\.ubuntu\.com$/$important
+! VS Code/Visual Studio Marketplace domains
+@@/^mads-hartmann\.gallery(cdn)?\.vsassets\.io$/$important
 
 ! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
 ! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
