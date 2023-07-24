@@ -3,9 +3,9 @@
 ! Description: Collection of commonly white listed domains for Pi-Hole®
 ! Homepage: https://github.com/anudeepND/whitelist
 ! License: MIT License
-! Last modified: 2023-07-23T09:02:18.887Z
+! Last modified: 2023-07-24T14:10:05.318Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.22
+! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 !
 ! Source name: Optional
@@ -36,8 +36,11 @@
 # Facebook
 # Fix - Images not loading on www.thecut.com
 @@|pixel.nymag.com^
+<<<<<<< HEAD
+=======
 # GeForce Experience
 @@|events.gfe.nvidia.com^
+>>>>>>> 224c7a6434ba5f1b9e453c99337f138072de303a
 # GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
 @@|prod.telemetry.ros.rockstargames.com^
 # Host files
@@ -231,7 +234,10 @@
 @@|giphy.com^
 @@|github.com^
 @@|github.io^
+<<<<<<< HEAD
+=======
 @@|googleapis.com^
+>>>>>>> 224c7a6434ba5f1b9e453c99337f138072de303a
 @@|gravatar.com^
 @@|gstatic.com^
 @@|help.ui.xboxlive.com^
