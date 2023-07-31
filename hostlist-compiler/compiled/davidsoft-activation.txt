@@ -3,7 +3,7 @@
 ! Description: This is a list of categorized domains, with additional entries for wildcard blocking. The domains are documented as to keep a record of what is being blocked or allowed.
 ! Homepage: https://github.com/DRSDavidSoft/additional-hosts
 ! License: MIT License
-! Last modified: 2023-07-05T12:22:25.765Z
+! Last modified: 2023-07-31T09:00:12.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -213,6 +213,7 @@ autodesk.fi
 # Avast
 ||ns2.avast.com^
 ||pns.avast.com^
+# BartelsMedia ShareMouse
 ||bartelsmedia.com^
 # BitSum and Process Lasso
 ||activate.bitsum.com^
@@ -279,6 +280,12 @@ autodesk.fi
 ||pf.iobit.com^
 ||iunins.iobit.com^
 ||sd.iobit.com^
+# IsoBuster
+||isobuster.net^
+||cdrecovery.net^
+||isobuster.com^
+||smart-projects.net^
+||pvh.smart-projects.biz^
 # iSkysoft
 ||cbs.iskysoft.com^
 # Lumion3D
