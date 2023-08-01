@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2023-07-22T09:00:16.104Z
+! Last modified: 2023-08-01T09:00:16.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21JUL23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 01AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
 # List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
@@ -2903,6 +2903,7 @@
 ||api-js.mixpanel.com^
 ||a.pikabu.ru^
 ||api.nobeta.com.br^
+||api.privacyguides.net^
 ||api.ryanyao.design^
 ||apis.4bn.xyz^
 ||api.wipmania.com^
@@ -3318,6 +3319,7 @@
 ||au.mywd.com^
 ||auntants.com^
 ||aurora-d3.herokuapp.com^
+||aurum.tirto.id^
 ||aus.amexforbusiness.com.au^
 ||ausclh.castlery.com^
 ||auspiciousyard.com^
@@ -4430,6 +4432,7 @@
 ||collector-px0py5pczn.octopart.com^
 ||collector.rn.de^
 ||collector.schibsted.io^
+||collector-soompi.viki.io^
 ||collector.sspinc.io^
 ||collectorsvc.apac.vesta.io^
 ||collector-videoplayer.5centscdn.net^
@@ -5036,6 +5039,7 @@
 ||d761erxl2qywg.cloudfront.net^
 ||d810.mysanantonio.com^
 ||d81mfvml8p5ml.cloudfront.net^
+||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||da.bodenhaus.de^
 ||d.adlpo.com^
 ||da.hornbach.at^
@@ -5644,6 +5648,7 @@
 ||d.shareaholic.com^
 ||d.shopprecouriers.com^
 ||d.skk.moe^
+||d.sondakika.com^
 ||d.sourcepoint.capitalfm.com^
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||dspx.tv^
@@ -6580,7 +6585,6 @@
 ||fek1.fnactickets.com^
 ||feldman.net.anwalt.de^
 ||f-emc.ngsp.gov.vn^
-||fennec.atp.fox^
 ||fetch.gethuan.com^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
@@ -6632,6 +6636,7 @@
 ||floodprincipal.com^
 ||flowerstreatment.com^
 ||flowerycreature.com^
+||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||flow.kiloutou.fr^
@@ -6686,6 +6691,7 @@
 ||fourfork.com^
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
+||fourtimessmelly.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
 ||fpa-cdn.decrypt.co^
@@ -6879,6 +6885,7 @@
 ||geo.ertya.com^
 ||geo.gfycat.com^
 ||geo.gorillanation.com^
+||geoip.apps.avada.io^
 ||geoip.ativo.com^
 ||geoip.boredpanda.com^
 ||geoip.finanzen.net^
@@ -7633,6 +7640,7 @@
 ||icmakp.united-arrows.tw^
 ||i.compendium.com^
 ||i.congressionalfcu.org^
+||iconmediapixel.com^
 ||iconnode.com^
 ||icu.getstorybox.com^
 ||id5-sync.com^
@@ -8261,7 +8269,6 @@
 ||iot-business.vodafone.com^
 ||ip2c.landscape.co.jp^
 ||ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws^
-||ipapi.tmbi.com^
 ||ipcfgw.pieces.com^
 ||ipcheck.blogsys.jp^
 ||ip.cliphunter.com^
@@ -8341,6 +8348,7 @@
 ||jaomlf.giftmall.co.jp^
 ||jas.indeednps.com^
 ||javascriptcounter.appspot.com^
+||jcmonitor.xcar.com.cn^
 ||jcpclick.com^
 ||jcplzp.lancel.com^
 ||jcr3.onlyyouhotels.com^
@@ -8516,7 +8524,6 @@
 ||k.laredoute.pt^
 ||k.laredoute.ru^
 ||k.laredoute.se^
-||klm-ea.jscrambler.com^
 ||kn81kivjwwc7.www.logology.co^
 ||knapia.weightwatchers.com^
 ||knorzj.wearfigs.com^
@@ -9261,7 +9268,6 @@
 ||livelyreward.com^
 ||live.onamp.com^
 ||livestats.kaltura.com^
-||livestats.la7.tv^
 ||livestats.matrix.it^
 ||liveviewer.ez.no^
 ||liveyield.com^
@@ -9402,7 +9408,6 @@
 ||longingtrees.com^
 ||looseloaf.com^
 ||l.ooyala.com^
-||lore.circulate.com^
 ||lorenzourban.com^
 ||l.orna.me^
 ||losslace.com^
@@ -10210,7 +10215,6 @@
 ||massivemark.com^
 ||mastertag.kpcustomer.de^
 ||mastertag.q-sis.de^
-||ma.tarnkappe.info^
 ||materialexample.com^
 ||materialisticfan.com^
 ||materialisticmark.com^
@@ -11079,6 +11083,7 @@
 ||myprofile.panasonic.eu^
 ||myprofile.technics.eu^
 ||my.showin.gs^
+||mysingleromance.com^
 ||mysite.webroot.com^
 ||my-staging.villa.ge^
 ||my.stbarth.com^
@@ -11746,6 +11751,7 @@
 ||pedropanther.com^
 ||pegasusplate.com^
 ||pegasus.unifygroup.com^
+||peiq.de^
 ||p.ejs.dev^
 ||pemskb.unitedcinemas.jp^
 ||penspade.com^
@@ -11905,7 +11911,6 @@
 ||pkg.balluff.com^
 ||pkiawn.konvy.com^
 ||pkimbc.bestsecret.com^
-||p.kolplay.com^
 ||pl.1feed.app^
 ||placeframe.com^
 ||placidperson.com^
@@ -12092,7 +12097,6 @@
 ||p.meilentrio.de^
 ||p.metrilo.com^
 ||pm.geniusmonkey.com^
-||p.milliyet.com.tr^
 ||pm.pmu.fr^
 ||pm.redbull.com^
 ||p.neil.gg^
@@ -12192,6 +12196,7 @@
 ||procroanalytics.com^
 ||prod-events.nykaa.com^
 ||prod.ew.srp.navigacloud.com^
+||prod.fennec.atp.fox^
 ||prodhome1analyticslistener.mysoluto.com^
 ||proditor.sparda.de^
 ||prod.nitrosniffer.ottogroup.io^
@@ -12290,7 +12295,6 @@
 ||puffypull.com^
 ||puffypurpose.com^
 ||puiwrs.misterspex.de^
-||pulsarback.mail.ru^
 ||pulsar.ebay.com^
 ||pulse.delta.com^
 ||pumlmb.netcologne.de^
@@ -12410,6 +12414,7 @@
 ||quantum.actonservice.com^
 ||quarterbean.com^
 ||qubitanalytics.appspot.com^
+||query.petametrics.com^
 ||quesid.com^
 ||questintegrity.actonservice.com^
 ||questionableobservation.com^
@@ -12788,7 +12793,6 @@
 ||rs.sinajs.cn^
 ||rs.smc.tf^
 ||rstat.rockmostbet.com^
-||r.stripe.com^
 ||rsx.afterpay.com^
 ||rta2.inews.co.uk^
 ||rta2.metro.co.uk^
@@ -16182,6 +16186,7 @@
 ||staging-link.docyt.com^
 ||staging-links.thriveglobal.com^
 ||staging.narrateapp.com^
+||staging-pt.ispot.tv^
 ||staging-refer.rooam.co^
 ||staging.refer.wagr.us^
 ||stakingscrew.com^
@@ -16271,7 +16276,6 @@
 ||stat.ouedkniss.com^
 ||stat.ovh^
 ||stat.pet^
-||stat.ppstream.com^
 ||stat.pravmir.ru^
 ||stat.pubhtml5.com^
 ||stat.ringier.sk^
@@ -16380,6 +16384,7 @@
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
 ||stats.cable.tech^
+||stats.calcalist.co.il^
 ||stats.callnowbutton.com^
 ||stats.canadapost.ca^
 ||stats.canadapost-postescanada.ca^
@@ -16752,7 +16757,6 @@
 ||stats.mt.com^
 ||stats.muchbetteradventures.com^
 ||stats.multiply.cloud^
-||stats.myangular.life^
 ||stats.navedislam.com^
 ||stats.nddmed.com^
 ||stats.nebula.fi^
@@ -17391,6 +17395,7 @@
 ||t2.hulu.com^
 ||t2.t2b.click^
 ||t.360.audion.fm^
+||t.360playvid.info^
 ||t3e.firstchoice.co.uk^
 ||t.3hentai.net^
 ||t570.wiltonbulletin.com^
@@ -18247,7 +18252,6 @@
 ||tracker.timesgroup.com^
 ||tracker.tolvnow.com^
 ||tracker.tubecj.com^
-||tracker.tv.sohu.com^
 ||tracker.unbxdapi.com^
 ||tracker.wigzopush.com^
 ||tracker.winload.de^
@@ -18325,7 +18329,6 @@
 ||tracking.bankofoklahoma.com^
 ||tracking.bankoftexas.com^
 ||tracking.base.de^
-||tracking.bd4travel.com^
 ||tracking.behaarteladies.de^
 ||tracking.bettingexpert.com^
 ||tracking.bizarrladies.de^
@@ -18427,6 +18430,7 @@
 ||tracking.hobbyladies.de^
 ||tracking.hsn.com^
 ||tracking.hyros.com^
+||tracking.immobilienscout24.de^
 ||tracking.info.jeffersonhealth.org^
 ||tracking.info.methodisthealthsystem.org^
 ||tracking.info.zetes.com^
@@ -19391,6 +19395,7 @@
 ||trk.thebenchfactory.com^
 ||trk.themspsummit.com^
 ||trk.thomaspumps.com^
+||trk.tirto.id^
 ||trk.trashcontainers.com^
 ||trk.treetopproducts.com^
 ||trk.tricontinent.com^
@@ -19940,6 +19945,7 @@
 ||try.kickback.money^
 ||try.klarsmile.app^
 ||try.popchart.family^
+||try-snowplow.com^
 ||tryzens-analytics.com^
 ||tr.zojh.espmp-aluk.net^
 ||tsa.taxslayer.com^
@@ -19969,6 +19975,7 @@
 ||ts.popsugar.com^
 ||t.spot.im^
 ||ts.tradetracker.net^
+||t.syosetu.org^
 ||t-test.esvdigital.com^
 ||t.texasperformingarts.org^
 ||t.texassports.com^
@@ -20326,7 +20333,6 @@
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||visit.sendheirloom.com^
 ||visit.tafensw.edu.au^
-||visit.webhosting.yahoo.com^
 ||visit.xchina.pics^
 ||visor.sberbank.ru^
 ||visualscience.external.bbc.co.uk^
