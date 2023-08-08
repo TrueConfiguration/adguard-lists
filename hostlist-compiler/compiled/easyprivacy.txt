@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2023-08-01T09:00:16.619Z
+! Last modified: 2023-08-08T09:00:16.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 07AUG23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
 # List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
@@ -11144,6 +11144,7 @@
 ||net.iberia.com^
 ||netinsight.actonservice.com^
 ||net.jumia.com.eg^
+||netlify-rum.netlify.app^
 ||netmailcsr11.net.anwalt.de^
 ||net.steiner-vision.de^
 ||net.toom.de^
