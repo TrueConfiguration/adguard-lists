@@ -20,7 +20,7 @@
 @@/^telemetry(-ingestion)?\.\w{2}-\w+-\d\.oraclecloud\.com$/$important
 @@/^console-telemetry\.\w{2}-\w+-\d{1}\.oci\.oraclecloud\.com$/$important
 ! Canonical uses subdomains to point to mirrors in Ubuntu apt repositories
-@@/^(\w+\.)?(archive|security|ports)\.ubuntu\.com$/$important
+@@/^(.+\.)?(archive|security|ports)\.ubuntu\.com$/$important
 ! VS Code/Visual Studio Marketplace domains
 @@/^mads-hartmann\.gallery(cdn)?\.vsassets\.io$/$important
 
