@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-08-25T09:00:39.281Z
+! Last modified: 2023-08-29T09:00:47.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -987,9 +987,6 @@
 ||segment.a3cloud.net^
 ||www.t.a3cloud.net^
 ||krux.com^
-||www.skydeo.com^
-||api.skydeo.com^
-||location-api.skydeo.com^
 ||www.appnexus.com^
 ||ip802363.ams1.appnexus.com^
 ||anex.appnexus.com^
@@ -3698,6 +3695,16 @@
 ||analytics.samba.tv^
 ||metrics.samba.tv^
 ||mtrcs.samba.tv^
+||dev.api.recommendations.samba.tv^
+||spotlight.samba.tv^
+||devices.samba.tv^
+||usw2-prod.api.recommendations.samba.tv^
+||stage.api.recommendations.samba.tv^
+||prod.api.recommendations.samba.tv^
+||insights.samba.tv^
+||pro-us.api.recommendations.samba.tv^
+||realtime.data.samba.tv^
+||usw2-preprod.api.recommendations.samba.tv^
 ||www.popin.cc^
 ||47news.popin.cc^
 ||a.popin.cc^
@@ -11580,3 +11587,37 @@
 ||star.fallback.c10r.facebook.com^
 ||click.listen360.com^
 ||stats.revenuecat.com^
+||datonics.com^
+||peer39.com^
+||navegg.com^
+||visualdna.com^
+||teletrax.com^
+||gourmetads.com^
+||brandwatch.com^
+||cardlytics.com^
+||retargetly.com^
+||sirdata.com^
+||audienceproject.com^
+||dstillery.com^
+||dataxtrade.com^
+||audiens.com^
+||alliancegravity.com^
+||datmean.com^
+||theadex.com^
+||digiseg.io^
+||semasio.com^
+||weareilluma.com^
+||captifytechnologies.com^
+||emetriq.com^
+||skydeo.com^
+||ignitionone.com^
+||greenhousegroup.com^
+||alikeaudience.com^
+||veeva.com^
+||scibids.com^
+||weborama.com^
+||inuvo.com^
+||playgroundxyz.com^
+||audienzz.ch^
+||hyscore.io^
+||jellyfish.com^
