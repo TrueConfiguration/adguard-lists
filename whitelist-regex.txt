@@ -14,7 +14,7 @@
 @@/^(www\.)?g2\.com$/$important
 ! Instagram photos
 @@/^instagram\.\w+\-\d\.fna.fbcdn\.net$/$important
-! Postimg (service for users to embed images in forums
+! Postimg (service for users to embed images in forums)
 @@/^(i\.)?postimg\.cc$/$important
 ! Oracle cloud control panel
 @@/^telemetry(-ingestion)?\.\w{2}-\w+-\d\.oraclecloud\.com$/$important
@@ -25,6 +25,8 @@
 @@/^mads-hartmann\.gallery(cdn)?\.vsassets\.io$/$important
 ! Mastodon instances
 @@/^(files\.)?strangeobject\.space$/$important
+! Tumblr
+@@/^(www\.)?tumblr\.com$/$important
 
 ! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
 ! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/

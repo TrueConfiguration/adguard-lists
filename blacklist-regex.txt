@@ -4,7 +4,7 @@
 ! Contributed by: https://www.github.com/TrueConfiguration
 ! Source: https://www.github.com/TrueConfiguration/adguard-lists
 
-! Blocks AMP (disabled due to Firefox Extensions doing their jobs well)
+! Blocks AMP [NOTE]: disabled due to Firefox Extensions doing their jobs well
 ! /^(.+[_.-])?amp(project)?\./
 
 ! Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
@@ -127,7 +127,7 @@
 /(^|\\.)unityads(|\\.co)\\.com/
 /([A-Za-z0-9.-]*\\.)?clicks\\.beap\\.bc\\.yahoo(\\.\\w{2}\\.\\w{2}|\\.\\w{2})/
 
-! Email trackers (browser extensions would probably work better, but this is a failsafe)
+! Email trackers [NOTE]: browser extensions would probably work better, but this is a failsafe
 ! Sources: https://github.com/OneClickLab/ugly-email-trackers/ and trackers I collected myself
 /(^|.+\.)sidekickopen[0-9]{2}\.com$/
 /(^|.+\.)signale[a-z]{3,6}\.com$/
@@ -150,3 +150,8 @@
 /(^|.+\.)marketing.intercom-mail-\d{3}.com$/
 /(^|.+\.)t.sidekickopen\d{2}.com$/
 /(^|.+\.)t.sigopn\d{2}.com$/
+
+! Personal list
+! Microsoft ads in notification bar [NOTE]: testing
+/^\w{2}\d\w{2}\.delivery\.mp\.microsoft.com$/
+/^\w{2}\d{3}\.prod\.do\.dsp\.mp\.microsoft.com$/

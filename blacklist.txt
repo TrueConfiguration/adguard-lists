@@ -25,7 +25,7 @@
 ! Office telemetry
 ||messaging.action.office.com^
 ||messaging.engagement.office.com^
-! Email trackers (browser extensions would probably work better, but this is a failsafe)
+! Email trackers [NOTE]:browser extensions would probably work better, but this is a failsafe
 ||mailtrack.io^
 ||email.wetransfer.com^
 ||beacon.krxd.net^
@@ -230,13 +230,13 @@
 ||manage.devcenter.microsoft.com^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
 ! ||config.teams.microsoft.com^ # Microsoft Teams sucks, but I'll have to comment this because of work
-! Microsoft uses this domains to sync, monitor and modify your Windows Settings
+! Microsoft uses this domains to sync, monitor and remotelly modify your Windows Settings
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
-! CAUTION Microsoft Smartscreen (I already have antivirus, thank you)
+! CAUTION Microsoft Smartscreen [NOTE]: I already have antivirus, thank you
 ||smartscreen.microsoft.com^
 ||smartscreen-prod.microsoft.com^
-! Amazon trackers (don't break shopping, Kindle working nice so far)
+! Amazon trackers [NOTE]: don't break shopping, Kindle working nice so far
 ||amazon-adsystem.com^
 ||aax-us-west.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
@@ -246,32 +246,35 @@
 ||assoc-na.associates-amazon.com^
 ||unagi.amazon.com^
 ||unagi-na.amazon.com^
+! Microsoft ads in notification bar [NOTE]: testing
+||geover.prod.do.dsp.mp.microsoft.com^
+||cxcs.microsoft.net^
 
 ! Dangerous TLDs
 ||zip^
 ||foo^
 ||mov^
-||.bid^
-||.cfd^
-||.discount^
-||.gdn^
-||.loan^
-||.loans^
-||.ooo^
-||.sbs^
-||.agency^
-||.buzz^
-||.cf^
-||.dad^
-||.esq^
-||.ga^
-||.gq^
-||.ml^
-||.mov^
-||.nexus^
-||.phd^
-||.prof^
-||.pw^
-||.tk^
-||.top^
-||.zone^
+||bid^
+||cfd^
+||discount^
+||gdn^
+||loan^
+||loans^
+||ooo^
+||sbs^
+||agency^
+||buzz^
+||cf^
+||dad^
+||esq^
+||ga^
+||gq^
+||ml^
+||mov^
+||nexus^
+||phd^
+||prof^
+||pw^
+||tk^
+||top^
+||zone^
