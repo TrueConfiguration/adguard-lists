@@ -1,0 +1,15 @@
+{
+  "name": "GameIndustry.eu hosts file for Games, - Gamingclients & Launcher",
+  "description": "Increased protection against spyware, advertising, analytics, tracking in games",
+  "homepage": "https://github.com/KodoPengin",
+  "license": "CC BY-NC-SA 4.0",
+  "sources": [
+    {
+      "name": "GameIndustry.eu hosts file for Games, - Gamingclients & Launcher",
+      "source": "https://raw.githubusercontent.com/KodoPengin/GameIndustry-hosts-Template/master/Gaming-Full-Template/hosts",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
