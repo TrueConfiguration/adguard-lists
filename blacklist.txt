@@ -18,8 +18,15 @@
 ||weather-analytics-events.news.apple-dns^
 ! Twitter tracker
 ||syndication.twitter.com^
-! NVidia Geforce Experience
+! NVidia Geforce Telemetry
 ||events.gfe.nvidia.com^
+||lightstep.kaizen.nvidia.com^
+||telemetry.gfe.nvidia.com^
+||gfe.nvidia.com^
+||accounts.nvgs.nvidia.com^
+||images.nvidiagrid.net^
+||rds-assets.nvidia.com^
+||assets.nvidiagrid.net^
 
 ! Intrusive Licensing modules
 ||uds.licenses.adobe.com^
