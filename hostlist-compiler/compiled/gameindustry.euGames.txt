@@ -1,0 +1,6202 @@
+!
+! Title: GameIndustry.eu hosts file for Games, - Gamingclients & Launcher
+! Description: Increased protection against spyware, advertising, analytics, tracking in games
+! Homepage: https://github.com/KodoPengin
+! License: CC BY-NC-SA 4.0
+! Last modified: 2023-09-14T11:18:17.123Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.22
+!
+!
+! Source name: GameIndustry.eu hosts file for Games, - Gamingclients & Launcher
+! Source: https://raw.githubusercontent.com/KodoPengin/GameIndustry-hosts-Template/master/Gaming-Full-Template/hosts
+!
+||localhost.localdomain^
+# 18.66.112.79
+# 18.66.112.80
+# 18.66.112.34
+# 18.66.112.40
+||geo.battle.net^
+# 142.250.185.142
+# 172.217.16.206
+||dl.google.com^
+# 24.105.29.76
+||telemetry-in.battle.net^
+# 23.213.161.6
+# 23.213.161.13
+# 2.22.242.10
+# 2.22.242.138
+||blzddist1-a.akamaihd.net^
+# 37.244.28.103
+||alert-eu.battle.net^
+# Drittanbieterspyware, Werbung und Monetarisierung
+# Ip/s blockieren:
+# 142.250.185.168
+# 172.217.16.206
+# 142.250.185.110
+# 142.250.184.196
+||www.googletagmanager.com^
+# Ip/s blockieren:
+# 173.194.76.156
+# 173.194.76.157
+# 173.194.76.154
+# 173.194.76.155
+# 108.177.15.154
+||stats.g.doubleclick.net^
+# Ip/s blockieren:
+# 162.247.241.14
+||bam.nr-data.net^
+# Ip/s blockieren:
+# 146.75.122.137
+||js-agent.newrelic.com^
+# Ip/s blockieren:
+# 104.108.78.219
+# 95.101.196.144
+# 52.205.152.194
+||cdn.optimizely.com^
+||logx.optimizely.com^
+# Ip/s blockieren:
+# 23.55.163.75
+# 23.55.163.68
+||insights-collector.gog.com^
+# Ip/s blockieren:
+# 46.105.121.139
+||galaxy-client-reports.gog.com^
+# Ip/s blockieren:
+# 77.79.249.152
+# 77.79.249.151
+||galaxy-log.gog.com^
+# Ip/s blockieren:
+# 23.55.163.74
+||presence.gog.com^
+# Benachrichtigungen
+# 23.55.163.63
+# 23.55.163.64
+# 91.222.185.224
+||notifications.gog.com^
+||notifications-pusher.gog.com^
+# Unsortiertes Zeug
+# 23.55.163.57
+# 23.55.163.77
+||gameplay.gog.com^
+||script.hotjar.com^
+||vars.hotjar.com^
+||static.hotjar.com^
+||c.go-mpulse.net^
+||confluence.ea.com^
+||consent.trustarc.com^
+||events.split.io^
+||gosca18.ea.com^
+||pin-river.data.ea.com^
+||ratt.juno.ea.com^
+||s.go-mpulse.net^
+# Origin Launcher
+# Weiterhin auf dem MAC präsent
+# Für den Client oder Spiele nicht benötigt
+# 34.230.177.100
+# 34.202.75.252
+||vpc-prod-heartbeat-439069019.us-east-1.elb.amazonaws.com^
+||pin-em.data.ea.com^
+||recommendations.tnt-ea.com^
+||2e33b7cf.mpstat.us^
+||gen4.reports.tools.gos.ea.com^
+||stage.secure.download.dm.origin.com^
+||dirtybits.api.origin.com^
+# Neu dabei - geprüft Februar 2020
+# 34.199.132.106
+# 34.226.66.159
+# 52.4.13.87
+# 52.5.70.71
+# 52.44.9.38
+# 52.4.13.87
+||information-api-gateway-prod-blck.us-east-1.elasticbeanstalk.com^
+# Sonstiges
+||09b5a91c7f2d383e9.gs.ea.com^
+||0cf6c0df87dc9f73e.gs.ea.com^
+||0a0f2aa0965ed4a40.gs.ea.com^
+||036bdce1effdafbb4.gs.ea.com^
+||05196775c0912488b.gs.ea.com^
+||03e0279355465f8bc.gs.ea.com^
+||0c14eda1ff93d3986.gs.ea.com^
+||0543d8862727cf1e0.gs.ea.com^
+||07a7ad9333cabe619.gs.ea.com^
+||0ab2c6e49da4a3502.gs.ea.com^
+||0c3d0ff1cff2a72a9.gs.ea.com^
+||0dc5948d07b2684c3.gs.ea.com^
+||03fd2e58e769a6f1f.gs.ea.com^
+||03a4c502020d4ea47.gs.ea.com^
+||03f94b757df37da66.gs.ea.com^
+||09b039b90ee5e48a6.gs.ea.com^
+||0955daf526e15ad28.gs.ea.com^
+||0df42cc7484911469.gs.ea.com^
+||0bcd99b427f2ef101.gs.ea.com^
+||04b59136e1a643f38.gs.ea.com^
+||01e4757ac7e1e56c4.gs.ea.com^
+||0b0449e21a4a7e7ba.gs.ea.com^
+||0a7a1e036169de01a.gs.ea.com^
+||0679d175b8912d4d7.gs.ea.com^
+||0bb5efe081f99e8d0.gs.ea.com^
+||qos2.ol.epicgames.com^
+||qos3.ol.epicgames.com^
+||qos4.ol.epicgames.com^
+||merchantpool1.epicgames.com^
+# Version 1
+||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
+# Version 2
+||eos-gateway-ingressv2-prod-c1-w2.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c1-w4.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c1-w5.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c2-w1.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c2-w2.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c2-w3.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c2-w4.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c2-w5.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c3-w1.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c3-w2.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c3-w5.befa.live.use1a.on.epicgames.com^
+||metrics.ol.epicgames.com^
+# Analytics, Affiliate und Geodatenerfassung
+# 52.2.190.222
+# 54.158.82.37
+# 52.22.160.221
+# 35.153.174.108
+# 34.192.176.27
+# 52.20.219.23
+# 50.17.125.216
+# 34.228.118.104
+# 52.202.229.103
+# 35.188.42.15
+# 34.194.59.21
+# 34.202.239.176
+# 52.202.229.103
+# 3.222.153.230
+# 3.227.104.71
+# 34.228.176.58
+# 54.242.72.161
+# 52.6.71.146
+# 52.22.147.232
+||datarouter.ol.epicgames.com^
+||datarouter-prod.ak.epicgames.com^
+||accounts.launcher-website-prod07.ol.epicgames.com^
+||tracking-website-prod07-epic-96184209.us-east-1.elb.amazonaws.com^
+||tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com^
+||eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com^
+||sentry.io^
+||events.elev.io^
+||bam-cell.nr-data.net^
+||fpt.dfp.microsoft.com^
+||fpt.microsoft.com^
+||d1dxcvubdbe4ji.cloudfront.net^
+# Epic Games Datarouter
+# Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
+||datarouter-weighted.ol.epicgames.com^
+# Paradox Interactive AB
+# Paradox Launcher
+# Telemetrie und Tracking
+||usage.trackjs.com^
+||capture.trackjs.co^
+||prod-telemetry.paradox-interactive.com^
+||opstm.paradoxplaza.com^
+# CDN und Stammadresse der API
+||cds.s3v6b9i5.hwcdn.net^
+||d3.shared.global.fastly.net^
+||sourcemaps.paradox-interactive.com^
+||prs-rgl-prod.ros.rockstargames.com^
+||ps-rgl-prod.ros.rockstargames.com^
+||tm-rgl-prod.ros.rockstargames.com^
+||rsgames.s.llnwi.net^
+||e8290.dscd.akamaiedge.net^
+# Spyware, Werbung und Tracker
+# 15.236.176.210
+# 18.66.112.34
+# 18.66.112.34
+# 34.107.143.101
+# 34.102.161.46
+# 54.171.36.61
+# 142.250.184.226
+# 142.250.185.134
+# 142.250.186.46
+# 142.250.185.97
+# 142.250.185.118
+# 172.217.18.4
+# 142.250.184.227
+# 142.250.185.170
+# 172.217.16.206
+# 151.101.1.26
+# 18.66.138.159
+# 151.101.1.26
+||smetrics.ubi.com^
+||try.abtasty.com^
+||dcinfos-cache.abtasty.com^
+||ariane.abtasty.com^
+||dpm.demdex.net^
+||googleads.g.doubleclick.net^
+||static.doubleclick.net^
+||jnn-pa.googleapis.com^
+||polyfill.io^
+||cdn.cquotient.com^
+# Valve Corporation | Valve Softworks | Steam Client
+# Dazugehörige Infos unter https://gameindustry.eu/katalog/valve-corporation/#GoogleCaptive
+# Seit Version 1637358733 inaktiv
+# Steam: Captive Portal und Google
+||gstatic.com^
+# Neuer Versuch mit Callbacks seit Clientversion 1652399523 - IPv4 nicht vollständig
+# 95.101.27.151
+# 2.16.107.155
+# 23.213.161.93
+# 23.213.161.77
+# 62.115.252.177
+||test.steampowered.com^
+# 34.102.245.185
+||google.cdn.steampipe.steamcontent.com^
+# 205.185.216.10
+||f3b7q2p3.ssl.hwcdn.net^
+||steamcdn-uswest.storage.googleapis.com^
+||steam-cdn-storage.iam.gserviceaccount.com^
+# Clouduploads direkt über IP
+# 208.64.201.182 # /depotupload/xxxxx/manifest und chunk
+# Nicht authorisierte Clouduploads
+||steamcloudfrankfurt.blob.core.windows.net^
+||steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com^
+||steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com^
+# Steam: Crashlogs | Telemetrie
+# Ip/s blockieren:
+# 208.64.203.140
+# 208.64.203.173
+# 23.55.163.64
+||crash.steampowered.com^
+||collector-01.valve.net^
+||collector-02.valve.net^
+||r3.o.lencr.org^
+# Steam: Datagram Relay | SDR
+# Ipv4 Download - https://www.gameindustry.eu/de/blog/steam-datagram-relay/
+# Steamworks Info - https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay
+# Steam: Game Overlay UI
+# Ip/s blockieren:
+# 52.58.211.18
+||ec2-52-58-211-18.eu-central-1.compute.amazonaws.com^
+# Steam: General Directory Server - Dienst obsolet
+# Ip/s blockieren:
+# 208.64.200.105
+||a1737.b.akamai.net^
+||208-64-200-105.steampowered.com^
+||gds1.steampowered.com^
+||gds2.steampowered.com^
+||gds3.steampowered.com^
+||gds4.steampowered.com^
+# Steam: IP Checks
+# Von Valve eingeführte verpflichtende Callbacks im Steam-Client und UE4 Produkten, die allerdings blockiert werden können
+# Dazugehörige IP-Adressen unter https://gameindustry.eu/katalog/valve-corporation/#SteamIPChecks
+||ipv6check-http.steamcontent.com^
+||ipv6check-udp.steamcontent.com^
+||ipv6check-udp.steamserver.net^
+||ipv6check-http.steamserver.net^
+||http.ipv6check.akadns.net^
+||udp.ipv6check.akadns.net^
+||origin-ip-selector.steampipe.steamcontent.akadns.net^
+||blob.syd26prdstr02a.store.core.windows.net^
+# Steam: SteamWebhelper.exe
+||limited-prod.giphy.map.fastly.net^
+# Ip/s blockieren:
+# 151.101.12.193
+# 151.101.112.193
+# 172.217.12.206
+# 190.61.17.9
+||prod.imgur.map.fastlylb.net^
+||fpdownload2.macromedia.com^
+# Ip/s blockieren:
+# 172.217.12.206
+# 216.58.207.238
+# 216.58.212.136
+# 172.217.22.162
+# 216.58.211.6
+# 173.194.222.154
+||www-google-analytics.l.google.com^
+||ssl-google-analytics.l.google.com^
+||pagead46.l.doubleclick.net^
+||static-doubleclick-net.l.google.com^
+||stats.l.doubleclick.net^
+# Steam: Unkategorisiert
+# 2a02:26f0:105:0:0:0:216:16d3
+||steampipe.akamaized.net^
+||steamstats.valvesoftware.com^
+||t.paypal.com^
+# Desktop-SpieleVerbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen
+# Adressen sind einzeln je Produkt nach Publishernamen aufgeführt
+# Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste
+# jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
+# 赤燭遊戲 | RedCandleGames
+# Devotion
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||unity-ai-dp-prd.cdp.internal.unity3d.com^
+||cdp.cloud.unity3d.com^
+||40.113.111.34.bc.googleusercontent.com^
+||212.82.111.34.bc.googleusercontent.com^
+# 北京网元圣唐娱乐科技有限公司
+# 神舞幻想 Faith of Danschant
+# s. Eintrag Steam: IP Checks
+||patch.swhx.wangyuan.com^
+# 灰烬天国 | The ashes of heaven
+# 旧手表 - Old Watch
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 冷笑黑妖 | Smiling Black Goblin
+# 趣拼拼：肖像画 - Pleasure Puzzle:Portrait
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 萌豆游戏 | Meng Dou Game
+# 辣条杂货店:令人感动的童年回忆，经典策略模拟经营解密
+# Ip/s blockieren:
+# 120.27.101.247
+||mengstone.com^
+||sf.symcd.com^
+# Verbindungen während der Installation
+||trace-report.tgp.qq.com^
+||btrace.video.qq.com^
+||ied-tqos-tgp.qq.com^
+||speed.tgp.qq.com^
+# 125.39.213.39
+# 14.215.140.28
+# 117.144.245.229
+||s2.symcb.com^
+||ss.symcb.com^
+# Endpunkte
+||ec2-3-133-172-110.us-east-2.compute.amazonaws.com^
+||ec2-3-14-169-209.us-east-2.compute.amazonaws.com^
+||j1b3yju9.tweb.sched.ovscdns.com^
+# Носков Сергей
+# 35MM
+||stats.unity3d.com^
+# 3dm_live_wallpapers
+# Endless Universe 2 PC Live Wallpaper
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 430 Games
+# Project: Mirror
+# Ip/s blockieren:
+# 35.190.78.8
+||perf-events.cloud.unity3d.com^
+||8.78.190.35.bc.googleusercontent.com^
+# 5 Lives Studios
+# Satellite Reign
+||icanhazip.com^
+# 104.18.115.97
+# 3.125.235.203
+# 69.163.186.167
+||mm.unet.unity3d.com^
+||satellitereign.com^
+# Endpunkte
+||prod-mm.unet.unity3d.com^
+||ec2-3-125-235-203.eu-central-1.compute.amazonaws.com^
+||mc.yandex.ru^
+||pagead2.googlesyndication.com^
+# 10tons Ltd
+# JYDGE
+# 208.64.200.105
+# Ip/s blockieren:
+# 52.72.141.108
+# 54.164.66.28
+# 18.215.25.247
+||api.gameanalytics.com^
+||live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com^
+# Spellspire
+# 54.225.115.127
+||10tonsnews.the10tons.com^
+# Tesla Force
+# 208.64.200.105
+# 11 Bit Studios
+# Anomaly Warzone Earth
+||11bitstudios.com^
+||stripensrq.global.ssl.fastly.net^
+||m.stripe.network^
+||insights.hotjar.com^
+# 18Light Game Ltd.
+# 螢幕判官 Behind the Screen
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 1C Company
+# Ancestors Legacy
+# Fall of Light: Darkest Edition
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Off-Road Drive
+||go.1c-softclub.ru^
+||files01.1csc.ru^
+# Through the Woods
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 1C Company & 1C-Softclub
+# Men of War: Assault Squad
+||www.digitalmindsoft.eu^
+# 1C Entertainment
+# Conglomerate 451
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Devil’s Hunt
+# s. Eintrag Steam: IP Checks
+# Re-Legion
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# 2D Boy
+# World of Goo
+# Direktverbindung 26347 New Dream Network, LLC, USA
+# 173.236.227.51
+||worldofgoo.com^
+||2dboy.com^
+||news.services.gearboxsoftware.com^
+||ds5xe9s324bea.cloudfront.net^
+||d10zutxas1s022.cloudfront.net^
+# Borderlands I GOTY Enhanced
+# Ip/s blockieren:
+# 143.204.181.17
+# 54.85.209.51
+# 3.86.176.14
+||discovery.services.gearboxsoftware.com^
+||maw.services.gearboxsoftware.com^
+# Borderlands 3
+# s. Rubrik Kopierschutz / AntiCheat
+# 143.204.202.59
+# 34.234.19.21
+# 18.234.5.223
+# 52.204.28.194
+# 34.202.206.150
+# 13.227.69.112
+# 13.227.69.72
+# 13.227.69.116
+# 3.209.124.197
+# 54.235.171.242
+# 3.92.101.22
+# 34.197.7.46
+# 54.172.165.189
+# 34.200.42.162
+# 52.3.141.17
+# 52.201.157.142
+# 34.236.197.234
+# 34.225.218.122
+# 3.91.127.255
+# 54.205.208.180
+# 13.227.69.9
+# 13.227.69.72
+# 34.225.210.130
+# 50.19.61.192
+# 3.225.206.247
+# 52.204.239.183
+# 3.225.125.26
+# 52.44.74.179
+# 107.21.201.48
+# 54.234.81.101
+# 138.91.17.112
+# 23.98.144.17
+# 51.136.18.233
+# 52.187.224.118
+# 74.201.106.168
+# 74.201.106.132
+||cdn.services.gearboxsoftware.com^
+||promotions.api.2kcoretech.online^
+# Mafia III
+# Telemetry64.dll im Installationsordner löschen! Adressen sind für Telemetrie und Onlinefunktion zuständig
+# 2.16.107.49
+# 2.16.107.18
+# 2.16.107.3
+# 23.32.238.152
+||download-t2gp.take2games.com^
+||a1915.dscd.akamai.net^
+# 104.18.7.148
+||content.t2gp.take2games.com^
+||content.t2gp.take2games.com.cdn.cloudflare.net^
+# Crashlytics & Telemetrie - crashagent64.exe im Appdata Verzeichnis löschen
+# 100.24.218.233
+# 54.83.181.250
+# 34.196.182.210
+||discovery.api.2kcoretech.online^
+||telemetry.api.2kcoretech.online^
+||34acf0414d836d3f8d491c6186153694.my.2k.com^
+# NBA 2K17
+# NBA2K17.exe Server Zwangsverbindung
+||nba2k17-ws.2ksports.com^
+# Sid Meier's Ace Patrol & Pacific Skies
+||www.take2games.com^
+||forums.2kgames.com^
+# Launchpad
+# Ip/s blockieren:
+# 180.213.167.255
+# 54.209.151.59
+# 52.72.178.179
+||2klauncher.2kcoretech.online^
+||d19mxcar6gop8d.cloudfront.net^
+||p.typekit.net^
+||downloads.2kgames.com^
+||entitlements.api.2kcoretech.online^
+# CivilizationVI_DX12.exe
+# Ip/s blockieren:
+# 54.80.164.237
+||api.2kgames.com^
+# Spec Ops: The Line
+||p.line.dev.2kgames.com^
+# WWE 2K17
+# 192.81.242.188
+||prod-win32-sp.wwe17.2ksports.com^
+# WWE 2K18
+# 192.81.242.176
+||prod-win32-sp.wwe18.2ksports.com^
+# WWE 2K19
+# 104.255.107.194
+||prod-win32-sp.wwe19.2ksports.com^
+# XCOM: Enemy Unknown
+# 192.81.242.201
+# 91.225.12.178
+# 162.254.197.54
+# 155.133.226.75
+# 155.133.252.54
+# 162.254.197.39
+# 155.133.226.78
+# 104.81.42.15
+# 162.254.198.104
+||prod.xcom-ew.firaxis.com^
+||launcher-tests.s3.amazonaws.com^
+# Telemetrie & Analytics
+||b656b83278346cc12b09f7641962ca20.firaxislive.net^
+||datagather.xsolla.com^
+||xlauncher-logs.s3.amazonaws.com^
+||www.drdump.com^
+# 38,9_Degrees
+# Forest Escape
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Free Bowling 3D
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 99 Game Studio
+# Bitcoin Tycoon Mining Simulation Game
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 505 Games
+# Abzû
+# s. Rubrik Kopierschutz / AntiCheat
+# Control Ultimate Edition
+# Traffic läuft über die steam.exe
+# Ip/s blockieren:
+# 34.96.113.148
+||collect14853cntrl.deltadna.net^
+||balanced-collect.deltadna.net^
+||148.113.96.34.bc.googleusercontent.com^
+||pro-us-east-1-infra-211691592.us-east-1.elb.amazonaws.com^
+# Underworld Ascendant
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# 505 Games und All In! Games
+# Ghostrunner
+# Ip/s blockieren:
+# 34.96.113.148
+# 2600:1901:0:15bb::
+||collect16548ghstr.deltadna.net^
+# 8-Bit Studio
+# Skara - The Blade Remains
+# Accounterstellung
+||27d9.playfabapi.com^
+# 9Heads Game Studios
+# Vitrum
+||terror-project.no-ip.org^
+# .ez Games
+# Riaaf the spider
+# 208.64.200.105
+# Abbey Games
+# Godhood
+# Ip/s blockieren:
+# 83.217.75.199
+||ingame.abbeygames.com^
+||subsites.abbeygames.com^
+||s2-cloudfront.prod.aws.demonware.net^
+||stun.us.demonware.net^
+||pipes-prod-glutton.public.aws.demonware.net^
+# Transformers™: Fall of Cybertron™
+# 185.34.107.68
+# 185.34.107.128
+# 239.255.255.250
+||hmstelemetry.activision.com^
+||stun.eu.demonware.net^
+# Acttil, LLC.
+# ビリオンロード | Billion Road
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Adriaan de Jongh
+# Hidden Folks
+# Adult Swim Games
+# Death's Gambit
+# 208.64.200.105
+# Volgarr the Viking
+# 208.64.200.105
+# Adventure Productions
+# Detective Gallo
+# 208.64.200.105
+# aeiowu
+# TumbleSeed
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||be3a2ea70ea68d04665ee5db91a73443.cloudfront.net^
+# Momodora: Reverie Under the Moonlight
+# 208.64.200.105
+# Murasaki
+# Wohl ehemalige Patchnotes. Seite ist nicht mehr existent. Adressen bereits verschachtelt im Configmenü aufgerufen
+||members.jcom.home.ne.jp^
+||maintenance.zaq.ne.jp^
+# AGM Playism & Vaka Game Magazine
+# Touhou Luna Nights
+# Ip/s blockieren:
+# 208.64.200.105
+# 151.139.241.29
+||ping.yoyogames.com^
+||vss-ns-eu.westeurope.cloudapp.azure.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Killing Room
+# Ip/s blockieren:
+# 216.58.212.174
+# 172.217.194.101
+# 185.107.56.198
+# Alexander Byzov
+# Microcosmum: survival of cells
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Alexander Goodwin
+# Mechanism
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Aleksandr Golovkin
+# Territory Idle
+# 208.64.200.105
+# Alexey Glinskiy
+# DeepFear
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Far Space Halloween Edition
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Alientrap
+# Apotheon
+# 208.64.200.105
+# Alister Software & Back to Basic Gaming
+# Star Chronicles: Delta Quadrant
+||www.catchafallingstargame.com^
+# All in! Games
+# Arboria
+# Ipv4 & Info: https://gameindustry.eu/katalog/gameanalytics/
+||ec2-3-86-19-32.compute-1.amazonaws.com^
+# Metamorphosis
+# s. Eintrag Steam: IP Checks
+# Almost Human Games
+# Legend of Grimrock II
+# 208.64.200.105
+# Alper Gonen
+# Lost Daughter
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Aluba Studio
+# 隐秘的角落 Demo
+# Steam Datagram Relay
+# Ip/s blockieren:
+# 35.190.78.8
+# Amanita Design
+# Samorost 3
+# Ip/s blockieren:
+# 95.85.51.118
+# 92.122.200.118
+||a92-122-200-118.deploy.static.akamaitechnologies.com^
+||airdownload2.adobe.com^
+||amanita-design.net^
+# Kinesis - Echtzeitanalysse, BigData und Verknüfpung zu anderen AWS Diensten
+# 52.119.211.247
+# 3.24.227.244
+# 3.123.12.204
+# 3.123.12.195
+# 3.24.227.249
+# 18.229.220.157
+# 34.223.45.95
+# 3.91.171.226
+||kinesis.ap-southeast-1.amazonaws.com^
+||kinesis.ap-southeast-2.amazonaws.com^
+||kinesis.ap-northeast-1.amazonaws.com^
+||kinesis.ap-northeast-2.amazonaws.com^
+||kinesis.sa-east-1.amazonaws.com^
+||kinesis.eu-central-1.amazonaws.com^
+||kinesis.us-west-2.amazonaws.com^
+||kinesis.us-east-1.amazonaws.com^
+# DynamoDB - PING / Callbacks
+# 52.94.17.24
+# 52.119.226.188
+# 52.94.13.34
+# 52.94.10.24
+# 52.94.7.6
+# 52.94.17.30
+# 52.119.224.126
+# 52.94.10.82
+# 52.94.7.10
+# 52.94.13.28
+# 52.94.7.78
+||dynamodb.ap-southeast-2.amazonaws.com^
+||dynamodb.eu-central-1.amazonaws.com^
+||dynamodb.us-east-1.amazonaws.com^
+||dynamodb.us-west-2.amazonaws.com^
+||dynamodb.sa-east-1.amazonaws.com^
+# Marketingtiles / Werbung / Ankündigungen
+# 52.92.144.186, 52.218.176.33, 3.229.133.91, 34.204.164.210
+||ags-nw-cms.s3.us-west-2.amazonaws.com^
+# Vivox Sprachchat
+# 52.28.150.142
+||anwxp0euc1.www.vivox.com^
+||www5-anwxp0euc1-elb-741467932.eu-central-1.elb.amazonaws.com^
+||watson.vivox.com^
+||u.heatmap.it^
+# Annapurna Interactive
+# Florence
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Gorogoa
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Outer Wilds
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Anshar Studios
+# Telefrag VR
+# Ip/s blockieren:
+# 34.199.168.162, 52.55.162.139
+# Antanas Marcelionis
+# The Howler
+# ingame zur Webseite dann mit Newrelic und Google Analytics - + Amazon und Facebook
+||howler.com^
+||dl.dropboxusercontent.com^
+# Arc System Works Co.,Ltd.
+# Battle Fantasia -Revised Edition-
+# 208.64.200.105
+# CHAOS CODE -NEW SIGN OF CATASTROPHE-
+# 208.64.200.105
+# KILL la KILL -IF
+# Valve Tracking und Google
+# 103.10.124.44
+# 103.10.125.146
+# 146.66.154.21
+# 146.66.155.37
+# 153.254.86.26
+# 155.133.230.68
+# 155.133.232.98
+# 155.133.233.99
+# 155.133.235.18
+# 155.133.238.162
+# 155.133.239.26
+# 155.133.245.35
+# 155.133.246.66
+# 155.133.248.37
+# 155.133.249.162
+# 155.133.252.34
+# 155.133.253.4
+# 155.133.254.139
+# 162.254.193.98
+# 162.254.195.70
+# 162.254.196.82
+# 162.254.192.99
+# 162.254.199.171
+# 162.254.198.42
+# 185.25.182.67
+# 185.25.183.18
+# 190.217.33.34
+# 205.185.194.50
+# 205.196.6.74
+# 34.85.40.62
+# 130.211.244.97
+# Arcen Games, LLC
+# A valley without Wind I
+||avww.s3.amazonaws.com^
+# A valley without Wind II
+# 52.217.100.44
+# 52.217.105.44
+# 52.217.202.121
+# 54.231.197.41
+# 54.231.234.9
+# 3.5.11.148
+# 3.5.21.21
+# 52.217.36.204
+# 104.26.8.123
+# 104.26.9.123
+# 172.67.75.33
+||valley2.s3.amazonaws.com^
+# Shattered Haven & Tidalis
+||shattered.s3.amazonaws.com^
+||arcengames.com^
+||master.arcengames.com.asp1-12.dfw1-2.websitetestlink.com^
+# Armnomads
+# Cubway
+# Ip/s blockieren:
+# 52.207.104.89
+# 18.233.196.129
+||ec2-18-233-196-129.compute-1.amazonaws.com^
+||ec2-52-207-104-89.compute-1.amazonaws.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Armor Games Studios
+# Soda Dungeon 2
+# Ip/s blockieren:
+# 143.204.202.100
+# 143.204.202.24
+# 143.204.202.102
+# 143.204.202.74
+||api.armorgamesstudios.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Art Games
+# Rivais Em Batalha
+# Ip/s blockieren:
+# 52.200.123.101
+# Artifex Mundi
+# Demon Hunter 2
+# 137.117.84.54
+# 168.62.224.13
+||promo.artifexmundi.com^
+||stats.artifexmundi.com^
+||am-crosspromo.azurewebsites.net^
+# Noir Chronicles: City of Crime
+# 137.117.84.54
+# 168.62.224.13
+||waws-prod-blu-003.cloudapp.net^
+# Path of Sin: Greed
+# 137.117.84.54
+# Time Mysteries 2: The Ancient Spectres
+# Asmodee Digital
+# Gloomhaven
+# Ip/s blockieren:
+# 37.97.173.216
+# 54.68.109.50
+# 54.68.218.77
+# 52.11.190.197
+# 44.230.19.200, 44.240.104.59
+# 44.235.193.223
+# 44.241.77.10
+# 44.235.106.219
+# 44.238.66.70
+||api.amplitude.com^
+||ldns.co^
+# Arkham Horror: Mother’s Embrace
+# Ip/s blockieren:
+# 34.218.96.104
+# 44.242.24.237
+# 35.155.166.209
+# 35.167.210.48
+# 52.35.102.127
+# 54.70.182.48
+# 52.12.28.12
+# 44.238.193.139
+# 54.148.207.83
+# Aspyr Media, INC.
+# >observer_
+||aspyr.com^
+# InnerSpace
+# Ip/s blockieren:
+# 54.231.176.252
+# 143.204.189.199
+# 52.218.244.130
+# 54.148.251.172
+# 54.192.13.43
+# 172.217.17.46
+||d3lwh93x96tiiu.cloudfront.net^
+||production-prolog.s3.amazonaws.com^
+||cs977204322.wpc.edgecastcdn.net^
+||vss-ns-us.eastus.cloudapp.azure.com^
+# Assemble Entertainment
+# Pizza Connection 3
+# siehe Eintrag Good old Games
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||api.taiga.io^
+# Twickles
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ropeway Simulator 2014
+||gametracker.z-software.net^
+# ATLUS USA
+# Rock of Ages II: Bigger & Boulder™
+||aceteam.cl^
+||www.darkfuture.info^
+||darkfutureblog.disqus.com^
+||aurochdigital.us7.list-manage2.com^
+||twemoji.maxcdn.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Automaton
+# Deceit
+# Youtube, Facebook,Twitter, Discord
+||party-server-1003106365.ap-northeast-2.elb.amazonaws.com^
+||party-beta.automaton.uk^
+# Aus dem Spiel heraus durch jeweilige Buttons aufgerufen
+||playdeceit.com^
+||www.automaton.uk^
+||broker.gog.com^
+||flox.cc^
+||a104-119-108-159.deploy.static.akamaitechnologies.com^
+||ec2-54-167-74-106.compute-1.amazonaws.com^
+||a184-30-20-134.deploy.static.akamaitechnologies.com^
+||e4578.dscb.akamaiedge.net^
+||crashreporter.avalanchestudios.com^
+||tracking2.avalanchestudios.com^
+||tracking2.avalanche.com^
+||westus.tts.speech.microsoft.com^
+# Ip/s blockieren:
+# 104.16.2.61
+# 104.16.1.61
+||metrics.avalanchestudios.com^
+||eos-gateway-ingressv2-prod-c1-w1.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingressv2-prod-c1-w3.befa.live.use1a.on.epicgames.com^
+# Awaken Realms Digital
+# Tainted Grail: Conquest
+# Ip/s blockieren:
+# 77.79.249.151
+# 77.79.249.152
+# 34.111.113.40
+# 34.111.82.212
+# 34.107.181.14
+# 35.190.78.8
+# 23.22.40.89
+# 3.229.219.216
+# 34.197.87.194
+# 34.204.19.11
+# 34.234.238.249
+# 44.194.7.240
+# 44.195.10.183
+# 44.208.61.7
+# 52.20.111.102
+# 52.20.18.177
+# 52.203.178.206
+# 52.204.205.198
+# 52.45.130.219
+# 52.55.19.219
+# 52.7.208.21
+# 52.87.16.128
+# 54.172.83.44
+# 54.196.119.130
+# 54.204.9.226
+# 54.234.242.38
+# 23.55.110.20
+# 23.55.110.21
+||userreporting.cloud.unity3d.com^
+||14.181.107.34.bc.googleusercontent.com^
+||p3.zdassets.com^
+# Back to basics Gaming
+# Ampersand
+||gamejolt.com^
+# Clergy Splode
+||pigravity.indieis.me^
+# Escape Machines
+# Ip/s blockieren:
+# 142.251.36.20
+||em-mintage-1.appspot.com^
+# Germ Wars
+# Badim
+# ConflictCraft
+||theelitegames.net^
+# Beware Planet Earth
+||www.lightmare-studio.com^
+# BLACK CLOVER: QUARTET KNIGHTS
+# s. Easy Anti-Cheat
+# 34.250.82.77
+||geenapptrack.com^
+# CODE VEIN
+# s. Rubrik Kopierschutz / AntiCheat
+# 35.186.241.36
+||cosmos.channel.or.jp^
+||36.241.186.35.bc.googleusercontent.com^
+||fra24s01-in-x03.1e100.net^
+||fra15s29-in-f3.1e100.net^
+||fra16s13-in-x03.1e100.net^
+||ams15s22-in-f163.1e100.net^
+# JUMP FORCE
+# s. Easy Anti-Cheat
+# Ip/s blockieren:
+# 52.203.187.25
+# Little Nightmares
+# 塊魂 | Katamari Damacy Reroll
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# MY HERO ONE'S JUSTICE
+||mha-oj.channel.or.jp^
+# Naruto to boruto: Shinobi Striker
+# 92.123.64.75
+||a348.dscd.akamai.net^
+# New Gundam Breaker
+# s. Rubrik Kopierschutz / AntiCheat
+# ワンピース ワールドシーカー | ONE PIECE World Seeker
+# 35.186.241.36
+# スカーレットネクサス | Scarlet Nexus
+# Ip/s blockieren:
+# 35.186.241.36
+# SD GUNDAM G GENERATION CROSS RAYS
+# Ip/s blockieren:
+# 35.186.241.36
+# 208.64.200.105
+# Soulcalibur VI
+# s. Rubrik Kopierschutz / AntiCheat
+# s. Eintrag Steam: IP Checks
+# Onlinezwang mit verknüpfter Telemetrie/Netzwerkcheck
+# Hier helfen nur der Steam Offlinemodus oder Cracks
+# 35.186.241.36
+# Sword Art Online: Fatal Bullet
+# SAOFB_Launcher.exe
+# s. Rubrik Kopierschutz / AntiCheat
+# Tales of Berseria
+# s. Rubrik Kopierschutz / AntiCheat
+# Tales of Symphonia
+# 208.64.200.105
+# Tales of Zestiria
+# 208.64.200.105
+# Tekken VII
+# 52.0.151.162
+# 54.88.211.84
+# 52.1.96.184
+# 35.170.111.251
+# 54.197.154.200
+# 34.237.117.11
+# 52.17.173.247
+# 151.101.18.133
+# 35.186.241.36
+# s. Eintrag Steam: IP Checks
+||ec2-34-237-117-11.compute-1.amazonaws.com^
+||ec2-52-1-96-184.compute-1.amazonaws.com^
+||ec2-52-73-80-233.compute-1.amazonaws.com^
+# Battenberg Software
+# On a Roll 3D
+# Youtube, Facebook & Twitter
+||www.battenbergsoftware.com^
+||metricsforfriends.zachbarth.webfactional.com^
+||host-77-79-249-151.gog.com^
+||host-77-79-249-152.gog.com^
+# Behaviour Interactive, Inc. | ehemals Starbreeze Studios
+# Dead by Daylight | Erneut überprüft 16.03.2020
+# s. Easy Anti-Cheat
+# 18.206.128.117
+# 13.225.73.112
+# 13.224.194.22
+# 143.204.97.25
+||gamelogs.live.bhvrdbd.com^
+||rtm.live.dbd.bhvronline.com^
+# Warhammer 40,000: Eternal Crusade
+# s. Eintrag Steam: IP Checks
+# s. Rubrik Kopierschutz / AntiCheat
+||wh40k-live-stashboard.appspot.com^
+||api-5-10-10.live.virginia.wh40k.bhvronline.com^
+# 13.55.230.143
+# 104.16.123.46
+# 104.16.124.46
+# 52.62.33.137
+||doommp-syd-httppingelb-383763479.ap-southeast-2.elb.amazonaws.com^
+||prod-syd-cf.zionprod.systems.cdn.cloudflare.net^
+# Heartbeat Callbackabfrage alle 30 Sekunden
+# 198.20.198.46
+||dfw-gobbler.doom.amok.systems^
+# # Amazon Kinesis - Echtzeitanalyse, Erfassung und Verwertung von Datenströmen | Sowie AWS Firehose als zusätzlicher Analytics & Tracker mit weiteren Schnittstellen
+# 143.204.15.65
+# 52.222.150.238
+# 52.222.150.80
+# 52.94.204.95
+# 52.222.150.220
+# 131.255.7.86
+# 103.120.66.52
+# 103.107.196.180
+||discovery.analytics.zion.idtech.services^
+||server-52-222-150-238.fra53.r.cloudfront.net^
+||firehose.eu-central-1.amazonaws.com^
+||firehose.us-east-1.amazonaws.com^
+||firehose.ap-northeast-1.amazonaws.com^
+||firehose.ap-southeast-2.amazonaws.com^
+# Peek Process
+# 18.66.248.13
+||boosters.e6125.platform.ghost.idtech.services^
+# Ingamewerbung
+# 18.66.248.59
+||static.platform.ghost.idtech.services^
+# Fallout 76
+# 74.201.103.214
+# 52.201.251.22
+# 13.33.18.252
+# 13.33.18.251
+# 13.33.18.47
+# 13.33.18.38
+# 3.134.18.201
+# 34.200.140.229
+# 13.33.18.242
+||prod-notification-websocket.bethesda.net^
+||crgateway.p76prod.systems^
+||cdn.fatfoogoo.com^
+# Voicechat-System | Bei Bedarf de/aktivieren
+# 64.207.141.79
+||fowp.www.vivox.com^
+||fowp.disp.vivox.com^
+||fowp.vivox.com^
+||stun.vivox.com^
+||echo2.vivox.com^
+||obt2-us-diagnostic-worker.qcapi.net^
+||prod-webso-l5ml87r2zmdi-481780765.us-east-1.elb.amazonaws.com^
+||artemis.bbbmetrics.net^
+# Big Fat Alien
+# Beep
+||eqlauncher.com^
+# Big Fat Simulations Inc.
+# Airport Madness 4
+# Ip/s blockieren:
+# 178.128.181.84
+# 23.223.224.134
+# 23.55.163.70
+||bigfatsimulations.com^
+||a1887.dscq.akamai.net^
+# Big Robot Ltd
+# The Signal From Tölva
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Big Sugar
+# Valfaris
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Bitlock Studio
+# Protect Me
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Bit Planet Games, LLC
+# The Battle of Sol
+||thebattleofsol.com^
+# BJGAMEIND
+# Neoballs
+# 208.64.200.105
+# Neoballs 2
+# Neosticks
+# BKOM Studios
+# Little Lords of Twilight
+||www.5rocks.io^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tales from Candlekeep: Tomb of Annihilation | Update 11.03.2019
+# Ip/s blockieren:
+# 52.72.141.108
+# 208.64.200.105
+# Black Dog Publishing
+# Tales from the Void
+||script.google.com^
+||script.googleusercontent.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Black Forest Games
+# Giana Sisters: Twisted Dreams
+||ds.blackforestgames.net^
+# Ip/s blockieren:
+# 108.177.119.100
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Blazing Griffin LTD.
+# Gentlemen!
+# Facebook, Twitter, Google/maps
+||luckyframe.co.uk^
+# Murderous Pursuits
+||cognito-identity.us-east-1.amazonaws.com^
+||loc.actual.battle.net^
+||internalcheck.corp.blizzard.net^
+# Blue Isle Studios
+# Citadel: Forged with Fire
+||blueislestudios.com^
+# Blue Sunset Games
+# Car Demolition Clicker
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Blueline Games
+# Khet 2.0 & Reversi
+||bluelinegamestudios.com^
+# Blue Mammoth Games
+# Brawlhalla
+# 199.229.253.200
+# Blyts
+# Kelvin and the Infamous Machine
+# 208.64.200.105
+# Bohemia Interactive
+# Arma 3
+# 152.199.19.74
+# 152.199.19.740
+# 18.233.183.114
+# 192.229.221.95
+# 213.192.54.136
+# 213.192.54.31
+# 213.192.54.36
+# 213.192.54.59
+# 44.195.220.48
+# 44.210.174.105
+# 51.195.88.1330
+# 52.203.226.70
+# 52.45.57.67
+# 54.162.207.203
+# 54.225.238.226
+# 54.85.206.143
+||in.treasuredata.com^
+# Arma Tactics
+||collect5588rmtct.deltadna.net^
+# Boogygames Studios
+# Solitaire - Cat Pirate Portrait
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Boxelware GmbH
+# Avorion
+# Ip/s blockieren:
+# 104.248.141.137
+||analytics.avorion.net^
+||rt.avorion.net^
+# Born Ready Games
+# Strike Suite Infinity
+||fnt.webink.com^
+||gdata.youtube.com^
+||strikesuitzero.com^
+||braceyourselfgames.com^
+||static.cloudflareinsights.com^
+# Brainbox Software
+# Dragon's Wake
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Brave Bunny
+# Curvatron
+# 208.64.200.105
+# Brilliant Game Studios
+# Ultimate Epic Battle Simulator
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Brilliant Skies Ltd.
+# From the Depths
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 67.225.180.24
+# 67.225.180.25
+||assets2.unity3d.com^
+||notifications-pusher-aws.gog.com^
+||newsletter.brightrockgames.com^
+||ams15s22-in-f14.1e100.net^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Bryan Tabor
+# Bird Game
+# 208.64.200.105
+# BTNcafe
+# Mold on Pizza
+# dauerhafte Onlineverbindung zwecks Statistiken bzw. Herkunftsland, Plattform, Grafikkarte/Hersteller, Angaben zu Levelabschnitten, Zeit, Schwierigkeitsgrad, Spracheinstellungen usw.
+# 208.64.200.105
+||mopdserver.btncafe.com^
+# Buddy Productions GmbH
+# Bud Spencer & Terence Hill - Slaps And Beans
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Bug-meister production
+# Click and Fight
+# Websocket
+# https://www.gstatic.com/chrome/config/plugins_2/plugins_win.json
+# Bulkhead Studios Corporation
+# Lightrise™
+||api.kii.com^
+||irc.gamesurge.net^
+# Bullid Games
+# Ninja Way
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Burning Daylight Team
+# Burning Daylight
+# Ip/s blockieren:
+# 100.25.57.141
+# BURP! Games
+# Deep Ones
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Butterscotch Senanigans
+# Crashlands
+# Amazonaws, Quantserve, Google, Google Analytics, GStatic, GoogleTagManager, Bandcamp, Imgix Anbindung
+# 208.64.200.105
+||id.bscotch.net^
+||www.crashlands.net^
+# Playfab Playload Playstream Telemetry
+# 20.42.151.188
+# 20.42.150.112
+||7402.playfabapi.com^
+||p-common-1-mainserver-720424357.us-west-2.elb.amazonaws.com^
+# Dark Void™
+# SecuROM s. Rubrik Kopierschutz / AntiCheat
+# デビル メイ クライ 5 | Devil may Cry 5
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 13.35.78.110
+||sag-api.capcom-s.jp^
+||d21s7hqn3pmzza.cloudfront.net^
+# 208.64.200.105
+# バイオハザード RE:2 | RESIDENT EVIL 2 / BIOHAZARD RE:2
+# s. Rubrik Kopierschutz / AntiCheat
+# RE NET
+# 104.46.227.235
+# 104.18.20.226
+||game2.residentevil.net^
+# バイオハザード RE:3 | Resident Evil 3 Remake 2020
+# 216.239.36.54
+# 2001:4860:4802:36::36
+||us-central1-escape-analysis.cloudfunctions.net^
+||pubsub.googleapis.com^
+||nobunaga.ayagu.jp^
+# Epic Games Analytics und Amazon AWS Anbindung
+# Ip/s blockieren:
+# 52.200.123.101
+# 54.244.108.50
+# 35.161.233.207
+# 34.220.253.90
+# 35.161.65.242
+# 34.221.17.53
+# 34.215.184.198
+# 34.214.222.226
+||ec2-52-200-123-101.compute-1.amazonaws.com^
+# バイオハザード7 | Resident Evil VII
+# 40.74.124.164
+||game.residentevil.net^
+# バイオハザード ヴィレッジ | Resident Evil Village
+# 13.224.193.35
+# 13.224.193.39
+# 142.250.185.234
+# 13.32.121.104
+# 13.32.121.26
+# 13.32.121.38
+# 13.32.121.101
+||mmr.rebe.capcom.com^
+||mtm.rebe.capcom.com^
+||mtms.rebe.capcom.com^
+||hjm.rebe.capcom.com^
+||selector.gs.capcom.com^
+||c379418fd6100691807f32f274ebe9ce.cloudfront.net^
+# Cardboard Keep
+# Warden: Melody of the Undergrowth
+||public.cloud.unity3d.com^
+# Carlos Coronado
+# Infernium
+# Optional mit Twitchanbindung
+||irc.chat.twitch.tv^
+||twitchapps.com^
+# Carry Castle AB
+# Source of Madness
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Cats Who Play
+# The Cat! Porfirio's Adventure
+# 208.64.200.105
+# CBE Software
+# Someday You’ll Return
+# s. Eintrag Steam: IP Checks
+# CD PROJEKT RED
+# Cyberpunk 2077
+# Auth, Users & Remote werden für Clientanmeldung, Clientdownload oder diverse Spiele mit GOG Mehrspielerfunktion benötigt
+# Don't use the launcher | Nicht den Launcher zum Start verwenden
+# Ip/s blockieren:
+# 23.50.131.23
+# 2.19.120.143
+# 192.229.233.146
+# 23.50.131.20
+# 23.50.131.28
+# 152.195.39.39
+# 192.229.233.146
+# 23.50.131.18
+# 152.199.21.209
+||galaxy-game-news.gog.com^
+# Akamai - Endpunkte
+# 23.55.163.12
+# 23.55.163.39
+# 84.53.175.145
+# 23.213.161.152
+# 23.213.161.136
+# 23.55.163.23
+# 23.62.98.43
+||a1973.dscb.akamai.net^
+||a23-55-163-20.deploy.static.akamaitechnologies.com^
+||a72-247-178-8.deploy.static.akamaitechnologies.com^
+||a72-247-178-33.deploy.static.akamaitechnologies.com^
+||a72-247-178-26.deploy.static.akamaitechnologies.com^
+||a23-55-163-12.deploy.static.akamaitechnologies.com^
+||a23-55-163-39.deploy.static.akamaitechnologies.com^
+||a84-53-175-145.deploy.static.akamaitechnologies.com^
+||a23-213-161-152.deploy.static.akamaitechnologies.com^
+||a23-213-161-136.deploy.static.akamaitechnologies.com^
+||a23-55-163-23.deploy.static.akamaitechnologies.com^
+||a23-62-98-43.deploy.static.akamaitechnologies.com^
+# GWENT: The Witcher Card Game
+# Ip/s blockieren:
+# 54.236.79.251
+# Auflistung für diesen Titel unvollständig. Weitere Adressen können dem Witcher Adventure Game und Thronebreaker entnommen werden
+||logs-01.loggly.com^
+||a1965.b.akamai.net^
+||a1332.b.akamai.net^
+||rs.gwallet.com^
+||collect14010thrnb.deltadna.net^
+# Charles University und Czech Academy of Sciences
+# Attentat 1942
+# Charyb Games
+# Take Thy Throne
+# 45.77.107.56
+# 46.101.214.231
+# 184.86.60.65
+||www.charyb.com^
+# Stardew Valley
+||blog.chucklefish.org^
+||www.stardewvalley.net^
+||www.playstarbound.com^
+||starbound.disqus.com^
+# Lords Of The Fallen™
+# Ip/s blockieren:
+# 54.229.135.185
+# 34.255.90.97
+# s. Rubrik Kopierschutz / AntiCheat
+# Sniper Ghost Warrior III
+# s. Rubrik Kopierschutz / AntiCheat
+# Sniper Ghost Warrior Contracts
+# s. Rubrik Kopierschutz / AntiCheat
+# Sniper Ghost Warrior Contracts 2
+# Ip/s blockieren:
+# 54.187.151.174
+# 52.25.28.180
+# 44.232.25.27
+# 54.69.73.155
+# 52.13.240.100
+# 44.241.14.193
+# 35.166.142.167
+# 52.32.181.204
+# 34.213.228.223
+# 52.25.28.180
+# 35.166.142.167
+# 54.190.230.201
+||34962.playfabapi.com^
+||ec2-44-232-25-27.us-west-2.compute.amazonaws.com^
+||ec2-54-69-73-155.us-west-2.compute.amazonaws.com^
+||ec2-52-13-240-100.us-west-2.compute.amazonaws.com^
+||ec2-44-241-14-193.us-west-2.compute.amazonaws.com^
+||ec2-35-166-142-167.us-west-2.compute.amazonaws.com^
+||ec2-52-32-181-204.us-west-2.compute.amazonaws.com^
+||ec2-34-213-228-223.us-west-2.compute.amazonaws.com^
+||ec2-52-25-28-180.us-west-2.compute.amazonaws.com^
+||ec2-54-190-230-201.us-west-2.compute.amazonaws.com^
+# Ip/s blockieren:
+# 31.182.60.150
+||cleversan.com^
+# CI Games S.A. & United Label S.A.
+# Eldest Souls
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Claudio Norori und Antonio Vargas
+# Arctico
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Clever Plays
+# Leap of Fate
+# Ip/s blockieren:
+# 3.95.70.162
+# 67.202.31.89
+# 34.195.177.63
+# 34.192.121.93
+# 3.94.27.207
+# 23.55.161.146
+# 23.55.161.147
+# 2.23.6.223
+# 2.23.6.201
+# 23.55.161.146
+# 23.55.161.177
+||b.scorecardresearch.com^
+# Weitere Endpunkte je nach IP zuzuordnen
+||ec2-52-201-163-195.compute-1.amazonaws.com^
+||a23-55-161-177.deploy.static.akamaitechnologies.com^
+||a23-55-161-146.deploy.static.akamaitechnologies.com^
+# Clickteam
+# Clickteam Fusion 2.5
+# 208.64.200.105
+||oogaboogawooga.clickteam.com^
+||indiegames.clickteam.com^
+||clickstore.clickteam.com^
+||startpane.clickteam.com^
+# Cloudcade, Inc.
+# Shop Heroes
+# 35.71.181.204
+# 52.223.12.105
+# 13.225.78.71
+# 13.225.78.128
+# 13.225.78.14
+# 13.225.78.110
+# 35.71.181.204
+# 52.223.12.105
+# 52.86.64.247
+# 54.175.131.125
+||status-sh.cloudcade.com^
+||api.fizz.io^
+||f1-stats.codemasters.com^
+# Grid II
+# Onlinezwang | Bei Bedarf Egonet aktivieren
+# 208.64.200.105
+||prod.egonet.codemasters.com^
+# Code Horizon
+# Gold Rush: The Game
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Coffee Stain Publishing
+# Goat Simulator
+# Twitter, Bit.ly, Facebook
+||newsfeed.coffeestainstudios.com^
+||www.welovefine.com^
+||forfansbyfans.com^
+||shop.spreadshirt.com^
+||22f9d241.akstat.io^
+||578378.spreadshirtsandbox.com^
+# Deep Rock Galactic
+# 172.217.25.110
+# 40.114.242.241
+# 172.217.25.110
+# 172.217.16.206
+# 142.250.186.142
+# 162.159.134.233
+# 20.107.4.52
+# 52.71.184.98
+# 104.18.12.16
+||api.stathat.com^
+||api.mod.io^
+# Sanctum 2
+# Ip/s blockieren:
+# 35.241.0.225
+||gamenews.coffeestainstudios.com^
+||225.0.241.35.bc.googleusercontent.com^
+||www.mygamehud.com^
+# Satisfactory
+# Ip/s blockieren:
+# 3.223.253.136
+# 3.121.217.224
+# 3.123.128.174
+# 172.67.222.87
+# 3.227.34.162
+# 100.25.206.154
+# 52.0.181.95
+||euc-1-prod.stun.euc1a.on.epicgames.com^
+||euc-2-prod.stun.euc1a.on.epicgames.com^
+||stun-1-nat.ol.epicgames.com^
+||stun-2-nat.ol.epicgames.com^
+# s. Eintrag Steam: IP Checks
+||ingamenews.satisfactorygame.com^
+# Valheim
+# Mehrspieler, dedizierte Server, Steam
+# 103.10.124.40
+# 103.10.124.101
+# 103.10.125.154
+# 146.66.152.41
+# 146.66.155.69
+# 153.254.86.167
+# 153.254.86.164
+# 155.133.226.72
+# 155.133.230.99
+# 155.133.230.101
+# 155.133.232.98
+# 155.133.233.99
+# 155.133.238.163
+# 155.133.239.52
+# 155.133.245.34
+# 155.133.246.67
+# 155.133.248.37
+# 155.133.249.194
+# 155.133.252.66
+# 155.133.253.39
+# 155.133.255.98
+# 162.254.192.70
+# 162.254.193.100
+# 162.254.193.71
+# 162.254.195.74
+# 162.254.196.70
+# 162.254.196.85
+# 162.254.197.36
+# 162.254.198.43
+# 162.254.196.130
+# 162.254.199.170
+# 162.254.199.178
+# 185.25.182.67
+# 185.25.183.163
+# 185.25.183.179
+# 190.217.33.34
+# 205.185.194.51
+# 205.196.6.213
+# 205.185.194.196
+# 205.196.6.212
+# Cobra Mobile
+# iBomber Attack
+# 208.64.200.105
+# Coconut Island Games
+# 中国式家长 / Chinese Parents
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Coconut Shavers
+# Idle Space Raider
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Transport Defender
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Code}{atch
+# Heat
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 192.223.27.62, 174.142.238.94
+||store.codehatch.com^
+||d-192-223-27-62.ded-machine.inap-nyc.nfoservers.com^
+||t.co^
+# Computer Lunch
+# Cell to Singularity - Evolution Never Ends
+# Ip/s blockieren:
+# 52.26.106.98
+# 3.219.94.230
+# 54.71.61.1
+# 54.149.66.173
+# 35.190.78.8
+# 34.95.76.21
+# 34.111.113.40
+# 35.186.194.186
+# 35.190.88.234
+# 34.111.82.212
+||a126.playfabapi.com^
+||p-a126-mainserver-896310517.us-west-2.elb.amazonaws.com^
+||2vnci0fr6d.execute-api.us-east-1.amazonaws.com^
+||notifications-pusher-server-4.gog.com^
+# Craneballs
+# Planet Nomads
+# Sehr umfangreiche Hardwareanalytics und Liveanalytics mit Bestandaufnahme von Nutzteraktionen im Produkt. Verbunden mit Dateiupload "upsertinstallation.dat, upsertgame.dat und insertsession.dat"
+# UA-55906962-11 ist das Google Analyticskonto für Planet Nomads und nimmt jeden Einzelschritt auf
+||statistics.planet-nomads.com^
+# Creaky Corpse Ltd
+# March of the Living
+# 208.64.200.105
+# Creative Freaks Inc.
+# Gochi-Show!
+# Ip/s blockieren:
+# 133.18.20.101 # verschiedene IDs, Anwendungscounter, Nickname u.A.
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Creative Pudding Hungary Llc.
+# Revhead
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Creepy Jar S.A.
+# Green Hell
+# Ip/s blockieren:
+# 35.190.78.8
+# Crema
+# Immortal Redneck
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||quiet-escarpment-63845.herokuapp.com^
+# Crimson Duck Studios
+# Torch Cave I, II & Sleengster
+# 208.64.200.105
+# CryTek GmbH
+# Hunt: Showdown
+# 104.74.103.35
+# 70.42.199.109
+# 70.42.62.134
+# 23.82.8.70
+# 207.244.76.162
+# 198.7.61.104
+# 207.244.94.44
+# s. Rubrik Kopierschutz / AntiCheat
+||log1-lv-lw-wc.huntshowdown.com^
+# Crytivo
+# Above Snakes: Prologue
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Force of Nature 2: Ghost Keeper
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 54.159.116.102
+# 52.159.116.102
+||crytivo-club-dev.herokuapp.com^
+# Curious Panda Games
+# Rhythm Destruction
+# Statistikabfragen für Highscorelisten & komplett mitgesendeter Newsfeed
+# 208.64.200.105
+||www.rhythmdestruction.com^
+# Curve Digital
+# Autonauts
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 10 Second Ninja X
+# 208.64.200.105
+# For the King
+# Ip/s blockieren:
+# 108.177.127.153
+# 54.84.43.128
+||ironoakgames00.appspot.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Human: Fall flat
+||hff.terahard.org^
+||ec2-34-216-100-9.us-west-2.compute.amazonaws.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Narcos: Rise of the Cartels
+# s. Eintrag Steam: IP Checks
+# Serial Cleaner
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 104.26.11.194
+# 34.206.114.4
+||api.ipstack.com^
+||api.darksky.net^
+# The Little Acre
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# CWH Entertainment
+# NEONomicon
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Cyanide Studios
+# Blood Bowl: Chaos Edition
+# 176.31.110.55
+||bble1.cyanide-studio.com^
+# Cyber Keks
+# Hentai Coloring, Hentai Pussy 2, Pussy 3
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# D10RAMA
+# 雨にして人を外れ
+# 255.255.255.255
+# D3 PUBLISHER
+# Google Analytics auf der Steam Shopseite ID UA-52932266-44 gehört zu dogenzaka-lab.com
+# Nightshade
+# 208.64.200.105
+# SG/ZH: School Girl/Zombie Hunter
+# Ip/s blockieren:
+# 52.203.126.30
+||datarouter-svc-prod06-public-49221551.us-east-1.elb.amazonaws.com^
+# Bounty Train
+# 35.227.233.206
+# 104.40.183.236
+||cgpromotion.blob.core.windows.net^
+||cgpromotion.azurewebsites.net^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.217.68.227
+||s3-website.us-east-1.amazonaws.com^
+||a2-22-89-27.deploy.static.akamaitechnologies.com^
+||a2-22-89-28.deploy.static.akamaitechnologies.com^
+# Ip/s blockieren:
+# 35.227.233.206
+||config.hub-proxy.unity3d.com^
+||206.233.227.35.bc.googleusercontent.com^
+# Deponia und Deponia: The Complete Journey
+# Edna & Harvey: The Breakout - Anniversary Edition
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 52.166.80.100
+# 104.40.183.236
+# Felix The Reaper
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 104.40.183.236
+# 52.166.80.100
+# Holy Potatoes! We’re in Space?!
+# Facebook Anbindung
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Bei aktiver Mitwirkung auf die im Hauptmenü befindlichen Buttons
+||connect.facebook.net^
+||s7.addthis.com^
+||v1.addthisedge.com^
+||z.moatads.com^
+# Holy Potatoes! What the Hell?!
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Iratus: Lord of the Dead
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.166.80.100
+# 104.40.183.236
+# 194.67.211.171
+||ih1644943.vds.myihor.ru^
+# Iron Danger
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.166.80.100
+# 104.40.183.236
+# Ken Follett's The Pillars of the Earth
+# 104.40.183.236
+# 208.64.200.105
+# Long Journey Home
+# Shadow Tactics: Blades of the Shogun
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.166.80.100
+# 104.40.183.236
+# Shadow Tactics: Blades of the Shogun - Aiko’s Choice
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.166.80.100
+# 104.40.183.236
+# Silence
+# Facebook Anbindung
+# 208.64.200.105
+# SKYHILL
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 37.139.4.138
+# 217.107.219.65
+# 104.40.183.236
+# 151.101.14.214
+||s2.lazybeargames.com^
+||www.mandragoragames.com^
+# State of Mind
+# The Suicide of Rachel Foster
+# Ip/s blockieren:
+# 52.166.80.100
+# 104.40.183.236
+||blob.am5prdstr12a.store.core.windows.net^
+||waws-prod-am2-027.cloudapp.net^
+# Valhalla Hills
+# s. Eintrag Steam: IP Checks
+# Ip/s blockieren:
+# 52.218.49.97
+# 52.218.25.130,52.218.56.194
+# 52.218.62.186
+# 52.218.41.114
+# 52.218.28.154
+# 52.218.106.58
+# 52.218.88.226
+# 52.218.106.178
+# 52.218.29.34
+# 52.218.112.98
+# 52.218.105.209
+# 52.218.104.209
+# 52.218.89.130
+# 52.218.20.57
+# 52.218.88.242
+# 52.218.91.114
+# 52.218.60.250
+# 50.16.19.45
+# 3.211.236.15
+# 23.21.140.195
+# 3.228.246.32
+# 54.156.246.168
+# 3.213.219.122
+# 18.235.147.141
+# 34.238.69.47
+# 52.2.141.88
+# 52.22.195.160
+# 54.88.200.120
+# 3.94.135.152
+# 52.206.16.179
+# 54.86.43.143
+# 23.22.237.26
+# 52.23.27.246
+# 75.101.250.82
+# 54.167.14.174
+# 52.72.55.27
+# 3.231.246.124
+||valhallahills.s3.amazonaws.com^
+||etsource.epicgames.com^
+# Ip/s blockieren:
+# 52.85.246.229
+||dji22ijeurkhd.cloudfront.net^
+||production.connected.dsvolition.com^
+# Chorus
+# Ip/s blockieren:
+# 35.227.230.186
+||telemetry.deeparc.net^
+||186.230.227.35.bc.googleusercontent.com^
+# Homefront: The Revolution
+# 104.197.46.164
+||steam-happy.homefront-game.com^
+# Ip/s blockieren:
+# 104.197.132.127
+||steam-telemetry.homefront-game.com^
+# Zeug
+# 207.154.210.110
+||kamos.kingart-games.com^
+# Abschaltbar
+||egp-idsoc-proxy-prod.ol.epicgames.com^
+||egp-idsoc-proxy-prod-2006500474.us-east-1.elb.amazonaws.com^
+||ecomprod02.ol.epicgames.com^
+||ecommerce-int-prod-public-alb-1926882986.us-east-1.elb.amazonaws.com^
+# Ip/s blockieren:
+# 35.227.230.186
+# Pathfinder: Kingmaker
+# Ip/s blockieren:
+# 188.93.59.251
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||150.252.227.35.bc.googleusercontent.com^
+# Saints Row IV sriv_legacy
+# 208.64.203.186
+# 2.19.126.222
+# 2.19.126.213
+# 142.251.36.48
+||sr35.gds.dsvgames.com^
+||sr3.hydra.agoragames.com^
+||cser.steampowered.com^
+||www.auran.com^
+||images.n3vgames.com^
+||dlcdownload.trainzportal.com^
+# XIIZEAL
+# 208.64.200.105
+# Degica & Chara-Ani
+# 208.64.200.105
+# Devolver Digital
+# Death's Door
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# The Expendabros
+# Ip/s blockieren:
+# 104.21.7.251
+||api.hostip.info^
+||stats.vk-portal.net^
+||support82.example.com^
+||support270.example.com^
+||support24.example.com^
+||support46.example.com^
+||roberto19.example.com^
+||support92.example.com^
+||magna.thigomes.com^
+||ns149.midphase.com^
+||m20965.contaboserver.net^
+||m21038.contaboserver.net^
+# Serious Sam’s Bogus Detour
+# 77.79.249.19
+# 77.79.249.152
+# 193.59.178.108
+# 77.79.249.40
+# 23.48.23.154
+# 23.48.23.179
+# 23.50.131.19
+||nat-detection.gog.com^
+# Serious Sam Fusion 2017
+# 64.90.53.132
+||ingame.serioussam.com^
+||apache2-ogle.estacada.dreamhost.com^
+# Stories Untold
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# The Red Strings Club
+# 208.64.200.105
+# Weedcraft Inc
+# Ip/s blockieren:
+# 34.226.35.204
+# 52.73.89.97
+# 34.111.113.40
+# 35.186.194.186
+# 35.190.88.234
+# 34.111.82.212
+||thind-gke-euw.prd.data.corp.unity3d.com^
+||thind-gke-usc.prd.data.corp.unity3d.com^
+||thind-gke-ape.prd.data.corp.unity3d.com^
+||186.194.186.35.bc.googleusercontent.com^
+# 208.64.200.105
+||rubick.gameanalytics.com^
+# Dexion Games
+# Business Clicker
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Capture the monster
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Defend the Planet
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Demon robot runner
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Robo-Orders
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Surviving in the forest
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Dharker Studio
+# Negligee: Love Stories
+# 208.64.200.105
+# Digerati Distribution
+# Monster Slayers
+# 208.64.200.105
+# Slain: Back from Hell
+# 208.64.200.105
+# Digital Bento
+# A Salem Witch Trial - Murder Mystery
+# 208.64.200.105
+# DigitalDNA Games LLC
+# Death Toll
+# Quote: "Game Closed"
+# Ip/s blockieren:
+# 208.109.20.112
+||www.deathtollgame.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Digital Confectioners
+# Depth
+# Ip/s blockieren:
+# 54.186.89.193
+# 34.214.202.158
+||metricsdatarate-live.us-west-2.elasticbeanstalk.com^
+||www.depthgame.com^
+||depthdropmaster.us-west-2.elasticbeanstalk.com^
+||depthquestsserver-live.h2npnkkxe2.us-west-2.elasticbeanstalk.com^
+||metrics.warframe.com^
+||arbiter.warframe.com^
+# Digital Tribe
+# Hyperdrive Massacre
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Kings of Kung Fu
+# 208.64.200.105
+# Shaolin vs Wutang
+# IPv4 > https://gameindustry.eu/katalog/gameanalytics/
+# Dinosaur Polo Club
+# Mini Metro
+||dinopoloclub.com^
+# DOT Entertainment | Name wurde zu KNP gändert
+# Undead
+# 85.95.237.229
+# 185.60.216.35
+# 185.60.216.19
+||kirmizinoktaproduction.com^
+||facebook.com^
+||scontent.xx.fbcdn.net^
+||xx-fbcdn-shv-01-frx5.fbcdn.net^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Double Coconut, WhisperGames
+# Parallyzed
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||3664cc1fd21a07e55327a9c256fa758a.cloudfront.net^
+||fc3a4fa8a6bf80fc624a0bc082bb5b4e.cloudfront.net^
+# Double Eleven
+# Pixel Junk™ Monsters Ultimate
+# 208.64.200.105
+# Pixel Junk™ Shooter Ultimate
+# 208.64.200.105
+# Draw Distance
+# Vampire: The Masquerade - Coteries of New York
+# Aktive UnityCrashHandler64.exe
+# DreamGate
+# Steampunk Tower 2
+# Dreamlands
+# The Risers
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# DreamRoad Productions
+# Radar Warfare
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Droid Riot
+# Don’t Panic!
+# Crashpad Analytics
+# Dry Cactus
+# Poly Bridge
+# 159.203.200.15
+# 151.101.12.193
+||stats.drycactus.com^
+# DryGin Studios
+# Bio Inc. Redemption
+# Nachfrage wurde ingnoriert/gelöscht
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||aws.dryginstudios.com^
+# 174.142.76.237
+||www.dryginstudios.com^
+# DSGame
+# Lunar Mirror
+# 35.190.78.8
+# dtp entertainment AG
+# The cursed Crusade
+# Ip/s blockieren:
+# 208.64.200.105
+# Ductape studio
+# Summer Sale
+||et2.epicgames.com^
+# Dylan Fitterer
+# AudioSurf
+# Übertragen wird die gesamte Homepage inklusiv Google-Analytics
+# Gesammelt wird z.b. Auflösungs,-Fenstereinstellungen, Sprache, Architektur usw...
+# 208.64.200.105
+||www.audio-surf.com^
+||www.audiosurfthegame.com^
+# Eathrabaria
+# Nightmare Simulator
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Eduard Bulashov & AEY Inc.
+# Bloody Boobs
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Eastshade Studios
+# Eastshade
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Eastsidegamestudios | jetzt Double Coconut | Update 28.08.2018
+# High Profits
+||mentor.eastsidegamestudio.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Easy Day Studios PTY.
+# Skater XL
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Eek! Games, LLC
+# House Party
+# Ip/s blockieren:
+# 173.194.76.155
+# 35.165.253.172
+# 216.239.36.178
+# 208.64.71.50
+# 142.250.74.196
+# 172.217.18.10
+# 142.250.181.232
+# 208.64.71.50
+||games.eekllc.com^
+||housepartygame.com^
+||gsght.com^
+# Ip/s blockieren:
+# 54.144.219.36
+# 52.71.139.74
+||bos-telem-ingest-app-prod.biowareonline.net^
+||b3.48.caa1.ip4.static.sl-reverse.com^
+||biostore.bioware.com^
+||go.bioware.com^
+||bytevault.gameservices.ea.com^
+||ds-aksb-a.akamaihd.net^
+||www-googletagmanager.l.google.com^
+||58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com^
+||swbf1-terminator.ops.dice.se^
+||eadpgsl0039.ea.com^
+||gossjcprod-qos01.ea.com^
+||gosgvaprod-qos01.ea.com^
+||gosprod-qos01.bio-dub.ea.com^
+# Ellada Games
+# Niffelheim
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Empty Clip Studios
+# Symphony
+# 208.64.200.105
+||leaderboards.symphonygame.com^
+||symphonyleaderboards.cloudapp.net^
+||ut3pc.auth.pubsvs.gamespy.com^
+# Unreal Engine
+||epicleaderboard.com^
+# Eridanus Studio
+# One Against The Galaxy
+# 216.58.210.138
+||chromereader-pa.googleapis.com^
+||hem08s06-in-f10.1e100.net^
+# ErayTek
+# Time in Time
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Eteru Studio
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Event Horizon Ltd.
+# Tower of Time
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# 88.221.137.219
+||api.trello.com^
+||trello-attachments.s3.amazonaws.com^
+# Evil Tortilla Games
+# Who's your Daddy
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.174.162.167
+# 92.223.82.19
+||gcash015.exitgames.com^
+# Faber Interactive
+# Lethe - Episode One
+||et.epicgames.com^
+# Failbetter Games
+# Sunless Sea
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 54.86.119.232
+# 52.200.171.242
+# 52.218.212.88
+# 52.218.240.170
+# 52.218.225.91
+||CMS-258328131.us-east-1.elb.amazonaws.com^
+||sunlesssetup.storynexus.com^
+||data.sunlesssetup.storynexus.com.s3.amazonaws.com^
+# Sunless Skies
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||www.algernonbaroque.storynexus.com^
+# Fatbot Games, s. r. o.
+# Vaporum
+||fatbotsvc.azurewebsites.net^
+||ftp.fatshark.se^
+||helpdesk.fatshark.se^
+||patch.fatsharkgames.com^
+||support.jitbit.com^
+# 208.64.200.105
+||www.vermintide.com^
+# Warhammer: Vermintide II
+# s. Rubrik Kopierschutz / AntiCheat
+# Neben Microsoft Azure Playfab Analytics liegt die gesamte Infrastrutur mitsamt Auswertung des Spiels bei Amazon AWS/S3 Services und Cloudfront
+||fs-crashify.s3-accelerate.amazonaws.com^
+||aot0wazba.execute-api.eu-north-1.amazonaws.com^
+||a7123365c068a3dc6.awsglobalaccelerator.com^
+||cdn.fatsharkgames.se^
+||sentry-next.wixpress.com^
+||browser.sentry-cdn.com^
+||bundler.wix-code.com^
+||www.vermintide.live^
+||siteassets.parastorage.com^
+||frog.wix.com^
+||td-ccm-168-233.wixdns.net^
+# Endpunkte Hydra und Mehrspieler
+# 63.34.131.58
+||ec2-54-76-52-85.eu-west-1.compute.amazonaws.com^
+# Fellow Traveller
+# Orwell: Keeping an Eye On You
+||us7.api.mailchimp.com^
+||e3666efb6956ba7f03c75c3401b8c79e.cloudfront.net^
+||bd3e2233bf25337a89461c638cad13b9.cloudfront.net^
+||d1ztm8591kdhlc.cloudfront.net^
+||dd3d3xat3pnw0.cloudfront.net^
+# First Game Studio
+# Bird Watcher
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Flamebait Games
+# Passpartout: The Starving Artist
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+||flamebaitgames.com^
+# Mit Klick auf deren Webseite | inkl. Youtube, Facebook & Twitter
+# Flat Earth Games
+# Towncraft
+# Spiel und Webseite/n
+# 208.64.200.105
+||d3spquiph2sexc.cloudfront.net^
+||capture.trackjs.com^
+||ih0.redbubble.net^
+||www.redbubble.com^
+||www.flatearthgames.com.au^
+# Flazm
+# Train Valley
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Flying. Stone. Production
+# flChess
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# FOAM Entertainment
+# Riff Racer
+||parseapi.back4app.com^
+||ngx.download.nvidia.com^
+||92c0f.playfabapi.com^
+||ec2-34-211-93-125.us-west-2.compute.amazonaws.com^
+||ec2-52-32-250-241.us-west-2.compute.amazonaws.com^
+||ec2-52-41-58-136.us-west-2.compute.amazonaws.com^
+||ec2-52-88-140-172.us-west-2.compute.amazonaws.com^
+||ec2-54-214-173-169.us-west-2.compute.amazonaws.com^
+||ec2-34-208-187-96.us-west-2.compute.amazonaws.com^
+||bfg2.stormancer.com^
+# Battlefleet Gothic: Armada 2
+# s. Rubrik Kopierschutz / AntiCheat
+# 149.202.85.119
+# 149.202.78.68
+# Ip/s blockieren:
+# 23.20.51.18
+# 18.203.146.39
+||bfg1.stormancer.com^
+||cerberus-eu-lb-6707ab7fcc744d90.elb.eu-west-1.amazonaws.com^
+# Call of Cthulhu®
+# Cities XXL
+# 208.64.203.186
+# Contrast
+# s. Eintrag Steam: IP Checks
+# Etherium
+# 216.146.43.70
+# 67.225.180.24
+# 67.225.180.25
+# 239.255.255.250
+# 104.73.230.192
+# 216.58.205.228
+||checkip.dyndns.org^
+# Farming Simulator 19
+# Einzelspieler
+# 136.243.151.92
+# 138.201.198.21
+||www.farming-simulator.com^
+# Mehrspieler
+||fs19-a.farming-simulator.com^
+||fs19-b.farming-simulator.com^
+# Hardspace: Shipbreaker
+# Steam Datagram Relay
+# Ip/s blockieren:
+# 35.190.78.8
+# 34.111.113.40
+# 34.111.82.212
+# 44.235.3.113
+# 44.241.17.164
+# 34.248.26.131
+# 52.18.23.150
+# 54.76.76.150
+# 44.239.107.215
+||ec2-44-239-107-215.us-west-2.compute.amazonaws.com^
+||ec2-44-241-17-164.us-west-2.compute.amazonaws.com^
+||ec2-34-248-26-131.eu-west-1.compute.amazonaws.com^
+||ec2-52-18-23-150.eu-west-1.compute.amazonaws.com^
+||ec2-54-76-76-150.eu-west-1.compute.amazonaws.com^
+# The Surge 2
+# 178.162.211.15
+# Listening-Port: 9264 Local IP=0.0.0.0 Protocol=TCP
+||metropolis.deck13.org^
+# The Technomancer
+# 208.64.200.105
+# Vampyr
+# Food dream factory
+# 美食梦工厂：研发美食开心制作糖果模拟经营养成
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Foot in the Box, LLC
+# Alchemist Penguin
+# 208.64.200.105
+# For Kids
+# Feeding the Monster
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Fluffy Friends
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# My little worms
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Temple Escape
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Vampires!
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Around the World
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Camping
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Megapolis
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Professions
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: School
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Shopping
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Space Mission
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Sports
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: The Farm
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Undersea
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Viki Spotter: Zoo
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Z Runaway
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Foulball Hangover
+# Hydroneer
+# s. Eintrag Steam: IP Checks
+||adservice.google.com^
+||ext.chtbl.com^
+||sc-static.net^
+||static.ads-twitter.com^
+||analytics.tiktok.com^
+||q.quora.com^
+||ct.pinterest.com^
+||web.chtbl.com^
+||alb.reddit.com^
+||tr.snapchat.com^
+||www.datadoghq-browser-agent.com^
+||sf19-scmcdn-va.ibytedtos.com^
+||cdn.siftscience.com^
+||analytics.twitter.com^
+||hexagon-analytics.com^
+# frecle ApS
+# Youropa
+# Ip/s blockieren:
+# 54.91.145.71
+# Freshtrax
+# Boat Adventure
+# Crashpad Analytics
+# Dark Snow
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Plane War
+# Crashpad C:\Users\******\AppData\Local\Chromium\User Data\Crashpad
+# Metrics C:\Users\******\AppData\Local\Chromium\User Data
+# Websocketkommunikation
+# Walls in Dead
+# Crashpad Analytics
+# Frogames
+# Cosmophony
+||www.bento-studio.com^
+# Penguins Arena: Sedna's World
+# Facebook Anbindung
+||farabel.com^
+||www.frogames.com^
+# 208.64.200.105
+# Frogwares
+# Magrunner: Dark Pulse
+# s. Eintrag Steam: IP Checks
+# Sherlock Holmes The Awakened
+# Ip/s blockieren:
+# 23.0.174.122, 23.0.174.83, 95.217.211.251, 184.86.103.198, 184.86.103.201, 95.217.211.251
+||gas.frogwares.com^
+||a23-0-174-122.deploy.static.akamaitechnologies.com^
+||a23-0-174-83.deploy.static.akamaitechnologies.com^
+# Weitere Drittanbieter/Telemetrie
+||s3-3-w.amazonaws.com^
+# Jurassic World Evolution
+# s. Rubrik Kopierschutz / AntiCheat
+# Aufruf des Banner für den Newsletter verbindet sich Facebook Telemetry, Google Analytics, Twitter ADS/Analytics, Snapchat und weiterem Mist
+# Google Analytics ID UA-104881468-1
+# JWE.exe zum Ende des eigenen Spiels
+||coeus.zaonce.net^
+# Jurassic World Evolution 2
+# s. Rubrik Kopierschutz / AntiCheat
+# 54.228.0.53, 99.81.255.237
+# 52.214.190.24
+# 192.229.221.95
+# 52.49.154.85
+# 54.246.88.139
+||css-api.zaonce.net^
+||t.trackedlink.net^
+# Warhammer 40,000: Chaos Gate - Daemonhunters
+# 35.190.78.8
+# 52.31.6.7
+# 34.249.221.223
+# 54.167.181.158
+# 52.211.21.20
+||submit.backtrace.io^
+||events.backtrace.io^
+||forever-entertainment.com^
+# Not dying today
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Panzer Dragoon: Remake
+# Ip/s blockieren:
+# 35.190.78.8
+# Rift Coaster HD Remastered VR
+# Sparkle II Evo
+||www.mateuszskutnik.com^
+||www.pastelgames.com^
+||madman-games.com^
+||img.sedoparking.com^
+# Ip/s blockieren:
+# 34.96.113.148
+# 35.241.7.82
+||collect15303rcxty.deltadna.net^
+||engage15303rcxty.deltadna.net^
+# Robocraft
+# 52.218.31.42
+# 99.80.114.94
+# 52.211.61.165
+# 88.150.159.132
+# 13.224.194.105
+# 52.17.104.102
+# 52.213.94.30
+# 52.218.106.18
+# s. Rubrik Kopierschutz / AntiCheat
+||logs.freejamgames.com^
+||cluster-d.playfabapi.com^
+||sb-ssl.google.com^
+||safebrowsing.clients.google.com^
+# Game Ever Studio
+# Juanito Arcade Mayhem
+# 95.100.216.223
+||e2143.a.akamaiedge.net^
+# Gamious
+# Ip/s blockieren:
+# 37.97.173.216
+# 63.239.233.65
+# 63.239.233.68
+# 63.239.233.73
+# 172.217.14.78
+# 172.217.11.67
+||steamdatasuite.com^
+||a652.dscb.akamai.net^
+||a279.dscq.akamai.net^
+||discovery.tribesofmidgard.com^
+||d3or4hfcyl0s42.cloudfront.net^
+# We Happy Few
+# 52.27.241.128
+||static.compulsiongames.com^
+# Goblinz Studio & Maple Whispering Limited
+# As Far As The Eye
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Good Games
+# The World II: Hunting BOSS
+# Steam Version aufgegeben
+||logrecord.world2.good321.net^
+# Good Shepherd Entertainment
+# Breach & Clear: Deadline Rebirth "2016"
+# Ip/s blockieren:
+# 104.236.43.159
+||www.mightyrabbitstudios.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# MachiaVillain
+||www.machiavillain.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Oh...Sir! The Hollywood Roast
+||1136b0fc7377c6211173282a3992a814.cloudfront.net^
+||63db28734e1b9429c04087abd41a1692.cloudfront.net^
+||4212187803e21d93459a7f54ccbb680a.cloudfront.net^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Phantom Doctrine | Update 17.08.2018
+# Redeemer
+# Zombie Night Terror
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# GrabTheGames & Ratalaika Games S.L.
+# Devious Dungeon
+# 208.64.200.105
+# Graphite Lab
+# Hive Jump
+# Ip/s blockieren:
+# 160.153.74.1
+# 34.96.113.148
+||collect9543hvjmp.deltadna.net^
+||hivejump.com^
+# Gravity Interactive
+# Ragnarok Clicker | Update 17.04.2019
+# Ip/s blockieren:
+# 165.227.72.232
+# 34.235.76.210
+# 92.122.173.2
+# 52.54.15.132
+# 104.123.117.131
+||main-backend-100065934.us-east-1.elb.amazonaws.com^
+# 208.64.200.105
+# Green Man Gaming Publishing
+# War Tech Fighters
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Stable Orbit
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Grey Box, Six Foot
+# Rime
+# Ip/s blockieren:
+# 34.237.44.165
+# Grimm Bros, LLC
+# Dragon Fin Soup
+# Twitter, Youtube, Facebook, Googlevideo
+||scores.grimm-bros.com^
+||dragonfinsoup.com^
+# 208.64.200.105
+# Grinding Gear Games
+# Path of Exile inkl. Steam Version
+# Chinesische Version unter 流放之路 zu finden
+||hk2-eap.settings.data.microsoft.com.akadns.net.com^
+# Grip Digital
+# MOTHERGUNSHIP
+# Ip/s blockieren:
+# 52.239.214.164
+# 52.213.44.117
+# 40.71.177.34
+||blob.am5prdstr14a.store.core.windows.net^
+||blob.blaprdstr08a.store.core.windows.net^
+||www.mothergunship.com.herokudns.com^
+||waws-prod-blu-089.cloudapp.net^
+||game-api.mothergunship.com^
+||mgsstatic.blob.core.windows.net^
+||www.mothergunship.com^
+||static.xx.fbcdn.net^
+||scontent-frt3-1.xx.fbcdn.net^
+||video-frt3-1.xx.fbcdn.net^
+# S.T.A.L.K.E.R.: Call of Pripyat
+# 5.9.10.56
+||gamegsc.com^
+# Headless Wizard
+# Blood Streets
+# 208.64.200.105
+# Headup Games
+# Dead Age 2
+# Info: https://docs.unity3d.com/Manual/ManagedCodeDebugging.html
+# Ip/s blockieren:
+# 225.0.0.222
+# Onikira - Demon Killer
+# Ip/s blockieren:
+# 40.85.179.199
+||ex-prod-k8s.eastus.cloudapp.azure.com^
+# Henteko Doujin
+# 虚夢の乙女 | Maidens of a Hollow Dream
+# Für Spielerstatistiken/Bestenlisten Adressen erlauben
+||akiragoya.sakura.ne.jp^
+# HeroCraft
+# INSOMNIA: The Ark
+||wowa.no-ip.info^
+# Marble Duel
+# Beinhaltet Network Connection Status Indicator, NCSI - Siehe Hinweise Webseite
+||evy.herocraft.com^
+# Tempest: Pirate Action RPG
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Strategy & Tactics: Wargame Collection
+||gamestats.herocraft.com^
+||statistics.herocraft.com^
+||cs491.wac.edgecastcdn.net^
+# Hollow Ponds
+# Loot Rascals
+||live.services.otg.scee.com^
+||auth-live.services.otg.scee.com^
+||discover.services.otg.scee.com^
+||t1.symcb.com^
+||t2.symcb.com^
+||tj.symcd.com^
+||tj.symcb.com^
+||br01.broadcast.tyo.steamstatic.com^
+||br01.broadcast.hkg.steamstatic.com^
+||484.playfabapi.com^
+# Midas Gold Plus
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||holydaycity.com^
+# 208.64.200.105
+||ec2-35-162-118-172.us-west-2.compute.amazonaws.com^
+||magpole.eus^
+# HONG KONG SPARK SOFTWARE TECHNOLOGY CO., LIMITED
+# Idle Big Devil
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Serveranbindung
+# 54.218.149.204
+# 8.129.165.235
+# 15.236.10.138
+# 15.236.159.54
+# 15.236.172.108
+# 47.115.19.224
+# 8.129.165.235
+# 18.230.84.84
+# 15.236.172.108
+# 39.108.249.30
+# Housemarque
+# Nex Machina
+# 18.158.98.150
+# 35.158.37.101
+# 35.227.221.230
+# 18.66.122.116
+# 18.66.122.17
+# 18.66.122.52
+# 18.66.122.66
+# 185.107.56.199
+||harvester-steam-prod.eu-central-1.elasticbeanstalk.com^
+||harvester-steam-prod.nexmachinagame.com^
+||buffpanel.com^
+||api.infinario.com^
+||assets.nexmachinagame.com^
+# Hovgaard Games
+# Startup Company
+# 208.64.200.105
+# HuaYiGame
+# 末日方舟 - Delivery from the Pain
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Humble Games
+# Aegis Defenders
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Forager
+# 162.125.66.1
+# 2620:100:6022:1::a27d:4201
+# 208.64.200.105
+# Dropbox für im Spiel integrierte Fankunst
+||www.dropbox.com^
+||www.dropbox-dns.com^
+# Staxel
+||log.playstaxel.com^
+||auth.playstaxel.com^
+# The Occupation
+# Ip/s blockieren:
+# 52.86.67.197
+# 54.84.122.125
+# 52.202.234.202
+# 52.55.140.235
+# 52.54.6.123
+# 54.86.61.101
+# IP Auflistung nicht vollständig!
+# s. Eintrag Steam: IP Checks
+||ec2-52-55-140-235.compute-1.amazonaws.com^
+# Hydro Games
+# Dungeon Kingdom: Sign of the Moon
+# Ip/s blockieren:
+# 213.186.33.4
+# 34.111.113.40
+# 34.111.82.212
+||www.hydro-games.com^
+# AdVenture Communist
+||6BF5.playfabapi.com^
+# Iceberg Interactive
+# Star Dynasties
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Iceflake Studios
+# Race Arcade
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Idea Factory International
+# Amnesia™: Memories
+# 208.64.200.105
+# Cyberdimension Neptunia: 4 Goddesses Online | 四女神オンライン CYBER DIMENSION NEPTUNE | 四女神ONLINE 幻次元遊戲戰機少女
+# DATE A LIVE: Rio Reincarnation
+# 208.64.200.105
+# iDev Games
+# iGrow Game
+||igrowgame.co.uk^
+# iEntertainment Network Inc
+# WarBirds - World War II Combat Aviation
+# 208.64.200.105
+||arnalist.warbirdsiii.com^
+# IMGN.PRO
+# Seven: The Days Long Gone
+# Impulse Game Studios, LLC.
+# 123 Slaughter Me Street 2
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Indovers Studio
+# ThinkAhead
+||clients2.google.com^
+# Infinite Dreams
+# Sky Force Reloaded | Aktualisiert 14.03.2019
+# Ip/s blockieren:
+# 34.224.36.137
+# 52.72.205.91
+# 52.4.95.228
+# 208.64.200.105
+||server.idreams.pl^
+||idreams.herokuapp.com^
+||sky-force-reload-server.herokuapp.com^
+# Murazu
+# Crashpad Analytics
+# Mutants Must Die!
+# 208.64.200.105
+# NeonGalaxy Wars
+# Websocket
+# OHOTA KREPKOE
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||170fdbe261f5e85186a08817806feba2.cloudfront.net^
+||dfb957c193e8f98057bb6f530c2816a9.cloudfront.net^
+||metrics.hitman.io^
+# Klick auf Datenschutzrichtlinien im Spiel
+# Falls eine Mail bestätigt wird, wird diese mit Land/Sprache an den IOI Account gekoppelt
+||dc.services.visualstudio.com^
+||az416426.vo.msecnd.net^
+||hm3-metrics.hitman.io^
+||dkcdc01.corp.ioi.dk^
+||waws-prod-db3-183-323c.northeurope.cloudapp.azure.com^
+# IonFX Studios
+# Miasmata
+# 208.64.200.105
+# Ionized Games
+# CAT Interstellar
+# Ip/s blockieren:
+# 34.203.172.183
+# ION LANDS
+# Phoning Home
+# Der Titel wird seinem Namen gerecht ;
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Insel Games Ltd.
+# The Onion Knights
+# Ip/s blockieren:
+# 35.165.253.17, 34.214.69.148, 100.21.192.180
+||api.redshell.io^
+||ec2-100-21-192-180.us-west-2.compute.amazonaws.com^
+||ec2-35-165-253-17.us-west-2.compute.amazonaws.com^
+||ec2-34-214-69-148.us-west-2.compute.amazonaws.com^
+||ec2-35-165-253-172.us-west-2.compute.amazonaws.com^
+# InterAction studios
+# Chicken Invaders V
+# 208.64.200.105
+# InterSol OOO
+# Mystery Loss
+# Ip/s blockieren:
+# 104.84.56.144
+# Introversion Software
+# Scanner Sombre
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 52.55.16.22
+||www.introversion.co.uk^
+||motd.introversion.co.uk^
+# Inverse Game
+# Girl and Goblin
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# IV Productions
+# Insane Decay of Mind: The Labyrinth
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# inXile Entertainment
+# The Bard's Tale IV: Barrows Deep
+# Wasteland 3
+# Ip/s blockieren:
+# 52.201.94.3
+# 52.32.225.85
+# 40.82.255.0
+||9c595.playfabapi.com^
+||inxile.sp.backtrace.io^
+# Jadon Barnes
+# Aktive UnityCrashHandler64.exe
+# Jason Baird
+# Dealey Plaza Paintball
+||www.viral3d.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# JAST USA
+# Sonicomi
+# 208.64.200.105
+# JDM4iK
+# J.U.R : Japan Underground Racing
+# 208.64.200.105
+# JKgames & OHIYOsoft
+# Monster Girl2 | 捉妖物语2
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# JMJ Interactive
+# Akihabara - Feel the Rhythm
+||scoreserver.klikgamer.com^
+# 208.64.200.105
+# Joey Drew Studios Inc.
+# Bendy and the Dark Revival
+# 35.190.78.8
+# Bendy and the Ink Machine
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Jonathan Mulcahy
+# A long way home
+# Crashanalytics
+# Ip/s blockieren:
+# 143.95.78.239
+||crackedmountain.com^
+# JoyMasher
+# Odallus: The Dark Call
+||keyo.me^
+# Jujubee S.A.
+# KURSK
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Jungle Coworking
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Junkfish Limited
+# Attack of the Earthlings
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Just1337 Publisher
+# Cybercube
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# K Bros Games
+# Frisky Business
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||487cdcdf7a19623b97a27be170bb81f4.cloudfront.net^
+||xigncode-solomon-elb-1253180534.ap-northeast-2.elb.amazonaws.com^
+||ipconfig.co.kr^
+||ipchicken.com^
+||whatismyipaddress.com^
+||eblk-olvia10.service.defence-daumgameseu.com^
+# KaleidoGames
+# Vortex Attack: ボルテックスアタック
+# Ip/s blockieren:
+# 104.119.108.159
+# 142.250.181.238
+# 142.250.186.174
+# 142.250.186.17
+# Kalypso Media Group GmbH
+# Crookz - The Big Heist
+# 82.165.136.129
+||launcher01.kalypsomedia.com^
+||www.googleadservices.com^
+||pubsub-edge.twitch.tv^
+||ds0h3roq6wcgc.cloudfront.net^
+||sb.scorecardresearch.com^
+||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
+# Dungeons III
+# Facebook Anbindung
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 216.58.212.238
+||cx.atdmt.com^
+# Immortal Realms: Vampire Wars
+# Ip/s blockieren:
+# 217.172.184.73
+# 82.165.136.129
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Port Royale 4
+# 217.172.184.73
+# 82.165.136.129
+||genf156.server4you.de^
+||scontent-frx5-1.xx.fbcdn.net^
+||scontent-frt3-2.xx.fbcdn.net^
+||video-frx5-1.xx.fbcdn.net^
+||xx-fbcdn-shv-01-muc2.fbcdn.net^
+||d2v02itv0y9u9t.cloudfront.net^
+||d2nvs31859zcd8.cloudfront.net^
+||s.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||aax-eu.amazon-adsystem.com^
+||cdn-gl.imrworldwide.com^
+||a4flpicwb3lyfrj1lnt8rlo4ia17l1661257386.nuid.imrworldwide.com^
+||secure-dcr.imrworldwide.com^
+||global.poe.live-video.net^
+# 217.172.184.73
+||kalypsolauncher.com^
+||matchmaking.realmforgestudios.com^
+# Sudden Strike IV | Aktualisiert 14.03.2019
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Tropico 6 | Aktualisiert 29.03.2019
+# Ip/s blockieren:
+# 217.172.184.73
+# 31.3.232.184
+# 78.129.129.136
+# 82.165.136.129
+||collect13452trpc6.deltadna.net^
+# Die folgenden ips/hostnamen werden für den Mehrspielermodus benötigt
+# 92.38.154.8
+# 52.174.162.167
+# Zeug & Endpunkt
+||beast.realmforgestudios.com^
+||business-24-134-234-53.pool2.vodafone-ip.de^
+# Vikings - Wolves of Midgard
+# Facebook Anbindung
+||www.e-mailit.com^
+||p.cpx.to^
+||a.audrte.com^
+||cm.g.doubleclick.net^
+||zor.livefyre.com^
+# Kasedo Games
+# Project Highrise
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 216.58.212.176
+# 216.58.206.16
+# 142.250.74.206
+||highrise-static.storage.googleapis.com^
+# Rise of Industry
+||dapperpenguinstudios.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||mailchi.mp^
+# Warhammer 40,000: Mechanicus
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Kazakov Oleg
+# Putrefaction 2: Rumble in the hometown
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Keen Software House s.r.o.
+# Medieval Engineers
+# 54.173.113.106
+# 18.208.53.69
+# 34.197.87.194
+# 34.204.19.11
+# 52.55.19.219
+# 52.87.16.128
+# 52.203.178.206
+# 54.172.83.44
+# 3.229.219.216
+# 18.207.69.188
+# 18.208.53.69
+# 44.194.7.240
+# 52.7.208.21
+# 52.203.178.206
+# 54.196.119.130
+# 3.211.54.174
+# 199.59.243.222
+# 77.78.100.50
+# 185.107.56.199
+# 104.18.32.68
+||gdpr.keenswh.com^
+||survey-smiles.com^
+||v-hetzner1.keenswh.com^
+||9de1fbe0eed74ab49772fa5324e02c8c.eu-central-1.aws.cloud.es.io^
+||crashlogs.keenswh.com^
+||gate195.keenswh.com^
+# Kendra
+# Rope Cow - Rope it to The Cow Ep 1
+# 116.202.12.3
+||www.ropecow.com^
+# KHB-Soft
+# Linea, the Game
+||data.khb-soft.ru^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Khokhlov
+# Nyan Destroyer
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# KillHouse Games
+# Door Kickers: Action Squad
+# 142.250.185.206
+||fra16s52-in-f14.1e100.net^
+# Kishmish Games
+# Noise
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# KISS ltd
+# Pixel Puzzles: Undead
+||decayinglogic.com^
+# Project Nimbus
+# Kitfox Games
+# The Shrouded Isle
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Klei Entertainment
+# Don't Starve
+# Hauptsächlich Analytics direkt vom Spiel angerufen
+# Ip/s blockieren:
+# 52.84.214.135
+# 35.164.83.215
+# 99.84.138.184
+||metric.kleientertainment.com^
+# 208.64.200.105
+||kleianalyticsfrontend.elasticbeanstalk.com^
+||d21wmy1ql1e52r.cloudfront.net^
+||store.kleientertainment.com^
+||shop.klei.com^
+# Don't Starve Together
+# 54.210.104.7
+# 3.208.117.121
+# 34.203.72.49
+# 18.66.248.124
+# 54.226.212.76
+# 3.230.237.231
+# 18.233.134.7
+# 34.203.72.49
+# 13.248.132.235
+# 76.223.4.21
+# 18.66.248.105
+# 18.66.248.46
+# 18.66.248.22
+# 18.66.248.38
+# 18.233.134.7
+# 52.201.195.160
+# 3.227.64.253
+# 52.0.41.180
+# 18.211.228.0
+# 18.209.3.98
+# 52.220.209.237
+# 52.29.250.33
+||dst.metrics.klei.com^
+||motd.klei.com^
+||klei-motd.klei.com^
+||ap-doesnotexist-1.ping.klei.ca^
+# Invisible Inc.
+# Ip/s blockieren:
+# 3.217.206.8
+# 23.20.246.139
+# 44.199.33.117
+# 44.197.8.205
+# 18.204.145.54
+# 54.81.36.41
+||ec2-3-217-206-8.compute-1.amazonaws.com^
+||ec2-44-199-33-117.compute-1.amazonaws.com^
+||ec2-23-20-246-139.compute-1.amazonaws.com^
+||ec2-44-197-8-205.compute-1.amazonaws.com^
+||ec2-18-204-145-54.compute-1.amazonaws.com^
+||ec2-54-81-36-41.compute-1.amazonaws.com^
+# Oxygen Not Included
+# Ip/s blockieren:
+# 34.231.207.192
+# 52.6.54.1
+# 52.201.125.219
+# 34.236.69.189
+||geologin.klei.ca^
+||oni.metrics.klei.com^
+||lu-in-f153.1e100.net^
+||lg-in-f153.1e100.net^
+# METAL GEAR SURVIVE V: The Phantom Pain
+# s. Rubrik Kopierschutz / AntiCheat
+||mgstpp-game.konamionline.com^
+# METAL GEAR SURVIVE
+||ntl.konamionline.com^
+||ec2-54-214-158-254.us-west-2.compute.amazonaws.com^
+||pes19-x64-lb-c075a4ea1eb7ff5b.elb.us-west-2.amazonaws.com^
+# 35.197.63.107
+# 35.199.30.185
+# 35.204.253.149
+# 35.197.250.120
+# 35.234.95.118
+# 35.240.164.139
+# 35.198.57.112
+||107.63.197.35.bc.googleusercontent.com^
+||185.30.199.35.bc.googleusercontent.com^
+||149.253.204.35.bc.googleusercontent.com^
+||120.250.197.35.bc.googleusercontent.com^
+||118.95.234.35.bc.googleusercontent.com^
+||139.164.240.35.bc.googleusercontent.com^
+||112.57.198.35.bc.googleusercontent.com^
+||4226.api.swrve.com^
+||sync.kongregate.com^
+||analytics.kongregate.io^
+# Realm Grinder | Update 27.08.2018
+||www.kongregate.com^
+||4704.api.swrve.com^
+||41dc.playfabapi.com^
+||m.kongregate.com^
+||launcher.larian.com^
+||cmsapi.larian.com^
+||3f6xra69mj.execute-api.eu-west-1.amazonaws.com^
+||bg3nat1.larian.com^
+||bg3nat2.larian.com^
+||bg3nat3.larian.com^
+||bg3nat4.larian.com^
+# Divinity: Original Sin II
+# Alternativ EoCApp.exe in Supporttool.exe umbenennen. Originaldatei sichern und löschen
+||dl1.larianvault.com^
+||irc.larianstudios.com^
+# Laush Studio
+# The soldier in the mine
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Lcc Studio
+# WW Fantasy
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# League of Geeks
+# Armello
+# Übertragen werden u.A.: Build, Userid, Desktop/Username, GeräteID, Platform, SteamID, Ländereinstellung, Währung und ein paar andere Dinge
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||leagueofgeeks.s3.amazonaws.com^
+||armello.com^
+||leagueofgeeks.com^
+||94sw9b49zg.execute-api.us-east-1.amazonaws.com^
+||api.mixpanel.com^
+# Lemondo Games
+# Rage Wars
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Lestyo
+# Pic Guesser
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# LGDC
+# Nystagmus
+# s. Eintrag Steam: IP Checks
+# Libredia Entertainment
+# Bohemian Killing
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Limed
+# Turn Around
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Lince Works
+# Aragami
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Light Bringer Games inc.
+# Learn to Fly III
+||lbgserver.com^
+# Lighthouse Games Studio
+# Comedy Night
+# inklusiv Facebook, ATdmt.com, Doubleclick, Google/Gstatic/Apis/Usercontent
+||comedynightapi.azurewebsites.net^
+||177d9edea4bc2d9db934cc4080f20342.cloudfront.net^
+||3c2476383ec2dd20b3b952b944a0f17d.cloudfront.net^
+||www.contactcollection.com^
+||tpc.googlesyndication.com^
+||partner.googleadservices.com^
+# Logic Artists
+# Expeditions: Vikings
+# Lonely Frontier Studio
+# Katie
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Lonely Troops
+# Empire of the Gods
+# 208.64.200.105
+# Lusorion Creatives
+# Azulgar Star Commanders
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 82.208.17.121
+||7c2d73d3cd46e357090188fa2946f746.cloudfront.net^
+# Love Conquers All Games
+# Ladykiller in a Bind
+# 198.54.116.27
+||ladykillerinabind.com^
+# M2H
+# Marooners
+# 104.26.11.203
+# 104.21.35.51
+# 216.58.210.142
+# 216.120.180.54
+# 91.199.81.131
+||gdt.m2h.nl^
+||piwik.M2H.nl^
+||api.maroonersgame.com^
+||mad06s09-in-f142.1e100.net^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Mad Dog Games, LLC
+# NBA Playgrounds
+||nba.saber3d.ru^
+# Mad Hunter Studio & EHTechnology
+# Mad Hunter
+# Mad Labyrinth Studios LLC
+# God Awe-full Clicker
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||madlabyrinthstudios.com^
+# Mana Games
+# The Fall of the Dungeon Guardians
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Mana Potion Studios
+# Wheely
+# Maple Whispering Limited
+# Cloudpunk
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Dark Light
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Marvelous
+# ヴァルキリードライヴ ビクニ | VALKYRIE DRIVE -BHIKKHUNI-
+# 208.64.200.105
+# Mass Creation, NA Publishing Inc. & WhisperGames
+# Shing! Demo
+# Ip/s blockieren:
+# 35.190.78.8
+# MassDiGI
+# Ophidia
+# Ip/s blockieren:
+# 130.211.34.183
+# 35.186.241.51
+# 35.190.25.25
+# 107.178.240.159
+# Massive Damage, Inc.
+# Halcyon 6: Starbase Commander
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Halcyon 6: Starbase Commander LIGHTSPEED EDITION
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Mastiff, LLC
+# Tinytopia
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||234.88.190.35.bc.googleusercontent.com^
+# 142.250.185.78
+# 142.250.74.193
+# Matt Roszak
+# Epic Battle Fantasy 4
+# 208.64.200.105
+# Mature Games
+# Hentai Neighbors
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Maximum Games
+# Infinite Air with Mark McMorris
+# Ip/s blockieren:
+# 35.160.86.15
+||ia-pc.hb-studios.com^
+# McMagic Productions
+# Novus Inceptio
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Meat Corporation
+# Budget Cuts
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Meepower
+# The Doorbreaker
+# 172.217.21.142
+||clients.l.google.com^
+# Merge Games & IV Productions
+# Cast of the Seven Godsends - Redux
+# 208.64.200.105
+# Metal Fox
+# Inaccessible world
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Night Fly
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Planum
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# META Publishing
+# HordeCore
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Pathfinder: Wrath of the Righteous
+# Datenerfassung optional auswählbar - 89.17.52.236 gehört zur FeedbackAPI
+# Ip/s blockieren:
+# 89.17.52.236
+# 34.111.113.40
+# 34.107.172.168
+# 35.190.78.8
+# 34.149.127.98
+# 34.96.113.148
+||collect.analytics.unity3d.com^
+||pls.prd.mz.internal.unity3d.com^
+||98.127.149.34.bc.googleusercontent.com^
+||168.172.107.34.bc.googleusercontent.com^
+# Metalhead Software Inc.
+# Super Mega Baseball: Extra Innings
+# 208.64.200.105
+# Metanet Software Inc.
+# N++
+# 34.231.131.79
+# 52.204.227.0
+||dojo.nplusplus.ninja^
+# MFAFB Games LLC
+# Destroyer: Invasion
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Mi’pu’mi Games GmbH
+# The Lion’s Song
+# 104.46.44.78
+||tls-game.mipumi.com^
+||hosts.mipumi-tls-game.azurewebsites.net^
+# mibix
+# Impale
+# Ip/s blockieren:
+# 34.111.113.40
+# Microids
+# Garfield Kart
+# Host down - Inaktiv
+# 67.225.180.26
+# 67.225.180.24
+||host6.unity3d.com^
+||connectiontester.unity3d.com^
+# XIII - Classic
+# 216.98.48.149
+||gsconnect.ubisoft.com^
+# Yesterday Origins
+# s. Rubrik Kopierschutz / AntiCheat
+# Microids Indie
+# Alice in Wonderland - Hidden Objects
+# 213.186.33.87
+||hdo-adventure.com^
+# Nostradamus - The Four Horsemen of the Apocalypse
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Steamburg
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Syberia - The World Before
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# The Descendant
+# Ip/s blockieren:
+# 216.58.212.168
+# 172.217.23.136
+# 208.64.200.105
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Michael Shoots
+# Mech Merc Company
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Might and Delight
+# Fables from the Den
+# 208.64.200.105
+# Mihai Morosanu
+# Castle Defender
+||www.id.net^
+||scdn.id.net^
+||playtomic.y8.com^
+||t.y8.com^
+# Flashcookie wird gesetzt, Block und Whitlists von Domänen
+||account.y8.com^
+# https://playtomic.y8.com/v1?hash=IrgendeinWert verweist auf Dropbox | Spielstart, ProgrammID
+# Mihoyo Co. Ltd.
+# Genshin
+# Logs und Logupload
+# 47.242.50.47
+||log-upload-os.mihoyo.com^
+||overseauspider.yuanshen.com^
+# Milkstone Studios
+# White Noise 2
+# Ip/s blockieren:
+# 172.217.26.78
+# MindShaft Games, LLC
+# Demons with Shotguns
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Mistaken Visions
+# The Piano
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Mixed Realms Pte Ltd
+# Sairento VR
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 13.91.89.255
+# 13.91.191.179
+||analytics.shephertz.com^
+||api.shephertz.com^
+# Morteshka
+# The Mooseman
+# Ip/s blockieren:
+# 80.88.87.98
+# 208.64.200.105
+# 208.64.200.105
+||www.morfeodev.com^
+||scontent-amt2-1.xx.fbcdn.net^
+||video-amt2-1.xx.fbcdn.net^
+||www.instagram.com^
+||instagram-p42-shv-01-muc2.fbcdn.net^
+||cdn-images.mailchimp.com^
+# Mugle Studio
+# Super Punchman
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# MyACG Studio
+# 永遠消失的幻想鄉 ～ The Disappearing of Gensokyo
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# NA
+# Vector 36
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Nacon
+# Bee Simulator
+# s. Eintrag Steam: IP Checks
+# Rogue Lords
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.107.172.168
+# 35.190.78.8
+# 51.91.72.28
+||anostats-roguelords.cyanide-studio.com^
+||ns3161465.ip-51-91-72.eu^
+# Sherlock Holmes: The Devil's Daughter
+# s. Rubrik Kopierschutz / AntiCheat
+||mc.frogwares.com^
+# The Sinking City
+# s. Rubrik Kopierschutz / AntiCheat
+# s. Eintrag Steam: IP Checks
+# Tour de France 2020
+# 51.91.72.28
+||web.cyanide-studio.com^
+||ec2-52-42-52-197.us-west-2.compute.amazonaws.com^
+||ec2-52-88-5-92.us-west-2.compute.amazonaws.com^
+||ec2-54-189-175-34.us-west-2.compute.amazonaws.com^
+||ec2-35-83-27-22.us-west-2.compute.amazonaws.com^
+||ec2-35-161-155-28.us-west-2.compute.amazonaws.com^
+||ec2-44-225-196-138.us-west-2.compute.amazonaws.com^
+||ec2-44-239-225-209.us-west-2.compute.amazonaws.com^
+||ec2-52-26-245-167.us-west-2.compute.amazonaws.com^
+# Warhammer: Chaosbane
+# Ip/s blockieren:
+# 54.68.2.11
+# 54.69.182.108
+# 54.71.80.26
+# 34.210.48.242
+# 44.232.250.207
+# 44.238.66.246
+# 52.10.21.128
+# 52.27.195.210
+# WRC 7 FIA World Rally Championship
+# s. Rubrik Kopierschutz / AntiCheat
+# 104.154.187.60
+# 172.217.22.16
+# 52.26.54.44
+||wrc7-server.kylotonn.com^
+||storage-cloud.googleapis.com^
+# Narko Games
+# Kama Bullet Heritage 2
+# Ip/s blockieren:
+# 35.173.159.232
+# National Westminster Bank plc | NatWest Group.
+# Island Saver
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Nawia Games
+# Western 1849 Reloaded
+# 208.64.200.105
+# Ndemic Creations
+# Plague Inc: Evolved
+# 208.64.200.105
+||l.ndemiccreations.com^
+||s.ndemiccreations.com^
+||s-cdn.ndemiccreations.com^
+||cdn.ndemiccreations.com^
+||www.ndemiccreations.com^
+# NedoStudio
+# Qvabllock
+# Crashpad Analytics
+# 208.64.200.105
+# Neko Entertainment
+# Crouching Pony Hidden Dragon
+# 208.64.200.105
+# Replay - VHS is not dead
+# 208.64.200.105
+# Storm
+# 208.64.200.105
+# NEKO WORKs
+# Monmusu
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||amap.tentacle.work^
+# King Arthur: Knight's Tale
+# 54.184.116.112
+# 35.164.68.203
+# 35.162.214.5
+||lrp81d5ffk.execute-api.us-west-2.amazonaws.com^
+# Endpunkt z.b.
+||ec2-54-244-158-138.us-west-2.compute.amazonaws.com^
+# Van Helsing Final Cut & Vorgänger
+# Keine Information auf Anfrage bekommen - Mails wurden ignoriert
+||ipinfo.io^
+# ipinfo.io wurde zumindest bei Final Cut herausgenommen? Aktualisierte Daten Dez.2017 wie folgt...
+# Accountverwaltung Internet - besteht auf Geburtsdatum, Namen und Mail
+||nexus-websocket-a.intercom.io^
+||js.live.net^
+||widget.intercom.io^
+||api-iam.intercom.io^
+||js.intercomcdn.com^
+||old.neocoregames.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Skul: The Hero Slayer
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# NerdyBird Studios
+# Potion Commotion
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# NetEase Games Montréal
+# NARAKA: BLADEPOINT
+# 3.122.165.31
+# 35.77.251.190
+# 13.32.59.67
+# 35.72.243.245
+# 193.108.153.17
+# 35.156.146.15
+# 42.186.125.235
+# 34.89.253.173
+# 35.73.71.94
+# 34.89.253.173
+# 108.157.4.42
+# 193.108.153.17
+# 18.136.224.14
+# 35.77.251.190
+# 34.251.153.229
+# 13.32.59.67
+||data-detect.nie.easebar.com^
+||who.easebar.com^
+||applog.matrix.easebar.com^
+||update.yjwujian.cn^
+||k8sapp-eu.d90na.leihuo.easebar.com^
+||d90na.gph.easebar.com^
+||unisdk.update.netease.com^
+||data-collection-cpu-benchmark.apps-aws-jp.danlu.easebar.com^
+||acsdk.gameyw.easebar.com^
+||nos.gameyw.easebar.com^
+||tfe-shuyuan-na.fuxi.netease.com^
+||cdp.vivox.com^
+||appdump.nie.netease.com^
+# New World Interactive
+# Day of Infamy
+# BattleEye Launcher und diverse Zertifikatabfragen verschiedenster Anbieter
+||newworldinteractive.com^
+||nxl.log.nexon.io^
+# 208.64.200.105
+||bs.serving-sys.com^
+# Next Studios & 哔哩哔哩
+# Unheard
+# 208.64.200.105
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Nickelodeon
+# Teenage Mutant Ninja Turtles: Portal Power
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 31.3.237.180
+||collect11772tmntp.deltadna.net^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Ninja Kiwi Ltd.
+# Anmerkung
+# Für verschiedene Produkte von Ninja Kiwi gilt Onlinezwang mitsamt Google Anbindung, da diverse Dinge immer dringend aus dem Internet nachgeladen werden "müssen"
+# Adressen sind blockiert, da Telemetrie mit Onlinefunktionen verknüpft sind. Entscheiden müsst ihr an dieser Stelle
+# Bloons Adventure Time TD
+# 104.18.16.97
+# 104.19.234.38
+# 104.19.235.38
+# 104.18.16.97
+# UnityCrashHandler64.exe im Installationsverzeichnis löschen
+||api.ninjakiwi.com^
+||analytics.ninjakiwi.com^
+||static-api.nkstatic.com^
+||priority-static-api.nkstatic.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Bloons TD Battles
+# 104.19.234.38
+# 104.18.16.97
+# 104.19.235.38
+# 104.18.16.97
+||time.ninjakiwi.com^
+||bfb.ninjakiwi.com^
+# Bloons TD 5
+# 104.18.16.97
+# 104.19.234.38
+# 104.19.235.38
+# Bloons TD 6
+# 104.18.17.97
+# 104.19.235.38
+# 104.19.234.38
+# 104.18.16.97
+||fast-static-api.nkstatic.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# SAS: Zombie Assault 4
+# 104.19.235.38
+# 104.18.16.97
+# 104.19.234.38
+# NIS America, Inc.
+# Criminal Girls: Invite Only / クリミナルガールズ INVITATION
+# 208.64.200.105
+# ラングリッサーI&II | Langrisser I & II
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Operation Abyss: New Tokyo Legacy
+# 208.64.200.105
+# Strangers of Sword City
+# Ip/s blockieren:
+# 208.64.200.105
+# 208.64.200.105
+# 深夜廻 Yomawari: Midnight Shadows
+# 208.64.200.105
+# Nitrome
+# Bomb Chicken
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Nkidu Games Inc.
+# Solstice Chronicles: MIA
+# TwinStick-Win64-Shipping.exe
+# Ip/s blockieren:
+# 172.68.195.1 # Cloudflare auch bei Agony aktiv
+# No Matter Studios
+# Praey for the Gods
+# Ip/s blockieren:
+# 35.190.78.8
+# Nordic Games
+# Red Faction®: Armageddon™
+# 208.64.200.105
+# Northway Games
+# Rebuild III: Gangs of Deadsville
+# Betriebssystem inkl. Architektur, Produktbezeichnung, Spracheinstellungen
+||rebuildgame.commondatastorage.googleapis.com^
+# NuevoSpanish
+# ROGALIK
+# Ip/s blockieren:
+# 34.193.236.205
+# Nuke Nine
+# Vagante
+# Ip/s blockieren:
+# 172.217.16.142
+# 148.251.247.174
+# 216.239.32.21
+||www.sfml-dev.org^
+# Numantian Games
+# Lords of Xulima
+# 208.64.200.105
+# NVLMaker
+# Soulslayer～灭魂·误佳期～
+||open.bakery.moe^
+# 208.64.200.105
+# Nyu Media
+# Yatagarasu Attack on Cataclysm
+# 133.208.182.78
+||www7b.biglobe.ne.jp^
+# Oskar Stålberg
+# Townscaper
+# 216.58.206.1
+# Oddrok
+# Power Hover
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# OGPlanet
+# La Tale
+# Das Produkt wurde abgeschaltet
+# 202.213.198.230
+||id.ogplanet.com^
+||dl.latale.jp^
+||gpdl01.gamepot.co.jp^
+||lapatch.gameflier.com^
+||testpatch-dl.latale.jp^
+# OhNoo Studio
+# Tormentum - Dark Sorrow
+# Betriebssystem inkl. Architektur, Produktbezeichnung
+# Ominous Entertainment
+# Deadly Escape
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# OneShark
+# Forbidden Clicker Party
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# OnFire Games
+# Ultimate Spinner Simulator
+# Ip/s blockieren:
+# 34.197.123.40
+# 50.16.85.8
+# 52.44.62.216
+# 52.207.55.229
+# 54.146.77.45
+# 54.208.201.196
+# 3.217.84.6
+# 18.205.226.216
+# OrangeGames
+# Governor of Poker 3
+# Beinhaltet Network Connection Status Indicator, NCSI - Siehe Hinweise Webseite
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||engage3515gvrnr.deltadna.net^
+||collect3515gvrnr.deltadna.net^
+||cdn-files-live.gop3.nl^
+# OtakuMaker SARL
+# Dialing
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Infinity Escape
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Jump! Jump! Jump!
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Lozenge
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Stellar Warrior
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Stickman Jetpack
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Trigonometry
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# War Hunter
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Out of the Park Developments
+# Out of Park Baseball 18
+# Optionale Ingameanalytics vorhanden. Wahrscheinlich die gsp Adresse. Konnte nicht weiter überprüfen
+||update.ootpdevelopments.com^
+# Squishy the Suicidal Pig
+||squishy.autoseries.net^
+# Panoramik Inc
+# Forge of Gods
+# Server inaktiv, Spiel wird nicht mehr verkauft
+||steamtinyarmypanoramic.appspot.com^
+||sdknode-1.devtodev.com^
+||statgw2.devtodev.com^
+||cognito-identity.us-west-2.amazonaws.com^
+||10965211.collect.igodigital.com^
+||s.adroll.com^
+||d25yha10orzq01.cloudfront.net^
+||p.cquotient.com^
+||x.bidswitch.net^
+||d.adroll.com^
+||dsum-sec.casalemedia.com^
+||pixel.rubiconproject.com^
+||ums.adtechus.com^
+||sync.outbrain.com^
+||trc.taboola.com^
+||ads.yahoo.com^
+||ib.adnxs.com^
+||idsync.rlcdn.com^
+||us-u.openx.net^
+||simage2.pubmatic.com^
+||pixel.advertising.com^
+# Imperator: Rome
+# Paradox Launcher.exe
+||e13306.x.akamaiedge.net^
+||telemetry.paradox-interactive.com^
+||prod-default-195445318.us-east-1.elb.amazonaws.com^
+||legal.paradoxplaza.com^
+||image.email.paradoxplaza.com^
+||s3.eu-west-2.amazonaws.com^
+||dis4wkchhyarj.cloudfront.net^
+# Magicka I
+# Ip/s blockieren:
+# 54.88.249.16
+# Ip/s blockieren:
+# 52.215.100.20
+# 52.215.193.69
+||live-g347409i9fs2.ws.gamesparks.net^
+||gsp-aeu002-se36.gamesparks.net^
+||capture-trackjs.com^
+||cdn.introversion.co.uk^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tyranny
+||pdxint.at^
+||paradox.zendesk.com^
+# Parallax Labs
+# Despoiler
+||ec2-3-208-242-164.compute-1.amazonaws.com^
+||ec2-23-22-40-89.compute-1.amazonaws.com^
+# Pathea Games
+# Lets School Homeroom
+# 34.111.113.40
+# 81.69.156.53
+# 34.107.172.168
+# 34.149.127.98
+# 34.96.113.148
+# 192.145.236.236
+||cdp.cloud.unity.cn^
+||www.letsschool.pathea.net^
+||vps9693.inmotionhosting.com^
+||region.api.echtra.net^
+# Telemetrie
+||tlfevents.arcgames.com^
+# Sprachchat bei Bedarf de/aktivieren
+||mt1p.www.vivox.com^
+||mt1p-mim-f5.vivox.com^
+# Permadeath
+# Planet Centauri
+# 213.186.33.3
+||planetcentauri.com^
+# Petroglyph Games Inc.
+# 8-Bit Armies
+# 70.163.78.151
+# 34.198.65.203
+# 70.32.91.32
+# 52.216.38.136
+||GAMEMETRICS3.PETROGLYPHGAMES.COM^
+# Phat Phrog Studios
+# Creature Clicker - Capture, Train, Ascend!
+# Ip/s blockieren:
+# 167.71.53.212
+||bugduck.de^
+# pheenix93
+# Wooden Floor
+# Wooden Floor 2 - Resurrection
+# s. Eintrag Steam: IP Checks
+# 199.255.40.200
+# PixelCount Studios, Ltd.
+# Kynseed
+# Steam Datagram Relay
+# Pixelsplit Simulations
+# Funfair Ride Simulator 3
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Pixeye Games
+# Until We Die
+# Ip/s blockieren:
+# 142.250.75.14
+# 216.58.208.193
+# 54.209.84.18
+# 52.84.174.96
+# 52.32.46.219
+||pixeye.games^
+||analytics.pgncs.notion.so^
+||api.pgncs.notion.so^
+# PlatinumGames Inc.
+# Sol Cresta
+# Steam Datagram Relay
+# Playdius & Plug In Digital
+# Dead in Bermuda
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Dead In Vinland
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.227.252.150
+||analytics.cloud.unity3d.com^
+||web16.playflock.com^
+||dw.playflock.com^
+||live-collect-1709264271.us-east-1.elb.amazonaws.com^
+||www.ngads.com^
+# Clicker Heroes II
+# Abandoned / Entwicklung eingestellt
+# Ip/s blockieren:
+# 3.228.243.219
+# 54.160.151.128
+# 35.170.200.133
+# 104.79.88.64
+||crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com^
+||mrminepayments.com^
+# PlayWay S.A.
+# Car Mechanic Simulator 2015
+# 157.240.223.35
+# 157.240.223.15
+# 157.240.27.27
+# 157.240.27.27
+# 157.240.223.15
+||external-dus1-1.xx.fbcdn.net^
+||xx-fbcdn-shv-01-dus1.fbcdn.net^
+# Playway S.A. und Rejected Games
+# Mr. Prepper
+# Ip/s blockieren:
+# 142.250.74.206
+# 216.58.212.174
+# 2a00:1450:4001:82b::200e
+# Playway S.A. & Play2Chill S.A.
+# Motorcycle Mechanic Simulator 2021
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Plug In Digital and Cinétévé Experience
+# Emma the Story
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# POCKET PAIR, Inc.
+# Craftopia
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# VRoid Schnittstelle
+# 104.18.31.199
+||accounts.pixiv.net.cdn.cloudflare.net^
+||accounts.pixiv.net^
+||s.pximg.net^
+||pwg-matchbot.herokuapp.com^
+# PolarityFlow
+# Sky Mercenaries
+# Twitter, Youtube, Facebook
+# 208.64.200.105
+||www.polarityflow.com^
+# PolyARC
+# Moss
+# Ip/s blockieren:
+# 216.58.207.238
+# Polymorph Games
+# Foundation
+# Nutzer werden zwar zwecks Datenversand um Einwilligung gebeten. Ein Deaktivieren ist danach aber nicht mehr vorgesehen.
+# CrashSender1403.exe und crashrpt_lang.ini im Installationsverzeichnis löschen
+# 103.24.121.30
+# 74.208.236.121
+||www.polymorph.games^
+# Positech Games
+# Big Pharma
+# 208.64.200.105
+# PotatoIndustries
+# RollingBall
+# Ip/s blockieren:
+# 34.236.93.59
+# Poysky Productions
+# Regions Of Ruin
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Production Line : Car factory simulation
+# Unter der Hauptdomäne /productionline/server/check_update.php, post_mectrics.php und post_survey2.php sind Updatechecks, Analytics und die Umfrage zu finden
+# Ebenso existiert post_framerate.php die besagte weitergibt und die Analytics aktualisieren sich je nach Aktion von selbst
+||www.positech.co.uk^
+# PQube Limited
+# Gal✰Gun 2
+# Ip/s blockieren:
+# 52.2.21.201
+# 34.194.131.148
+# 54.84.45.42
+# 34.236.93.59
+# 34.235.212.28
+# 18.233.90.22
+# 52.1.90.14
+# Hell Warders
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Nexomon: Extinction
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Songbird Symphony
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tormented Souls
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Primary Games & BiggameIncubator
+# Never Again
+# Prime Matter
+# Encased: A Sci-Fi Post-Apocalyptic RPG
+# Ip/s blockieren:
+# 185.215.4.10
+||darkcrystalgames.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Scars Above
+# Ip/s blockieren:
+# 35.227.230.186
+# 40.71.17.2
+# 40.121.237.12
+||hdrprod.hydrapi.net^
+||hdrprodmain.hydrapi.net^
+# putilin_industries
+# Achievement Hunter: Foxy | Aktualisiert 09.03.2019
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# PuzzleRoo
+# Scream Collector
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||e8af.playfabapi.com^
+# 轻文
+# 女装妹妹从没少过麻烦
+||steam-engine.iqing.com^
+# QiHeShe Technology Co.Ltd
+# 依盖之书 | Book of Yog
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Track/Logs
+# 106.15.149.128
+# 106.15.149.219
+# 106.15.149.70
+# 106.15.253.172
+# 106.15.253.196
+# 106.15.253.211
+# 47.100.134.67
+# 47.102.0.154
+# 47.88.38.23
+# 47.88.38.40
+# 47.88.38.56
+# 47.88.38.57
+# 47.88.38.61
+# 47.88.38.62
+# 47.88.38.64
+# 47.88.38.69
+# 47.88.73.126
+# 8.208.18.7
+# 8.208.36.186
+# 8.208.36.187
+# 8.208.36.188
+# 8.208.36.189
+# 8.208.36.190
+# 8.208.36.191
+# 8.208.36.192
+# 8.208.36.193
+||stsclienteu.eu-west-1.log.aliyuncs.com^
+||stsclient.cn-shanghai.log.aliyuncs.com^
+||stsclientus.us-west-1.log.aliyuncs.com^
+# Quarter Pound Studios
+# Zamarian
+# Beinhaltet Network Connection Status Indicator, NCSI - Siehe Hinweise Webseite
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||www.quarterpoundstudios.com^
+# Radiance Games
+# Endless World
+# 34.95.76.217
+# 3.224.136.19
+# 52.32.33.213
+# 76.223.29.204
+# 152.89.163.155
+||test.exomx.com^
+||api.athlongames.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Ragnarok Game, LLC
+# Rune II
+# Einträge noch nicht vollständig
+||zcp.zeuz.io^
+# Rainssong
+# Zasa - An AI Story
+||rainsgameworld.sinaapp.com^
+# Star Renegades
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Rebellion
+# Evil Genius 2
+# s. Rubrik Kopierschutz / AntiCheat
+||launcher-content.rebellion.co.uk^
+||athena.rebellion.net^
+||nephelus.rebellion.net^
+||reb.to^
+# Sniper Elite III
+# Launcher und Webseite
+||se3-content.rebellion.co.uk^
+||include.reinvigorate.net^
+# Sniper Elite 5
+# 104.22.18.90
+# 52.211.245.30
+# 139.59.199.85
+# 46.101.64.59
+# 18.66.139.115
+# 52.202.150.242
+# 54.146.169.10
+# 3.212.5.75
+# 52.20.133.164
+# 52.72.49.203
+# 52.5.97.184
+# 23.22.12.38
+# 67.207.68.69
+# 172.67.13.93
+# 93.184.220.29
+# s. Rubrik Kopierschutz / AntiCheat
+||storage.rebellion.net^
+||hermes.rebellion.net^
+||launcher-content.rebellion.co.uk.cdn.cloudflare.net^
+# Endpunkte Beispiele
+||ec2-52-202-150-242.compute-1.amazonaws.com^
+||ec2-54-146-169-10.compute-1.amazonaws.com^
+||ec2-3-212-5-75.compute-1.amazonaws.com^
+||ec2-52-20-133-164.compute-1.amazonaws.com^
+||ec2-52-72-49-203.compute-1.amazonaws.com^
+||ec2-52-5-97-184.compute-1.amazonaws.com^
+||ec2-23-22-12-38.compute-1.amazonaws.com^
+# Strange Brigade
+# Inhalt ist codiert. Zum Spielen wird nichts von beiden benötigt
+||athena-v1.rebellion.co.uk^
+||nephelus-v1.rebellion.co.uk^
+||content2.webdev.rebellion.co.uk^
+# Red Limb Studio
+# Rise of Insanity
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# RedRuins Softworks
+# Breathedge
+# Red Thread Games
+# Dreamfall Chapters
+||server.dreamfallchapters.net^
+||userservice.redthreadgames.net^
+||ec2-3-0-50-242.ap-southeast-1.compute.amazonaws.com^
+# Robert Alvarez
+# Isotiles - Isometric Puzzle Game
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Robot Entertainment, Inc.
+# Orcs Must Die! 3
+# Ip/s blockieren:
+# 34.198.225.240
+# 35.169.8.30
+# 18.213.40.51
+# 54.166.73.165
+# 52.2.194.52
+# 52.0.77.239
+# 52.55.203.38
+||ec2-52-55-203-38.compute-1.amazonaws.com^
+||ec2-52-0-77-239.compute-1.amazonaws.com^
+||ec2-52-2-194-52.compute-1.amazonaws.com^
+||ec2-54-166-73-165.compute-1.amazonaws.com^
+||ec2-18-213-40-51.compute-1.amazonaws.com^
+||ec2-34-198-225-240.compute-1.amazonaws.com^
+||tv.rockstargames.com^
+||a.rsg.sc^
+||prod.telemetry.ros.rockstargames.com^
+||prod-locator-cloud.rockstargames.com^
+# Telemetrie & Spyware
+||tm-rdr2-prod.ros.rockstargames.com^
+||elb-telemetry-rdr2-prod-1584453389.us-west-2.elb.amazonaws.com^
+# War Party
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 159.8.234.182
+# 216.120.180.54
+# 159.8.234.176
+# 216.120.180.4
+# 5.188.239.8
+# 216.120.180.25
+# 91.199.81.131
+# 92.38.154.71
+# 142.250.185.174
+# 142.250.181.238
+# 46.30.215.226
+# 104.107.217.58
+||www.warcave.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Rooftop Panda
+# Rocket Wars
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Runic Games
+# Torchlight II
+||lobby.runicgames.com^
+# Running With Scissors
+# Postal 4: No Regerts
+# 68.171.211.42
+||www.developerfuntime.com^
+||fra24s08-in-f14.1e100.net^
+||v22017034425746611.bestsrv.de^
+||lscreens.ats.online.scssoft.com^
+||news.ats.online.scssoft.com^
+# Euro Truck Simulator II
+||lscreens.eut2.online.scssoft.com^
+||news.eut2.online.scssoft.com^
+# Secret Location Inc.
+# Transpose
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.227.252.150
+# Secret Mode Ltd.
+# Dear Esther: Landmark Edition
+# 34.111.82.212
+# Eternal Threads
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Turbo Golf Racing
+# IPv4: https://www.gameindustry.eu/en/search/?suchbegriff=Turbo+Golf+Racing
+||pubsub-signalr-prod-westus3-002.service.signalr.net^
+||collect22025vrdrv.deltadna.net^
+# SEGA
+# Bayonetta
+# Ip/s blockieren:
+# 34.248.171.87
+||garry.sgaas.net^
+||sgaas-vpc-garry-public-elb-644092612.eu-west-1.elb.amazonaws.com^
+# Catherine Classic
+# Ip/s blockieren:
+# 34.250.97.216
+# 52.214.128.245
+||ec2-34-250-97-216.eu-west-1.compute.amazonaws.com^
+||ec2-52-214-128-245.eu-west-1.compute.amazonaws.com^
+||ingame.companyofheroes.com^
+# Endless Space® 2
+# 63.35.126.135
+# 52.210.254.53
+# 63.35.126.135
+# 18.65.39.72
+# 18.65.39.120
+# 18.66.122.36
+# 18.66.122.45
+||api.games2gether.com^
+# Shenmue I & II
+# Ip/s blockieren:
+# 54.194.1.222
+# 108.128.20.34
+# 34.252.170.86
+# 34.246.129.184
+# 52.19.49.120
+# 52.214.131.46
+# Shining Resonance Refrain
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 34.252.170.86
+# 52.48.186.45
+# Total War: Attila
+# inklusiv Youtube, Google, Twitter, Facebook und anderem Zeugs
+# Launcher+Encyclopedia+MP
+||launcher.totalwar.com^
+||d1hdmqpnp3kt1h.cloudfront.net^
+# Enzeklopädie Einträge
+||atenc.totalwar.com^
+||creative-assembly.cloudant.com^
+# Total War: Shogun II
+||tw-s2-webfront.s3.amazonaws.com^
+# Shogun2.exe im Hauptmenü ohne Nutzeraktion... folgende Adressen "Werbung, Tracking, Profiling" können allesamt blockiert werden. Google nach Bedarf
+# Benötigte Webdienste sind weiterhin funktional
+||js.adsrvr.org^
+||match.adsrvr.org^
+||insight.adsrvr.org^
+||sync.adap.tv^
+||sync.adaptv.advertising.com^
+||safebrowsing-cache.google.com^
+# Total War: Three Kingdoms
+# 255.255.255.255
+# 45.60.47.160
+# 13.35.125.88
+# 54.72.150.84
+# 63.35.76.112
+# 54.72.248.64
+# 92.122.104.90
+# 63.33.167.102
+# 54.171.209.26
+# 52.51.106.62
+# 54.72.220.34
+# 52.17.173.247
+# 52.208.190.137
+# 52.49.218.253
+# 52.18.94.153
+# 54.194.195.183
+# 52.49.61.71
+# 54.194.50.111
+# 34.249.85.169
+# 104.16.125.175
+# 108.157.4.60
+# 142.250.185.202
+# 142.250.179.200
+# 108.157.4.39
+# 80.75.66.243
+# 151.101.114.137
+# 162.247.243.147
+# 142.250.185.110
+# 199.232.137.140
+# 104.126.37.160
+# 142.250.186.98
+# 199.232.136.157
+# 199.232.137.140
+# 142.250.102.155
+# 142.250.186.66
+# 204.79.197.200
+# 104.244.42.67
+# 104.244.42.5
+# 23.32.239.8
+# 3.125.60.219
+# 142.250.179.195
+# 142.250.186.36
+# 52.142.114.2
+# 40.90.65.6
+# 52.59.8.244
+# 20.84.22.197
+# 204.79.197.200
+# 157.240.14.19
+# 157.240.14.35
+||hull.sgaas.net^
+||c2ecc2d3-20bf-412f-aa71-7311aa27a2be.totalwar.com^
+||academy.totalwar.com^
+||cc.cdn.civiccomputing.com^
+||apikeys.civiccomputing.com^
+||bat.bing.com^
+||secure-ds.serving-sys.com^
+||lm.serving-sys.com^
+||c.clarity.ms^
+||f.clarity.ms^
+||www.clarity.ms^
+||c.bing.com^
+# Total War: WARHAMMER II
+# 52.222.236.49
+# 45.60.47.160
+# 13.225.78.102
+# 13.224.196.65
+# 172.217.18.162
+# 216.58.207.38
+# 216.58.207.66
+# 172.217.18.110
+# 92.123.20.242
+# 2.19.46.25
+# 64.233.167.156
+# 82.199.68.72
+# Launcher / Inhalte wurden hier abgeschaltet
+# 208.64.200.105
+||launcher-v3.totalwar.com^
+||launcher-v3-content.totalwar.com^
+||8aefz.x.incapdns.net^
+||d3j5omnogt8tmc.cloudfront.net^
+# Tracker/Analytics/Cookies
+||03c9acbb-4d65-4544-bc3d-082aa04cc5b4.totalwar.com^
+||launcher-analytics.totalwar.com^
+# Sega Support optional
+||support.sega.co.uk^
+||d3n23swryao27j.cloudfront.net^
+# Server-Endpunkte
+||s3.eu-west-1.amazonaws.com^
+||ec2-52-30-239-7.eu-west-1.compute.amazonaws.com^
+||ec2-54-228-31-76.eu-west-1.compute.amazonaws.com^
+||server-108-157-4-119.dus51.r.cloudfront.net^
+||server-18-66-248-49.dus51.r.cloudfront.net^
+# Total War Saga: Thrones of Britannia
+# Launcher / Inhalte wurden hier abgeschaltet
+||twlauncher-86272956.eu-west-1.elb.amazonaws.com^
+# s. Rubrik Kopierschutz / AntiCheat
+# Thrones.exe
+||6148b9c6-14c1-4747-80a0-e0dbcb770b2e.totalwar.com^
+||track-api.gamesight.io^
+# Valkyria Chronicles 4
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 34.241.84.150
+# 63.32.155.164
+||ec2-34-241-84-150.eu-west-1.compute.amazonaws.com^
+||ec2-63-32-155-164.eu-west-1.compute.amazonaws.com^
+# Yakuza 0
+# s. Rubrik Kopierschutz / AntiCheat
+# Yakuza Kiwami
+# Ip/s blockieren:
+# 52.44.13.74
+# 108.128.20.34
+# 54.194.1.222
+# 34.252.170.86
+# 34.246.129.184
+# 52.19.49.120
+# 52.214.131.46
+# Yakuza Kiwami 2
+# Ip/s blockieren:
+# 34.254.42.191
+# 52.44.13.74
+# 108.128.20.34
+# 54.194.1.222
+# 34.252.170.86
+# 34.246.129.184
+# 52.19.49.120
+# 52.214.131.46
+# Yakuza: Like a dragon
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 34.252.170.86
+# 52.19.49.120
+# 52.214.131.46
+# 54.194.1.222
+# 108.128.20.34
+# 34.246.129.184
+# SeithCG
+# Ghost of a Tale
+# Ip/s blockieren:
+# 194.110.240.60
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# SekaiFrieden
+# Epido
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Sekai Project
+# Clannad
+# 208.64.200.105
+# NEKOPALIVE
+# Nimmt zu Programmstart DirectX Daten auf
+# NEKOPARA Vol. 2 + Patch
+# 208.64.200.105
+# NEKOPARA Vol. 4
+# 208.64.200.105
+# Sergej110
+# Combat Raccoon
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Crazy Pirate
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Draw_Love
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Golden Fever
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# World Inside Out
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Shaman Games Studio
+# A Plot Story
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Shandong Jerei Digital Technology Co.,LTD.
+# Magic Pixel Picross
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 47.93.244.219
+||94d63cbf92082237b86267ffd4cacc64.cloudfront.net^
+||249.195.120.34.bc.googleusercontent.com^
+# Sparpweed
+# 18.185.111.141
+||ec2-18-185-111-141.eu-central-1.compute.amazonaws.com^
+# Evoland 2
+# 104.79.88.64
+# Northgard
+# Einzelspielermodus
+# 5.39.74.98
+||shirogames.com^
+# Shiver Games
+# Lucius 3
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 172.217.17.46
+# Siberian Digital
+# Sinistry Silinium
+||counter.yadro.ru^
+||top-fwz1.mail.ru^
+||tns-counter.ru^
+||www.sigma-team.ru^
+# SIGONO INC.
+# OPUS: The Day We Found Earth
+||redirect.sigono.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Silicon Echo
+# The First Spark
+# 208.64.200.105
+# The Safeguard Garrison
+# 208.64.200.105
+# Silver Dollar Games
+# One Finger Death Punch 2
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Sindiecate Arts
+# Nongünz
+# Size Five Games
+# The Swindle
+# 208.64.200.105
+# Skip32
+# Celtabula
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Skyboy Games
+# Ookibloks
+# 208.64.200.105
+# Slitherine Software UK Ltd.
+# Battlestar Galactica Deadlock
+# 64.111.25.186
+# 142.251.36.206
+# 34.107.172.168
+# 64.111.25.165
+# 216.120.180.54
+# 34.111.113.40
+# 35.190.78.8
+||www.matrixgames.com^
+||ftp.us.matrixgames.com^
+||muc12s12-in-f14.1e100.net^
+||impero.destinybit.net^
+||ec2-52-204-81-134.compute-1.amazonaws.com^
+||ec2-52-51-32-170.eu-west-1.compute.amazonaws.com^
+# Heroes of Normandie
+# 34.111.113.40
+# 34.107.172.168
+# 64.111.25.186
+# 18.66.112.67
+# 18.66.112.26
+# 18.66.112.129
+# 18.66.112.3
+||www.slitherine.com^
+||server-18-66-112-26.fra56.r.cloudfront.net^
+||server-18-66-112-6.fra56.r.cloudfront.net^
+||server-18-66-112-129.fra56.r.cloudfront.net^
+||server-18-66-112-3.fra56.r.cloudfront.net^
+# Magnifico
+# 83.221.146.11
+||magnifico.multiplayer.mixelweb.it^
+# Warhammer 40,000: Gladius - Relics of War
+# 172.217.16.174
+# 178.79.172.85
+# 139.162.197.195
+||clients3.google.com^
+||reports.proxy-studios.com^
+||pbem2.slitherine.com^
+||usercontent.slitherine.com^
+||dub-ludy-public-lb-1875777560.eu-west-1.elb.amazonaws.com^
+||pdx-ludy-public-lb-310889182.us-west-2.elb.amazonaws.com^
+||iad-ludy-public-lb-35718222.us-east-1.elb.amazonaws.com^
+||gru-ludy-public-lb-996655087.sa-east-1.elb.amazonaws.com^
+||api.ipify.org^
+||s2s.adjust.com^
+||elb097307-934924932.us-east-1.elb.amazonaws.com^
+||lostark.game.gate8.com^
+# Snail Games USA
+# Dark and Light
+# 45.75.18.33
+# 47.75.19.130
+# 115.182.197.210
+# 122.112.233.187
+||hgonline-role.oss-cn-hongkong.aliyuncs.com^
+||sqm.woniu.com^
+||crashlogs.woniu.com^
+||crashlogs.mobilegame.woniu.com^
+# Snapshot Games, Inc.
+# Chaos Reborn
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 184.154.26.130
+||www.chaos-reborn.com^
+# Server unter 178.62.98.200
+# Phoenix Point Demo
+# 34.209.189.204
+# 34.216.103.251
+# 34.217.188.224
+# 34.218.28.228
+# 34.223.188.58
+# 35.162.131.224
+# 35.84.86.11
+# 44.235.46.61
+# 44.238.66.246
+# 44.239.137.146
+# 44.240.84.34
+# 44.240.88.7
+# 52.10.183.135
+# 52.10.220.141
+# 52.12.35.186
+# 52.26.8.25
+# 52.35.223.48
+# 52.39.167.61
+# 52.40.54.25
+# 54.187.243.41
+# 54.202.84.178
+# 13.32.99.32
+# 13.32.99.128
+# 13.32.99.4
+# 13.32.99.5
+# 40.71.17.2
+# 35.190.78.8
+||xho82lzrfg.execute-api.us-west-2.amazonaws.com^
+# Snow Cannon Games
+# The Frostrune
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||6fe90cb7a4852d2683f62e862f7a790c.cloudfront.net^
+# SOEDESCO Publishing
+# Wuppo
+# 208.64.200.105
+# SOFTSTAR ENTERTAINMENT INC.
+# 天使帝國四《Empire of Angels IV》
+# 208.64.200.105
+# 軒轅劍外傳穹之扉《The Gate of Firmament》
+# 208.64.200.105
+# 轩辕剑柒《Xuan-Yuan Sword VII》
+# s. Eintrag Steam: IP Checks
+# Softwaves Dist.
+# The Village
+||www.blacksaturserver.esy.es^
+||mw5xplay.azurewebsites.net^
+||static.mw5mercs.com^
+||9eu8txazwd.execute-api.us-west-2.amazonaws.com^
+||ec2-18-210-235-32.compute-1.amazonaws.com^
+||a2-16-107-73.deploy.static.akamaitechnologies.com^
+||ec2-54-161-191-212.compute-1.amazonaws.com^
+# Sometimes You
+# Cranium Conundrum
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Dear RED - Extended
+# 208.64.200.105
+# Hexoscope
+# Just Hero
+# 208.64.200.105
+# Langoth
+# Ip/s blockieren:
+# 23.229.189.38
+# 54.174.205.197
+# Spiral Splatter
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 52.55.162.139
+# Somi, Zero Rock Entertainment
+# Replica
+# 208.64.200.105
+# Something We Made
+# TOEM
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Sony Interactive Entertainment, Inc.
+# Days Gone
+# Ip/s blockieren:
+# 54.86.57.185
+# 52.21.46.134
+# 54.86.57.185
+# 34.196.22.119
+# 18.211.148.84
+# 52.21.46.134
+||dgpc.api.wwsga.me^
+||dgpcx.api.wwsga.me^
+||prod01.api.us-east-1.production.smaug.wwsga.me^
+||ec2-54-86-57-185.compute-1.amazonaws.com^
+||ec2-34-196-22-119.compute-1.amazonaws.com^
+||ec2-18-211-148-84.compute-1.amazonaws.com^
+||ec2-52-21-46-134.compute-1.amazonaws.com^
+# God of War
+# Ip/s blockieren:
+# 54.158.118.216
+# 54.234.69.45
+# 52.86.157.125
+# 54.211.25.229
+# 54.158.249.162
+# 3.224.5.65
+||sm-int81.api.wwsga.me^
+||ec2-54-158-118-216.compute-1.amazonaws.com^
+||ec2-54-234-69-45.compute-1.amazonaws.com^
+||ec2-52-86-157-125.compute-1.amazonaws.com^
+||ec2-54-211-25-229.compute-1.amazonaws.com^
+||ec2-54-158-249-162.compute-1.amazonaws.com^
+||ec2-3-224-5-65.compute-1.amazonaws.com^
+# Horizon Zero Dawn™ Complete Edition
+# Ip/s blockieren:
+# 52.205.96.68
+# 52.217.104.212
+||hzdpc.api.wwsga.me^
+||horizon-static-np.s3.amazonaws.com^
+# SoundStage13
+# Where is my Brain!?
+# Spaceboy Games
+# HackyZack
+# 208.64.200.105
+# Spawn Point OSK
+# Army of Squirrels
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Specialbit Studio
+# The Last Dream: Developer’s Edition
+# 157.240.14.19
+# 157.240.14.35
+# 157.240.27.27
+# 157.240.14.19
+||scontent-dus1-1.xx.fbcdn.net^
+||sqm.microsoft.com^
+||dns.msftncsi.com^
+||lbmtl.os.eidos.com^
+# Deus Ex: The Fall
+# 157.240.20.35
+# 157.240.20.19
+||dxtfecopc.sqexeu.com^
+||connect-dev.eidos.co.uk^
+||eu.square-enix.com^
+||hmgo.os.eidos.com^
+# Just Cause™ 3
+# s. Rubrik Kopierschutz / AntiCheat
+# 185.215.128.11
+# 185.215.128.12
+# 185.215.128.13
+# 54.77.65.58
+# 63.33.106.137
+||bluewhale.os.eidos.com^
+||lblon.os.eidos.com^
+# Lara Croft and the Guardian of Light
+# 208.64.200.105
+# Legend of Mana
+# s. Rubrik Kopierschutz / AntiCheat
+# Life is Strange
+# 208.64.200.105
+||lis.os.eidos.com^
+# Life is Strange 2
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 52.70.146.197
+||promenade.os.eidos.com^
+||dawn.os.eidos.com^
+||hxu6sht.x.incapdns.net^
+# Life is Strange: True Colors Demo
+# Ip/s blockieren:
+# 185.215.130.10
+# 185.215.130.11
+||oslb001.sqexeu.com^
+||see-siren.os.eidos.com^
+||see-siren-prod.os.eidos.com^
+# MOBIUS FINAL FANTASY™
+# Onlineangebot seit 2020 eingestellt
+# Ip/s blockieren:
+# 103.224.182.253
+# 199.59.243.222
+# 199.59.243.222
+# 76.223.26.96
+# 103.224.182.253
+||web.ne.mobiusfinalfantasy.com^
+||cache.ne.mobiusfinalfantasy.com^
+||crashreporter2.peoplecanfly.com^
+||dkifbup.x.incapdns.net^
+# Star Ocean Divine Force
+||rad-alogsvr.tri-ace.co.jp^
+# STRANGER OF PARADISE FINAL FANTASY ORIGIN
+# Steam Datagram Relay
+# The Awesome Adventures of Captain Spirit
+# s. Rubrik Kopierschutz / AntiCheat
+# Ip/s blockieren:
+# 52.70.146.197 # Beinhaltet folgende 4 Adressen/hostnamen
+||hmsniper.os.eidos.com^
+||dxbreach.os.eidos.com^
+# Fallen Enchantress: Legendary Heroes
+||impulsedriven.com^
+# Sorcerer King: Rivals
+# 208.64.200.105
+||skrivals-api-tachyon.stardock.net^
+||tachyon-alert.stardock.net^
+||tachyon-alertservice.herokuapp.com^
+||us-east-1-a.route.herokuapp.com^
+||waws-prod-bn1-003.sip.azurewebsites.windows.net^
+# The Political Machine 2016
+# Identität wird per Token überprüft - zusätzlich werden Stats abgefragt zu Playtime, Matches usw.
+||tpm2016-api-tachyon.stardock.net^
+# Statespace Labs, Inc.
+# Aimlabs
+# Ipv4: https://www.gameindustry.eu/en/search/?suchbegriff=Aimlabs
+||ip-api.com^
+||7909.playfabapi.com^
+||statespacenrio.dataplane.rudderstack.com^
+||operate-sdk-telemetry.unity3d.com^
+# State of Play Games
+# Kami
+# + Facebook & Twitter
+||www.stateofplaygames.com^
+||www.kamipuzzle.com^
+# Stolen Couch Games
+# Ichi
+# Facebook & Twitter
+# 208.64.200.105
+||www.stolencouchgames.com^
+||a.nel.cloudflare.com^
+# Sunside Inc
+# Abducted
+# Super Icon, Ltd
+# Gates of Hell
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Superhot Team
+# SuperhotVR
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 185.14.184.48
+||api.ghostline.xyz^
+# System Era Softworks
+# Astroneer | Aktualisiert: 17.02.19
+||5EA1.playfabapi.com^
+# 52.88.98.131
+# 54.201.12.16
+# 52.27.8.50
+||p-5ea1-mainserver-1132673268.us-west-2.elb.amazonaws.com^
+# Tamasenco
+# Wild West Saga: Idle Tycoon Clicker
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 104.26.6.7
+||www.tamasenco.net^
+# Folgendes bei aktivem Seitenaufruf "Nützliche Links"
+# Reddit, Youtube, Google, Advertising, Tracking u.v.m....
+||optimizedby.brealtime.com^
+||curse-d.openx.net^
+||secure-us.imrworldwide.com^
+||hydra-media.cursecdn.com^
+||tag.contextweb.com^
+||bid.contextweb.com^
+# Tate Multimedia S.A.
+# Kao the Kangaroo: Round 2
+# 208.64.200.105
+# Steel Rats™
+# Dazugehörige IP-Adressen unter https://gameindustry.eu/katalog/epic-games-inc/
+||ec2-52-23-27-246.compute-1.amazonaws.com^
+||ec2-54-209-147-245.compute-1.amazonaws.com^
+# Team17 Digital Ltd
+# Age of Darkness: Final Stand
+# Ip/s blockieren:
+# 34.96.113.148
+||collect24230gfdrk.deltadna.net^
+||ws-in-f109.1e100.net^
+||ws-in-f108.1e100.net^
+# Hokko Life
+# Ip/s blockieren:
+# 35.190.78.8
+# 108.128.211.196
+# 46.137.44.2
+# 46.137.154.174
+||api.lootlocker.io^
+||ec2-46-137-154-174.eu-west-1.compute.amazonaws.com^
+||ec2-108-128-211-196.eu-west-1.compute.amazonaws.com^
+||ec2-46-137-44-2.eu-west-1.compute.amazonaws.com^
+||google-analytics.com^
+# TEAM HORAY
+# Dungreed
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Techland Publishing
+# Dying Light
+# 184.73.250.29
+# 3.81.154.236
+# 52.203.81.146
+# 3.213.195.224
+# 54.162.78.154
+# 34.206.76.142
+# 34.201.231.7
+# 54.235.102.100
+||pls.dyinglightgame.com^
+||ec2-3-81-154-236.compute-1.amazonaws.com^
+||ec2-184-73-250-29.compute-1.amazonaws.com^
+||ec2-34-195-166-99.compute-1.amazonaws.com^
+||ec2-18-157-14-85.eu-central-1.compute.amazonaws.com^
+# Dying Light 2 Stay Human
+# s. Rubrik Kopierschutz / AntiCheat
+# 107.23.203.1
+# 108.157.4.26
+# 13.33.33.127
+# 13.33.33.61
+# 13.33.33.7
+# 13.33.33.87
+# 18.155.70.110
+# 18.155.70.189
+# 18.155.70.228
+# 18.155.70.29
+# 18.161.214.136
+# 18.161.216.127
+# 18.161.216.5
+# 18.213.64.2
+# 18.215.127.71
+# 18.234.18.152
+# 3.210.188.60
+# 3.217.107.95
+# 3.219.181.22
+# 3.222.91.83
+# 3.225.117.84
+# 3.225.243.49
+# 3.227.135.142
+# 3.230.247.108
+# 3.234.193.114
+# 3.86.168.215
+# 3.93.126.170
+# 3.93.245.211
+# 3.94.32.162
+# 34.192.128.128
+# 34.192.153.134
+# 34.194.65.29
+# 34.196.177.18
+# 34.199.32.68
+# 34.203.101.60
+# 34.204.223.148
+# 34.204.245.77
+# 34.225.200.134
+# 34.226.177.195
+# 34.226.253.129
+# 34.231.151.181
+# 34.233.5.22
+# 34.233.50.229
+# 34.234.252.202
+# 34.239.252.131
+# 34.239.53.213
+# 35.153.46.149
+# 35.170.45.212
+# 35.174.54.94
+# 44.196.119.228
+# 44.207.43.165
+# 44.208.60.53
+# 44.208.69.17
+# 50.16.128.199
+# 50.16.207.191
+# 50.17.237.83
+# 50.19.116.49
+# 52.1.170.178
+# 52.2.41.52
+# 52.200.75.189
+# 52.211.245.30
+# 52.3.168.119
+# 52.44.194.61
+# 52.44.254.198
+# 52.44.66.12
+# 52.73.56.47
+# 52.87.17.190
+# 54.144.151.218
+# 54.155.196.185
+# 54.158.160.200
+# 54.161.55.36
+# 54.162.4.10
+# 54.164.219.71
+# 54.166.70.66
+# 54.204.121.8
+# 54.204.46.56
+# 54.205.122.21
+# 54.205.151.226
+# 54.210.171.120
+# 54.236.151.117
+# 54.243.133.119
+# 54.77.65.58
+# 54.80.71.75
+# 54.86.224.108
+# 54.88.8.112
+# 54.92.244.38
+# 63.33.106.137
+# 63.33.167.102
+||api.techlandonlineservices.com^
+||d2hjvmnsrtrg65.cloudfront.net^
+||object-storage-core.techlandonlineservices.com^
+# God's Trigger
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# tengenstudio
+# Destiny of Blood
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Telltale Games
+# Batman: The Enemy Within - The Telltale Series
+||services.telltalegames.com^
+# Batman - The Telltale Series
+# 52.26.156.32
+# The Walking Dead: The Final Season
+# Teotl Studios
+# The Solus Project
+||www.thesolusproject.com^
+# Tero Lunkka
+# Thirsty Bubble
+# Zomby Soldier
+# Terrible Toybox, Inc.
+# Thimbleweed Park™
+# 216.58.210.142
+# Texel Raptor
+# Parkitect
+||www.themeparkitect.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# TGA Company LLC
+# You Deserve
+# Youtube, Facebook, Twitter, Instagram
+# The Arcade Crew & Maple Whispering Limited
+# 208.64.200.105
+# The Brotherhood & Daedalic Entertainment
+# Cayne
+# Ip/s blockieren:
+# 172.217.16.206
+# 216.58.212.174
+# 172.217.16.142
+# The Behemoth
+# Castle Crashers
+# 107.23.154.158
+||ec2-107-23-154-158.compute-1.amazonaws.com^
+||behemoth-websites-alb-1662044894.us-east-1.elb.amazonaws.com^
+# The Deep End Games
+# Perception
+# s. Eintrag Steam: IP Checks
+# The Digital Lounge
+# Another World – 20th Anniversary Edition
+# 208.64.200.105
+# The Everglow Team
+# Desktopia: A Desktop Village Simulator
+# 142.250.185.110, 142.250.186.74, 142.250.186.36, 142.250.186.138, 142.250.186.132
+||optimizationguide-pa.googleapis.com^
+# The Irregular Corporation
+# PC Building Simulator
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# The Quantum Astrophysicists Guild
+# Tumblestone
+# 54.162.179.194 # Freier Key für Freunde
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# The Young Socratics
+# Odyssey - The Story of Science
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Thick & Thin
+# 208.64.200.105
+# Thiemo Bolder, ONEMANGAMES
+# Artificial Defense
+||www.one-man-games.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Thing Trunk
+# Book of Demons
+# Eine eigens erstellte nofeedback.txt im Hauptverzeichnis des Spiels deaktiviert Analytics/Feedback alternativ zum Block der Adressen
+# 85.190.228.13
+||feedback.return2games.com^
+||feedback.thingtrunk.com^
+# Throwback Entertainment
+# Carnage in Space: Ignition
+# Websocket
+# https://carnageinspace.com/api/login.php
+||carnageinspace.com^
+||static.230.198.130.94.clients.your-server.de^
+||static.197.12.203.116.clients.your-server.de^
+||static.87.139.47.78.clients.your-server.de^
+# Destroy All Humans!
+# 35.188.42.15
+# s. Eintrag Steam: IP Checks
+||unreal.backtrace.io^
+# Usertracking
+# Full Spectrum Warrior
+||fswpc.available.gamespy.com^
+# 94.130.252.65 # Multiplayer
+# 208.64.200.105
+||redmine.thqnordic.com^
+||server2.thqonline.net^
+# This is the police
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Wreckfest
+||wreckfest.sp.backtrace.io^
+||d-mqtk8dh9ba.execute-api.us-west-2.amazonaws.com^
+||fra16s53-in-f10.1e100.net^
+||a2-21-228-217.deploy.static.akamaitechnologies.com^
+||server-13-226-159-127.dus51.r.cloudfront.net^
+||ec2-54-149-13-193.us-west-2.compute.amazonaws.com^
+# Outpost Zero
+# Party Hard Tycoon
+||board.pinoklgames.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Totally Reliable Delivery Service
+# 54.186.145.204
+# 52.24.177.168
+# 5.8.70.139
+# 5.8.70.141
+# 5.188.110.5
+# 5.188.110.10
+# 5.188.239.6
+# 5.188.239.12
+# 92.38.165.230
+# 92.38.165.231
+# 92.38.191.5
+# 92.38.191.6
+# 94.237.2.169
+# 94.237.40.188
+# 94.237.110.185
+# 94.237.110.187
+# 146.185.221.6
+# 146.185.221.7
+# 152.44.41.239
+# 169.38.88.113
+# 169.38.88.120
+# 169.54.101.108
+# 169.54.101.112
+# 172.65.231.130
+||41dcf.playfabapi.com^
+# Waking
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tiny Pixel
+# Boss Defiance
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Thial
+# IsoBoom
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Thomas Bowker
+# LYNE
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Thomas Happ Games LLC
+# Axiom Verge
+# Steam Datagram Relay
+# Thorium
+# Undermine
+# 185.199.111.153
+||thorium-entertainment.github.io^
+# Threaks GmbH
+# Beatbuddy: Tale of the Guardians
+# Ipv4 - https://gameindustry.eu/katalog/gameanalyitcs/
+# Three Flip Studios
+# Influent
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# THQ / Embracer
+# Biomutant
+# s. Eintrag Steam: IP Checks
+# Ipv4: https://gameindustry.eu/katalog/epic-games-inc/
+# Thunder Lotus Games
+# Jotun: Valhalla Edition
+# Ingameanbindung Steamstore # store.akamai.steamstatic.com
+# 208.64.200.105
+# Sundered
+# GoogleApi, Google, Recaptcha
+||thunderlotusgames.us9.list-manage1.com^
+||eepurl.com^
+# Thunderful Publishing
+# HELLFRONT: HONEYMOON
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tin Man Games
+# The Warlock of Firetop Mountain
+||tinmangamesmmstore.s3.amazonaws.com^
+# Toffee Cafe
+# Miss Neko 3
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Toge Productions
+# Infectonator: Survivors
+# Toka Loka Games
+# Goo Saga - HD Edition
+||services.tokaloka.com^
+# Tomas Daugela
+# Bob The Cube
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tonguç Bodur
+# Nephise Begins
+# Ip/s blockieren:
+# 54.88.130.39
+# Toplitz Productions GmbH
+# Farmer's Dynasty
+# 208.64.200.105
+# Farming Giant
+||update.actalogic.com^
+# Starsand
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.107.172.168
+# 35.190.78.8
+||smtp.tunnelvision.it^
+# Vendetta - Curse of Raven's Cry
+||secure.zuxxez.com^
+# Toukana Interactive
+# Dorfromantik
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 54.167.181.158
+# 192.46.238.25
+# Tower Up Studios
+# Bloody Mice
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Tozai Games CO., LTD.
+# アールタイプ・ディメンジョンズ EX | R-Type Dimensions EX
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Trendy Entertainment
+# Dungeon Defenders
+||dungeondefenders.com^
+||tiny.cc^
+||duxsites-trendy-assets.s3.amazonaws.com^
+# Trese Brothers
+# Star Traders: Frontiers
+# 172.217.168.46
+||zrh04s14-in-f14.1e100.net^
+||store.trionworlds.com^
+||rss.trionworlds.com^
+||ads.triongames.com^
+||webcdn.triongames.com^
+# Weitere benutzte "Dienste"
+||munchkin.marketo.net^
+# Tripwire Interactive
+# Killing Floor II
+# 216.239.35.12
+# 34.193.144.67
+# 216.239.35.8
+||analytics.tripwireinteractive.com^
+||ec2-34-193-144-67.compute-1.amazonaws.com^
+||time.google.com^
+||time1.google.com^
+||art.tripwirecdn.com^
+# s. Eintrag Steam: IP Checks
+# Sprachchat
+# Maneater
+# s. Rubrik Kopierschutz / AntiCheat
+# Red Orchestra 2: Heroes of Stalingrad - Singleplayer
+# 66.150.121.248
+# 96.38.241.68
+||wl.tripwireinteractive.com^
+||bugtracker.mordhau.com^
+# Google DoubleClick
+# Ip/s blockieren:
+# 172.217.18.2
+# 172.217.21.194
+# 172.217.18.102
+# 172.217.16.134
+# turbolento games
+# Placid Plastic Duck Simulator
+# Steam Datagram Relay
+# Ip/s blockieren:
+# 35.190.78.8
+# TwoWizards
+# Idle Wizard
+# 54.175.64.91
+# 52.20.250.191
+# 52.201.30.51
+# 54.208.229.218
+||cloud-save-backup.herokuapp.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Two Tribes Publishing
+# RIVE: Wreck, Hack, Die, Retry!
+# 37.97.129.160
+||www.rivethegame.com^
+# Ubisoft Entertainment SA
+# Anno 1404 | Dawn of Discovery
+||gconnect.ubi.com^
+||localhost.ubisoft.com^
+||rum-collector-2.pingdom.net^
+||rum-static.pingdom.net^
+# Far Cry 3
+# Ip/s blockieren:
+# 239.255.255.250
+# 185.38.21.85
+# 185.38.21.84
+# 216.98.48.133
+# Einträge gelten nur zusammen mit dem UPLay Launcher
+# 208.64.200.105
+||storage.ubi.com^
+||onlineconfigservice.ubi.com^
+# GRB_vulkan.exe, GRB.exe
+# 216.98.62.71
+# 216.98.62.72
+# 52.119.218.82
+# 103.8.175.229
+# 52.94.204.248
+# 52.94.49.48
+# 52.119.161.68
+# 72.21.207.127
+# 52.46.173.29
+# 52.217.45.4
+# 52.217.33.28
+# 3.94.50.29
+# 3.221.116.27
+# 3.217.207.251
+# 3.221.245.228
+# 18.232.41.169
+# 18.209.139.244
+# 52.45.219.126
+# 52.57.115.154
+# 3.212.164.123
+# 3.221.245.228
+# 216.98.50.198
+||e5af8b3f-a867-4ed4-8804-229b50c9bb1f-prod.s3.amazonaws.com^
+||gamelift.ap-northeast-1.amazonaws.com^
+||gamelift.ap-southeast-2.amazonaws.com^
+||gamelift.eu-central-1.amazonaws.com^
+||gamelift.eu-west-2.amazonaws.com^
+||gamelift.us-west-2.amazonaws.com^
+||gamelift.us-east-1.amazonaws.com^
+||gamelift.sa-east-1.amazonaws.com^
+||ap-southeast-2-storm.ubi.com^
+# PVP und KOOP optional | Bei Bedarf de/aktivieren
+||lb-az-rdv-tgt-prod.ubisoft.com^
+# Weitere ipv4 Adressen
+# 54.252.246.227
+# 54.169.183.27
+# 52.23.230.123
+# 52.77.41.7
+# 52.64.67.168
+# 54.89.58.168
+# 54.160.158.107
+# 100.26.191.49
+# 3.127.108.14
+# 54.221.24.138
+# upc.exe
+# 18.233.137.39
+||ucppropagationservice.ubi.com^
+||sigma-elb-1893274496.us-east-1.elb.amazonaws.com^
+||news-page-themes-api.a.upc.ubisoft.com^
+||cerberus-eu-lb-776396454.eu-west-1.elb.amazonaws.com^
+# UFO Interactive Games
+# Raiden V: Director's Cut | 雷電 V Director's Cut | 雷電V:導演剪輯版
+# 208.64.200.105
+# Ultima Games
+# Gift To Humanity | Aktualisiert 26.02.2019
+# Facebook, Discord, Twitter, Wix, Google
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+||7b48191d48ad0a2b3616c20acd7fbc1c.cloudfront.net^
+||activation.unity3d.com^
+||build-api.cloud.unity3d.com^
+||build-artifact-api.cloud.unity3d.com^
+||collab-waiting-list.cloud.unity3d.com^
+||collab.cloud.unity3d.com^
+||commenting.cloud.unity3d.com^
+||core.cloud.unity3d.com^
+||dashboard.heyplayapp.com^
+||data.cloud.unity3d.com^
+||developer.cloud.unity3d.com^
+||ecommerce.iap.unity3d.com^
+||eloqua-trackings.unity3d.com^
+||embedded.cloud.unity3d.com^
+||jump.cloud.unity3d.com^
+||lore.cdp.internal.unity3d.com^
+||lore.data.ie.cdp.internal.unity3d.com^
+||multiplayer.unity3d.com^
+||perf.cloud.unity3d.com^
+||prd-lender.cdp.internal.unity3d.com^
+||sdk-diagnostics.prd.mz.internal.unity3d.com^
+||uca.cloud.unity3d.com^
+||unityads.unity3d.com^
+# Unity Ads
+||cdn-creatives-tencent-prd.unityads.unitychina.cn^
+||cdn-store-icons-tencent-prd.unityads.unitychina.cn^
+||endscreen.unityads.unitychina.cn^
+# Zuständig für Schnüffelei in Spielen
+# Erfasste Daten werden je nach Nutzerherkunft an USC "z.b. Usa", EUW "z.b. Deutschland"" oder APE "z.b. Japan" von der Perf-Events aus weitergeleitet. Ips gehören dazu.
+# Ip/s blockieren:
+# 34.107.172.168
+# 35.227.244.186
+# 35.241.26.53
+# 34.111.82.212
+# 34.111.113.40
+# 35.190.78.8
+# 34.107.181.14
+# 34.111.82.212
+# 35.186.194.186
+# 34.111.113.40
+# 35.190.88.234
+# Veraltet / Obsolete
+# Ip/s blockieren:
+# 35.227.244.186
+# 35.241.26.53
+# 35.241.52.229
+||186.244.227.35.bc.googleusercontent.com^
+||53.26.241.35.bc.googleusercontent.com^
+||229.52.241.35.bc.googleusercontent.com^
+# Data-Optout leitet auf Analytics mitsamt Übergabeparameter/Token weiter. Dazu gehören ProgrammID, UserID, GeräteID
+# Außerdem Einstellungen zu de/aktivierten Analytics, Optout ja/nein, Report erlaubt ja/nein
+# Bei Bedarf de/aktivieren
+# Unknown Worlds Entertainment
+# Subnautica | Update 05.02.2019
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+||subnautica.unknownworlds.com^
+||uwese.herokuapp.com^
+# Subnautica: Below Zero
+# Ip/s blockieren:
+# 65.9.58.204
+# 45.79.228.142
+# 172.104.209.232
+# 172.104.215.92
+# 13.224.194.203
+# 65.9.58.95
+||dkli3tbfz4zj3.cloudfront.net^
+||snexpansion.unknownworlds.com^
+||analytics.unknownworlds.com^
+||economy.unknownworlds.com^
+||li1327-142.members.linode.com^
+||li1925-92.members.linode.com^
+||ec2-100-26-26-91.compute-1.amazonaws.com^
+||subnauticaerrors.com^
+||eu-west-api.unnyworld.net^
+||eu-west-auth.unnyworld.net^
+||euunny.m.in-app.io^
+# Unfold Games
+# Darq
+# 208.64.200.105
+# Upper Class Walrus
+# Fort Meow
+# + Facebook & Twitter
+# 208.64.200.105
+||www.surpriseattackgames.com^
+||www.up-pay.com^
+||up-partner.com^
+# Uppercut Games Pty Ltd
+# City of Brass
+||ug-appserver.appspot.com^
+||stats.wp.com^
+||pixel.wp.com^
+||swiperjs.com^
+||syndication.twitter.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Vector Unit
+# Riptide GP: Renegade
+# Ip/s blockieren:
+# 142.250.185.180
+||vectorunit-rgpr.appspot.com^
+||vectorunit-cloud.appspot.com^
+# Ventura Science
+# Deep Horizon
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Versus Evil
+# Antihero
+||api.prod.antihero-game.com^
+||dljfuxfdiar5z.cloudfront.net^
+# 208.64.200.105
+||server-143-204-98-107.fra50.r.cloudfront.net^
+||fra15s46-in-f8.1e100.net^
+||a23-210-252-251.deploy.static.akamaitechnologies.com^
+# The Banner Saga II
+# Über das Spiel direkt aufgerufen
+# 208.64.200.105
+||stoicstudio.com^
+# Über das Spiel aufgerufene Webseiten und Drittanbieter
+||pmgr-stg.s3.amazonaws.com^
+||stoic.pledgemanager.com^
+||store.megacongames.com^
+||shopifyorderlimits.s3.amazonaws.com^
+||cdn-scripts.signifyd.com^
+||v.shopify.com^
+||cdn.secomapp.com^
+# The Banner Saga III
+# Google Analytics nimmt nimmt hier jeden Einzelschritt des Spielers auf
+# Versus Evil und Obsidian Entertainment
+# Pillars of Eternity II: Deadfire
+||d1079ywfijtdjs.cloudfront.net^
+# Wirklich optionale Analytics/Der Spieler wird gefragt! ^^
+||telemetry.obsidian.net^
+# Vertigo Games
+# Arizona Sunshine
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ip/s blockieren:
+# 216.58.211.142
+# 104.197.31.39
+||whatsmyip.vertigo-games.com^
+# World of Diving
+||divegame.net^
+# Cook, Serve, Delicious! 2!!
+# 143.244.134.194
+# Virtual Rage Studios LLC
+# The Crypts of Anak Shaba - VR
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Virtually Competent, LLC
+# Crystal Control II
+||s-usc1c-nss-210.firebaseio.com^
+||scorching-heat-6176.firebaseio.com^
+# Vital Group, Ltd.
+# CRUMB Circuit Simulator
+# Steam Datagram Relay
+# Ip/s blockieren:
+# 35.190.78.8
+# Viva Media
+# Wrestling Spirit 3
+# Versionsabgleich, Seite nicht mehr existent / Domainparking
+||greydogsoftware.com^
+# Vladis Fire
+# BoneBone: Rise of the Deathlord
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Volcanoids s.r.o.
+# Volcanoids
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# VPAT | Virtual and Physical Media Integration Association of Taiwan
+# Bodyless
+# 162.215.249.74
+# 34.111.113.40
+# 34.111.82.212
+# VT Publishing
+# Crankies Workshop: Zazzbot Assembly
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Dungeon Creepster, Pain Train und Phantom Soldier
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# W.T.B.
+# Winner Winner Chicken Dinner!
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Wales Interactive
+# Five Dates
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# Maid of Sker
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.227.252.150
+# Moonfall Ultimate
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Ten Dates Demo
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.190.78.8
+# The Shapeshifting Detective
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Wargaming Labs
+# Master of Orion
+||ru.wargaming.net^
+||na.wargaming.net^
+||freegeoip.net^
+||moo-development.s3.amazonaws.com^
+# Warner Bros. Interactive Entertainment
+# Batman™: Arkham Origins
+# Ip/s blockieren:
+# 34.255.127.75
+# 34.200.209.203
+# 52.7.39.141
+||ozzypc-wbid.live.ws.fireteam.net^
+||fireteam-live-api-ozzypc-952100459.eu-west-1.elb.amazonaws.com^
+||wbplay-frontend-prod-psn-809827373.us-east-1.elb.amazonaws.com^
+||wbplay-frontend-prod-953146856.us-east-1.elb.amazonaws.com^
+# Ip/s blockieren:
+# 74.125.140.154
+# 216.58.210.46
+# Mortal Kombat X
+# Ip/s blockieren:
+# 23.20.70.137
+# 52.4.241.77
+||cls.psn.turbine.com^
+||oes.netherrealm.com^
+# Weiterführende Telemetrie
+# 54.167.19.122
+# 52.6.230.7
+# 52.200.69.197
+# 54.225.221.237
+# 3.81.204.184
+# 52.86.38.253
+# 3.82.164.250
+# 50.17.88.93
+||event.wbinsights.com^
+# Verschiedene Endpunkte
+||ec2-3-90-130-30.compute-1.amazonaws.com^
+||ec2-52-6-230-7.compute-1.amazonaws.com^
+||ec2-35-172-40-119.compute-1.amazonaws.com^
+||ec2-54-225-221-237.compute-1.amazonaws.com^
+||ec2-52-86-38-253.compute-1.amazonaws.com^
+||ec2-3-82-164-250.compute-1.amazonaws.com^
+# Washbear Studio
+# Parkasaurus
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Wb Games
+# Injustice™ 2
+# s. Rubrik Kopierschutz / AntiCheat
+# Online/Mehrspielermodus hier blockiert. Bei Bedarf Zeilen löschen oder mit # deaktivieren
+# 54.210.69.210
+||pachinko-api.wbagora.com^
+||us-east-1-pachinko-realtime-2.wbagora.com^
+||us-east-1-pachinko-realtime-8.wbagora.com^
+# Diese Wb Games Adresse kann blockiert bleiben. Kein Funktionsverlust
+||prod-event.wbplay.com^
+# Middle-earth™: Shadow of War™
+# s. Rubrik Kopierschutz / AntiCheat
+# Ingameeula und Formatierung
+||www.shadowofwar.com^
+||kraken-api.wbagora.com^
+# 52.4.177.132
+# Webseite aus dem Spiel heraus / Analytics und Tracking
+||px.owneriq.net^
+||stags.bluekai.com^
+||token.rubiconproject.com^
+||pixel.sitescout.com^
+||sync-tm.everesttech.net^
+||i.w55c.net^
+||beacon.krxd.net^
+||ps.eyeota.net^
+||r.nexac.com^
+||kr.ixiaa.com^
+||aa.agkn.com^
+||usermatch.krxd.net^
+||idpix.media6degrees.com^
+||s.thebrighttag.com^
+||r.dlx.addthis.com^
+||d.turn.com^
+||1362.api.swrve.com^
+||media.wizards.com^
+# WOLCEN Studio
+# Wolcen: Lords of Mayhem
+# 18.66.248.14
+# 18.66.248.65
+# 18.66.248.79
+# 18.66.248.112
+# 3.124.41.201
+# 3.124.83.10
+# 52.58.38.30
+||crashreport.wolcengame.com^
+# Telemetrie / Collector und Endpunkte
+||vortex.data.microsoft.com^
+||vortex-sbx.microsoft.com^
+||vortex-win-sandbox.data.microsoft.com^
+||vortex.microsoft.com^
+||ecc8.playfabapi.com^
+||playfab.xboxlive.com^
+||vortex-sandbox.data.microsoft.com^
+||events-sandbox.data.microsoft.com^
+||settings-sandbox.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||settings-ppe.data.microsoft.com^
+||onesettings-xbox-rp.com^
+||settings.data.microsoft.com^
+||data-vef.xboxlive.com^
+# Weitere Endpunkte
+||bestv.device.mgt.xboxlive.com^
+||xkms.xboxlive.com^
+||banning.xboxlive.com^
+||attestation.xboxlive.com^
+||experimentation.xboxlive.com^
+||bestvrp.bestv.com^
+||www.bestv.com.cn^
+||xboxliverp.skype.com^
+||beam.pro^
+||platform.bing.com^
+||xdes.xboxlive.com^
+||twitchxboxrp.twitch.tv^
+||gssv-auth-prod.xboxlive.com^
+||gssv.xboxlive.com^
+||halifax.maelstrom.gameservices.xboxlive.com^
+||notify.xboxlive.com^
+||spartaprod.rtep.msgamestudios.com^
+||tccmsms.azureedge.net^
+||cconfig.azureedge.net^
+# Gears of War.net
+||playfab-rely.testsvc.gearsofwar.net^
+||xsts.gearsofwar.net^
+||cconfig.svc.gearsofwar.net^
+||stats-prod.svc.gearsofwar.net^
+||spartaprofile-prod.svc.gearsofwar.net^
+||cards-prod.svc.gearsofwar.net^
+||leagues-prod.svc.gearsofwar.net^
+||lobby-prod.svc.gearsofwar.net^
+||rewards-prod.svc.gearsofwar.net^
+||progression-prod.svc.gearsofwar.net^
+||notification-prod.svc.gearsofwar.net^
+# Microsoft Gaming Overlay
+||www.xboxab.com^
+||prod.xsts.halowaypoint.com^
+||telemetry.svc.halowaypoint.com^
+||s3-telemetry-eust1.cloudapp.net^
+||s3-telemetry-eust2.cloudapp.net^
+||s3-telemetry-eust3.cloudapp.net^
+||s3-telemetry-eust4.cloudapp.net^
+||s3-telemetry-eust5.cloudapp.net^
+||ipv4.login.msa.akadns6.net^
+||messaging.lws.msgamestudios.com^
+||uhf.microsoft.com^
+||services.microsoftstudios.com^
+||www.ultra-combo.com^
+||communitysiteswest.azureedge.net^
+||assets.juicer.io^
+# Ori and the Blind Forest
+# 208.64.200.105
+||ori.rtep.msgamestudios.com^
+# Ori and the Blind Forest: Definitive Edition
+||oridefinitiveprod.rtep.msgamestudios.com^
+# ReCore:Definitve Editon
+||kyotoprod.rtep.msgamestudios.com^
+# Telemetrie, Profiling und Datenupload
+||titlestorage.xboxlive.com^
+||browser.events.data.microsoft.com^
+||telemetry.undeadlabs.live^
+||hosts.telemetrysrv20200108094102.azurewebsites.net^
+||asimov.vortex.data.trafficmanager.net^
+||www.bing.com^
+||array608.prod.do.dsp.mp.microsoft.com^
+||disc601.prod.do.dsp.mp.microsoft.com^
+||mathmakers.s3.amazonaws.com^
+# Super Lucky's Tale
+||acorn-int.maelstrom.gameservices.xboxlive.com^
+||api.zoo.msgamestudios.com^
+# Xitilon
+# Nogibator: Way Of Legs
+# 208.64.200.105
+# XSEED Games & Marvelous USA, Inc.
+# SENRAN KAGURA SHINOVI VERSUS
+# 208.64.200.105
+# デモンエクスマキナ | DAEMON X MACHINA
+# Ip/s blockieren:
+# 208.64.203.140
+# Yak & Co
+# Agent A: A puzzle in disguise
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Yangyang Mobile
+# The Letter - Horror Visual Novel
+# Protokolliert sämtliche Szenendaten und Entscheidungen des Spielers, dazu "normale" Standardanalytics
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Yiming
+# Zombie Flick | 僵尸快打
+# Ip/s blockieren:
+# 52.73.89.97
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# YGGDRAZIL GROUP CO.,LTD
+# Home Sweet Home
+# Überträgt die IP, Betriebssystem, Programmversion/name, Spiezeit/dauer
+# ZA/UM
+# Disco Elysium
+# Steam Datagram Relay
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Zachtronics LLC
+# Infinifactory
+# Ip/s blockieren:
+# 34.111.82.212
+# The Zachtronics Solitaire Collection
+# Ip/s blockieren:
+# 23.108.108.200
+||stats.zachtronics.com^
+||opal3.opalstack.com^
+# Zen Studios, Ltd.
+# Operencia: The Stolen Sun
+||wt.zenstudios.com^
+# Zero Gravity
+# Hellion
+||www.playhellion.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 35.227.252.150
+# Zodiac Interactive
+# AngerForce: Reloaded
+# One-Way Ticket
+# Ip/s blockieren:
+# 54.242.214.84
+# s. Eintrag Steam: IP Checks
+# Zonitron Productions
+# Racoon Hero
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# SHAPES4
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Sketchy
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Zoo Corporation
+# Princess Kaguya: Legend of the Moon Warrior
+# ZoopTEK
+# Super Cat Herding: Totally Awesome Edition
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# Zordix AB
+# Snow Moto Racing Freedom
+# Dyndns IP-Erfassung für Multiplayer & Bestenlisten des Skillclubs. Block nach Bedarf
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.111.82.212
+# 3.220.71.98
+# 162.254.198.104
+# 155.133.252.54
+# 162.254.197.39
+# 155.133.226.78
+# 104.107.214.203
+||dump.onlineskillclub.com^
+# ZOV GAME STUDIO
+# To The Light
+# Google Crashpad
