@@ -20,19 +20,9 @@
 ||syndication.twitter.com^
 ! NVidia Geforce Telemetry
 ||events.gfe.nvidia.com^
-||lightstep.kaizen.nvidia.com^
-||telemetry.gfe.nvidia.com^
-||gfe.nvidia.com^
-||accounts.nvgs.nvidia.com^
-||images.nvidiagrid.net^
-||rds-assets.nvidia.com^
-||assets.nvidiagrid.net^
 
 ! Intrusive Licensing modules
 ||uds.licenses.adobe.com^
-! Office telemetry
-||messaging.action.office.com^
-||messaging.engagement.office.com^
 ! Email trackers [NOTE]:browser extensions would probably work better, but this is a failsafe
 ||mailtrack.io^
 ||email.wetransfer.com^
@@ -237,6 +227,9 @@
 ||ris.api.iris.microsoft.com^
 ||manage.devcenter.microsoft.com^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
+! Office telemetry
+||messaging.action.office.com^
+||messaging.engagement.office.com^
 ! ||config.teams.microsoft.com^ # Microsoft Teams sucks, but I'll have to comment this because of work
 ! Microsoft uses this domains to sync, monitor and remotelly modify your Windows Settings
 ||settings.data.microsoft.com^
@@ -257,6 +250,45 @@
 ! Microsoft ads in notification bar [NOTE]: testing
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||cxcs.microsoft.net^
+! Nvidia telemetry
+||lightstep.kaizen.nvidia.com^
+||telemetry.gfe.nvidia.com^
+||gfe.nvidia.com^
+||accounts.nvgs.nvidia.com^
+||images.nvidiagrid.net^
+||rds-assets.nvidia.com^
+||assets.nvidiagrid.net^
+! Unity ads and telemetry
+||unity-ai-dp-prd.cdp.internal.unity3d.com^
+||cdp.cloud.unity3d.com^
+||40.113.111.34.bc.googleusercontent.com^
+||212.82.111.34.bc.googleusercontent.com^
+||cdn-creatives-tencent-prd.unityads.unitychina.cn^
+||cdn-store-icons-tencent-prd.unityads.unitychina.cn^
+||endscreen.unityads.unitychina.cn^
+||7b48191d48ad0a2b3616c20acd7fbc1c.cloudfront.net^
+||activation.unity3d.com^
+||build-api.cloud.unity3d.com^
+||build-artifact-api.cloud.unity3d.com^
+||collab-waiting-list.cloud.unity3d.com^
+||collab.cloud.unity3d.com^
+||commenting.cloud.unity3d.com^
+||core.cloud.unity3d.com^
+||dashboard.heyplayapp.com^
+||data.cloud.unity3d.com^
+||developer.cloud.unity3d.com^
+||ecommerce.iap.unity3d.com^
+||eloqua-trackings.unity3d.com^
+||embedded.cloud.unity3d.com^
+||jump.cloud.unity3d.com^
+||lore.cdp.internal.unity3d.com^
+||lore.data.ie.cdp.internal.unity3d.com^
+||multiplayer.unity3d.com^
+||perf.cloud.unity3d.com^
+||prd-lender.cdp.internal.unity3d.com^
+||sdk-diagnostics.prd.mz.internal.unity3d.com^
+||uca.cloud.unity3d.com^
+||unityads.unity3d.com^
 
 ! Dangerous TLDs
 ||zip^
