@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-09-19T09:00:40.815Z
+! Last modified: 2023-09-23T09:00:42.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11562,3 +11562,5 @@
 ||grayscalle.com^
 ||lmaxbit.com^
 ||www.lmaxcoins.com^
+||trackedlink.net^
+||trackedweb.net^
