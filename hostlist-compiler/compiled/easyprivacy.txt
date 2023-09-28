@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2023-09-26T09:00:15.949Z
+! Last modified: 2023-09-28T09:00:16.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 27SEP23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
 # List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
@@ -4412,6 +4412,7 @@
 ||cnt.trvdp.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
+||cnt.xhamster.com^
 ||cntxtfl.com^
 ||cnxddc.lodenfrey.com^
 ||coachquartz.com^
@@ -4440,7 +4441,6 @@
 ||collect.ezidox.com^
 ||collect.hollisterco.com^
 ||collect.igodigital.com^
-||collections-api.realestate.com.au^
 ||collections.equifax.com^
 ||collect.iteam-dress.com^
 ||collect.meilleurtaux.com^
@@ -12924,6 +12924,7 @@
 ||rum.layer0.co^
 ||rum.marquardmedia.hu^
 ||rum.perfops.net^
+||rumstat.cdnvideo.ru^
 ||rum.uptime.com^
 ||rup5.destinia.ru^
 ||ruralrobin.com^
@@ -16936,6 +16937,7 @@
 ||stats.poochplaces.dog^
 ||stats.postcollectors.com^
 ||stats.postescanada-canadapost.ca^
+||stats.prebytes.com^
 ||stats.preeventualist.org^
 ||stats.premiumsim.de^
 ||stats.pri.org^
@@ -18336,6 +18338,7 @@
 ||tracker.azet.sk^
 ||tracker.beezup.com^
 ||tracker.bestshopping.com^
+||tracker.blutv.com^
 ||tracker.bt.uol.com.br^
 ||tracker.cauly.co.kr^
 ||tracker.cdnbye.com^
