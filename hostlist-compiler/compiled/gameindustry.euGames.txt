@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2023-09-17T09:00:17.072Z
+! Last modified: 2023-10-03T09:00:18.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -327,10 +327,8 @@
 ||steampipe.akamaized.net^
 ||steamstats.valvesoftware.com^
 ||t.paypal.com^
-# Desktop-SpieleVerbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen
-# Adressen sind einzeln je Produkt nach Publishernamen aufgeführt
-# Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste
-# jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
+# Desktop-Spiele
+# Verbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen. Adressen sind einzeln je Produkt nach Publishernamen aufgeführt. Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
 # 赤燭遊戲 | RedCandleGames
 # Devotion
 # Ip/s blockieren:
@@ -365,11 +363,10 @@
 ||btrace.video.qq.com^
 ||ied-tqos-tgp.qq.com^
 ||speed.tgp.qq.com^
-# 125.39.213.39
-# 14.215.140.28
-# 117.144.245.229
-||s2.symcb.com^
-||ss.symcb.com^
+||pc.bugly.qcloud.com^
+||bugreportv2.qq.com^
+||dumpintl.gamesafe.qq.com^
+||yunqos.gamesafe.qq.com^
 # Endpunkte
 ||ec2-3-133-172-110.us-east-2.compute.amazonaws.com^
 ||ec2-3-14-169-209.us-east-2.compute.amazonaws.com^
@@ -509,6 +506,10 @@
 # 74.201.106.168
 # 74.201.106.132
 ||cdn.services.gearboxsoftware.com^
+||mercury.shift.services.gearbox.com^
+||news.shift.services.gearbox.com^
+||ttwxp-mim.vivox.com^
+||ttwxp.www.vivox.com^
 ||promotions.api.2kcoretech.online^
 # Mafia III
 # Telemetry64.dll im Installationsordner löschen! Adressen sind für Telemetrie und Onlinefunktion zuständig
@@ -1129,7 +1130,7 @@
 # Heartbeat Callbackabfrage alle 30 Sekunden
 # 198.20.198.46
 ||dfw-gobbler.doom.amok.systems^
-# # Amazon Kinesis - Echtzeitanalyse, Erfassung und Verwertung von Datenströmen | Sowie AWS Firehose als zusätzlicher Analytics & Tracker mit weiteren Schnittstellen
+# Amazon Kinesis - Echtzeitanalyse, Erfassung und Verwertung von Datenströmen | Sowie AWS Firehose als zusätzlicher Analytics & Tracker mit weiteren Schnittstellen
 # 143.204.15.65
 # 52.222.150.238
 # 52.222.150.80
@@ -1442,39 +1443,31 @@
 # s. Eintrag Steam: IP Checks
 # CD PROJEKT RED
 # Cyberpunk 2077
-# Auth, Users & Remote werden für Clientanmeldung, Clientdownload oder diverse Spiele mit GOG Mehrspielerfunktion benötigt
+# Users & Remote werden für Clientanmeldung, Clientdownload oder diverse Spiele mit GOG Mehrspielerfunktion benötigt
 # Don't use the launcher | Nicht den Launcher zum Start verwenden
-# Ip/s blockieren:
-# 23.50.131.23
-# 2.19.120.143
+# 34.149.36.98
+# 23.55.163.81
+# 23.55.163.68
+# 77.79.249.152
+# 77.79.249.151
+# 92.123.27.16
+# 92.123.27.104
+# 92.123.27.113
 # 192.229.233.146
-# 23.50.131.20
-# 23.50.131.28
+# 23.55.163.80
+# 23.55.163.48
+# 23.55.163.81
+# 23.55.163.80
 # 152.195.39.39
-# 192.229.233.146
-# 23.50.131.18
-# 152.199.21.209
+# 142.251.36.195
+# 23.0.174.83
+# 23.0.174.122
+# 23.55.163.75
+# 142.251.36.227
+# 23.55.163.66
+||redsights.live.cdpred.services^
+||ngx.download.nvidia.com^
 ||galaxy-game-news.gog.com^
-# Akamai - Endpunkte
-# 23.55.163.12
-# 23.55.163.39
-# 84.53.175.145
-# 23.213.161.152
-# 23.213.161.136
-# 23.55.163.23
-# 23.62.98.43
-||a1973.dscb.akamai.net^
-||a23-55-163-20.deploy.static.akamaitechnologies.com^
-||a72-247-178-8.deploy.static.akamaitechnologies.com^
-||a72-247-178-33.deploy.static.akamaitechnologies.com^
-||a72-247-178-26.deploy.static.akamaitechnologies.com^
-||a23-55-163-12.deploy.static.akamaitechnologies.com^
-||a23-55-163-39.deploy.static.akamaitechnologies.com^
-||a84-53-175-145.deploy.static.akamaitechnologies.com^
-||a23-213-161-152.deploy.static.akamaitechnologies.com^
-||a23-213-161-136.deploy.static.akamaitechnologies.com^
-||a23-55-163-23.deploy.static.akamaitechnologies.com^
-||a23-62-98-43.deploy.static.akamaitechnologies.com^
 # GWENT: The Witcher Card Game
 # Ip/s blockieren:
 # 54.236.79.251
@@ -1783,7 +1776,7 @@
 # Statistikabfragen für Highscorelisten & komplett mitgesendeter Newsfeed
 # 208.64.200.105
 ||www.rhythmdestruction.com^
-# Curve Digital
+# Curve Games
 # Autonauts
 # Ip/s blockieren:
 # 34.111.113.40
@@ -1806,6 +1799,28 @@
 # 34.107.172.168
 # Narcos: Rise of the Cartels
 # s. Eintrag Steam: IP Checks
+# Patch Quest
+# 62.254.198.101
+# 162.254.193.100
+# 205.196.6.213
+# 146.66.152.42
+# 103.10.124.117
+# 162.254.198.43
+# 155.133.252.38
+# 155.133.239.52
+# 146.66.155.66
+# 155.133.230.99
+# 162.254.199.173
+# 155.133.253.39
+# 155.133.226.72
+# 155.133.227.35
+# 103.28.54.166
+# 185.25.182.51
+# 103.10.124.118
+# 155.133.252.88
+# 34.111.113.40
+# 34.107.172.168
+# 23.210.122.61
 # Serial Cleaner
 # Ip/s blockieren:
 # 34.111.113.40
@@ -1874,6 +1889,16 @@
 # 34.107.172.168
 # 104.40.183.236
 # 52.166.80.100
+# The Lord of the Rings: Gollum™
+# Ip/s blockieren:
+# 34.149.79.31
+# 104.40.183.236
+# 184.86.251.22
+# 184.86.251.14
+||nacon-os.com^
+||31.79.149.34.bc.googleusercontent.com^
+||a184-86-251-14.deploy.static.akamaitechnologies.com^
+||a184-86-251-22.deploy.static.akamaitechnologies.com^
 # Holy Potatoes! We’re in Space?!
 # Facebook Anbindung
 # Ip/s blockieren:
@@ -2064,6 +2089,11 @@
 # 64.90.53.132
 ||ingame.serioussam.com^
 ||apache2-ogle.estacada.dreamhost.com^
+# Shadow Warrior 3: Definitive Edition
+# 184.86.103.198
+# 184.86.103.201
+||a184-86-103-198.deploy.static.akamaitechnologies.com^
+||a184-86-103-201.deploy.static.akamaitechnologies.com^
 # Stories Untold
 # Ip/s blockieren:
 # 34.111.113.40
@@ -2418,7 +2448,6 @@
 # FOAM Entertainment
 # Riff Racer
 ||parseapi.back4app.com^
-||ngx.download.nvidia.com^
 ||92c0f.playfabapi.com^
 ||ec2-34-211-93-125.us-west-2.compute.amazonaws.com^
 ||ec2-52-32-250-241.us-west-2.compute.amazonaws.com^
@@ -2441,6 +2470,9 @@
 # 208.64.203.186
 # Contrast
 # s. Eintrag Steam: IP Checks
+# Curse of the Dead Gods
+# 149.56.22.108
+||temple.passtechgames.com^
 # Etherium
 # 216.146.43.70
 # 67.225.180.24
@@ -5731,9 +5763,8 @@
 ||cdn-store-icons-tencent-prd.unityads.unitychina.cn^
 ||endscreen.unityads.unitychina.cn^
 # Zuständig für Schnüffelei in Spielen
-# Erfasste Daten werden je nach Nutzerherkunft an USC "z.b. Usa", EUW "z.b. Deutschland"" oder APE "z.b. Japan" von der Perf-Events aus weitergeleitet. Ips gehören dazu.
+# Erfasste Daten werden je nach Nutzerherkunft an USC "z.b. Usa", EUW "z.b. Deutschland"" oder APE "z.b. Japan" von der Perf-Events aus weitergeleitet. Ips gehören dazu
 # Ip/s blockieren:
-#
 # 35.227.244.186
 # 35.241.26.53
 # 34.111.82.212

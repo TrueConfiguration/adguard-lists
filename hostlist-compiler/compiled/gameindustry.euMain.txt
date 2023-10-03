@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2023-09-17T09:00:18.092Z
+! Last modified: 2023-10-03T09:00:19.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14,8 +14,8 @@
 ||localhost.localdomain^
 # Programme
 # Blockiertes Tracking, Adware, unnötige Verbindungen, Spyware, Werbung in Programmen jeglicher Art
-# Bitte beachten, dass auch Herstellerseiten, Lizensierungsserver oder andere Funktionen abgeschaltet sein können
-# Ipv4/6 Adressen werden optional mit angegeben.
+# Bitte beachten Sie, dass auch Herstellerseiten, Lizensierungsserver oder andere Funktionen abgeschaltet sein können
+# Ipv4/6 Adressen werden optional mit angegeben
 # Abelssoft Ascora GmbH
 # Win10PrivacyFix
 # Weitere Produkte der Firma nach selbem Schema
@@ -1279,7 +1279,8 @@
 ||cdp.cloud.unity3d.com^
 ||40.113.111.34.bc.googleusercontent.com^
 ||168.172.107.34.bc.googleusercontent.com^
-# WebseitenHier befindet sich jeglicher Inhalt welcher sich auf Besuch von Webseiten ungefragt einlädt.
+# Webseiten
+# Hier befindet sich jeglicher Inhalt welcher sich auf Besuch von Webseiten ungefragt einlädt.
 # Dazu gehören Werbung, Spywareverteiler, Affiliates, Malware und Viren, Banner, verlinkte Fremdseiten, Referals
 # Tracking & Analytics, Cookies, Geodatenerfassung, bestimmte Seodienste uvm
 # 123lnk.com
@@ -1983,493 +1984,6 @@
 ||cdn-leo.allianceservices.im^
 ||cdn-mrg.allianceservices.im^
 ||cdn-son.allianceservices.im^
-||advertising.amazon.com^
-||advertising.amazon.de^
-||metrics.media-amazon.com^
-||static.siege-amazon.com^
-||www.assoc-amazon.de^
-# 13.33.132.216
-# Adsystem
-||aan.amazon.de^
-||aax-dtb-cf.amazon-adsystem.com^
-||aax-eu-retail-direct.amazon-adsystem.com^
-||aax-eu.amazon-adsystem.com^
-||aax-eu.amazon.de^
-||aax-fe-sin.amazon-adsystem.com^
-||aax-fe.amazon-adsystem.com^
-||aax-us-east-retail-direct.amazon.com^
-||aax-us-east.amazon-adsystem.com^
-||aax-us-iad.amazon.com^
-||aax-us-pdx.amazon-adsystem.com^
-||aax.amazon-adsystem.com^
-||c.amazon-adsystem.com^
-||cdn-d.amazon-adsystem.com^
-||cloudfront-labs.amazonaws.com^
-||completion.amazon.co.jp^
-||completion.amazon.com^
-||completion.amazon.de^
-||config.aps.amazon-adsystem.com^
-||fls-eu.amazon-adsystem.com^
-||fls-fe.amazon-adsystem.com^
-||fls-fe.amazon.co.jp^
-||fls-na.amazon-adsystem.com^
-||ir-de.amazon-adsystem.com^
-||ir-jp.amazon-adsystem.com^
-||ir-na.amazon-adsystem.com^
-||rcm-eu.amazon-adsystem.com^
-||rcm-fe.amazon-adsystem.com^
-||rcm-jp.amazon.co.jp^
-||rcm-na.amazon-adsystem.com^
-||s.amazon-adsystem.com^
-||wms-eu.amazon-adsystem.com^
-||wms-fe.amazon-adsystem.com^
-||wms-na.amazon-adsystem.com^
-||ws-eu.amazon-adsystem.com^
-||ws-eu.assoc-amazon.com^
-||ws-fe.amazon-adsystem.com^
-||ws-fe.assoc-amazon.com^
-||ws-na.amazon-adsystem.com^
-||z-eu.amazon-adsystem.com^
-||z-fe.amazon-adsystem.com^
-||z-na.amazon-adsystem.com^
-||0dxnrp41n3.execute-api.us-west-2.amazonaws.com^
-||24643052-4208-477f-9c6c-8ffaba0337a7.s3.ap-northeast-1.amazonaws.com^
-||33xchange-1576862511.us-east-1.elb.amazonaws.com^
-||7waf-649347558.us-east-1.elb.amazonaws.com^
-||9dbd256a-default-ih-dd4d-36901406.eu-central-1.elb.amazonaws.com^
-||9dbd256a-default-trx-2d0e-496170222.eu-central-1.elb.amazonaws.com^
-||9e2xkh9f1e.execute-api.ap-northeast-1.amazonaws.com^
-||HDRedirect-LB5-1afb6e2973825a56.elb.us-east-1.amazonaws.com^
-||a.b.cdn.console.awsstatic.com^
-||a10abac5d1e9b11ea8d990e43aad44f4-1031692812.us-east-1.elb.amazonaws.com^
-||a1173f6f9942011ea98e20a74a8f5e27-1685968323.eu-west-1.elb.amazonaws.com^
-||a123d7dd52c7a40f9a11a8fd09e2f24b-1254019139.us-east-1.elb.amazonaws.com^
-||a1kkx7muourfsi-ats.iot.us-east-1.amazonaws.com^
-||a2963af13702f11ea8e280ea4befdfff-375410077.us-east-1.elb.amazonaws.com^
-||aa-agkn-com-https-1893222849.eu-west-2.elb.amazonaws.com^
-||aabbc1793aaac5c6d4f1bea56c1d3adcb.profile.sfo5-c1.cloudfront.net^
-||aaui-879784980514.s3.us-east-2.amazonaws.com^
-||acds-euwt1-ext-prod-a-232925330.eu-west-1.elb.amazonaws.com^
-||acds-euwt1-ext-prod-a-232925330.euwest-1.elb.amazonaws.com^
-||ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com^
-||ad099bddc3b362cf302797e3f53e91c0d.profile.nrt12-c3.cloudfront.net^
-||ads-1460635594.eu-central-1.elb.amazonaws.com^
-||ads-1460635594.eucentral-1.elb.amazonaws.com^
-||ads-yieldmo-com-eu-west-1-544050270.eu-west-1.elb.amazonaws.com^
-||adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com^
-||adserver-vpc-alb-2-1264451658.eu-west-1.elb.amazonaws.com^
-||adserving-com-f11-ads-de-976869676.eu-central-1.elb.amazonaws.com^
-||afe79c04fd8464db69f453355c110684-6aa967fe209738b1.elb.us-east-1.amazonaws.com^
-||alb-aws-fr-bswx-3-1125904451.eu-central-1.elb.amazonaws.com^
-||ams-ads-cornerstone-creatives-fe.s3.amazonaws.com^
-||ams-depr-public.s3.amazonaws.com^
-||analytics-collector-28944298.us-east-1.elb.amazonaws.com^
-||antenna-frontend-production-219b4455bc07fb73.elb.eu-west-1.amazonaws.com^
-||api-prod-alb-220889581.eu-central-1.elb.amazonaws.com^
-||async-px-eu-298376616.eu-central-1.elb.amazonaws.com^
-||bbuseruploads.s3.amazonaws.com^
-||bids-elb-195079410.us-west-2.elb.amazonaws.com^
-||bma-ghost.s3.us-east-2.amazonaws.com^
-||cd-ladsp-com.s3.amazonaws.com^
-||clickbank-apache-54377296.us-west-2.elb.amazonaws.com^
-||cognito-identity.ap-northeast-1.amazonaws.com^
-||cookiesyncing-1395500543.us-east-1.elb.amazonaws.com^
-||dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com^
-||dcs-edge-tyo3-624150721.ap-northeast-1.elb.amazonaws.com^
-||deadlinefunnel-prod-449602290.us-east-1.elb.amazonaws.com^
-||dpa-infocom.s3-eu-west-1.amazonaws.com^
-||dt-external-217593033.us-east-1.elb.amazonaws.com^
-||dualstack.exchange-prod-223589462.eu-central-1.elb.amazonaws.com^
-||dwtipping.s3.amazonaws.com^
-||dxedge-prod-lb-404808087.eu-central-1.elb.amazonaws.com^
-||e77d760a-default-ih-dd4d-1693796260.eu-central-1.elb.amazonaws.com^
-||easy-redirects.s3-eu-west-1.amazonaws.com^
-||ec2-44-226-241-1.us-west-2.compute.amazonaws.com^
-||ec2-52-214-207-196.eu-west-1.compute.amazonaws.com^
-||ec2-52-38-234-14.us-west-2.compute.amazonaws.com^
-||ec2-52-38-31-225.us-west-2.compute.amazonaws.com^
-||ec2-54-213-253-147.us-west-2.compute.amazonaws.com^
-||ec2eu-de-1-vpc-20170223-lb-1195306822.eu-west-1.elb.amazonaws.com^
-||eks-2-unified-591377374.eu-west-1.elb.amazonaws.com^
-||elb-aws-fr-bruges-621602890.eu-central-1.elb.amazonaws.com^
-||elb-aws-fr-clickdistrict-1651093077.eu-central-1.elb.amazonaws.com^
-||elb-aws-fr-dorpat-283474803.eu-central-1.elb.amazonaws.com^
-||elb-aws-fr-zagreb-1702672115.eu-central-1.elb.amazonaws.com^
-||elb-aws-ie-rockabox-scoota-2052063539.eu-west-1.elb.amazonaws.com^
-||elb-optchk-asg-euw1-1156411587.eu-west-1.elb.amazonaws.com^
-||elb01-2039628332.us-west-2.elb.amazonaws.com^
-||esev2.s3.amazonaws.com^
-||firehose.us-west-2.amazonaws.com^
-||firewall-external-2134955858.eu-west-1.elb.amazonaws.com^
-||gtrk.s3.amazonaws.com^
-||infra-events-pipelineproduction-1520650058.useast-1.elb.amazonaws.com^
-||joyn-creative-hosting.s3-eu-west-1.amazonaws.com^
-||juicer-lift.s3-ap-northeast-1.amazonaws.com^
-||juicer-vri.s3-ap-northeast-1.amazonaws.com^
-||k8s-uid-uidoh2-8dc06fca0a-258486444.us-east-2.elb.amazonaws.com^
-||lbl-sparwelt-main-public-617527997.eu-central-1.elb.amazonaws.com^
-||livefyre-cdn.s3.amazonaws.com^
-||location-prod1-ext-alb-1369692072.us-east-1.elb.amazonaws.com^
-||m-node-alb-ssl-3113-608782165.eu-central-1.elb.amazonaws.com^
-||marketingkaizen.s3-eu-west-1.amazonaws.com^
-||match-1943069928.eu-west-1.elb.amazonaws.com^
-||match-1943069928.euwest-1.elb.amazonaws.com^
-||matomo-wpmudev-1288779782.us-east-2.elb.amazonaws.com^
-||n3k5k32e00.execute-api.eu-central-1.amazonaws.com^
-||narev-nats-426500897.us-east-1.elb.amazonaws.com^
-||nginx-eucl1-ext-prod-a-2061165432.eucentral-1.elb.amazonaws.com^
-||osa-ad-library-assets.s3-eu-west-1.amazonaws.com^
-||p13nlog-1106815646.us-east-1.elb.amazonaws.com^
-||p3epspumangb5dvijf52er7wdi.appsync-api.us-east-1.amazonaws.com^
-||p3epspumangb5dvijf52er7wdi.appsync-realtime-api.us-east-1.amazonaws.com^
-||partners-alb-1113315349.useast-1.elb.amazonaws.com^
-||pc.error-1003a49feif3042.com.s3-website.eu-central-1.amazonaws.com^
-||personalization-prod1-ext-alb-1258852474.us-east-1.elb.amazonaws.com^
-||phonetrack-static.s3.sa-east-1.amazonaws.com^
-||pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com^
-||popadex-1919430815.us-east-1.elb.amazonaws.com^
-||prod-balan-fdzj1d4q5tzo-2064467324.us-east-1.elb.amazonaws.com^
-||prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com^
-||prod-east-pipedream-alb-988701200.us-east-1.elb.amazonaws.com^
-||prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com^
-||prod-elb-ats-413439319.eu-central-1.elb.amazonaws.com^
-||prod-us-west-2.csp-report.marketing.aws.dev^
-||prod.log.shortbread.aws.dev^
-||prod.pa.cdn.uis.awsstatic.com^
-||prod.tools.shortbread.aws.dev^
-||prod.us-east-1.cxm-bcn.publisher-services.amazon.dev^
-||qpsftq5jqg.execute-api.us-east-1.amazonaws.com^
-||rechtstexte.s3.amazonaws.com^
-||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
-||revcontent-p0.s3.amazonaws.com^
-||rlmgws-data.s3-accelerate.amazonaws.com^
-||rtactivateloadbalancer-2076579973.us-east-1.elb.amazonaws.com^
-||rxgh4jurki.execute-api.us-east-2.amazonaws.com^
-||s3-w.eu-central-1.amazonaws.com^
-||s3.eu-central-1.amazonaws.com^
-||saas-components-ecsloadbalancer-1709586717.eu-central-1.elb.amazonaws.com^
-||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
-||sharedid-2070269664.us-east-1.elb.amazonaws.com^
-||simplora-recipe-transfer-scripts.s3.amazonaws.com^
-||sqs.us-east-1.amazonaws.com^
-||stackadaptdis.s3.amazonaws.com^
-||stackadapttemp.s3.amazonaws.com^
-||stati-stati-5vqsw3ctlefo-93594259.eu-west-1.elb.amazonaws.com^
-||static.emsservice.de.s3.amazonaws.com^
-||stats-analytics-722939043.eu-west-1.elb.amazonaws.com^
-||street-production.s3.amazonaws.com^
-||syncelb-831046328.eu-west-1.elb.amazonaws.com^
-||tag-privacy-it-prod-1812383206.eu-west-3.elb.amazonaws.com^
-||thebenjamin.s3.amazonaws.com^
-||tracking-1611167402.us-east-1.elb.amazonaws.com^
-||us-east-1.prod.pr.analytics.console.aws.a2z.com^
-||webpick-cdn.s3.us-west-2.amazonaws.com^
-||wildcard-ads-new-1653986885.useast-1.elb.amazonaws.com^
-||www.pc.error5587875531ademscomboclf3493.com.s3-website.eu-central-1.amazonaws.com^
-||xcmz7crlld.execute-api.eu-central-1.amazonaws.com^
-||ywgysqpm3f.execute-api.us-east-1.amazonaws.com^
-||zeta-ssp-385516103.us-east-1.elb.amazonaws.com^
-||zvszrckxik.execute-api.eu-central-1.amazonaws.com^
-# Amazon-Adsystem und Drittanbietertracking und Metrics
-# 52.94.222.127
-||ams-ads-cornerstone-creatives.s3.amazonaws.com^
-||ams-ads-cornerstone-creatives-eu.s3.amazonaws.com^
-||ams-ads-cornerstone-pda-creatives-eu.s3.amazonaws.com^
-||ams-ads-cornerstone-pda-creatives-fe.s3.amazonaws.com^
-# Sponsored Product Event Tracking
-# 52.94.223.32
-||unagi-eu.amazon.com^
-||unagi-fe.amazon.com^
-||unagi-na.amazon.com^
-||unagi.amazon.co.jp^
-||unagi.amazon.com^
-# test.png
-||a00d843a23f7b6492ac38ca995953b881.profile.del54-c1.cloudfront.net^
-||a112184893803fd5fd5320fa61855355c.profile.lax1.cloudfront.net^
-||a143d79dc812b689768d72239bd9ad0ec.profile.fra6-c1.cloudfront.net^
-||a16a9803a4faa8cc84118a26760218369.profile.dfw55-c1.cloudfront.net^
-||a265fc0c8c626759d130aff5f4a082c8e.profile.phl50.cloudfront.net^
-||a2bd8c814f3ee979227ce562342ae1ddd.profile.syd62-p2.cloudfront.net^
-||a3495b80f0cfcca791f408c5a4841e1e6.profile.vpop1.cloudfront.net^
-||a3fce50b0e5cfc79568cfbc6149145dd2.profile.fra56-c2.cloudfront.net^
-||a4b26c2621b0f117befbb032173f509a4.profile.hyd50-c1.cloudfront.net^
-||a4c0a0d6cd3e2465be5f99871d2d62258.profile.tpe52-c1.cloudfront.net^
-||a549341e852559506f9daa5fa75bc05ab.profile.ewr52-c1.cloudfront.net^
-||a58c81031948e849d6e43df98542d6b66.profile.dfw50.cloudfront.net^
-||a61c9dfe14d87f5eaad63983e8c1193e9.profile.iad89-p2.cloudfront.net^
-||a64571845ac45db3ad03378fabb2b2ab6.profile.nrt51-c2.cloudfront.net^
-||a682669245a5f610224a924a5a4d6ea1d.profile.ord51-c3.cloudfront.net^
-||a6e1a9ff213289ca8772da2d77eb32db4.profile.tlv50-c1.cloudfront.net^
-||a7a04ff9eca35d2ba0a3a863b0e0fa924.profile.icn50.cloudfront.net^
-||a7a49ac39cda3c33bfbd74eb7ed19a396.profile.kul50.cloudfront.net^
-||a8090ff55a607aa5ebac401823d28574f.profile.ewr52-c4.cloudfront.net^
-||a85680581f84039ad850835e6a06514c9.profile.sin2-p2.cloudfront.net^
-||a892faacf49cfa1031d51f98f05f9c5e7.profile.icn55-c1.cloudfront.net^
-||a93a005a53a47bedd93469537563f7700.profile.atl-m.cloudfront.net^
-||ab238a5d5992d086fe5f1a4a782b11a69.profile.lax50-c1.cloudfront.net^
-||ab253c68fab9dd4e26553beb8d9d4dbcb.profile.nrt12-c1.cloudfront.net^
-||ab725fc205b1310af3b907f8fdaa129d3.profile.ord52-c1.cloudfront.net^
-||ab8dc511023d9ebf4c850dcd0c69e01a0.profile.ord51-c4.cloudfront.net^
-||ac0c2a27568a9659a36bb956f9ce55cbb.profile.syd1-c1.cloudfront.net^
-||ac0ce2a487fc656612b8be54928d49675.profile.dfw55-c2.cloudfront.net^
-||ac44e3fe7b9753e3d48e0ffb484e4a547.profile.man50-c2.cloudfront.net^
-||ac73d8780f3e7604033c40c868479450f.profile.hel50-c2.cloudfront.net^
-||ad0f7c2dbe2f0904fc469fedf8df5f1a9.profile.fra-m.cloudfront.net^
-||ad152982f70c9c518ce634d7c464517ca.profile.nrt51-c2.cloudfront.net^
-||ad5e4233225c0538a360d50d6c8e14d51.profile.hyd50-c1.cloudfront.net^
-||ad90a4f4c2c3345da1d3f76cd91fd644f.profile.txl-m.cloudfront.net^
-||adc0f0630732406f8cafdc15954300d2f.profile.tlv50-c1.cloudfront.net^
-||ae6a3c40c7d049aff805e547b65cc1a29.profile.nrt20-c4.cloudfront.net^
-||ae8acdc51bb1666ff4ee276d796dbd208.profile.fra60-p3.cloudfront.net^
-||af4bcc94ad9dc09d085706145234f5565.profile.msp50.cloudfront.net^
-||af709b25867538da8d0133f0bc922e14c.profile.msp50.cloudfront.net^
-||af7d115713d65bd00b12db9a225a0e80d.profile.bkk50-c1.cloudfront.net^
-||afc840341958ff7187694c55a8a433666.profile.lax-m.cloudfront.net^
-# Assoc-amazon.com
-||assoc-eu.associates-amazon.com^
-||assoc-fe.associates-amazon.com^
-||assoc-na.associates-amazon.com^
-||wms.assoc-amazon.com^
-||ws-na.assoc-amazon.com^
-||z-na.associates-amazon.com^
-# Amazon Elasticbeanstalk
-# 52.51.120.75
-||bidder-prod.mgycqhrtpm.eu-central-1.elasticbeanstalk.com^
-||ictjob-next-dev.eu-west-1.elasticbeanstalk.com^
-||idaas-idx.us-east-1.elasticbeanstalk.com^
-||insight-566961044.eu-west-1.elb.amazonaws.com^
-||live-emsservice.elasticbeanstalk.com^
-||d10lumateci472.cloudfront.net^
-||d11enq2rymy0yl.cloudfront.net^
-||d11hjbdxxtogg5.cloudfront.net^
-||d1225795gabrip.cloudfront.net^
-||d12t7h1bsbq1cs.cloudfront.net^
-||d134s3bx3cib14.cloudfront.net^
-||d141wsrw9m4as6.cloudfront.net^
-||d144jmuhz9kvbq.cloudfront.net^
-||d14zhsq5aop7ap.cloudfront.net^
-||d15cjcet1djbmv.cloudfront.net^
-||d15hsi2361flnm.cloudfront.net^
-||d163w5bauk02b4.cloudfront.net^
-||d16z38s472vlz5.cloudfront.net^
-||d17fy28x8ov4h8.cloudfront.net^
-||d18dhv6xwmvh4j.cloudfront.net^
-||d18kg2zy9x3t96.cloudfront.net^
-||d18myvrsrzjrd7.cloudfront.net^
-||d18t35yyry2k49.cloudfront.net^
-||d192r5l88wrng7.cloudfront.net^
-||d1a3jb5hjny5s4.cloudfront.net^
-||d1ac2du043ydir.cloudfront.net^
-||d1azc1qln24ryf.cloudfront.net^
-||d1bqktvj79b0wh.cloudfront.net^
-||d1cwxqa1so7v5v.cloudfront.net^
-||d1dli2tyorled9.cloudfront.net^
-||d1dyjkfvci6raa.cloudfront.net^
-||d1er90t4t0ta7c.cloudfront.net^
-||d1ev866ubw90c6.cloudfront.net^
-||d1g1a818mvww4w.cloudfront.net^
-||d1hgdmbgioknig.cloudfront.net^
-||d1hogxc58mhzo9.cloudfront.net^
-||d1hq9wbcfo7dcl.cloudfront.net^
-||d1j47wsepxe9u2.cloudfront.net^
-||d1j8v290qqvibb.cloudfront.net^
-||d1ks8roequxbwa.cloudfront.net^
-||d1l6p2sc9645hc.cloudfront.net^
-||d1lnjzqqshwcwg.cloudfront.net^
-||d1lxhc4jvstzrp.cloudfront.net^
-||d1lxz4vuik53pc.cloudfront.net^
-||d1lytq8w52fohg.cloudfront.net^
-||d1mbihpm2gncx7.cloudfront.net^
-||d1miwkthq39xj8.cloudfront.net^
-||d1nmxiiewlx627.cloudfront.net^
-||d1o6jc0ebh0dtu.cloudfront.net^
-||d1p7gp5w97u7t7.cloudfront.net^
-||d1pozdfelzfhyt.cloudfront.net^
-||d1pvpz0cs1cjk8.cloudfront.net^
-||d1q4x2p7t0gq14.cloudfront.net^
-||d1qggq1at2gusn.cloudfront.net^
-||d1ql3z8u1oo390.cloudfront.net^
-||d1r27qvpjiaqj3.cloudfront.net^
-||d1r90st78epsag.cloudfront.net^
-||d1rp4yowwe587e.cloudfront.net^
-||d1sga4e4j5xr2k.cloudfront.net^
-||d1sjz3r2x2vk2u.cloudfront.net^
-||d1tlya86oqnb8p.cloudfront.net^
-||d1ykf07e75w7ss.cloudfront.net^
-||d1z2jf7jlzjs58.cloudfront.net^
-||d1zjr9cc2zx7cg.cloudfront.net^
-||d205jrj5h1616x.cloudfront.net^
-||d20duyjzb7cuoc.cloudfront.net^
-||d22v2nmahyeg2a.cloudfront.net^
-||d22z575k8abudv.cloudfront.net^
-||d23yon11msnwwl.cloudfront.net^
-||d24g87zbxr4yiz.cloudfront.net^
-||d24n15hnbwhuhn.cloudfront.net^
-||d24yj1kykxwq2x.cloudfront.net^
-||d2528hoa8g0iaj.cloudfront.net^
-||d25m254rjp3rii.cloudfront.net^
-||d26adrx9c3n0mq.cloudfront.net^
-||d276dyxkw9wo01.cloudfront.net^
-||d27genukseznht.cloudfront.net^
-||d2849lw36e7cot.cloudfront.net^
-||d29dzo8owxlzou.cloudfront.net^
-||d29neki5kckb2d.cloudfront.net^
-||d2bbq3twedfo2f.cloudfront.net^
-||d2c8v52ll5s99u.cloudfront.net^
-||d2cmh8xu3ncrj2.cloudfront.net^
-||d2e1wye93a9yxe.cloudfront.net^
-||d2ef20sk9hi1u3.cloudfront.net^
-||d2er1uyk6qcknh.cloudfront.net^
-||d2fbkzyicji7c4.cloudfront.net^
-||d2fbvay81k4ji3.cloudfront.net^
-||d2i34c80a0ftze.cloudfront.net^
-||d2jgp81mjwggyr.cloudfront.net^
-||d2klx87bgzngce.cloudfront.net^
-||d2kpucccxrl97x.cloudfront.net^
-||d2lahoz916es9g.cloudfront.net^
-||d2lcoyv3ods5zz.cloudfront.net^
-||d2na2p72vtqyok.cloudfront.net^
-||d2nvliyzbo36lk.cloudfront.net^
-||d2nx6ydw3e5y5d.cloudfront.net^
-||d2nxq2uap88usk.cloudfront.net^
-||d2oa97wrxvxm7y.cloudfront.net^
-||d2p3zdq8vjvnxd.cloudfront.net^
-||d2q8xv8xf7whrd.cloudfront.net^
-||d2q9y3krdwohfj.cloudfront.net^
-||d2qnx6y010m4rt.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
-||d2rbklkmhbaoma.cloudfront.net^
-||d2rsvcm1r8uvmf.cloudfront.net^
-||d2rx475ezvxy0h.cloudfront.net^
-||d2rz6ei5e07b60.cloudfront.net^
-||d2s2jxtv35392n.cloudfront.net^
-||d2sbzwmcg5amr3.cloudfront.net^
-||d2sffavqvyl9dp.cloudfront.net^
-||d2sp5g360gsxjh.cloudfront.net^
-||d2ty8gaf6rmowa.cloudfront.net^
-||d2uap9jskdzp2.cloudfront.net^
-||d2v9mhsiek5lbq.cloudfront.net^
-||d2wu036mkcz52n.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
-||d2y8ttytgze7qt.cloudfront.net^
-||d2yt3cv5wvb9w9.cloudfront.net^
-||d2yyd1h5u9mauk.cloudfront.net^
-||d2zgd5orehvssg.cloudfront.net^
-||d2zl2n5iz2c0l7.cloudfront.net^
-||d2zur9cc2gf1tx.cloudfront.net^
-||d31otfhas71ais.cloudfront.net^
-||d31qbv1cthcecs.cloudfront.net^
-||d31vxm9ubutrmw.cloudfront.net^
-||d32oduq093hvot.cloudfront.net^
-||d333p98mzatwjz.cloudfront.net^
-||d34chcsvb7ug62.cloudfront.net^
-||d36zfztxfflmqo.cloudfront.net^
-||d3a4r0j3mf67g3.cloudfront.net^
-||d3ahinqqx1dy5v.cloudfront.net^
-||d3al52d8cojds7.cloudfront.net^
-||d3bbyfw7v2aifi.cloudfront.net^
-||d3bfricg2zhkdf.cloudfront.net^
-||d3br8glkelnh2z.cloudfront.net^
-||d3cod80thn7qnd.cloudfront.net^
-||d3cpib6kv2rja7.cloudfront.net^
-||d3cxv97fi8q177.cloudfront.net^
-||d3cynajatn2qbc.cloudfront.net^
-||d3dn8ls1xwuebe.cloudfront.net^
-||d3dytsf4vrjn5x.cloudfront.net^
-||d3em0905j9y6sm.cloudfront.net^
-||d3ep3jwb1mgn3k.cloudfront.net^
-||d3f1m03rbb66gy.cloudfront.net^
-||d3fr49y3ejekk5.cloudfront.net^
-||d3g5ovfngjw9bw.cloudfront.net^
-||d3hib26r77jdus.cloudfront.net^
-||d3hj4iyx6t1waz.cloudfront.net^
-||d3jspkulkfw0bk.cloudfront.net^
-||d3kblkhdtjv0tf.cloudfront.net^
-||d3kd7yqlh5wy6d.cloudfront.net^
-||d3lcz8vpax4lo2.cloudfront.net^
-||d3mzokty951c5w.cloudfront.net^
-||d3o49rridkfcxi.cloudfront.net^
-||d3ooh7n2f0ku5s.cloudfront.net^
-||d3ou4areduq72f.cloudfront.net^
-||d3oy68whu51rnt.cloudfront.net^
-||d3qz0rrtpnddkp.cloudfront.net^
-||d3sai2k6w952qd.cloudfront.net^
-||d3t3z4teexdk2r.cloudfront.net^
-||d3t5ngjixpjdho.cloudfront.net^
-||d3t87ooo0697p8.cloudfront.net^
-||d3tbv23krgi6be.cloudfront.net^
-||d3tglifpd8whs6.cloudfront.net^
-||d3tlllhky18vc.cloudfront.net^
-||d3tsytm1wtjqo2.cloudfront.net^
-||d3ud741uvs727m.cloudfront.net^
-||d3vw4uehoh23hx.cloudfront.net^
-||d3x0jb14w6nqz.cloudfront.net^
-||d4el4parm0zb3.cloudfront.net^
-||d5d3sg85gu7o6.cloudfront.net^
-||d5nxst8fruw4z.cloudfront.net^
-||d5onopbfw009h.cloudfront.net^
-||d5phz18u4wuww.cloudfront.net^
-||d5ssgc0nf5vml.cloudfront.net^
-||d6wzv57amlrv3.cloudfront.net^
-||d7t0ajd8uy1xk.cloudfront.net^
-||d81mfvml8p5ml.cloudfront.net^
-||d8rk54i4mohrb.cloudfront.net^
-||d91i6bsb0ef59.cloudfront.net^
-||d9etzk30b05yg.cloudfront.net^
-||d9jj3mjthpub.cloudfront.net^
-||da8k5lxr4s0r1.cloudfront.net^
-||dc5k8fg5ioc8s.cloudfront.net^
-||dc8xl0ndzn2cb.cloudfront.net^
-||dd6zx4ibq538k.cloudfront.net^
-||ddacn6pr5v0tl.cloudfront.net^
-||ddfnmo6ev4fd.cloudfront.net^
-||de2nsnw1i3egd.cloudfront.net^
-||de9a11s35xj3d.cloudfront.net^
-||df80k0z3fi8zg.cloudfront.net^
-||dgw7ae5vrovs7.cloudfront.net^
-||di7rtopbiewfz.cloudfront.net^
-||dihutyaiafuhr.cloudfront.net^
-||dita6jhhqwoiz.cloudfront.net^
-||djnaivalj34ub.cloudfront.net^
-||djtflbt20bdde.cloudfront.net^
-||dk57sacpbi4by.cloudfront.net^
-||dkre4lyk6a9bt.cloudfront.net^
-||dkumiip2e9ary.cloudfront.net^
-||dlhf38wsun1qh.cloudfront.net^
-||dlrioxg1637dk.cloudfront.net^
-||dltqxz76sim1s.cloudfront.net^
-||dlvds9i67c60j.cloudfront.net^
-||dmg0877nfcvqj.cloudfront.net^
-||dmmzfkd82wayn.cloudfront.net^
-||dmmzkfd82wayn.cloudfront.net^
-||dnhfi5nn2dt67.cloudfront.net^
-||dph3kccpbigca.cloudfront.net^
-||dq06u9lt5akr2.cloudfront.net^
-||dr3fr5q4g2ul9.cloudfront.net^
-||drda5yf9kgz5p.cloudfront.net^
-||drxboeng70b3r.cloudfront.net^
-||ds88pc0kw6cvc.cloudfront.net^
-||dsh7ky7308k4b.cloudfront.net^
-||dsms0mj1bbhn4.cloudfront.net^
-||dsqz9xo6slow8.cloudfront.net^
-||dt3eds1k4pgdp.cloudfront.net^
-||dtmm9h2satghl.cloudfront.net^
-||dtu2kitmpserg.cloudfront.net^
-||dtv5loup63fac.cloudfront.net^
-||dtxtngytz5im1.cloudfront.net^
-||dw55pg05c2rl5.cloudfront.net^
-||dwbaovfv9fmja.cloudfront.net^
-||dx6ctphzljkf1.cloudfront.net^
-||dyfw24whmn0ln.cloudfront.net^
-||dyrfxuvraq0fk.cloudfront.net^
-||dzlgdtxcws9pb.cloudfront.net^
-||s1yx966tga68s8.cloudfront.net^
-||sd1e9rtdi67kart.cloudfront.net^
-# CloudWatch RUM
-# https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
-# dataplane.rum.{REGION}.amazonaws.com
-||client.rum.us-east-1.amazonaws.com^
-||dataplane.rum.us-west-2.amazonaws.com^
 # Amgdgt.com
 ||d2798705567504830151-t2438417597315190471.id.amgdgt.com^
 ||d8526382938814309666-t4400066239592907150.id.amgdgt.com^
@@ -5266,7 +4780,6 @@
 # Neben eigenen Erfassungsdiensten sind bei PayPal noch andere Dinge zu finden
 ||nexus.ensighten.com^
 ||smartlock.google.com^
-0173-9897303
 # Paysafe
 ||tm.paysafecard.com^
 ||eu-aa.online-metrix.net^
@@ -7458,7 +6971,8 @@
 # ZypMedia
 ||extend.tv^
 ||zypmedia.com^
-# CounterStrike CS:GOScam, Abzocke und Gambleseiten für den beliebten Shooter CS:GO der Valve Corporation
+# CounterStrike CS:GO
+# Seiten die für Scam, Abzocke, Accountklau und Gambleseiten für den beliebten Shooter CS:GO und der Plattform Steam der Valve Corporation ausgelegt sind
 ||battle-cup.com^
 ||bitskins.com^
 ||bolocase.com^
@@ -7578,6 +7092,7 @@
 ||steamanalyst.com^
 ||steanmcomnmunlty.com^
 ||stonefire.io^
+||universwelcomepro.com^
 ||winaskin.com^
 ||worldbast.com^
 ||gameplayapi.intel.com^
@@ -7615,7 +7130,8 @@
 ||tm.symcd.com^
 ||tn.symcd.com^
 ||to.symcb.com^
-# Nachrichten, Spieleportale und ShopseitenNachrichten, Dienstanbieter, Livestyle, Spieleportale, Shopseiten, Medien wie TV Radio, Podcasts etc
+# Nachrichten, Spieleportale und Shopseiten
+# Nachrichten, Dienstanbieter, Livestyle, Spieleportale, Shopseiten, Medien wie TV Radio, Podcasts etc
 # Ein Querschlag durch die inter/nationale Berichterstattung und Entertainmentbranche
 # 4players.de
 ||subpixel.4players.de^
@@ -8823,7 +8339,8 @@
 ||cisnet.iqsn.de^
 ||tracksrv.zdf.de^
 ||abgroup.zdf.de^
-# Arabische, sowie persische Analytics und DiensteAnalytics, Tracking, Counter, Werbung und Co. aus dem arabischen und persischem Raum
+# Arabische, sowie persische Analytics und Dienste
+# Analytics, Tracking, Counter, Werbung und Co. aus dem arabischen und persischem Raum
 ||affstat.adro.co^
 ||analytics.aasaam.com^
 ||logo.samandehi.ir^
@@ -8842,7 +8359,8 @@
 ||cg-sc.yektanet.com^
 ||rfetch.yektanet.net^
 ||scrapper.yektanet.com^
-# Asiatische Analytics und DiensteAnalytics, Tracking, Counter, Werbung und Co. aus dem asiatischen Raum
+# Asiatische Analytics und Dienste
+# Analytics, Tracking, Counter, Werbung und Co. aus dem asiatischen Raum
 # 解析、トラッキング、クッキー、カウンター、広告をブロック。（おもに日本とアジアの地域のもの）
 ||a-affiliate.net^
 ||a.cookpad-ads.com^
@@ -9055,7 +8573,7 @@
 # 腾讯
 # QQ Messenger, Plattform und Dienste
 # Auflistung nicht vollständig | Von der Relation käme hier 4x-5x an Einträgen mehr dazu
-# Sofern nicht blockiert, verschafft sich die QQ.exe Zugriff auf sämtliche Ip/Mac-Adressen via ipconfig.exe /all und arp.exe -a
+# Sofern nicht blockiert, verschafft sich die QQ.exe Zugriff auf sämtliche Ip/Mac-Adressen via ipconfig.exe /all und arp.exe
 # Ip/s blockieren:
 # 151.249.89.68
 # 174.35.71.30
@@ -9733,7 +9251,8 @@
 ||ov.zucks.net^
 ||sh.zucks.net^
 ||static.zucks.net.zimg.jp^
-# Toplistspam, Analytics und andere Dienste aus dem Östlichen RaumAnalytics, Tracking, Counter, Werbung und Co. aus den Balkanstaaten, CAC Ländern, Osteuropa, Russland etc.
+# Toplistspam, Analytics und andere Dienste aus dem Östlichen Raum
+# Analytics, Tracking, Counter, Werbung und Co. aus den Balkanstaaten, CAC Ländern, Osteuropa, Russland etc.
 ||676528u53u82k.tke-tambov.ru^
 ||acales.ru^
 ||ad.mail.ru^
@@ -9827,6 +9346,14 @@
 ||xml.mpsuadv.ru^
 ||xxnk.multikatalogslubny.pl^
 ||zachowajto.pl^
+||1l-view.mail.ru^
+||sync.dmp.otm-r.com^
+||ssp.afp.ai^
+||cdn.afp.ai^
+||log.dzen.ru^
+||clck.dzen.ru^
+||s3.dzeninfra.ru^
+||cdn.dzen.ru^
 # Adfox
 ||a.content.adfox.ru^
 ||ads.adfox.ru^
@@ -10444,8 +9971,494 @@
 ||r5---sn-4g5ednsr.gvt1.com^
 ||r5.sn-h0jeen76.gvt1.com^
 ||r6---sn-ab5szn76.gvt1.com^
-# Microsoft CorporationWindows Hardening, Internet Explorer, Microsoft Edge, Shop, Bing, Skype, Kacheln, Office, Wetter, Karten uvm.
-# Das Microsoft Betriebssystem absichern, eigene Privatssphäre erhöhen, überflüssige Funktionen zum Schweigen bringen
+||advertising.amazon.com^
+||advertising.amazon.de^
+||metrics.media-amazon.com^
+||static.siege-amazon.com^
+||www.assoc-amazon.de^
+# 13.33.132.216
+# Adsystem
+||aan.amazon.de^
+||aax-dtb-cf.amazon-adsystem.com^
+||aax-eu-retail-direct.amazon-adsystem.com^
+||aax-eu.amazon-adsystem.com^
+||aax-eu.amazon.de^
+||aax-fe-sin.amazon-adsystem.com^
+||aax-fe.amazon-adsystem.com^
+||aax-us-east-retail-direct.amazon.com^
+||aax-us-east.amazon-adsystem.com^
+||aax-us-iad.amazon.com^
+||aax-us-pdx.amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||cdn-d.amazon-adsystem.com^
+||cloudfront-labs.amazonaws.com^
+||completion.amazon.co.jp^
+||completion.amazon.com^
+||completion.amazon.de^
+||config.aps.amazon-adsystem.com^
+||fls-eu.amazon-adsystem.com^
+||fls-fe.amazon-adsystem.com^
+||fls-fe.amazon.co.jp^
+||fls-na.amazon-adsystem.com^
+||ir-de.amazon-adsystem.com^
+||ir-jp.amazon-adsystem.com^
+||ir-na.amazon-adsystem.com^
+||rcm-eu.amazon-adsystem.com^
+||rcm-fe.amazon-adsystem.com^
+||rcm-jp.amazon.co.jp^
+||rcm-na.amazon-adsystem.com^
+||s.amazon-adsystem.com^
+||wms-eu.amazon-adsystem.com^
+||wms-fe.amazon-adsystem.com^
+||wms-na.amazon-adsystem.com^
+||ws-eu.amazon-adsystem.com^
+||ws-eu.assoc-amazon.com^
+||ws-fe.amazon-adsystem.com^
+||ws-fe.assoc-amazon.com^
+||ws-na.amazon-adsystem.com^
+||z-eu.amazon-adsystem.com^
+||z-fe.amazon-adsystem.com^
+||z-na.amazon-adsystem.com^
+||0dxnrp41n3.execute-api.us-west-2.amazonaws.com^
+||24643052-4208-477f-9c6c-8ffaba0337a7.s3.ap-northeast-1.amazonaws.com^
+||33xchange-1576862511.us-east-1.elb.amazonaws.com^
+||7waf-649347558.us-east-1.elb.amazonaws.com^
+||9dbd256a-default-ih-dd4d-36901406.eu-central-1.elb.amazonaws.com^
+||9dbd256a-default-trx-2d0e-496170222.eu-central-1.elb.amazonaws.com^
+||9e2xkh9f1e.execute-api.ap-northeast-1.amazonaws.com^
+||HDRedirect-LB5-1afb6e2973825a56.elb.us-east-1.amazonaws.com^
+||a.b.cdn.console.awsstatic.com^
+||a10abac5d1e9b11ea8d990e43aad44f4-1031692812.us-east-1.elb.amazonaws.com^
+||a1173f6f9942011ea98e20a74a8f5e27-1685968323.eu-west-1.elb.amazonaws.com^
+||a123d7dd52c7a40f9a11a8fd09e2f24b-1254019139.us-east-1.elb.amazonaws.com^
+||a1kkx7muourfsi-ats.iot.us-east-1.amazonaws.com^
+||a2963af13702f11ea8e280ea4befdfff-375410077.us-east-1.elb.amazonaws.com^
+||aa-agkn-com-https-1893222849.eu-west-2.elb.amazonaws.com^
+||aabbc1793aaac5c6d4f1bea56c1d3adcb.profile.sfo5-c1.cloudfront.net^
+||aaui-879784980514.s3.us-east-2.amazonaws.com^
+||acds-euwt1-ext-prod-a-232925330.eu-west-1.elb.amazonaws.com^
+||acds-euwt1-ext-prod-a-232925330.euwest-1.elb.amazonaws.com^
+||ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com^
+||ad099bddc3b362cf302797e3f53e91c0d.profile.nrt12-c3.cloudfront.net^
+||ads-1460635594.eu-central-1.elb.amazonaws.com^
+||ads-1460635594.eucentral-1.elb.amazonaws.com^
+||ads-yieldmo-com-eu-west-1-544050270.eu-west-1.elb.amazonaws.com^
+||adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com^
+||adserver-vpc-alb-2-1264451658.eu-west-1.elb.amazonaws.com^
+||adserving-com-f11-ads-de-976869676.eu-central-1.elb.amazonaws.com^
+||afe79c04fd8464db69f453355c110684-6aa967fe209738b1.elb.us-east-1.amazonaws.com^
+||alb-aws-fr-bswx-3-1125904451.eu-central-1.elb.amazonaws.com^
+||ams-ads-cornerstone-creatives-fe.s3.amazonaws.com^
+||ams-depr-public.s3.amazonaws.com^
+||analytics-collector-28944298.us-east-1.elb.amazonaws.com^
+||antenna-frontend-production-219b4455bc07fb73.elb.eu-west-1.amazonaws.com^
+||api-prod-alb-220889581.eu-central-1.elb.amazonaws.com^
+||async-px-eu-298376616.eu-central-1.elb.amazonaws.com^
+||bbuseruploads.s3.amazonaws.com^
+||bids-elb-195079410.us-west-2.elb.amazonaws.com^
+||bma-ghost.s3.us-east-2.amazonaws.com^
+||cd-ladsp-com.s3.amazonaws.com^
+||clickbank-apache-54377296.us-west-2.elb.amazonaws.com^
+||cognito-identity.ap-northeast-1.amazonaws.com^
+||cookiesyncing-1395500543.us-east-1.elb.amazonaws.com^
+||dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com^
+||dcs-edge-tyo3-624150721.ap-northeast-1.elb.amazonaws.com^
+||deadlinefunnel-prod-449602290.us-east-1.elb.amazonaws.com^
+||dpa-infocom.s3-eu-west-1.amazonaws.com^
+||dt-external-217593033.us-east-1.elb.amazonaws.com^
+||dualstack.exchange-prod-223589462.eu-central-1.elb.amazonaws.com^
+||dwtipping.s3.amazonaws.com^
+||dxedge-prod-lb-404808087.eu-central-1.elb.amazonaws.com^
+||e77d760a-default-ih-dd4d-1693796260.eu-central-1.elb.amazonaws.com^
+||easy-redirects.s3-eu-west-1.amazonaws.com^
+||ec2-44-226-241-1.us-west-2.compute.amazonaws.com^
+||ec2-52-214-207-196.eu-west-1.compute.amazonaws.com^
+||ec2-52-38-234-14.us-west-2.compute.amazonaws.com^
+||ec2-52-38-31-225.us-west-2.compute.amazonaws.com^
+||ec2-54-213-253-147.us-west-2.compute.amazonaws.com^
+||ec2eu-de-1-vpc-20170223-lb-1195306822.eu-west-1.elb.amazonaws.com^
+||eks-2-unified-591377374.eu-west-1.elb.amazonaws.com^
+||elb-aws-fr-bruges-621602890.eu-central-1.elb.amazonaws.com^
+||elb-aws-fr-clickdistrict-1651093077.eu-central-1.elb.amazonaws.com^
+||elb-aws-fr-dorpat-283474803.eu-central-1.elb.amazonaws.com^
+||elb-aws-fr-zagreb-1702672115.eu-central-1.elb.amazonaws.com^
+||elb-aws-ie-rockabox-scoota-2052063539.eu-west-1.elb.amazonaws.com^
+||elb-optchk-asg-euw1-1156411587.eu-west-1.elb.amazonaws.com^
+||elb01-2039628332.us-west-2.elb.amazonaws.com^
+||esev2.s3.amazonaws.com^
+||firehose.us-west-2.amazonaws.com^
+||firewall-external-2134955858.eu-west-1.elb.amazonaws.com^
+||gtrk.s3.amazonaws.com^
+||infra-events-pipelineproduction-1520650058.useast-1.elb.amazonaws.com^
+||joyn-creative-hosting.s3-eu-west-1.amazonaws.com^
+||juicer-lift.s3-ap-northeast-1.amazonaws.com^
+||juicer-vri.s3-ap-northeast-1.amazonaws.com^
+||k8s-uid-uidoh2-8dc06fca0a-258486444.us-east-2.elb.amazonaws.com^
+||lbl-sparwelt-main-public-617527997.eu-central-1.elb.amazonaws.com^
+||livefyre-cdn.s3.amazonaws.com^
+||location-prod1-ext-alb-1369692072.us-east-1.elb.amazonaws.com^
+||m-node-alb-ssl-3113-608782165.eu-central-1.elb.amazonaws.com^
+||marketingkaizen.s3-eu-west-1.amazonaws.com^
+||match-1943069928.eu-west-1.elb.amazonaws.com^
+||match-1943069928.euwest-1.elb.amazonaws.com^
+||matomo-wpmudev-1288779782.us-east-2.elb.amazonaws.com^
+||n3k5k32e00.execute-api.eu-central-1.amazonaws.com^
+||narev-nats-426500897.us-east-1.elb.amazonaws.com^
+||nginx-eucl1-ext-prod-a-2061165432.eucentral-1.elb.amazonaws.com^
+||osa-ad-library-assets.s3-eu-west-1.amazonaws.com^
+||p13nlog-1106815646.us-east-1.elb.amazonaws.com^
+||p3epspumangb5dvijf52er7wdi.appsync-api.us-east-1.amazonaws.com^
+||p3epspumangb5dvijf52er7wdi.appsync-realtime-api.us-east-1.amazonaws.com^
+||partners-alb-1113315349.useast-1.elb.amazonaws.com^
+||pc.error-1003a49feif3042.com.s3-website.eu-central-1.amazonaws.com^
+||personalization-prod1-ext-alb-1258852474.us-east-1.elb.amazonaws.com^
+||phonetrack-static.s3.sa-east-1.amazonaws.com^
+||pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com^
+||popadex-1919430815.us-east-1.elb.amazonaws.com^
+||prod-balan-fdzj1d4q5tzo-2064467324.us-east-1.elb.amazonaws.com^
+||prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com^
+||prod-east-pipedream-alb-988701200.us-east-1.elb.amazonaws.com^
+||prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com^
+||prod-elb-ats-413439319.eu-central-1.elb.amazonaws.com^
+||prod-us-west-2.csp-report.marketing.aws.dev^
+||prod.log.shortbread.aws.dev^
+||prod.pa.cdn.uis.awsstatic.com^
+||prod.tools.shortbread.aws.dev^
+||prod.us-east-1.cxm-bcn.publisher-services.amazon.dev^
+||qpsftq5jqg.execute-api.us-east-1.amazonaws.com^
+||rechtstexte.s3.amazonaws.com^
+||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
+||revcontent-p0.s3.amazonaws.com^
+||rlmgws-data.s3-accelerate.amazonaws.com^
+||rtactivateloadbalancer-2076579973.us-east-1.elb.amazonaws.com^
+||rxgh4jurki.execute-api.us-east-2.amazonaws.com^
+||s3-w.eu-central-1.amazonaws.com^
+||s3.eu-central-1.amazonaws.com^
+||saas-components-ecsloadbalancer-1709586717.eu-central-1.elb.amazonaws.com^
+||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
+||sharedid-2070269664.us-east-1.elb.amazonaws.com^
+||simplora-recipe-transfer-scripts.s3.amazonaws.com^
+||sqs.us-east-1.amazonaws.com^
+||stackadaptdis.s3.amazonaws.com^
+||stackadapttemp.s3.amazonaws.com^
+||stati-stati-5vqsw3ctlefo-93594259.eu-west-1.elb.amazonaws.com^
+||static.emsservice.de.s3.amazonaws.com^
+||stats-analytics-722939043.eu-west-1.elb.amazonaws.com^
+||street-production.s3.amazonaws.com^
+||syncelb-831046328.eu-west-1.elb.amazonaws.com^
+||tag-privacy-it-prod-1812383206.eu-west-3.elb.amazonaws.com^
+||thebenjamin.s3.amazonaws.com^
+||tracking-1611167402.us-east-1.elb.amazonaws.com^
+||us-east-1.prod.pr.analytics.console.aws.a2z.com^
+||webpick-cdn.s3.us-west-2.amazonaws.com^
+||wildcard-ads-new-1653986885.useast-1.elb.amazonaws.com^
+||www.pc.error5587875531ademscomboclf3493.com.s3-website.eu-central-1.amazonaws.com^
+||xcmz7crlld.execute-api.eu-central-1.amazonaws.com^
+||ywgysqpm3f.execute-api.us-east-1.amazonaws.com^
+||zeta-ssp-385516103.us-east-1.elb.amazonaws.com^
+||zvszrckxik.execute-api.eu-central-1.amazonaws.com^
+# Amazon-Adsystem und Drittanbietertracking und Metrics
+# 52.94.222.127
+||ams-ads-cornerstone-creatives.s3.amazonaws.com^
+||ams-ads-cornerstone-creatives-eu.s3.amazonaws.com^
+||ams-ads-cornerstone-pda-creatives-eu.s3.amazonaws.com^
+||ams-ads-cornerstone-pda-creatives-fe.s3.amazonaws.com^
+# Sponsored Product Event Tracking
+# 52.94.223.32
+||unagi-eu.amazon.com^
+||unagi-fe.amazon.com^
+||unagi-na.amazon.com^
+||unagi.amazon.co.jp^
+||unagi.amazon.com^
+# test.png
+||a00d843a23f7b6492ac38ca995953b881.profile.del54-c1.cloudfront.net^
+||a112184893803fd5fd5320fa61855355c.profile.lax1.cloudfront.net^
+||a143d79dc812b689768d72239bd9ad0ec.profile.fra6-c1.cloudfront.net^
+||a16a9803a4faa8cc84118a26760218369.profile.dfw55-c1.cloudfront.net^
+||a265fc0c8c626759d130aff5f4a082c8e.profile.phl50.cloudfront.net^
+||a2bd8c814f3ee979227ce562342ae1ddd.profile.syd62-p2.cloudfront.net^
+||a3495b80f0cfcca791f408c5a4841e1e6.profile.vpop1.cloudfront.net^
+||a3fce50b0e5cfc79568cfbc6149145dd2.profile.fra56-c2.cloudfront.net^
+||a4b26c2621b0f117befbb032173f509a4.profile.hyd50-c1.cloudfront.net^
+||a4c0a0d6cd3e2465be5f99871d2d62258.profile.tpe52-c1.cloudfront.net^
+||a549341e852559506f9daa5fa75bc05ab.profile.ewr52-c1.cloudfront.net^
+||a58c81031948e849d6e43df98542d6b66.profile.dfw50.cloudfront.net^
+||a61c9dfe14d87f5eaad63983e8c1193e9.profile.iad89-p2.cloudfront.net^
+||a64571845ac45db3ad03378fabb2b2ab6.profile.nrt51-c2.cloudfront.net^
+||a682669245a5f610224a924a5a4d6ea1d.profile.ord51-c3.cloudfront.net^
+||a6e1a9ff213289ca8772da2d77eb32db4.profile.tlv50-c1.cloudfront.net^
+||a7a04ff9eca35d2ba0a3a863b0e0fa924.profile.icn50.cloudfront.net^
+||a7a49ac39cda3c33bfbd74eb7ed19a396.profile.kul50.cloudfront.net^
+||a8090ff55a607aa5ebac401823d28574f.profile.ewr52-c4.cloudfront.net^
+||a85680581f84039ad850835e6a06514c9.profile.sin2-p2.cloudfront.net^
+||a892faacf49cfa1031d51f98f05f9c5e7.profile.icn55-c1.cloudfront.net^
+||a93a005a53a47bedd93469537563f7700.profile.atl-m.cloudfront.net^
+||ab238a5d5992d086fe5f1a4a782b11a69.profile.lax50-c1.cloudfront.net^
+||ab253c68fab9dd4e26553beb8d9d4dbcb.profile.nrt12-c1.cloudfront.net^
+||ab725fc205b1310af3b907f8fdaa129d3.profile.ord52-c1.cloudfront.net^
+||ab8dc511023d9ebf4c850dcd0c69e01a0.profile.ord51-c4.cloudfront.net^
+||ac0c2a27568a9659a36bb956f9ce55cbb.profile.syd1-c1.cloudfront.net^
+||ac0ce2a487fc656612b8be54928d49675.profile.dfw55-c2.cloudfront.net^
+||ac44e3fe7b9753e3d48e0ffb484e4a547.profile.man50-c2.cloudfront.net^
+||ac73d8780f3e7604033c40c868479450f.profile.hel50-c2.cloudfront.net^
+||ad0f7c2dbe2f0904fc469fedf8df5f1a9.profile.fra-m.cloudfront.net^
+||ad152982f70c9c518ce634d7c464517ca.profile.nrt51-c2.cloudfront.net^
+||ad5e4233225c0538a360d50d6c8e14d51.profile.hyd50-c1.cloudfront.net^
+||ad90a4f4c2c3345da1d3f76cd91fd644f.profile.txl-m.cloudfront.net^
+||adc0f0630732406f8cafdc15954300d2f.profile.tlv50-c1.cloudfront.net^
+||ae6a3c40c7d049aff805e547b65cc1a29.profile.nrt20-c4.cloudfront.net^
+||ae8acdc51bb1666ff4ee276d796dbd208.profile.fra60-p3.cloudfront.net^
+||af4bcc94ad9dc09d085706145234f5565.profile.msp50.cloudfront.net^
+||af709b25867538da8d0133f0bc922e14c.profile.msp50.cloudfront.net^
+||af7d115713d65bd00b12db9a225a0e80d.profile.bkk50-c1.cloudfront.net^
+||afc840341958ff7187694c55a8a433666.profile.lax-m.cloudfront.net^
+# Assoc-amazon.com
+||assoc-eu.associates-amazon.com^
+||assoc-fe.associates-amazon.com^
+||assoc-na.associates-amazon.com^
+||wms.assoc-amazon.com^
+||ws-na.assoc-amazon.com^
+||z-na.associates-amazon.com^
+# Amazon Elasticbeanstalk
+# 52.51.120.75
+||bidder-prod.mgycqhrtpm.eu-central-1.elasticbeanstalk.com^
+||ictjob-next-dev.eu-west-1.elasticbeanstalk.com^
+||idaas-idx.us-east-1.elasticbeanstalk.com^
+||insight-566961044.eu-west-1.elb.amazonaws.com^
+||live-emsservice.elasticbeanstalk.com^
+||d10lumateci472.cloudfront.net^
+||d11enq2rymy0yl.cloudfront.net^
+||d11hjbdxxtogg5.cloudfront.net^
+||d1225795gabrip.cloudfront.net^
+||d12t7h1bsbq1cs.cloudfront.net^
+||d134s3bx3cib14.cloudfront.net^
+||d141wsrw9m4as6.cloudfront.net^
+||d144jmuhz9kvbq.cloudfront.net^
+||d14zhsq5aop7ap.cloudfront.net^
+||d15cjcet1djbmv.cloudfront.net^
+||d15hsi2361flnm.cloudfront.net^
+||d163w5bauk02b4.cloudfront.net^
+||d16z38s472vlz5.cloudfront.net^
+||d17fy28x8ov4h8.cloudfront.net^
+||d18dhv6xwmvh4j.cloudfront.net^
+||d18kg2zy9x3t96.cloudfront.net^
+||d18myvrsrzjrd7.cloudfront.net^
+||d18t35yyry2k49.cloudfront.net^
+||d192r5l88wrng7.cloudfront.net^
+||d1a3jb5hjny5s4.cloudfront.net^
+||d1ac2du043ydir.cloudfront.net^
+||d1azc1qln24ryf.cloudfront.net^
+||d1bqktvj79b0wh.cloudfront.net^
+||d1cwxqa1so7v5v.cloudfront.net^
+||d1dli2tyorled9.cloudfront.net^
+||d1dyjkfvci6raa.cloudfront.net^
+||d1er90t4t0ta7c.cloudfront.net^
+||d1ev866ubw90c6.cloudfront.net^
+||d1g1a818mvww4w.cloudfront.net^
+||d1hgdmbgioknig.cloudfront.net^
+||d1hogxc58mhzo9.cloudfront.net^
+||d1hq9wbcfo7dcl.cloudfront.net^
+||d1j47wsepxe9u2.cloudfront.net^
+||d1j8v290qqvibb.cloudfront.net^
+||d1ks8roequxbwa.cloudfront.net^
+||d1l6p2sc9645hc.cloudfront.net^
+||d1lnjzqqshwcwg.cloudfront.net^
+||d1lxhc4jvstzrp.cloudfront.net^
+||d1lxz4vuik53pc.cloudfront.net^
+||d1lytq8w52fohg.cloudfront.net^
+||d1mbihpm2gncx7.cloudfront.net^
+||d1miwkthq39xj8.cloudfront.net^
+||d1nmxiiewlx627.cloudfront.net^
+||d1o6jc0ebh0dtu.cloudfront.net^
+||d1p7gp5w97u7t7.cloudfront.net^
+||d1pozdfelzfhyt.cloudfront.net^
+||d1pvpz0cs1cjk8.cloudfront.net^
+||d1q4x2p7t0gq14.cloudfront.net^
+||d1qggq1at2gusn.cloudfront.net^
+||d1ql3z8u1oo390.cloudfront.net^
+||d1r27qvpjiaqj3.cloudfront.net^
+||d1r90st78epsag.cloudfront.net^
+||d1rp4yowwe587e.cloudfront.net^
+||d1sga4e4j5xr2k.cloudfront.net^
+||d1sjz3r2x2vk2u.cloudfront.net^
+||d1tlya86oqnb8p.cloudfront.net^
+||d1ykf07e75w7ss.cloudfront.net^
+||d1z2jf7jlzjs58.cloudfront.net^
+||d1zjr9cc2zx7cg.cloudfront.net^
+||d205jrj5h1616x.cloudfront.net^
+||d20duyjzb7cuoc.cloudfront.net^
+||d22v2nmahyeg2a.cloudfront.net^
+||d22z575k8abudv.cloudfront.net^
+||d23yon11msnwwl.cloudfront.net^
+||d24g87zbxr4yiz.cloudfront.net^
+||d24n15hnbwhuhn.cloudfront.net^
+||d24yj1kykxwq2x.cloudfront.net^
+||d2528hoa8g0iaj.cloudfront.net^
+||d25m254rjp3rii.cloudfront.net^
+||d26adrx9c3n0mq.cloudfront.net^
+||d276dyxkw9wo01.cloudfront.net^
+||d27genukseznht.cloudfront.net^
+||d2849lw36e7cot.cloudfront.net^
+||d29dzo8owxlzou.cloudfront.net^
+||d29neki5kckb2d.cloudfront.net^
+||d2bbq3twedfo2f.cloudfront.net^
+||d2c8v52ll5s99u.cloudfront.net^
+||d2cmh8xu3ncrj2.cloudfront.net^
+||d2e1wye93a9yxe.cloudfront.net^
+||d2ef20sk9hi1u3.cloudfront.net^
+||d2er1uyk6qcknh.cloudfront.net^
+||d2fbkzyicji7c4.cloudfront.net^
+||d2fbvay81k4ji3.cloudfront.net^
+||d2i34c80a0ftze.cloudfront.net^
+||d2jgp81mjwggyr.cloudfront.net^
+||d2klx87bgzngce.cloudfront.net^
+||d2kpucccxrl97x.cloudfront.net^
+||d2lahoz916es9g.cloudfront.net^
+||d2lcoyv3ods5zz.cloudfront.net^
+||d2na2p72vtqyok.cloudfront.net^
+||d2nvliyzbo36lk.cloudfront.net^
+||d2nx6ydw3e5y5d.cloudfront.net^
+||d2nxq2uap88usk.cloudfront.net^
+||d2oa97wrxvxm7y.cloudfront.net^
+||d2ohmkyg5w2c18.cloudfront.net^
+||d2p3zdq8vjvnxd.cloudfront.net^
+||d2q8xv8xf7whrd.cloudfront.net^
+||d2q9y3krdwohfj.cloudfront.net^
+||d2qnx6y010m4rt.cloudfront.net^
+||d2r1yp2w7bby2u.cloudfront.net^
+||d2rbklkmhbaoma.cloudfront.net^
+||d2rsvcm1r8uvmf.cloudfront.net^
+||d2rx475ezvxy0h.cloudfront.net^
+||d2rz6ei5e07b60.cloudfront.net^
+||d2s2jxtv35392n.cloudfront.net^
+||d2sbzwmcg5amr3.cloudfront.net^
+||d2sffavqvyl9dp.cloudfront.net^
+||d2sp5g360gsxjh.cloudfront.net^
+||d2ty8gaf6rmowa.cloudfront.net^
+||d2uap9jskdzp2.cloudfront.net^
+||d2v9mhsiek5lbq.cloudfront.net^
+||d2wu036mkcz52n.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
+||d2y8ttytgze7qt.cloudfront.net^
+||d2yt3cv5wvb9w9.cloudfront.net^
+||d2yyd1h5u9mauk.cloudfront.net^
+||d2zgd5orehvssg.cloudfront.net^
+||d2zl2n5iz2c0l7.cloudfront.net^
+||d2zur9cc2gf1tx.cloudfront.net^
+||d31otfhas71ais.cloudfront.net^
+||d31qbv1cthcecs.cloudfront.net^
+||d31vxm9ubutrmw.cloudfront.net^
+||d32oduq093hvot.cloudfront.net^
+||d333p98mzatwjz.cloudfront.net^
+||d34chcsvb7ug62.cloudfront.net^
+||d36zfztxfflmqo.cloudfront.net^
+||d3a4r0j3mf67g3.cloudfront.net^
+||d3ahinqqx1dy5v.cloudfront.net^
+||d3al52d8cojds7.cloudfront.net^
+||d3bbyfw7v2aifi.cloudfront.net^
+||d3bfricg2zhkdf.cloudfront.net^
+||d3br8glkelnh2z.cloudfront.net^
+||d3cod80thn7qnd.cloudfront.net^
+||d3cpib6kv2rja7.cloudfront.net^
+||d3cxv97fi8q177.cloudfront.net^
+||d3cynajatn2qbc.cloudfront.net^
+||d3dn8ls1xwuebe.cloudfront.net^
+||d3dytsf4vrjn5x.cloudfront.net^
+||d3em0905j9y6sm.cloudfront.net^
+||d3ep3jwb1mgn3k.cloudfront.net^
+||d3f1m03rbb66gy.cloudfront.net^
+||d3fr49y3ejekk5.cloudfront.net^
+||d3g5ovfngjw9bw.cloudfront.net^
+||d3hib26r77jdus.cloudfront.net^
+||d3hj4iyx6t1waz.cloudfront.net^
+||d3jspkulkfw0bk.cloudfront.net^
+||d3kblkhdtjv0tf.cloudfront.net^
+||d3kd7yqlh5wy6d.cloudfront.net^
+||d3lcz8vpax4lo2.cloudfront.net^
+||d3mzokty951c5w.cloudfront.net^
+||d3o49rridkfcxi.cloudfront.net^
+||d3ooh7n2f0ku5s.cloudfront.net^
+||d3ou4areduq72f.cloudfront.net^
+||d3oy68whu51rnt.cloudfront.net^
+||d3qz0rrtpnddkp.cloudfront.net^
+||d3sai2k6w952qd.cloudfront.net^
+||d3t3z4teexdk2r.cloudfront.net^
+||d3t5ngjixpjdho.cloudfront.net^
+||d3t87ooo0697p8.cloudfront.net^
+||d3tbv23krgi6be.cloudfront.net^
+||d3tglifpd8whs6.cloudfront.net^
+||d3tlllhky18vc.cloudfront.net^
+||d3tsytm1wtjqo2.cloudfront.net^
+||d3ud741uvs727m.cloudfront.net^
+||d3vw4uehoh23hx.cloudfront.net^
+||d3x0jb14w6nqz.cloudfront.net^
+||d4el4parm0zb3.cloudfront.net^
+||d5d3sg85gu7o6.cloudfront.net^
+||d5nxst8fruw4z.cloudfront.net^
+||d5onopbfw009h.cloudfront.net^
+||d5phz18u4wuww.cloudfront.net^
+||d5ssgc0nf5vml.cloudfront.net^
+||d6wzv57amlrv3.cloudfront.net^
+||d7t0ajd8uy1xk.cloudfront.net^
+||d81mfvml8p5ml.cloudfront.net^
+||d8rk54i4mohrb.cloudfront.net^
+||d91i6bsb0ef59.cloudfront.net^
+||d9etzk30b05yg.cloudfront.net^
+||d9jj3mjthpub.cloudfront.net^
+||da8k5lxr4s0r1.cloudfront.net^
+||dc5k8fg5ioc8s.cloudfront.net^
+||dc8xl0ndzn2cb.cloudfront.net^
+||dd6zx4ibq538k.cloudfront.net^
+||ddacn6pr5v0tl.cloudfront.net^
+||ddfnmo6ev4fd.cloudfront.net^
+||de2nsnw1i3egd.cloudfront.net^
+||de9a11s35xj3d.cloudfront.net^
+||df80k0z3fi8zg.cloudfront.net^
+||dgw7ae5vrovs7.cloudfront.net^
+||di7rtopbiewfz.cloudfront.net^
+||dihutyaiafuhr.cloudfront.net^
+||dita6jhhqwoiz.cloudfront.net^
+||djnaivalj34ub.cloudfront.net^
+||djtflbt20bdde.cloudfront.net^
+||dk57sacpbi4by.cloudfront.net^
+||dkre4lyk6a9bt.cloudfront.net^
+||dkumiip2e9ary.cloudfront.net^
+||dlhf38wsun1qh.cloudfront.net^
+||dlrioxg1637dk.cloudfront.net^
+||dltqxz76sim1s.cloudfront.net^
+||dlvds9i67c60j.cloudfront.net^
+||dmg0877nfcvqj.cloudfront.net^
+||dmmzfkd82wayn.cloudfront.net^
+||dmmzkfd82wayn.cloudfront.net^
+||dnhfi5nn2dt67.cloudfront.net^
+||dph3kccpbigca.cloudfront.net^
+||dq06u9lt5akr2.cloudfront.net^
+||dr3fr5q4g2ul9.cloudfront.net^
+||drda5yf9kgz5p.cloudfront.net^
+||drxboeng70b3r.cloudfront.net^
+||ds88pc0kw6cvc.cloudfront.net^
+||dsh7ky7308k4b.cloudfront.net^
+||dsms0mj1bbhn4.cloudfront.net^
+||dsqz9xo6slow8.cloudfront.net^
+||dt3eds1k4pgdp.cloudfront.net^
+||dtmm9h2satghl.cloudfront.net^
+||dtu2kitmpserg.cloudfront.net^
+||dtv5loup63fac.cloudfront.net^
+||dtxtngytz5im1.cloudfront.net^
+||dw55pg05c2rl5.cloudfront.net^
+||dwbaovfv9fmja.cloudfront.net^
+||dx6ctphzljkf1.cloudfront.net^
+||dyfw24whmn0ln.cloudfront.net^
+||dyrfxuvraq0fk.cloudfront.net^
+||dzlgdtxcws9pb.cloudfront.net^
+||s1yx966tga68s8.cloudfront.net^
+||sd1e9rtdi67kart.cloudfront.net^
+# CloudWatch RUM
+# https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
+# dataplane.rum.{REGION}.amazonaws.com
+||client.rum.us-east-1.amazonaws.com^
+||dataplane.rum.us-west-2.amazonaws.com^
 # Antimalware Service Executable | MsMpEng.exe | mrt.exe | Smartscreen
 # 51.105.236.244
 # 20.82.19.171
@@ -11159,7 +11172,9 @@
 # 13.67.168.246
 ||privacy.xboxlive.com.akadns.net^
 ||FRA-efz.ms-acdc.office.com^
-# Soziale Netzwerke und CommunitysVerschiedene Onlineplattformen, zusammengefasst unter einer Rubrik
+# Soziale Netzwerke und Communitys
+# Verschiedene Onlineplattformen, zusammengefasst unter einer Rubrik
+# Achtung: Facebook mitsamt dazugehörigen Diensten ist und bleibt weitesgehend gesperrt, wegen anhaltenden Verstößen gegen Privatsphäre, Verkauf von Nutzerdaten, Ignorieren von Sicherheitslücken etc.
 # DeviantArt
 ||www.da-ads.com^
 ||status.discordapp.com^
@@ -11176,10 +11191,6 @@
 ||disqusads.com^
 ||tempest.services.disqus.com^
 # Facebook, Inc. | META
-# Webseite/n und Dienste gesperrt wegen Cambridge Analytica, permanentem Tracking und Spyware, millionenfacher Verstoß gegen Privatsphäre
-# der Nutzer, Verkauf von Nutzerdaten, Tracking von Androidnutzern, Ignorieren von Sicherheitslücken uvm.
-# Weitere Dienste und Plattformen wie Instagram, Whatsapp usw werden in Zukunft zur Blockliste hinzugefügt bzw. ergänzt
-# Kurz gesagt, keine Daten für Facebook Kampangne
 # Ip/s blockieren:
 # 185.60.217.28
 # 157.240.194.27
@@ -11288,7 +11299,8 @@
 ||vignette.wikia.nocookie.net^
 ||speed.nocookie.net^
 ||fandomcps.cps.ampfeed.com^
-# WebbrowserDatenverkehr gängiger Browser
+# Webbrowser
+# Datenverkehr gängiger und alter Browser
 # 北京奇虎科技有限公司
 # 360安全浏览器
 # Startseite Werbung und Tracking
@@ -11407,6 +11419,7 @@
 ||privacyportal.onetrust.com^
 # Microsoft Edge | Version 100.0.1185.44+ | 19.04.2022
 # 40.99.150.194
+||bzib.nelreports.net^
 ||f.clarity.ms^
 ||r.msftstatic.com^
 ||nav-edge.smartscreen.microsoft.com^
@@ -11563,7 +11576,8 @@
 ||sentry.iddqd.yandex.net^
 ||collections.yandex.ru^
 ||sync.browser.yandex.net^
-# HardwareDatenverkehr und Analytics von Treibersoftware wie Grafikkarten, Tastaturen, Druckern und anderen Gerätschaften
+# Hardware
+# Datenverkehr und Analytics von Treibersoftware wie Grafikkarten, Tastaturen, Druckern und anderen Gerätschaften
 # Canon, Inc.
 # Master Setup & Betrieb für Drucker
 # 23.203.65.48
@@ -11593,15 +11607,40 @@
 # 52.201.135.141
 ||hosted.ap.org^
 ||laserver.logitech.io^
+# NVidia Corporation
+# Deep Learning Super Sampling - Automatische Callbacks an NVIdia auch wenn die DLSS Funktion nicht verwendet wird
+# Ip/s blockieren:
+# 184.86.103.198
+# 184.86.103.201
+# 184.86.251.14
+# 184.86.251.22
+# 23.0.174.122
+# 23.0.174.83
+# 23.40.18.24
+# 23.40.18.26
+||a184-86-103-198.deploy.static.akamaitechnologies.com^
+||a184-86-103-201.deploy.static.akamaitechnologies.com^
+||a184-86-251-14.deploy.static.akamaitechnologies.com^
+||a184-86-251-22.deploy.static.akamaitechnologies.com^
+||a23-0-174-122.deploy.static.akamaitechnologies.com^
+||a23-0-174-83.deploy.static.akamaitechnologies.com^
+||a23-40-18-26.deploy.static.akamaitechnologies.com^
+||1.cdnxsalty9.com^
+||10.cdnxsalty9.com^
 ||12007250.pix-cdn.org^
+||3.cdnxsalty9.com^
 ||3npsgv2sx5.com^
+||4.cdnxsalty9.com^
 ||4519cae863.34ad8df175.com^
+||7.cdnxsalty9.com^
+||8.cdnxsalty9.com^
 ||994ot5rkpch2.com^
 ||a.bestcontentnetwork.top^
 ||a.bestcontentplan.top^
 ||a.bestcontentprovider.top^
 ||a.bestcontentsite.top^
 ||a.besttextservice.top^
+||a.pemsrv.com^
 ||acrmbjkk6qc5utby.pro^
 ||ads.adamoads.com^
 ||ads.bullionyield.com^
@@ -11616,6 +11655,7 @@
 ||affiliates.a2hosting.com^
 ||ag.palmtube.net^
 ||ahw2lok.txxx.com^
+||analytics.cdn.live^
 ||anymad.com^
 ||api.simply-hentai.com^
 ||as.catsnbootsncats2020.com^
@@ -11681,6 +11721,7 @@
 ||ee2ff2ea24.b5607dca47.com^
 ||engine.phn.doublepimp.com^
 ||engine.voluumtlkrnarketing.com^
+||evvvq.ibilitukydteamw.com^
 ||fappinghd.com^
 ||fst.securefastoffers.com^
 ||galleryn2.awemdia.com^
@@ -11690,10 +11731,13 @@
 ||go.strpjmp.com^
 ||go.xlivrdr.com^
 ||go.zybrdr.com^
+||godpvqnszo.com^
+||gourgoldpieceso.com^
 ||graphics1.sextracker.com^
 ||hd100546b.com^
 ||i.bangassets.com^
 ||i.jads.co^
+||idohethisisathllea.com^
 ||images.securedataimages.com^
 ||istri.it^
 ||javbebe.com^
@@ -11703,6 +11747,7 @@
 ||kookporn.com^
 ||la3c05lr3o.com^
 ||ladsips.com^
+||lh.limosiwooable.com^
 ||loc.sexymilfspics.com^
 ||log.perfecttitspics.com^
 ||los.sexymilfspics.com^
@@ -11719,6 +11764,7 @@
 ||nugh2om.txxx.com^
 ||p.zetadeo.com^
 ||p219.anyhentai.com^
+||peacockshudder.com^
 ||pn.itiger.online^
 ||pornlink.co^
 ||pornpicvip.com^
@@ -11736,6 +11782,7 @@
 ||t.riverhit.com^
 ||t.sesefi.xyz^
 ||t.simply-hentai.com^
+||tdns7.gtranslate.net^
 ||teartee.com^
 ||thesexscene.com^
 ||tn.porntop.com^
@@ -11754,6 +11801,7 @@
 ||x4i6u4n6.ssl.hwcdn.net^
 ||xxxjav.stream^
 ||youzoojizz.top^
+||zsyrk.ibilitukydteamw.com^
 ||cdn53833466.ahacdn.me^
 # Analitits.com
 ||analitits.com^
@@ -11940,8 +11988,9 @@
 ||cnt.xhamster.com^
 ||stat.xhamsterpremium.com^
 ||promo.xhcdn.com^
-# Digitale Müllhalde und gefährliches Zeug nach Top-Level-Domain sortiertBlockierte Seiten mit Bezug auf Fake & Fraudkampangen, Weiterleitungen, Adware, Werbekampangnen, Affiliates, Popups,
-# Spoofing, Ransomware, Tracker, Viren, Malwaredomains
+# Fake und Scam
+# Digitale Müllhalde und gefährliches Zeug nach Top-Level-Domain sortiert
+# Blockierte Seiten mit Bezug auf Fake & Fraudkampangen, Pishing, Weiterleitungen, Adware, Werbekampangnen, Affiliates, Popups, Spoofing, Ransomware, Tracker, Viren, Malwaredomains
 # Ip/s blockieren:
 # 192.119.84.230
 # 176.123.4.13
@@ -12438,6 +12487,7 @@
 ||erversarycompa.info^
 ||etronotwiltons.info^
 ||exchancetaur.info^
+||eyauknalyticafra.info^
 ||fbimostwanted.info^
 ||feenotifyfriends.info^
 ||furtherescottom.info^
@@ -12462,6 +12512,7 @@
 ||leaderhistliness.info^
 ||leforgotteddisg.info^
 ||lhfw6.kmodukuleqasfo.info^
+||liondolularhene.info^
 ||loat.info^
 ||lucklayed.info^
 ||mashionalkov.info^
@@ -12470,6 +12521,7 @@
 ||mpanythathaveresultet.info^
 ||my.sodadirt.info^
 ||nedukeration.info^
+||nicatethebene.info^
 ||ntoftheusysianedt.info^
 ||p0lf9.kmodukuleqasfo.info^
 ||p455208.mittwaldserver.info^
@@ -13732,7 +13784,8 @@
 ||yweakelan.xyz^
 ||zabenxen.xyz^
 ||zwfexoeaat3um.xyz^
-# Passwörter VerwaltungVerbindungsdaten diverser Software zur Verwaltung und Absicherung von Passwörtern. Online und Offline
+# Passwörter Verwaltung
+# Verbindungsdaten diverser Software zur Verwaltung und Absicherung von Passwörtern. Online und Offline
 # AceBIT GmbH
 # Password Depot
 ||www.password-depot.com^
@@ -13755,7 +13808,8 @@
 # Steganos Password Manager 18
 # Während der Installation inkl. Webseitenaufruf
 ||steganos.com^
-# CookiesZentralisierte Cookie Hinweise, Cookie Consent
+# Cookies und Kekse
+# Zentralisierte Cookie Hinweise, Cookie Consent, Nagscreens
 # Consentmanager.net
 ||cdn.consentmanager.net^
 ||delivery.consentmanager.net^
@@ -13785,7 +13839,8 @@
 ||gdpr-wrapper.privacymanager.io^
 ||gdpr.privacymanager.io^
 ||launchpad-wrapper.privacymanager.io^
-# NewsletterTracking, Analyticsscripts und sonstiger Schrott in Newslettern die sich ohne Schwierigkeiten blockieren lassen
+# Newsletter
+# Tracking, Analyticsscripts und sonstiger Schrott in Newslettern die sich ohne Schwierigkeiten blockieren lassen
 # Airbnb
 ||a1.muscache.com^
 ||ev.airbnb.map.fastly.net^
@@ -13807,8 +13862,8 @@
 ||page-events-ustats.udemy.com^
 # Zenimax Europe Limited | Elderscrolls Online
 ||trk.email.dynect.net^
-# RegionlockedWebseiten mit regionalen Sperren die z.b. aus Deutschland oder anderen Ländern OHNE Vpn nicht erreichbar
-# oder nur eingeschränkt verfügbar sind
+# Regionlocked
+# Webseiten mit regionalen Sperren die z.b. aus Deutschland oder anderen Ländern OHNE Vpn nicht erreichbar oder nur eingeschränkt verfügbar sind
 # Britbox
 ||mybbc-analytics.files.bbci.co.uk^
 ||fwlive.crackle.com^
@@ -13902,7 +13957,8 @@
 ||sni-ad-traffic.s3.amazonaws.com^
 ||2ecd5.v.fwmrm.net^
 ||cdn1.extremereach.io^
-# VPN DiensteVerbindungsdaten von VPN,- und Clientsoftware
+# VPN Dienste
+# Verbindungsdaten von VPN,- und Clientsoftware
 # Mudhook Marketing, Inc.
 # SaferVPN
 # 52.201.109.242
@@ -18310,10 +18366,11 @@
 ||nist.time.nosc.us^
 ||nisttime.carsoncity.k12.mi.us^
 ||time-a.timefreq.bldrdoc.gov^
-# Virtuelle Realität - VR BrillenEinträge zu VR Brillen
+# Virtuelle Realität - VR Brillen
+# Einträge zu VR Brillen
 # Facebook Technologies, LLC.
 # Oculus Rift S
-# # Oculus VR Nutzung als auch Setup nur mit Facebook Zwang. Aktivieren auf eigene Gefahr
+# Oculus VR Nutzung als auch Setup nur mit Facebook Zwang. Aktivieren auf eigene Gefahr
 # Ip/s blockieren:
 # 185.60.216.49
 # 31.13.64.48
@@ -18582,10 +18639,8 @@
 # 2a02:26f0:105:0:0:0:216:16d3
 ||steampipe.akamaized.net^
 ||steamstats.valvesoftware.com^
-# Desktop-SpieleVerbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen
-# Adressen sind einzeln je Produkt nach Publishernamen aufgeführt
-# Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste
-# jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
+# Desktop-Spiele
+# Verbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen. Adressen sind einzeln je Produkt nach Publishernamen aufgeführt. Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
 # 赤燭遊戲 | RedCandleGames
 # Devotion
 # Ip/s blockieren:
@@ -18614,6 +18669,10 @@
 ||trace-report.tgp.qq.com^
 ||ied-tqos-tgp.qq.com^
 ||speed.tgp.qq.com^
+||pc.bugly.qcloud.com^
+||bugreportv2.qq.com^
+||dumpintl.gamesafe.qq.com^
+||yunqos.gamesafe.qq.com^
 # Endpunkte
 ||ec2-3-133-172-110.us-east-2.compute.amazonaws.com^
 ||ec2-3-14-169-209.us-east-2.compute.amazonaws.com^
@@ -18748,6 +18807,10 @@
 # 74.201.106.168
 # 74.201.106.132
 ||cdn.services.gearboxsoftware.com^
+||mercury.shift.services.gearbox.com^
+||news.shift.services.gearbox.com^
+||ttwxp-mim.vivox.com^
+||ttwxp.www.vivox.com^
 ||promotions.api.2kcoretech.online^
 # Mafia III
 # Telemetry64.dll im Installationsordner löschen! Adressen sind für Telemetrie und Onlinefunktion zuständig
@@ -19364,7 +19427,7 @@
 # Heartbeat Callbackabfrage alle 30 Sekunden
 # 198.20.198.46
 ||dfw-gobbler.doom.amok.systems^
-# # Amazon Kinesis - Echtzeitanalyse, Erfassung und Verwertung von Datenströmen | Sowie AWS Firehose als zusätzlicher Analytics & Tracker mit weiteren Schnittstellen
+# Amazon Kinesis - Echtzeitanalyse, Erfassung und Verwertung von Datenströmen | Sowie AWS Firehose als zusätzlicher Analytics & Tracker mit weiteren Schnittstellen
 # 143.204.15.65
 # 52.222.150.238
 # 52.222.150.80
@@ -19648,39 +19711,30 @@
 # s. Eintrag Steam: IP Checks
 # CD PROJEKT RED
 # Cyberpunk 2077
-# Auth, Users & Remote werden für Clientanmeldung, Clientdownload oder diverse Spiele mit GOG Mehrspielerfunktion benötigt
+# Users & Remote werden für Clientanmeldung, Clientdownload oder diverse Spiele mit GOG Mehrspielerfunktion benötigt
 # Don't use the launcher | Nicht den Launcher zum Start verwenden
-# Ip/s blockieren:
-# 23.50.131.23
-# 2.19.120.143
+# 34.149.36.98
+# 23.55.163.81
+# 23.55.163.68
+# 77.79.249.152
+# 77.79.249.151
+# 92.123.27.16
+# 92.123.27.104
+# 92.123.27.113
 # 192.229.233.146
-# 23.50.131.20
-# 23.50.131.28
+# 23.55.163.80
+# 23.55.163.48
+# 23.55.163.81
+# 23.55.163.80
 # 152.195.39.39
-# 192.229.233.146
-# 23.50.131.18
-# 152.199.21.209
+# 142.251.36.195
+# 23.0.174.83
+# 23.0.174.122
+# 23.55.163.75
+# 142.251.36.227
+# 23.55.163.66
+||redsights.live.cdpred.services^
 ||galaxy-game-news.gog.com^
-# Akamai - Endpunkte
-# 23.55.163.12
-# 23.55.163.39
-# 84.53.175.145
-# 23.213.161.152
-# 23.213.161.136
-# 23.55.163.23
-# 23.62.98.43
-||a1973.dscb.akamai.net^
-||a23-55-163-20.deploy.static.akamaitechnologies.com^
-||a72-247-178-8.deploy.static.akamaitechnologies.com^
-||a72-247-178-33.deploy.static.akamaitechnologies.com^
-||a72-247-178-26.deploy.static.akamaitechnologies.com^
-||a23-55-163-12.deploy.static.akamaitechnologies.com^
-||a23-55-163-39.deploy.static.akamaitechnologies.com^
-||a84-53-175-145.deploy.static.akamaitechnologies.com^
-||a23-213-161-152.deploy.static.akamaitechnologies.com^
-||a23-213-161-136.deploy.static.akamaitechnologies.com^
-||a23-55-163-23.deploy.static.akamaitechnologies.com^
-||a23-62-98-43.deploy.static.akamaitechnologies.com^
 ||a1965.b.akamai.net^
 ||a1332.b.akamai.net^
 ||rs.gwallet.com^
@@ -19981,7 +20035,7 @@
 # Statistikabfragen für Highscorelisten & komplett mitgesendeter Newsfeed
 # 208.64.200.105
 ||www.rhythmdestruction.com^
-# Curve Digital
+# Curve Games
 # Autonauts
 # Ip/s blockieren:
 # 34.111.113.40
@@ -20004,6 +20058,28 @@
 # 34.107.172.168
 # Narcos: Rise of the Cartels
 # s. Eintrag Steam: IP Checks
+# Patch Quest
+# 62.254.198.101
+# 162.254.193.100
+# 205.196.6.213
+# 146.66.152.42
+# 103.10.124.117
+# 162.254.198.43
+# 155.133.252.38
+# 155.133.239.52
+# 146.66.155.66
+# 155.133.230.99
+# 162.254.199.173
+# 155.133.253.39
+# 155.133.226.72
+# 155.133.227.35
+# 103.28.54.166
+# 185.25.182.51
+# 103.10.124.118
+# 155.133.252.88
+# 34.111.113.40
+# 34.107.172.168
+# 23.210.122.61
 # Serial Cleaner
 # Ip/s blockieren:
 # 34.111.113.40
@@ -20071,6 +20147,14 @@
 # 34.107.172.168
 # 104.40.183.236
 # 52.166.80.100
+# The Lord of the Rings: Gollum™
+# Ip/s blockieren:
+# 34.149.79.31
+# 104.40.183.236
+# 184.86.251.22
+# 184.86.251.14
+||nacon-os.com^
+||31.79.149.34.bc.googleusercontent.com^
 # Holy Potatoes! We’re in Space?!
 # Facebook Anbindung
 # Ip/s blockieren:
@@ -20257,6 +20341,9 @@
 # 64.90.53.132
 ||ingame.serioussam.com^
 ||apache2-ogle.estacada.dreamhost.com^
+# Shadow Warrior 3: Definitive Edition
+# 184.86.103.198
+# 184.86.103.201
 # Stories Untold
 # Ip/s blockieren:
 # 34.111.113.40
@@ -20620,6 +20707,14 @@
 # 18.203.146.39
 ||bfg1.stormancer.com^
 ||cerberus-eu-lb-6707ab7fcc744d90.elb.eu-west-1.amazonaws.com^
+# Call of Cthulhu®
+# Cities XXL
+# 208.64.203.186
+# Contrast
+# s. Eintrag Steam: IP Checks
+# Curse of the Dead Gods
+# 149.56.22.108
+||temple.passtechgames.com^
 # Farming Simulator 19
 # Einzelspieler
 # 136.243.151.92
@@ -20768,8 +20863,6 @@
 # Ip/s blockieren:
 # 23.0.174.122, 23.0.174.83, 95.217.211.251, 184.86.103.198, 184.86.103.201, 95.217.211.251
 ||gas.frogwares.com^
-||a23-0-174-122.deploy.static.akamaitechnologies.com^
-||a23-0-174-83.deploy.static.akamaitechnologies.com^
 # Weitere Drittanbieter/Telemetrie
 ||s3-3-w.amazonaws.com^
 # Jurassic World Evolution
@@ -23767,9 +23860,8 @@
 ||cdn-store-icons-tencent-prd.unityads.unitychina.cn^
 ||endscreen.unityads.unitychina.cn^
 # Zuständig für Schnüffelei in Spielen
-# Erfasste Daten werden je nach Nutzerherkunft an USC "z.b. Usa", EUW "z.b. Deutschland"" oder APE "z.b. Japan" von der Perf-Events aus weitergeleitet. Ips gehören dazu.
+# Erfasste Daten werden je nach Nutzerherkunft an USC "z.b. Usa", EUW "z.b. Deutschland"" oder APE "z.b. Japan" von der Perf-Events aus weitergeleitet. Ips gehören dazu
 # Ip/s blockieren:
-#
 # 35.227.244.186
 # 35.241.26.53
 # 34.111.82.212
