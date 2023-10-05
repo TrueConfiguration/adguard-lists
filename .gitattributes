@@ -1,0 +1,26 @@
+# Auto detect text files and perform LF normalization
+* text eol=lf
+
+# Disable LF normalization in case of images
+*.jpg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.avif binary
+*.tiff binary
+
+# Custom for Visual Studio
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Standard to msysgit
+*.doc diff=astextplain
+*.DOC diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot diff=astextplain
+*.DOT diff=astextplain
+*.pdf diff=astextplain
+*.PDF diff=astextplain
+*.rtf diff=astextplain
+*.RTF diff=astextplain
