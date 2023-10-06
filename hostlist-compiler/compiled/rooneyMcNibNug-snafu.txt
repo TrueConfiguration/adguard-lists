@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-10-03T09:00:43.232Z
+! Last modified: 2023-10-06T09:00:40.961Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11579,3 +11579,10 @@
 ||etorousdt.site^
 ||webetoro.com^
 ||etorotradingbot.com^
+||ads.dev.pinger.com^
+||cf-ads.pinger.com^
+||ads.qa.pinger.com^
+||ads.pinger.com^
+||adservetx.media.net^
+||ads.media.net^
+||ad.media.net^
