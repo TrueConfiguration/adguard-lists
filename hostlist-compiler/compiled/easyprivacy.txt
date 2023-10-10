@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2023-10-07T09:00:16.902Z
+! Last modified: 2023-10-10T09:00:18.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 09OCT23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
 # List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
@@ -4398,6 +4398,7 @@
 ||cnebis.chocola.com^
 ||cnebis.eisai.jp^
 ||cnebis.i-no-science.com^
+||c.newyorker.com^
 ||cn-go.experian.com^
 ||cn.mywd.com^
 ||cnpxwl.cheapcaribbean.com^
@@ -12471,6 +12472,7 @@
 ||qamnyl.bever.nl^
 ||qbl4.ecetech.fr^
 ||qbse.intuit.com^
+||qc.newyorker.com^
 ||qc.qualicocommunitieswinnipeg.com^
 ||qc.vogue.com^
 ||qerpks.rollei.de^
@@ -13203,6 +13205,7 @@
 ||scaredsidewalk.com^
 ||scaredsnake.com^
 ||scaredsnakes.com^
+||scaredsong.com^
 ||scaredstory.com^
 ||scaredswing.com^
 ||scarfsmash.com^
