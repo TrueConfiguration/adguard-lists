@@ -3,7 +3,7 @@
 ! Description: Prigent-Crypto, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2023-10-21T09:00:40.045Z
+! Last modified: 2023-10-24T09:00:36.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Crypto.txt
 !
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 20OCT23 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 23OCT23 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 # List corrections can be requested upstream at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0.0.0.0adminer.com^
 ||0.0.0.0adminka-pro.ru^
@@ -7143,6 +7143,7 @@
 ||cryptot.cc^
 ||cryptotab.farm^
 ||cryptotab.net^
+||cryptotabfarm.com^
 ||cryptoverse.eu^
 ||cryptowide.io^
 ||cryptown.netlify.com^
@@ -12763,6 +12764,7 @@
 ||pdtaqyjqwfkarz.bid^
 ||pdxvgkivkc.bid^
 ||pdypjcgng.bid^
+||peak.pagekite.me^
 ||peakminer.app^
 ||pearno.com^
 ||pearpool.com^
