@@ -11,23 +11,13 @@
 @@/^(www\.)?\w{2}\.wp\.com$/$important
 ! Debian mirror FTP repositories
 @@/^(\w+\.)?ftp\.(\w+\.)?debian\.org$/$important
-! G2 software comparison site
-@@/^(www\.)?g2\.com$/$important
 ! Instagram photos
 @@/^instagram\.\w+\-\d\.fna.fbcdn\.net$/$important
-! Postimg (service for users to embed images in forums)
-@@/^(i\.)?postimg\.cc$/$important
 ! Oracle cloud control panel
 @@/^telemetry(-ingestion)?\.\w{2}-\w+-\d\.oraclecloud\.com$/$important
 @@/^console-telemetry\.\w{2}-\w+-\d{1}\.oci\.oraclecloud\.com$/$important
 ! Canonical uses subdomains to point to mirrors in Ubuntu apt repositories
 @@/^(.+\.)?(archive|security|ports)\.ubuntu\.com$/$important
-! VS Code/Visual Studio Marketplace domains
-@@/^mads-hartmann\.gallery(cdn)?\.vsassets\.io$/$important
-! Mastodon instances
-@@/^(files\.)?strangeobject\.space$/$important
-! Tumblr
-@@/^(www\.)?tumblr\.com$/$important
 
 ! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
 ! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
@@ -35,10 +25,6 @@
 @@/^s{1..5}.symcb.com$/$important
 ! Reddit
 @@/^[a-z]\.thumbs\.redditmedia\.com$/$important
-@@/(^www\.|^)redd\.it$/$important
-@@/(^www\.|^)reddit\.com$/$important
 ! WhatsApp - So far I'm not having problems with WhatsApp with it disabled. Will allow telemetry through.
 ! @@/^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9]\.fbcdn\.net$/^$important
 ! @@/^((www|(w[0-9]\.)?web|media((-[a-z]{3}|\.[a-z]{4})[0-9]{1,2}-[0-9](\.|-)(cdn|fna))?)\.)?whatsapp\.(com|net)$/^$important
-! Twitter
-@@/(^www\.|^)twimg\.com$/$important
