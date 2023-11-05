@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2023-10-03T09:00:18.383Z
+! Last modified: 2023-11-05T09:00:18.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1305,6 +1305,10 @@
 # Brave Bunny
 # Curvatron
 # 208.64.200.105
+# Breda University of Applied Sciences
+# SKYE
+# 23.55.163.62
+# s. Eintrag Steam: IP Checks
 # Brilliant Game Studios
 # Ultimate Epic Battle Simulator
 # Ip/s blockieren:
@@ -2085,7 +2089,7 @@
 # 23.48.23.179
 # 23.50.131.19
 ||nat-detection.gog.com^
-# Serious Sam Fusion 2017
+# Serious Sam 3: BFE
 # 64.90.53.132
 ||ingame.serioussam.com^
 ||apache2-ogle.estacada.dreamhost.com^
@@ -3684,7 +3688,8 @@
 # 34.107.172.168
 # Might and Delight
 # Fables from the Den
-# 208.64.200.105
+# 34.111.82.212
+||212.82.111.34.bc.googleusercontent.com^
 # Mihai Morosanu
 # Castle Defender
 ||www.id.net^
@@ -4594,6 +4599,12 @@
 ||ec2-34-250-97-216.eu-west-1.compute.amazonaws.com^
 ||ec2-52-214-128-245.eu-west-1.compute.amazonaws.com^
 ||ingame.companyofheroes.com^
+||pop-up-market-medias.community.amplitude-studios.com^
+||stun.stunprotocol.org^
+||d2hjvmnsrtrg65.cloudfront.net^
+||eos-general.s3.amazonaws.com^
+||ec2-34-254-84-86.eu-west-1.compute.amazonaws.com^
+||ec2-18-202-193-192.eu-west-1.compute.amazonaws.com^
 # Endless Space® 2
 # 63.35.126.135
 # 52.210.254.53
@@ -5078,6 +5089,8 @@
 # 157.240.27.27
 # 157.240.14.19
 ||scontent-dus1-1.xx.fbcdn.net^
+||a23-48-23-194.deploy.static.akamaitechnologies.com^
+||a23-48-23-181.deploy.static.akamaitechnologies.com^
 ||sqm.microsoft.com^
 ||dns.msftncsi.com^
 ||lbmtl.os.eidos.com^
@@ -5344,7 +5357,6 @@
 # 63.33.106.137
 # 63.33.167.102
 ||api.techlandonlineservices.com^
-||d2hjvmnsrtrg65.cloudfront.net^
 ||object-storage-core.techlandonlineservices.com^
 # God's Trigger
 # Ip/s blockieren:
@@ -5775,7 +5787,6 @@
 # 35.186.194.186
 # 34.111.113.40
 # 35.190.88.234
-||212.82.111.34.bc.googleusercontent.com^
 # Veraltet / Obsolete
 # Ip/s blockieren:
 # 35.227.244.186
