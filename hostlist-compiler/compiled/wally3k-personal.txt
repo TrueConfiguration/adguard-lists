@@ -3,7 +3,7 @@
 ! Description: Content added to this list has been manually verified, and is updated irregularly
 ! Homepage: https://firebog.net/about
 ! License: CC BY 4.0
-! Last modified: 2023-07-05T12:24:23.503Z
+! Last modified: 2023-11-06T09:02:39.581Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -47,21 +47,21 @@
 ||ad.mopub.com^
 ||engine.fyber.com^
 # Cydia/Bigboss
-quantummetric.com 
+||quantummetric.com^
 ||cydia.saurik.com.cdngc.net^
 # Tumblr
 saber.srvcs.tumblr.com 
 ||fd-fp3.wg1.b.yahoo.com^
 ||pool.tumblr.iponweb.net^
 # Snapchat
-usc.adserver.snapads.com 
+||usc.adserver.snapads.com^
 ||euw.adserver.snapads.com^
 # LA Times
 ||ad-cdn.technoratimedia.com^
 ||content.synapsys.us^
 # Vungle
 ||www.vungle.com^
-e5019.e2.akamaiedge.net 
+||e5019.e2.akamaiedge.net^
 # In-browser Cryptocurrency (Bitcoin-like) miners
 ||coin-hive.com^
 ||coinhiveproxy.com^
@@ -196,12 +196,12 @@ ctoid.net
 ||exclusive-vouchers.com^
 ||specialdeals.g5e.com^
 # Phishing
-aloseks.org 
+||aloseks.org^
 ||shortyz.co^
 ||groceriesgiftcards.com^
 ||campingforthefunofit.com^
 # OSXMokes
-cameforcameand33212.com 
+||cameforcameand33212.com^
 ||jikenick12and67.com^
 # DDE Exploit via @MalwareTechBlog
 ||startdigitaal.nl^
