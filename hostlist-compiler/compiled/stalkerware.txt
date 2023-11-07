@@ -3,7 +3,7 @@
 ! Description: Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
 ! License: CC-BY
-! Last modified: 2023-07-20T09:02:09.014Z
+! Last modified: 2023-11-07T09:02:39.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -74,6 +74,7 @@
 ||api.seniorsafetyapp.com^
 ||api.spylix.com^
 ||api.trackview.lifecircle.app^
+||api007.foxspy.com.br^
 ||apidemo.spylix.com^
 ||apispyhuman.com^
 ||apitest.awarenesstechnologies.com^
@@ -137,6 +138,8 @@
 ||copy9db.com^
 ||corn-cob.com^
 ||cp.thewispy.com^
+||cpcalendars.spymasterpro.com^
+||cpcontacts.spymasterpro.com^
 ||d-app-apk.com^
 ||d1gslyvqtipqvi.cloudfront.net^
 ||d24lo6rmha82nf.cloudfront.net^
@@ -261,6 +264,11 @@
 ||media-sync-a940.thetruthspy.com^
 ||media-sync-a941.thetruthspy.com^
 ||media-sync-a942.thetruthspy.com^
+||media-sync-a943.thetruthspy.com^
+||media-sync-a944.thetruthspy.com^
+||media-sync-a945.thetruthspy.com^
+||media-sync-a946.thetruthspy.com^
+||media-sync-a947.thetruthspy.com^
 ||media-sync.systemserviceprovider.com^
 ||media.thetruthspy.com^
 ||message-tracker-98822.firebaseio.com^

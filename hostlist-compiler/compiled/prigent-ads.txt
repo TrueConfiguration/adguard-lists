@@ -3,7 +3,7 @@
 ! Description: Prigent-Ads, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2023-11-04T09:00:41.296Z
+! Last modified: 2023-11-07T09:00:43.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Ads.txt
 !
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 03NOV23 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 06NOV23 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 # List corrections can be requested upstream at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0nlinemeds.com^
 ||1-2-money.com^
@@ -1103,6 +1103,7 @@
 ||adstech.de^
 ||adstercerclick.com.ar^
 ||adstest.weather.com^
+||adstransparency.google.com^
 ||adsupply.com^
 ||adsverse.com^
 ||adsvert.com^
@@ -2555,6 +2556,7 @@
 ||modifyeyes.com^
 ||moggattice.com^
 ||moldyicicle.com^
+||moloco.com^
 ||monetate.net^
 ||money4exit.de^
 ||moneyexpert.com^
@@ -3703,5 +3705,3 @@
 ||zumodemarketing.com^
 ||zxxds.net^
 ||zy16eoat1w.com^
-||adstransparency.google.com^
-||moloco.com^
