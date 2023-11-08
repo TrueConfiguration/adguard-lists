@@ -291,8 +291,11 @@
 ||unityads.unity3d.com^
 ! Cloudflare DNS-over-HTTPS services, abused by software vendors
 ||chrome.cloudflare-dns.com^$important
+<<<<<<< HEAD
 ||one.one.one.one^$important
 ||cloudflare-dns.com^$important
+=======
+>>>>>>> 5336a8e7e09b329489a182aef7fe1602bc4d516b
 
 ! Dangerous TLDs
 ||zip^
