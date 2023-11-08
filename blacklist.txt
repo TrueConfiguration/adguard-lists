@@ -289,6 +289,10 @@
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
 ||uca.cloud.unity3d.com^
 ||unityads.unity3d.com^
+! Cloudflare DNS-over-HTTPS services, abused by software vendors
+||chrome.cloudflare-dns.com^$important
+||one.one.one.one^$important
+||cloudflare-dns.com^$important
 
 ! Dangerous TLDs
 ||zip^
