@@ -1,0 +1,15 @@
+{
+  "name": "NextDNS Bypass Methods - Browsers",
+  "description": "",
+  "homepage": "https://github.com/nextdns/dns-bypass-methods/",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "https://github.com/nextdns/dns-bypass-methods/",
+      "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate", "RemoveComments"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}

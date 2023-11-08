@@ -1,0 +1,15 @@
+{
+  "name": "NextDNS Bypass Methods - VPN",
+  "description": "",
+  "homepage": "https://github.com/nextdns/dns-bypass-methods/",
+  "license": "MIT License",
+  "sources": [
+    {
+      "name": "https://github.com/nextdns/dns-bypass-methods/",
+      "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn",
+      "type": "hosts",
+      "transformations": ["Compress", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "RemoveEmptyLines", "InsertFinalNewLine"]
+}
