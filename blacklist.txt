@@ -290,9 +290,10 @@
 ||uca.cloud.unity3d.com^
 ||unityads.unity3d.com^
 ! Cloudflare DNS-over-HTTPS services, abused by software vendors
-||chrome.cloudflare-dns.com^$important
-||one.one.one.one^$important
-||cloudflare-dns.com^$important
+||chrome.cloudflare-dns.com^
+||one.one.one.one^
+||cloudflare-dns.com^
+||dns.google^
 
 ! Dangerous TLDs
 ||zip^
