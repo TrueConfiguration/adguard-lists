@@ -18,6 +18,8 @@
 @@/^console-telemetry\.\w{2}-\w+-\d{1}\.oci\.oraclecloud\.com$/$important
 ! Canonical uses subdomains to point to mirrors in Ubuntu apt repositories
 @@/^(.+\.)?(archive|security|ports)\.ubuntu\.com$/$important
+! Yahoo News
+@@/^me-ycpi-cf(\.|-)(news|www)\.g\d{2}\.yahoodns\.net/$important
 
 ! Commonly whitelisted domains in Pi-Hole discourse, adapted. Not all domains listed in the post will be here, since its tailored to my needs
 ! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/
