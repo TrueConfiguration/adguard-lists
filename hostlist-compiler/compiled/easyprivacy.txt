@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2023-11-14T09:00:18.307Z
+! Last modified: 2023-11-16T09:00:17.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13NOV23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 15NOV23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
 # List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
@@ -6533,6 +6533,7 @@
 ||events.prd.api.max.com^
 ||events.privy.com^
 ||events-prod.autolist.com^
+||eventsproxy.gargantuan.futureplc.com^
 ||events.realgravity.com^
 ||events.reclamefolder.nl^
 ||events.reddit.com^
@@ -9069,7 +9070,6 @@
 ||link.marketing.churchomeglobal.org^
 ||link.mbtihell.com^
 ||link.medibuddy.app^
-||link.medium.com^
 ||link.metronaut.app^
 ||link.meumulti.com.br^
 ||link-mind.alan.com^
@@ -12642,6 +12642,7 @@
 ||racemanager-app.sapsailing.com^
 ||rac.ruutu.fi^
 ||radar.imgsmail.ru^
+||radiateprose.com^
 ||radiometer.actonservice.com^
 ||railwayrainstorm.com^
 ||railwayreason.com^
@@ -20550,6 +20551,7 @@
 ||verizon-branch.locationlabs.com^
 ||verseballs.com^
 ||vfd2dyn.vodafone.de^
+||vfghe.com^
 ||vfgte.com^
 ||vfmahn.slevomat.cz^
 ||vfo4.carrefour-banque.fr^
