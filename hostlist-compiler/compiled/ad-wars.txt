@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/jdlingyu/ad-wars/
 ! License: MIT License
-! Last modified: 2023-07-05T12:22:19.335Z
+! Last modified: 2023-11-17T09:00:04.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1125,7 +1125,6 @@
 ||view.mediav.com^
 ||xd.mediav.com^
 ||c.bing.com^
-||c.msn.com^
 ||otf.msn.com^
 ||umeng.com^
 ||alog.umengcloud.com^
