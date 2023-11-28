@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-11-22T09:00:46.204Z
+! Last modified: 2023-11-28T09:00:46.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10983,6 +10983,7 @@
 ||statamic.usefathom.com^
 ||i.usefathom.com^
 ||stats.usefathom.com^
+||cdn-eu.usefathom.com^
 ||www.wisepops.com^
 ||app.wisepops.com^
 ||ping.wisepops.com^
@@ -11618,3 +11619,5 @@
 ||tracker.cloud.tyk.io^
 ||clicks.panerabread.com^
 ||movableink.com^
+||clicks.going.com^
+||sniperl.ink^
