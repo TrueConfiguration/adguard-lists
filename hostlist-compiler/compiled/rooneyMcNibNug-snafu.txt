@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-11-29T09:00:47.326Z
+! Last modified: 2023-12-01T09:00:50.632Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11624,3 +11624,39 @@
 ||track.hello.lyssna.com^
 ||ortto.com^
 ||ortto.app^
+||analytics-airflow.instructure.com^
+||analytics.instructure.com^
+||tracking.cengage.com^
+||webservices.marketing.cengage.com^
+||analytics.qap.ng.cengage.com^
+||trackit.cengage.com^
+||galeanalytics.cloud.cengage.com^
+||analytics.ng.cengage.com^
+||www.admin.compose.cengage.com^
+||emarketing.cengage.com^
+||analytics.stage.ng.cengage.com^
+||analytics.qad-ng.cengage.com^
+||systemmeasures.life^
+||xyzcreators.xyz^
+||trackmaster.cc^
+||protectsystemtools.life^
+||securitypatch.life^
+||real-time-system-monitoring.life^
+||threatdetectorhub.life^
+||threatdetectorhub.online^
+||vulnerabilityassessments.life^
+||strike-it-lucky.space^
+||golden-opportunity.xyz^
+||stroke-of-luck.xyz^
+||blessed-with-luck.space^
+||system-scan-tool.space^
+||system-security-scan.buzz^
+||system-security-scan.net^
+||system-scan-tool.online^
+||trk6.kokamedia.com^
+||tracklinker.space^
+||trackmenow.life^
+||trackify.world^
+||trackinghub.info^
+||trkmyclk.xyz^
+||trk-server.xyz^
