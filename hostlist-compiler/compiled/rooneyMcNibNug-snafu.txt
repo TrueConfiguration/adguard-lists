@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2023-12-01T09:00:50.632Z
+! Last modified: 2023-12-12T09:00:46.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11660,3 +11660,15 @@
 ||trackinghub.info^
 ||trkmyclk.xyz^
 ||trk-server.xyz^
+||marketing-assets.typeform.com^
+||marketing892162.typeform.com^
+||analytics.agoda.tms.harver.com^
+||insights.harver.com^
+||insights.ocrolus.com^
+||analytics-center.veritone.com^
+||social.veritone.com^
+||engage.veritone.com^
+||surveillance.veritone.com^
+||collections.us-1.veritone.com^
+||beacon.riskified.com^
+||apicdn.riskified.com^
