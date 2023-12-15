@@ -3,7 +3,7 @@
 ! Description: First-party trackers host list
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2023-10-27T09:00:24.021Z
+! Last modified: 2023-12-15T09:00:20.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -642,6 +642,7 @@
 ||bi.avalere.com^
 ||bidder.7xbid.com^
 ||bidder.am5.vip.prod.criteo.com^
+||bidder.as.criteo.com^
 ||bidder.criteo.com^
 ||bidder.da1.vip.prod.criteo.com^
 ||bidder.fr3.vip.prod.criteo.com^
@@ -3540,6 +3541,7 @@
 ||greenweez.eulerian.net^
 ||greenweez-uk.eulerian.net^
 ||greetz01.wt-eu02.net^
+||grid.bidswitch.net^
 ||groupe-fsc-com.eulerian.net^
 ||groupevents.sixflags.com^
 ||groupsales.sixflags.com^
