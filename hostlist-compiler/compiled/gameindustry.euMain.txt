@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2023-12-24T09:00:17.734Z
+! Last modified: 2024-01-01T09:00:19.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -334,14 +334,16 @@
 # Bada Technology Co.
 # Macrorit® Data Wiper
 ||macrorit.com^
-# Balena
+# Balena Ltd.
 # Balena Etcher Portable
-# Ip/s blockieren:
-# 104.18.12.102
 # 104.18.13.102
+# 104.18.12.102
+# 172.67.186.78
+# 104.21.59.251
 # 34.120.195.249
+# 142.250.188.234
 ||data.balena-cloud.com^
-||249.195.120.34.bc.googleusercontent.com^
+||efp.balena.io^
 # Bandicam Company
 # Bandicam
 # Während dem ersten Programmstart aufgerufen als auch mit Klick auf "Bandicut"
@@ -395,16 +397,14 @@
 # Capsa Portable Network Analyzer
 ||secure.colasoft.com^
 ||www.colasoft.com^
-# Corel Corporation
-# WinZip
-||api.winzip.com^
-||update.winzip.com^
-||store.winzip.com^
-||www.winzip.com^
+||www.installportal.com^
 ||ipm.corel.com^
+||cdn.amplitude.com^
+||api.amplitude.com^
+||registration.winzip.com^
+||update.winzip.com^
+||www.winzip.com^
 ||www.zipshare.com^
-||www.corelstore.com^
-||dev.visualwebsiteoptimizer.com^
 # Cyberlink
 # Cyberlink Media Suite PowerDVD usw
 # DNA Cyberlink übernimmt Versand von Logs während der Installation und dem Betrieb... Sprache, Version, Produkt, Versionstypus, Buildnummer, Installer
@@ -463,6 +463,9 @@
 ||easeus.net.pl^
 ||br.easeus.com^
 ||es.easeus.com^
+||cdn-cookieyes.com^
+||directory.cookieyes.com^
+||event-log-producer-alb-1487800978.eu-west-1.elb.amazonaws.com^
 # f.lux Software LLC
 # f.lux
 # 216.176.200.22
@@ -473,15 +476,12 @@
 # 64.233.165.95
 # Geodaten sind mit Google Analytics verknüpft - Quelle - https://justgetflux.com/winmap.html?geo=Nutzereingabe und https://justgetflux.com/geo
 ||justgetflux.com^
-# FinalWire Ltd.
-# Aida64 | erneut getestet 05.09.2019
-# IP Adressensammeln scheint abgestellt zu sein
-# Affiliatelinks, Facebook, Addthis und Getclicky auf Updateseite
-||update.aida64.com^
-||static.getclicky.com^
-||in.getclicky.com^
-||s7.addthis.com^
-||connect.facebook.net^
+||tpc.googlesyndication.com^
+||www.googletagservices.com^
+||pagead2.googlesyndication.com^
+||track.mailerlite.com^
+||pixel.barion.com^
+||t.paypal.com^
 # Flexense Ltd.
 # SysGauge
 ||www.sysgauge.com^
@@ -508,17 +508,19 @@
 ||dragon-linode.fxsound.com^
 ||static.hotjar.com^
 ||script.hotjar.com^
+||connect.facebook.net^
 ||vars.hotjar.com^
 ||vc.hotjar.io^
 # Gavrila Martau
 # Total Uninstall
-# 50.28.102.160
+# 64.91.254.118
 ||total-uninstall.com^
-# geek Software GmbH
-# PDF24 Creator
+||analytics.pdf24.org^
+||cdn.doubleverify.com^
 ||creator.pdf24.org^
-||free-update.pdf24.org^
-||stx.pdf24.org^
+||pagead-googlehosted.l.google.com^
+||rtb0.doubleverify.com^
+||tpsc-ew1.doubleverify.com^
 # GiliSoft International LLC
 # GiliSoft Movie DVD Creator
 # 208.113.197.77
@@ -554,6 +556,7 @@
 # Hasleo Software
 # BitLocker Anywhere
 ||www.easyuefi.com^
+||s7.addthis.com^
 # Ip/s blockieren:
 # 108.59.8.244
 ||data.icecreamapps.com^
@@ -603,6 +606,7 @@
 # Seperate Deinstallation von iSkysoft Passport notwendig
 ||iskysoft.com^
 ||gtm-cn-v64163wlk09.gtm-a2b4.com^
+||matomo.jam-software.de^
 # Joue Quroi
 # Spoof Timezone
 # Browseraddon zur Verschleierung der Zeitzone, Daten über ip-Api abgeglichen
@@ -659,10 +663,8 @@
 # 216.58.212.130
 # 216.58.212.130
 ||e2.extreme-dm.com^
-||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||partner.googleadservices.com^
-||tpc.googlesyndication.com^
 # Tracker nach Anwenderaktion geladen z.b. Software kaufen
 # 142.250.185.142
 # 142.250.185.194
@@ -881,6 +883,7 @@
 ||labs.upsellit.com^
 ||www.upsellit.com^
 ||api.mixpanel.com^
+||dev.visualwebsiteoptimizer.com^
 ||seal.digicert.com^
 # Mit dem Verbot Nutzerdaten zu senden, wird werden weiterhin folgende Adressen kontaktiert
 # CCleaner Version 5.55.7108 und höher
@@ -914,33 +917,40 @@
 # 23.62.98.72
 # 2.16.106.187
 # 5.62.38.21
+# CCleaner Version 6.19.10858 und höher
+# Ip/s blockieren:
+# 2.21.22.155
+# 34.117.233.233
+# 104.75.89.48
+# 34.149.149.62
+# 34.159.85.52
+# 95.100.59.56
+# 34.149.202.126
+# 104.16.243.229
+# 104.18.32.137
+||analytics.avcdn.net^
+||license-api.ccleaner.com^
+||alpha-crap.ff.avast.com^
+||driver-updater.ff.avast.com^
+||geolocation.onetrust.com^
 # Speccy
-# IPerfassung zu jedem Produktstart
-# 23.205.228.147
-# 100.24.83.36
-# 3.208.140.133
-# 23.205.228.147
-# 23.14.230.16
-# 13.90.213.204
-# 2.23.67.122
-# 2.19.244.90
-# 172.217.18.8
-# 142.250.184.206
-# 216.239.32.36
-# 65.9.66.34
-# 108.157.4.122
-# 108.157.4.102
-# 13.226.158.111
-# 2.19.245.134
-# 70.42.32.95
-# 13.107.42.14
-# 54.77.73.238
-# 34.96.102.137
-# 66.102.1.154
+# IPv4: https://www.gameindustry.eu/en/search/?suchbegriff=Speccy
 ||speccy.piriform.com^
-||amplify.outbrain.com^
+||www.mczbf.com^
 ||tr.outbrain.com^
+||wave.outbrain.com^
+||amplify.outbrain.com^
+||static-cdn.hotjar.com^
+||static.ads-twitter.com^
+||snap.licdn.com^
+||s1.pir.fm^
+||edge.gycpi.b.yahoodns.net^
+||dcjdc5qmbbux7.cloudfront.net^
 ||c5.adalyser.com^
+||peso-1422535133.eu-west-1.elb.amazonaws.com^
+||cdn-production.ccleaner.com^
+||cdn-uat.ccleaner.com^
+||mstatic.ccleaner.com^
 # Plex
 ||analytics.plex.tv^
 # PowerISO
@@ -1579,6 +1589,7 @@
 ||ib.adnxs.com^
 ||ib.anycast.adnxs.com^
 ||ib.sin1.geoadnxs.com^
+||lax1-ib.adnxs.com^
 ||lib.adnxs.com^
 ||m.adnxs.com^
 ||nym1-ib.adnxs.com^
@@ -2038,8 +2049,6 @@
 ||v-wo.aminopay.net^
 # Amplitude.com
 # Mehr Info unter dem Firmeneintrag zu Amplitude, Inc.
-||api.amplitude.com^
-||cdn.amplitude.com^
 ||ec2-52-26-54-44.us-west-2.compute.amazonaws.com^
 # AMP Project mit Verkettung von Prebid Scripts
 # Seiten wie z.B. Chefkoch.de nutzen diesen Dienst als Basis
@@ -2049,6 +2058,7 @@
 ||cdn.ampproject.org^
 ||d-11552533261597603108.ampproject.net^
 ||d-1167938332526601553.ampproject.net^
+||d-11747849713423903080.ampproject.net^
 ||d-12078555161580893360.ampproject.net^
 ||d-130564334643117782.ampproject.net^
 ||d-1390922653307727793.ampproject.net^
@@ -2435,6 +2445,7 @@
 ||biddr.brealtime.com.cdn.cloudflare.net^
 ||cdn.bncloudfl.com.cdn.cloudflare.net^
 ||cdn.lib.getjad.io.cdn.cloudflare.net^
+||cloudflareinsights.com^
 ||cookie.brealtime.com.cdn.cloudflare.net^
 ||launchreliantcleaver.com^
 ||p.ad.gt.cdn.cloudflare.net^
@@ -2443,7 +2454,6 @@
 ||report-uri.cloudflare.com^
 ||sparrow.cloudflare.com^
 ||ssum.casalemedia.com.cdn.cloudflare.net^
-||static.cloudflareinsights.com^
 ||static4.viralize.tv.cdn.cloudflare.net^
 ||tls-ech-experiment-c.cloudflareresearch.com^
 ||tls-ech-experiment.cloudflareresearch.com^
@@ -2647,15 +2657,6 @@
 ||id.crwdcntrl.net^
 ||sync.crwdcntrl.net^
 ||tags.crwdcntrl.net^
-# cxense.com | Personalisierung
-||api.cxense.com^
-||cdn.cxense.com^
-||comcluster.cxense.com^
-||id.cxense.com^
-||p1cluster.cxense.com^
-||rscdn.cxense.com^
-||scdn.cxense.com^
-||scomcluster.cxense.com^
 # Cxo.name
 ||live.ec2.cxo.name^
 # Cyonix
@@ -2716,9 +2717,7 @@
 # Dmpcounter.com
 ||cdn.dmpcounter.com^
 # Doubleverify.com
-||cdn.doubleverify.com^
 ||cdn3.doubleverify.com^
-||rtb0.doubleverify.com^
 ||rtbc-eu3.doubleverify.com^
 ||tps.doubleverify.com^
 ||tpsc-ae1.doubleverify.com^
@@ -2787,6 +2786,7 @@
 ||tpsc-eu3.doubleverify.com^
 ||tpsc-frc.doubleverify.com^
 ||tpsc-nyc.doubleverify.com^
+||tpsc-uw1.doubleverify.com^
 ||vast.doubleverify.com^
 ||vpaid.doubleverify.com^
 # Dotomi
@@ -3301,6 +3301,8 @@
 ||adamstoyota.gcdn.co^
 ||cbcmusic.gcdn.co^
 # Getclicky.com | Echtzeit Webanalytics
+||static.getclicky.com^
+||in.getclicky.com^
 # Getfeedback.com
 ||assets.cdn.getfeedback.com^
 ||js.getfeedback.com^
@@ -3442,7 +3444,6 @@
 ||new.hotjar.com^
 ||outside.hotjar.com^
 ||sentry.hotjar.com^
-||static-cdn.hotjar.com^
 ||status.hotjar.com^
 ||suggest.hotjar.com^
 ||surveystats.hotjar.io^
@@ -3602,6 +3603,7 @@
 ||data-044c671387.desired.de^
 ||data-0be38fdd72.eatsmarter.de^
 ||data-16d7ec9a30.wn.de^
+||data-162d89b6ce.haufe.de^
 ||data-17c7ec5f16.giga.de^
 ||data-1865901ce0.schoener-wohnen.de^
 ||data-195efe600e.haus.de^
@@ -4850,7 +4852,6 @@
 ||www.sandbox.paypal.com^
 ||slc-b-origin-www-2.paypal.com^
 ||t.myvisualiq.net^
-||t.paypal.com^
 # Neben eigenen Erfassungsdiensten sind bei PayPal noch andere Dinge zu finden
 ||nexus.ensighten.com^
 ||smartlock.google.com^
@@ -4905,6 +4906,7 @@
 ||buy-eu.piano.io^
 ||c2-eu.piano.io^
 ||c2.piano.io^
+||cdn-eu.piano.io^
 ||cdn.p-n.io^
 ||cdn.piano.io^
 ||code.piano.io^
@@ -4912,6 +4914,15 @@
 ||experience-eu.piano.io^
 ||marketing.piano.io^
 ||www.piano.io^
+# Piano.io | cxense.com
+||api.cxense.com^
+||cdn.cxense.com^
+||comcluster.cxense.com^
+||id.cxense.com^
+||p1cluster.cxense.com^
+||rscdn.cxense.com^
+||scdn.cxense.com^
+||scomcluster.cxense.com^
 # Pingdom | Webseitenverfügbarkeit und Leistung
 ||rum-static.pingdom.net^
 # Ppippio.com | Monetarisierungsdienst
@@ -6682,15 +6693,12 @@
 # 34.120.28.121
 # 34.95.108.180
 ||aggregator.service.usercentrics.eu^
-||api.usercentrics.eu^
-||app.usercentrics.eu^
+||analytics.usercentrics.com^
 ||app.eu.usercentrics.eu^
 ||config.eu.usercentrics.eu^
-||consent-api.service.consent.eu1.usercentrics.eu^
 ||graphql.usercentrics.eu^
 ||privacy-proxy.usercentrics.eu^
 ||sdp.eu.usercentrics.eu^
-||uct.service.usercentrics.eu^
 ||uct.eu.usercentrics.eu^
 # Userneeds
 ||userneeds.com^
@@ -7434,9 +7442,17 @@
 # Bunte.de
 ||burdastu.tag.tagtool.de^
 ||oat87gfrog.execute-api.eu-central-1.amazonaws.com^
-# Businessinsider.de
+# Businessinsider.com, de, es, jp, mx, nl
+||3aba5292-ba75-422b-8715-bd21146f7836.prmutv.co^
+||867-slg-901.mktorest.com^
 ||analytics.businessinsider.com^
+||businessinsider.edge.permutive.app^
+||geoip.businessinsider.com^
+||i.businessinsider.com^
+||insider-app.onelink.me^
 ||p.d.1emn.com^
+||permutive.businessinsider.com^
+||staging.bifrost-bfp.pages.dev^
 # 172.217.21.206
 ||contributor.google.com^
 # Buzzfeed.com
@@ -7585,6 +7601,8 @@
 ||screencapturev2-cdn.kampyle.com^
 ||screencapture.kampyle.com^
 # Erwin Müller de & com
+||app.usercentrics.eu^
+||api.usercentrics.eu^
 ||aa.erwinmueller.com^
 ||matomo.erwinmueller.com^
 ||a.erwinmueller.com^
@@ -7593,7 +7611,6 @@
 ||etoro-logs-api-staging.cloudapp.net^
 ||etoro-px.s3-eu-west-1.amazonaws.com^
 ||etorologsapi.etoro.com^
-||geolocation.onetrust.com^
 ||go.etoro.com^
 ||ipme.etorostatic.com^
 ||maintenance.etoro.com^
@@ -9082,11 +9099,12 @@
 # Focas.jp
 ||pc-adroute.focas.jp^
 # Fout.jp
-||sync.fout.jp^
+||ad.rfp.fout.jp^
 ||cnt.fout.jp^
 ||js.fout.jp^
 ||js.rfp.fout.jp^
-||ad.rfp.fout.jp^
+||sync.fout.jp^
+||sync.rfp.fout.jp^
 # Gacraft.jp
 ||gacraft.jp^
 # Geniee, Inc.
@@ -9674,6 +9692,7 @@
 ||image-proxy-dot-veeseo-rce.appspot.com^
 ||page-view-ingestion.appspot.com^
 ||quick-yen-88111.appspot.com^
+||walkthrough-tool.appspot.com^
 # Google Blogspot
 ||coinnupdate.blogspot.com^
 ||photographybygeorgeloghry.blogspot.com^
@@ -9740,6 +9759,8 @@
 ||firebaselogging.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||tveweb-appsvcs-aetnd-com-8ff57.firebaseapp.com^
+||walkthrough-tool.firebaseapp.com^
+||walkthrough-tool.firebaseio.com^
 # Google GMail
 # 172.217.22.5
 ||mail-ads.google.com^
@@ -9770,7 +9791,6 @@
 ||ade.googlesyndication.com^
 ||afs.googlesyndication.com^
 ||p1cluster.cxense.comeframe.googlesyndication.com^
-||pagead-googlehosted.l.google.com^
 ||video-ad-stats.googlesyndication.com^
 ||000b22b8527b5827045d761b4e031f5e.safeframe.googlesyndication.com^
 ||01cf40c6ed1844b7aa9d10f79d62fcbd.safeframe.googesyndication.com^
@@ -10087,9 +10107,9 @@
 # Google Tag Manager
 # 172.217.16.136
 # 216.58.209.200
+||lax31s01-in-f8.1e100.net^
 ||tagmanager.google.com^
 # Google Tag Services
-||www.googletagservices.com^
 # Google Talk
 # 74.125.206.188
 ||mobile-gtalk.l.google.com^
@@ -10165,6 +10185,7 @@
 ||aax-us-pdx.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
 ||c.amazon-adsystem.com^
+||c.aps.amazon-adsystem.com^
 ||cdn-d.amazon-adsystem.com^
 ||cloudfront-labs.amazonaws.com^
 ||completion.amazon.co.jp^
@@ -10824,6 +10845,13 @@
 ||dmd.metaservices.microsoft.com.akadns.net^
 ||dmd.metaservices.microsoft.com^
 ||schemas.microsoft.com^
+||weu016-breeziest-in.cloudapp.net^
+||pcmanagerconfig.azurewebsites.net^
+||apim-dev-cn-pcm-ms-01.azure-api.cn^
+||feedbackstorage.blob.core.chinacloudapi.cn^
+||pcmactivity.azurewebsites.net^
+||pcmanager.microsoft.com^
+||eastus-8.in.applicationinsights.azure.com^
 # Microsoft Photos, Microsoft YourPhone
 # 13.107.5.88
 # MRT.exe | Microsoft Removal Tool
@@ -11455,7 +11483,6 @@
 ||in.visitors.live^
 ||pop-ech2-alpha.mix.linkedin.com^
 ||pop-esv5.mix.linkedin.com^
-||snap.licdn.com^
 ||www.linkedin.com^
 ||media-lcdn.licdn.com^
 ||pop-esy1.perf.linkedin.com^
@@ -11492,7 +11519,6 @@
 ||cdn.syndication.twimg.com^
 ||widgets.twimg.com^
 # Ads-twitter.com
-||static.ads-twitter.com^
 ||syndication.twitter.com^
 # Twitch
 ||client-event-reporter.twitch.tv^
@@ -12119,9 +12145,14 @@
 ||cradver.livejasmin.com^
 ||crcom.livejasmin.com^
 ||creatives.livejasmin.com^
+||crmt.livejasmin.com^
+||crmtt.livejasmin.com^
 ||crpop.livejasmin.com^
 ||crpt.livejasmin.com^
 ||crt.livejasmin.com^
+||pt-static2.jsmsat.com^
+||pt-static4.jsmsat.com^
+||pt-static5.jsmsat.com^
 # Kashtanka.in
 ||cdn.kashtanka.in^
 # Nsimg & MMCams
@@ -12296,6 +12327,8 @@
 ||yresumeform.autos^
 # BE
 ||gw.geoedge.be^
+# BI
+||events.newsroom.bi^
 # BID
 ||all.fingersleep.bid^
 ||clearload.bid^
@@ -12772,6 +12805,7 @@
 ||lightsfirmserious.de^
 ||lp.swstatic.de^
 ||lto-fallback.connectaserver.de^
+||lusiana1-2.birdads.de^
 ||lx57.spieletips.de^
 ||m.dr-datenschutz.de^
 ||mafo1.myaudience.de^
@@ -12889,6 +12923,7 @@
 ||studybeautifuls.de^
 ||studyfeelingway.de^
 ||systempartcasecountry.de^
+||t.cpdsrv.de^
 ||t.justspices.de^
 ||t.kontextr.funke-next-level.de^
 ||t.lto.connectaserver.de^
@@ -12941,6 +12976,7 @@
 ||worrywaterquestion.de^
 ||ww3.trackingq.de^
 ||wwa.wipe.de^
+||wwi.haufe.de^
 ||www.cbd-vital.de^
 ||www.conversion-boost.de^
 ||www.countok.de^
@@ -13126,6 +13162,7 @@
 ||efully.info^
 ||elanatality.info^
 ||electrongiloku.info^
+||eoewn.jhldtogerghottulering.info^
 ||epz35.kmodukuleqasfo.info^
 ||erversarycompa.info^
 ||etronotwiltons.info^
@@ -13846,6 +13883,7 @@
 ||cagothie.net^
 ||caiteesh.net^
 ||cameesse.net^
+||cchbdata.net^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn.admixer.net^
 ||cdn.adpicker.net^
@@ -13910,6 +13948,7 @@
 ||eu.doctorpost.net^
 ||event.yoochoose.net^
 ||eventcollector.azureedge.net^
+||events.api.secureserver.net^
 ||explorads.fs.ak-is2.net^
 ||expresvpn-private-analytics.net^
 ||ext-lb-aws-prod.ccgateway.net^
@@ -14059,6 +14098,7 @@
 ||rt.udmserve.net^
 ||rvzqo.iadlesdates.net^
 ||s.ad.smaato.net^
+||s.ccsyncuuid.net^
 ||s.d3sv.net^
 ||s.dblks.net^
 ||s.ml-attr.com.pxlsrv.net^
@@ -14305,6 +14345,7 @@
 ||rldwideorgani.org^
 ||s1.mediaad.org^
 ||securetracker.org^
+||sentry.archive.org^
 ||setitoefanyor.org^
 ||sharedid.org^
 ||st.tubecup.org^
@@ -14385,6 +14426,7 @@
 ||skkybrought.pro^
 ||smart-masi.pro^
 ||spot-01.trackingpro.pro^
+||spyglass.reklamko.pro^
 ||surfe.pro^
 ||thearcitonseveng.pro^
 ||trackingflow.pro^
@@ -14572,6 +14614,9 @@
 ||websitebanger.store^
 # SU
 ||angprobinsyano.su^
+||bil.su^
+||hah.su^
+||vop.su^
 # TECH
 ||a.videohead.tech^
 ||cdn.3647.tech^
@@ -15045,10 +15090,6 @@
 # Steganos Password Manager 18
 # Während der Installation inkl. Webseitenaufruf
 ||steganos.com^
-# Cookies und Kekse
-# Zentralisierte Cookie Hinweise, Cookie Consent, Nagscreens
-# Consentmanager.net
-||cdn.consentmanager.net^
 ||delivery.consentmanager.net^
 # Consensu.org
 ||admiral.mgr.consensu.org^
@@ -15066,8 +15107,6 @@
 ||vendorlist.consensu.org^
 ||consentcdn.cookiebot.com^
 # Cookieyes
-||cdn-cookieyes.com^
-||directory.cookieyes.com^
 ||log.cookieyes.com^
 # Cookiefirst
 ||consent.cookiefirst.com^
@@ -15541,6 +15580,7 @@
 ||analyse.bcovery.com^
 ||analytics-eu.clickdimensions.com^
 ||analytics-udg.netdna-ssl.com^
+||analytics.aklamio.com^
 ||analytics.avoury.com^
 ||analytics.binaryfortress.com^
 ||analytics.blue^
@@ -15588,6 +15628,7 @@
 ||api.adgem.com^
 ||api.adsttc.com^
 ||api.airfind.com^
+||api.aklamio.com^
 ||api.apiembed.com^
 ||api.bam-x.com^
 ||api.clickaine.com^
@@ -15604,7 +15645,6 @@
 ||api.gitbook.com^
 ||api.ip.sb^
 ||api.iperceptions.com^
-||api.na-backend.odysee.com^
 ||api.promptsgod.com^
 ||api.pushnami.com^
 ||api.radar.cloudflare.com^
@@ -16181,7 +16221,6 @@
 ||crm.propspace.com^
 ||crm.smcusa.com^
 ||crmapi.techjockey.com^
-||crmt.livejasmin.com^
 ||croakflabbyconsume.com^
 ||crowdsignal.com^
 ||crowdsignal.wordpress.com^
@@ -16621,6 +16660,8 @@
 ||gae2-spclient.spotify.com^
 ||gaietyastonished.com^
 ||galleryn0.awemdia.com^
+||galleryn1.vcmdiawe.com^
+||galleryn3.vcmdiawe.com^
 ||game1.tikbblove.com^
 ||gameengagedthen.com^
 ||gamesfromheaven.com^
@@ -16634,6 +16675,7 @@
 ||gdmconvtrck.com^
 ||gecauuksehin.com^
 ||gedspecificano.com^
+||geekestoot.com^
 ||gejute.com^
 ||generic-2.lb.lm5v.com^
 ||genieedmp.com^
@@ -16714,6 +16756,7 @@
 ||gog-preprod.com^
 ||gogglerespite.com^
 ||google.vrthcobj.com^
+||goomaphy.com^
 ||goosebomb.com^
 ||gopusher1.com^
 ||gossipbuzz.com^
@@ -16743,6 +16786,7 @@
 ||gussame.com^
 ||gustdeficitwry.com^
 ||gustygrandmother.com^
+||gyzlozas.com^
 ||gz06x5tqlj.com^
 ||h-ay.com^
 ||h.waudit.cz^
@@ -16827,6 +16871,7 @@
 ||i.amoad.com^
 ||i.bimbolive.com^
 ||i.bngprl.com^
+||i.cdnfimgs.com^
 ||i.gyazo.com^
 ||i.imedia.cz^
 ||i.imstks.com^
@@ -16841,7 +16886,6 @@
 ||icilytired.com^
 ||iclickcdn.com^
 ||ico.minently.com^
-||icofx.ro^
 ||icosiomewpgnmdn.com^
 ||icycorrection.com^
 ||id.geistm.com^
@@ -17013,6 +17057,7 @@
 ||k.clarity.ms^
 ||k.r66net.com^
 ||k77hof1z7k.com^
+||kadpkyolwc.com^
 ||kampaaniad.optibet.ee^
 ||kapotlyka.com^
 ||katie.trktnc.com^
@@ -17101,6 +17146,7 @@
 ||llahnch259.com^
 ||lmbf88.hypertrackeraff.com^
 ||lmn-pou-win.com^
+||lmukhycudhw.com^
 ||ln.gamesrevenue.com^
 ||load.fomo.com^
 ||load.jsecoin.com^
@@ -17255,6 +17301,7 @@
 ||milestonequakingashes.com^
 ||millapplicant.com^
 ||mimxdsqiativb.com^
+||mindlessslogan.com^
 ||mistletoecaliberdecency.com^
 ||misunderstandlosingaffluent.com^
 ||mixandfun.com^
@@ -17544,6 +17591,7 @@
 ||pf1.solvay.com^
 ||pghbl1.pubgalaxy.com^
 ||pgw.glbpay.com^
+||pgwcrtobrdjx.com^
 ||phallicuncut.com^
 ||pheasantcardboardcohort.com^
 ||phgeulerian.t2omedia.com^
@@ -17679,7 +17727,6 @@
 ||pseepsie.com^
 ||psomywhyni.com^
 ||psp.pushnami.com^
-||pt-static2.jsmsat.com^
 ||pt-static2.ptlwmstc.com^
 ||pt-static2.wmbbsat.com^
 ||pt-static3.jsmsat.com^
@@ -17835,6 +17882,7 @@
 ||rotumal.com^
 ||rp.gwallet.com^
 ||rsafrwd.com^
+||rt.prnewswire.com^
 ||rtb.adgrx.com^
 ||rtb.adpone.com^
 ||rtb.adstanding.com^
@@ -17873,6 +17921,7 @@
 ||s.viibest.com^
 ||s.viijan.com^
 ||s.viixie.com^
+||s.vivacocc.com^
 ||s.zlink6.com^
 ||s0ftwwar3s.com^
 ||s1-adfly.com^
@@ -18138,6 +18187,7 @@
 ||storage.cloud.kargo.com^
 ||storage.multstorage.com^
 ||stovecharacterize.com^
+||stray228.com^
 ||stream.playbuzz.com^
 ||stretchsquirrel.com^
 ||studabsently.com^
@@ -18374,7 +18424,6 @@
 ||track.fungiers.com^
 ||track.klickly.com^
 ||track.lt^
-||track.mailerlite.com^
 ||track.pricespider.com^
 ||track.trkpros.com^
 ||track.ultravpn.com^
@@ -18600,6 +18649,7 @@
 ||vitals.vercel-insights.com^
 ||vkezpstgtjxym.com^
 ||vl.hookersecus.com^
+||vlkkwxncamnq.com^
 ||vn.mmvpay.com^
 ||vod.addevweb.com^
 ||voltskegscurate.com^
@@ -18833,7 +18883,6 @@
 ||www.maplejuddy.com^
 ||www.markmypath.com^
 ||www.marpalsac.com.pe^
-||www.mczbf.com^
 ||www.megakickass.com^
 ||www.mintdevtest.com^
 ||www.movcpm.com^
@@ -23663,6 +23712,7 @@
 # Ip/s blockieren:
 # 47.93.244.219
 ||94d63cbf92082237b86267ffd4cacc64.cloudfront.net^
+||249.195.120.34.bc.googleusercontent.com^
 # Sparpweed
 # 18.185.111.141
 ||ec2-18-185-111-141.eu-central-1.compute.amazonaws.com^
