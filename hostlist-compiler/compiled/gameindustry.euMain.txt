@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-01-01T09:00:19.208Z
+! Last modified: 2024-01-12T09:00:18.468Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3473,7 +3473,6 @@
 ||js-eu1.hubspotfeedback.com^
 ||js.hs-analytics.net^
 ||js.hs-banner.com^
-||js.hs-scripts.com^
 ||js.hsadspixel.net^
 ||js.hscollectedforms.net^
 ||js.hscta.net^
@@ -3481,7 +3480,6 @@
 ||js.hubspot.com^
 ||no-cache.hubspot.com^
 ||perf-na1.hsforms.com^
-||static.hsappstatic.net^
 ||track-eu1.hubspot.com^
 ||track.hubspot.com^
 ||wtcfns.hubspot.com^
@@ -7481,7 +7479,6 @@
 # Bitte Eintrag von "SchneeVonMorgen" beachten
 ||ad-js.chip.de^
 ||adtm.chip.de^
-||cmp.chip.de^
 ||data-6314dfb442.chip.de^
 ||fsm1.chip.de^
 ||mms.chip.de^
@@ -7555,7 +7552,6 @@
 ||static.weekli.systems^
 ||cdns.symplr.de^
 ||cockpit.symplr.de^
-||cdn.privacy-mgmt.com^
 # Disney.com & International
 ||analytics.disneyinternational.com^
 ||a2.disneyinternational.com^
@@ -8570,6 +8566,7 @@
 ||api.adserver.vrizead.com^
 ||api.primecaster.net^
 ||api.relaido.jp^
+||apiwmda.58.com.cn^
 ||appollo.jp^
 ||asp.m-live.jp^
 ||asset.f-tra.com^
@@ -8584,6 +8581,7 @@
 ||blackhole.m.jd.com^
 ||bn.dxlive.com^
 ||c.tgknt.com^
+||ca.zol.com.cn^
 ||cdn.o2u.jp^
 ||cdn.smartnews-ads.com^
 ||cdn.webpush.jp^
@@ -8678,6 +8676,9 @@
 ||panel.interactive-circle.jp^
 ||ppv-cloud.tokyo^
 ||proparm.jp^
+||pv.zol.com.cn^
+||pvm.zol.com.cn^
+||pvnpc.zol.com.cn^
 ||px.a8.net^
 ||rankc1.apserver.net^
 ||rat.rakuten.co.jpflash-api-eq.pub.jpe2.rpaas.net^
@@ -8700,6 +8701,7 @@
 ||ssl.webtracker.jp^
 ||ssp.meba.kr^
 ||ssp.realclick.co.kr^
+||stat.zol.com.cn^
 ||static.karte.io^
 ||sync-tapi.admatrix.jp^
 ||sync.dsp.reemo-ad.jp^
@@ -8734,6 +8736,7 @@
 ||xa8mbv.com^
 ||yurukyaragurume.net^
 ||z6b9bu.com^
+||zdw.w8.com.cn^
 # 马蜂窝 | mafengwo.cn
 ||c.cnzz.com^
 ||tongji.mafengwo.cn^
@@ -9488,6 +9491,7 @@
 ||qqjar.ru^
 ||redllama.ru^
 ||relap.io^
+||rot.spotsniper.ru^
 ||rr.tracker.mobiletracking.ru^
 ||rtb.com.ru^
 ||s1.mpsuadv.ru^
@@ -10258,6 +10262,7 @@
 ||cd-ladsp-com.s3.amazonaws.com^
 ||clickbank-apache-54377296.us-west-2.elb.amazonaws.com^
 ||cognito-identity.ap-northeast-1.amazonaws.com^
+||cognito-identity.eu-west-1.amazonaws.com^
 ||cookiesyncing-1395500543.us-east-1.elb.amazonaws.com^
 ||dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com^
 ||dcs-edge-tyo3-624150721.ap-northeast-1.elb.amazonaws.com^
@@ -12703,6 +12708,7 @@
 ||asfasfasgaskgjha1231.de^
 ||asn.advolution.de^
 ||atonato.de^
+||auswertung.verbraucherzentrale.de^
 ||banner.congstar.de^
 ||baseendpoint.capital.de^
 ||baseendpoint.essen-und-trinken.de^
@@ -12962,6 +12968,7 @@
 ||wbk.in-berlin.de^
 ||wbv-analytics.saltation.de^
 ||webanalytics.drk-blutspende.de^
+||webstatistik.bundeswehr.de^
 ||webstats.cyrano-services.de^
 ||webtracking.trifels.de^
 ||weektimewordissue.de^
@@ -13654,6 +13661,8 @@
 ||zpuy.sitiwebcerveteri.it^
 ||zsgw.magnagraeciateatrofestival.it^
 ||zyvm.altrovoltodelledonne.it^
+# LA
+||collect-v6.51.la^
 # LI
 ||loslassen.li^
 ||paper.li^
@@ -13884,6 +13893,7 @@
 ||caiteesh.net^
 ||cameesse.net^
 ||cchbdata.net^
+||ccsyncuuid.net^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn.admixer.net^
 ||cdn.adpicker.net^
@@ -13958,6 +13968,7 @@
 ||feedmeter.net^
 ||ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
+||fnr-steam-prod.fromsoftware-game.net^
 ||fr-actions.trackonomics.net^
 ||fr-campaign.gccdn.net^
 ||frcp-hlb.dvgtm.akadns.net^
@@ -14098,7 +14109,6 @@
 ||rt.udmserve.net^
 ||rvzqo.iadlesdates.net^
 ||s.ad.smaato.net^
-||s.ccsyncuuid.net^
 ||s.d3sv.net^
 ||s.dblks.net^
 ||s.ml-attr.com.pxlsrv.net^
@@ -14278,6 +14288,7 @@
 ||fbiofficial.online^
 ||fbiorganisation.online^
 ||fbiusagov.online^
+||ip-lookup.online^
 ||krenovo.online^
 ||liveads.online^
 ||masolaos.online^
@@ -15914,6 +15925,7 @@
 ||cbadugi.com^
 ||cbxmarketing.wpenginepowered.com^
 ||cc.bingj.com^
+||cchdbond.com^
 ||cd-down.com^
 ||cd-mob.com^
 ||cdm.cursecdn.com^
@@ -17124,6 +17136,7 @@
 ||letitbify.com^
 ||level3ssl.optimicdn.com^
 ||lexicon.33across.com^
+||lf1-cdn-tos.bytegoofy.com^
 ||lib-us-1.brilliantcollector.com^
 ||libedgolart.com^
 ||librato-collector.genius.com^
@@ -17780,6 +17793,7 @@
 ||qa-www2.st.com^
 ||qc.galleria-dfs.com^
 ||qd.admetricspro.com^
+||qevsbcsbvnph.com^
 ||qiqqlb.cyou^
 ||qjpdjugacac.com^
 ||qlcdnvkgi.com^
@@ -18000,6 +18014,7 @@
 ||sessions.bugsnag.com^
 ||setupslum.com^
 ||sftwrads.com^
+||shadesentimentssquint.com^
 ||shakegoldfish.com^
 ||shareasale-analytics.com^
 ||shareitpp.com^
@@ -18113,10 +18128,12 @@
 ||st.fullcircleinsights.com^
 ||st.static-srv.com^
 ||st.tubecorporate.com^
+||st6-22.vk.com^
 ||staging-argus-fra1.snigelweb.com^
 ||stake.com^
 ||standroogly.com^
 ||starlight.networknmedia.com^
+||stat.58che.com^
 ||stat.coedcherry.com^
 ||stat.made-in-china.com^
 ||stat.networkmanag.com^
@@ -18462,6 +18479,7 @@
 ||tracking.sexcash.com^
 ||tracking.tomsguide.com^
 ||trackingca.com^
+||tracklog.58.com^
 ||trackmackweldon.com^
 ||trackquantx.adux.com^
 ||traffic.adxprtz.com^
@@ -18521,6 +18539,7 @@
 ||typerealisepredict.com^
 ||tyxznbghnfkvb.com^
 ||tzegilo.com^
+||tzjybeidou.58.com^
 ||u.fg8dgt.com^
 ||u0.extreme-dm.com^
 ||u9oxdnxk8b.com^
@@ -18662,6 +18681,7 @@
 ||vstvstsa.com^
 ||vywujhsinxfa.com^
 ||w.ad.style^
+||w.irs03.com^
 ||w.push-free.com^
 ||waisheph.com^
 ||waiteddeplore.com^
@@ -18671,6 +18691,7 @@
 ||wargaming-affiliate.g2afse.com^
 ||washedinmate.com^
 ||watchcensorbully.com^
+||watchesthereupon.com^
 ||watchvideoplayer.com^
 ||waudeesestew.com^
 ||waufooke.com^
@@ -18680,6 +18701,7 @@
 ||wbilvnmool.com^
 ||wc-tracking.lavasoft.com^
 ||wct-1.com^
+||wct-2.com^
 ||weaveradrenaline.com^
 ||weaverdispensepause.com^
 ||web-clients.mynativeplatform.com^
@@ -25053,4 +25075,5 @@
 ||dump.onlineskillclub.com^
 # ZOV GAME STUDIO
 # To The Light
+# Google Crashpad
 # Google Crashpad
