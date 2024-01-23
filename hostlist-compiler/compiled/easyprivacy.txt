@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-01-20T09:00:16.427Z
+! Last modified: 2024-01-23T09:00:16.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22JAN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
 # List corrections can be requested upstream at https://github.com/easylist/easylist#list-issues
@@ -4070,6 +4070,7 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pollardwater.com^
 ||analytics.pop2watch.com^
+||analytics-prd.aws.wehaa.net^
 ||analytics.prezly.com^
 ||analytics-production.hapyak.com^
 ||analytics.productreview.com.au^
@@ -18134,6 +18135,7 @@
 ||neaaom.ytn.co.kr^
 ||n.earthlink.net^
 ||neatshade.com^
+||nebulousripple.com^
 ||necessarywax.com^
 ||ned.themarketingscience.com^
 ||needlessnorth.com^
@@ -18301,6 +18303,7 @@
 ||no9pldds1lmn3.soundcloud.com^
 ||noa0.compteczam.fr^
 ||nocaadobefpc.optus.com.au^
+||nocturnalloom.com^
 ||noeyeon.click^
 ||noeyeon.com^
 ||noflake-aggregator-http.narvar.com^
@@ -23906,7 +23909,7 @@ smetriccom
 ||smetrics.sumaiida.com^
 ||smetrics.sumitclub.jp^
 ||smetrics.sun.com^
-||smetrics.suncorpbank.com.ausmetrics.viabcp.com^
+||smetrics.suncorpbank.com.au^
 ||smetrics.suncorp.com.au^
 ||smetrics.suncorp.co.nz^
 ||smetrics.sunflowerhealthplan.com^
@@ -24059,6 +24062,7 @@ smetriccom
 ||smetrics.us.levi.com^
 ||smetrics.us.playstation.com^
 ||smetrics.vermontcountrystore.com^
+||smetrics.viabcp.com^
 ||smetrics.viega.at^
 ||smetrics.viega.be^
 ||smetrics.viega.com^
@@ -32028,12 +32032,14 @@ welcome..org
 ||xxjiqg.oysho.com^
 ||xxlefq.commentcamarche.net^
 ||xxlefq.hugolescargot.com^
+||xxlefq.jeux-gratuits.com^
 ||xxlefq.journaldesfemmes.fr^
+||xxlefq.journaldunet.com^
 ||xxlefq.linternaute.com^
-||xxlefxyhojp.lacoste.com^
 ||x.xtar.io^
 ||xy33.smallable.com^
 ||xya4.groupefsc.com^
+||xyhojp.lacoste.com^
 ||xymhzq.klingel.de^
 ||xyxgbs.lezhin.com^
 ||xyzznt.uterque.com^

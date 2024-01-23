@@ -3,7 +3,7 @@
 ! Description: This blocklist helps to restrict access to Google and its domains
 ! Homepage: https://github.com/nickspaargaren/no-google
 ! License: The Unlicense
-! Last modified: 2024-01-07T09:00:36.149Z
+! Last modified: 2024-01-23T09:00:36.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed
 !
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-01-06
+# Last updated: 2024-01-22
 # Doubleclick
 ||doubleclick.com^
 ||doubleclick.de^
