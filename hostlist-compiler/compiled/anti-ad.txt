@@ -3,7 +3,7 @@
 ! Description: Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 ! License: MIT License
-! Last modified: 2024-02-03T09:00:05.771Z
+! Last modified: 2024-02-04T09:00:06.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -141,6 +141,8 @@
 ||*us*watcab*.blob.core.windows.net^
 ||xn--wxtr9fwyxk9c.*^
 ||tuiguang.*^
+||*.xsph.ru^
+||*.page.link^
 ||0008d6ba2e.com^
 ||000dn.com^
 ||0013.cc^
@@ -53632,20 +53634,6 @@
 ||pafteejox.com^
 ||web.news.paganistore.com^
 ||page-hit.de^
-||aizanjyq.page.link^
-||buvpgiii.page.link^
-||gsslofxh.page.link^
-||hutmienj.page.link^
-||hxtqvudd.page.link^
-||ngwcscyd.page.link^
-||nzdintab.page.link^
-||smjyihre.page.link^
-||sudmqtha.page.link^
-||vqqmofxg.page.link^
-||wwoanswi.page.link^
-||yemdtrto.page.link^
-||ywsbiouy.page.link^
-||zgepikqf.page.link^
 ||page.tl^
 ||page1monk.com^
 ||marketing.page1solutions.com^
@@ -79404,7 +79392,6 @@
 ||svip.xsmy2.cn^
 ||wl.xsoftmall.com^
 ||xspadvertising.com^
-||a0915052.xsph.ru^
 ||rdbd.xsread.com^
 ||xsrs.com^
 ||xssrmimmnq.ru^
