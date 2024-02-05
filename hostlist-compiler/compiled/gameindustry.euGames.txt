@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2023-11-05T09:00:18.604Z
+! Last modified: 2024-02-05T09:00:18.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -506,10 +506,6 @@
 # 74.201.106.168
 # 74.201.106.132
 ||cdn.services.gearboxsoftware.com^
-||mercury.shift.services.gearbox.com^
-||news.shift.services.gearbox.com^
-||ttwxp-mim.vivox.com^
-||ttwxp.www.vivox.com^
 ||promotions.api.2kcoretech.online^
 # Mafia III
 # Telemetry64.dll im Installationsordner löschen! Adressen sind für Telemetrie und Onlinefunktion zuständig
@@ -551,6 +547,12 @@
 ||api.2kgames.com^
 # Spec Ops: The Line
 ||p.line.dev.2kgames.com^
+||mercury.shift.services.gearbox.com^
+||news.shift.services.gearbox.com^
+||ttwxp-mim.vivox.com^
+||ttwxp.www.vivox.com^
+||508223012e5a5ff19f30a391b2bdadc0.my.2k.com^
+||telemetryk.api.2kcoretech.online^
 # WWE 2K17
 # 192.81.242.188
 ||prod-win32-sp.wwe17.2ksports.com^
@@ -2798,8 +2800,6 @@
 # Twitter, Youtube, Facebook, Googlevideo
 ||scores.grimm-bros.com^
 ||dragonfinsoup.com^
-# 208.64.200.105
-# Grinding Gear Games
 # Path of Exile inkl. Steam Version
 # Chinesische Version unter 流放之路 zu finden
 ||hk2-eap.settings.data.microsoft.com.akadns.net.com^
@@ -3811,7 +3811,7 @@
 # Nawia Games
 # Western 1849 Reloaded
 # 208.64.200.105
-# Ndemic Creations
+# Ndemic Creations LTD
 # Plague Inc: Evolved
 # 208.64.200.105
 ||l.ndemiccreations.com^
@@ -3819,6 +3819,7 @@
 ||s-cdn.ndemiccreations.com^
 ||cdn.ndemiccreations.com^
 ||www.ndemiccreations.com^
+||t.ndemiccreations.com^
 # NedoStudio
 # Qvabllock
 # Crashpad Analytics
@@ -4744,6 +4745,7 @@
 # s. Rubrik Kopierschutz / AntiCheat
 # Thrones.exe
 ||6148b9c6-14c1-4747-80a0-e0dbcb770b2e.totalwar.com^
+||www.twopointstudios.com^
 ||track-api.gamesight.io^
 # Valkyria Chronicles 4
 # s. Rubrik Kopierschutz / AntiCheat
@@ -5457,6 +5459,16 @@
 # 35.188.42.15
 # s. Eintrag Steam: IP Checks
 ||unreal.backtrace.io^
+# Expeditions: Rome
+# 54.191.113.36
+# 34.212.224.15
+# 88.198.206.113
+||gamelink.muxy.io^
+||expeditionsseries.com^
+||rome-drops.muxy.io^
+||ec2-34-212-224-15.us-west-2.compute.amazonaws.com^
+||ec2-54-191-113-36.us-west-2.compute.amazonaws.com^
+||static.88-198-206-113.clients.your-server.de^
 # Usertracking
 # Full Spectrum Warrior
 ||fswpc.available.gamespy.com^
@@ -5541,10 +5553,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# THQ / Embracer
-# Biomutant
-# s. Eintrag Steam: IP Checks
-# Ipv4: https://gameindustry.eu/katalog/epic-games-inc/
 # Thunder Lotus Games
 # Jotun: Valhalla Edition
 # Ingameanbindung Steamstore # store.akamai.steamstatic.com
@@ -5761,6 +5769,7 @@
 ||ecommerce.iap.unity3d.com^
 ||eloqua-trackings.unity3d.com^
 ||embedded.cloud.unity3d.com^
+||events.mz.unity3d.com^
 ||jump.cloud.unity3d.com^
 ||lore.cdp.internal.unity3d.com^
 ||lore.data.ie.cdp.internal.unity3d.com^
@@ -5771,6 +5780,7 @@
 ||uca.cloud.unity3d.com^
 ||unityads.unity3d.com^
 # Unity Ads
+||cdn-creatives-cf-prd.acquire.unity3dusercontent.com^
 ||cdn-creatives-tencent-prd.unityads.unitychina.cn^
 ||cdn-store-icons-tencent-prd.unityads.unitychina.cn^
 ||endscreen.unityads.unitychina.cn^
@@ -5793,8 +5803,8 @@
 # 35.241.26.53
 # 35.241.52.229
 ||186.244.227.35.bc.googleusercontent.com^
-||53.26.241.35.bc.googleusercontent.com^
 ||229.52.241.35.bc.googleusercontent.com^
+||53.26.241.35.bc.googleusercontent.com^
 # Data-Optout leitet auf Analytics mitsamt Übergabeparameter/Token weiter. Dazu gehören ProgrammID, UserID, GeräteID
 # Außerdem Einstellungen zu de/aktivierten Analytics, Optout ja/nein, Report erlaubt ja/nein
 # Bei Bedarf de/aktivieren

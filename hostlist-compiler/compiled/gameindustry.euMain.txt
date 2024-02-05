@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-01-12T09:00:18.468Z
+! Last modified: 2024-02-05T09:00:19.592Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33,15 +33,7 @@
 # Dazugehöriger Registryeintrag Hkey_Local_Machine/Software/Apple Inc./Bonjour
 # 23.37.43.27
 ||e8218.dscb1.akamaiedge.net^
-# Login & Registrierung bei Bedarf freischalten
-||www.acdsee.com^
-# 35.169.232.224
-# Land, Email, Vor,- Nachname, Firma, Firmengröße, Firmentyp, Passwort, Telefon, ProduktID, Anmeldename, Role, News ja/nein
-||acdid.acdsystems.com^
 ||ec2-35-169-232-224.compute-1.amazonaws.com^
-# 65.9.71.53
-# 65.9.71.67
-||content.acdsystems.com^
 # Rest
 ||www.365.acdsee.com^
 ||r.acdsee.com^
@@ -49,6 +41,21 @@
 # Das AcdSee Setup über msiexec.exe telefoniert ebenfalls zu Google
 # 142.250.181.238
 ||www-google-analytics.l.google.com^
+||dualstack.polyfill.map.fastly.net^
+||d253eh1koi69kp.cloudfront.net^
+||d3fd0cu6tq5sya.cloudfront.net^
+||w.chatlio.com^
+||api.chatlio.com^
+||api-cdn.chatlio.com^
+||uploads-cdn.chatlio.com^
+||scout-cdn.salesloft.com^
+||cdn.salesloft.com^
+||script.hotjar.com^
+||static.hotjar.com^
+||vc.hotjar.io^
+||vc-live-cf.hotjar.io^
+||insight.adsrvr.org^
+||connect.facebook.net^
 ||prod3.adlice.com^
 ||adflux.adlice.com^
 ||stats.adlice.com^
@@ -170,7 +177,6 @@
 # 64.233.184.157
 # 216.58.207.78
 ||www.aomeitech.com^
-||www.googletagmanager.com^
 # Apowersoft Ltd. / APOWERSOFT LIMITED
 # Video Download Capture
 # Die "support.apowersoft.com" setzt sich über erstellte Regeln in der hosts hinweg, geht erst über "localhost:51097"
@@ -506,11 +512,7 @@
 ||cws-site-1191008954.us-east-1.elb.amazonaws.com^
 ||dns-lb01.foxitservice.com^
 ||dragon-linode.fxsound.com^
-||static.hotjar.com^
-||script.hotjar.com^
-||connect.facebook.net^
 ||vars.hotjar.com^
-||vc.hotjar.io^
 # Gavrila Martau
 # Total Uninstall
 # 64.91.254.118
@@ -787,8 +789,18 @@
 # PicPick
 ||www.plimus.com^
 ||www.picpick.org^
+# Nitro Software, Inc.
+# Nitro Pro
+# Ip/s blockieren:
+# 104.16.119.102
+# 104.16.158.102
+# 104.16.9.102
+# 104.16.170.56
+# Setup
+||www.gonitro.com^
 ||desktop.gonitro.com^
 # Programm
+||inapp.gonitro.com^
 # NVIDIA Corp
 # GeForce Game Ready Driver
 # Callbacks
@@ -1334,14 +1346,16 @@
 ||2mdn.net^
 # 33across.com
 # 67.202.105.23
+||cdn-ima.33across.com^
 ||cdn-sic.33across.com^
+||cms-xch-chicago.33across.com^
+||cms-xch.33across.com^
 ||dp1.33across.com^
 ||dp2.33across.com^
+||events-ssc.33across.com^
 ||pixel.33across.com^
 ||ssc-cms.33across.com^
 ||ssc.33across.com^
-||cms-xch.33across.com^
-||cms-xch-chicago.33across.com^
 # 360yield.com
 # 52.29.93.239
 # 52.28.153.156
@@ -1350,6 +1364,7 @@
 # 52.59.139.190
 # 18.185.153.123
 ||ad.360yield.com^
+||ad2.360yield.com^
 ||creative.360yield.com^
 ||eu2-ice.360yield.com^
 ||euw-ice.360yield.com^
@@ -1529,6 +1544,7 @@
 ||cdn.adligature.com^
 # Adlightning.com
 ||freestar-tagan.adlightning.com^
+||gomedia-tagan.adlightning.com^
 ||tagan.adlightning.com^
 # ADLOOP
 ||adloop.centerparcs.fr^
@@ -1821,7 +1837,7 @@
 ||js.adscale.de^
 ||native.adscale.de^
 ||trx.adscale.de^
-# Adsco
+# Adscore Technologies DMCC
 ||adsco.re^
 # Adserver.cc
 ||outdoor-broker.adserver.cc^
@@ -1855,7 +1871,6 @@
 ||de2-bid.adsrvr.org^
 ||eur-ukp.adsrvr.org^
 ||html5.adsrvr.org^
-||insight.adsrvr.org^
 ||js.adsrvr.org^
 ||match.adsrvr.org^
 # Adsterra Advertising Network
@@ -2049,6 +2064,7 @@
 ||v-wo.aminopay.net^
 # Amplitude.com
 # Mehr Info unter dem Firmeneintrag zu Amplitude, Inc.
+||api2.amplitude.com^
 ||ec2-52-26-54-44.us-west-2.compute.amazonaws.com^
 # AMP Project mit Verkettung von Prebid Scripts
 # Seiten wie z.B. Chefkoch.de nutzen diesen Dienst als Basis
@@ -2392,10 +2408,6 @@
 ||st.chatango.com^
 # Chatlio.com
 # Supportchat auf Webseiten
-||w.chatlio.com^
-||uploads-cdn.chatlio.com^
-||api-cdn.chatlio.com^
-||api.chatlio.com^
 # Clearbit
 ||risk.clearbit.com^
 ||forms.clearbit.com^
@@ -2485,11 +2497,17 @@
 # Computecmedia.de
 ||stats.computecmedia.de^
 # Condenast/digital
-||api.condenast.io^
-||infinityid.condenastdigital.com^
-||pixel.condenastdigital.com^
-||capture.condenastdigital.com^
 ||4d.condenastdigital.com^
+||ads-static.conde.digital^
+||api.condenast.io^
+||capture.condenastdigital.com^
+||condenastus-d.openx.net^
+||globalservices.conde.digital^
+||infinityid.condenastdigital.com^
+||martech.condenastdigital.com^
+||pixel.condenastdigital.com^
+||tagging.conde.digital^
+||vulcan.condenastdigital.com^
 # ConnectAd.com
 ||cdn.connectad.io^
 ||i.connectad.io^
@@ -2719,6 +2737,7 @@
 # Doubleverify.com
 ||cdn3.doubleverify.com^
 ||rtbc-eu3.doubleverify.com^
+||rtbc-uw1.doubleverify.com^
 ||tps.doubleverify.com^
 ||tpsc-ae1.doubleverify.com^
 ||tps10201.doubleverify.com^
@@ -3324,6 +3343,7 @@
 ||spocs.getpocket.com^
 # Giga-abs.de
 ||go.giga-abs.de^
+||analytics.githubassets.com^
 ||collector.github.com^
 ||collector.githubapp.com^
 # Globalmailer
@@ -3546,10 +3566,12 @@
 # Influenceme
 ||task.influenceme.de^
 # Infolinks
-||router.infolinks.com^
 ||resources.infolinks.com^
+||router.infolinks.com^
 ||rt3009.infolinks.com^
 ||rt3042.infolinks.com^
+||rt3051.infolinks.com^
+||thumbnails.infolinks.com^
 # Informaction.com
 ||secure.informaction.com^
 # Innovid
@@ -3965,6 +3987,8 @@
 ||hblg.media.net^
 ||hbx.media.net^
 ||lg3.media.net^
+||pb-logs.media.net^
+||prebid-s2s.media.net^
 ||prebid.media.net^
 ||qsearch.media.net^
 ||static-eb.media.net^
@@ -4891,10 +4915,14 @@
 ||a55a84b3-9632-4869-b625-3d8ef43ed18d.prmutv.co^
 ||a9695278-4085-40b3-9f02-8d4c38a6ff01.edge.permutive.app^
 ||api.permutive.com^
+||bd1cec50-00d1-4ce9-9572-785857419a1e.prmutv.co^
+||cdn.permutive.app^
 ||cdn.permutive.com^
 ||d6691a17-6fdb-4d26-85d6-b3dd27f55f08.prmutv.co^
 ||f23f026d-af06-45a2-8d42-9222f4656195.edge.permutive.app^
 ||fa1f96ab-b693-40e4-82d5-8698592ef9ac.edge.permutive.app^
+||permutive.arstechnica.com^
+||permutive.wired.com^
 # Petametrics.com
 ||query.petametrics.com^
 ||query1.petametrics.com^
@@ -5065,6 +5093,7 @@
 ||cmp.quantcast.com^
 # Quantcast.com | Quantcount
 ||content.quantcount.com^
+||pixel.quantcount.com^
 ||rules.quantcount.com^
 # Quantcast.com | Quantserve
 # Ip/s blockieren:
@@ -5980,6 +6009,7 @@
 ||optimized-by.rubiconproject.com^
 ||perf-optimizedby.rubiconproject.net.akadns.net^
 ||pixel-apac.rubiconproject.com^
+||pixel-eu.rubiconproject.com^
 ||pixel-eu.rubiconproject.net.akadns.net^
 ||pixel-us-east.rubiconproject.com^
 ||pixel-us-east.rubiconproject.net.akadns.net^
@@ -6437,12 +6467,17 @@
 ||imprammp.taboola.com^
 ||imprchmp.taboola.com^
 ||imprhkmp.taboola.com^
+||imprlatbmp.taboola.com^
 ||imprnjmp.taboola.com^
+||la-match.taboola.com^
+||la-trc-events.taboola.com^
+||la-vid-events.taboola.com^
 ||match.taboola.com^
 ||mpg.taboola.com^
 ||nr-events.taboola.com^
 ||nr.taboola.com^
 ||pips.taboola.com^
+||pm-widget.taboola.com^
 ||popup.taboola.com^
 ||sg-trc-events.taboola.com^
 ||sync-t1.taboola.com^
@@ -6454,6 +6489,7 @@
 ||us-trc-events.taboola.com^
 ||us-vid-events.taboola.com^
 ||us-wf.taboola.com^
+||vidanalytics.taboola.com^
 ||vidstat.taboola.com^
 ||vidstatb.taboola.com^
 ||wf.taboola.com^
@@ -6490,6 +6526,7 @@
 ||at.teads.tv^
 ||be-ms.teads.tv^
 ||cdn2.teads.tv^
+||cm.teads.tv^
 ||criteo-sync.teads.tv^
 ||p.teads.tv^
 ||s8t.teads.tv^
@@ -6651,6 +6688,7 @@
 ||cs.yellowblue.io^
 ||external-api.yellowblue.io^
 ||hb.yellowblue.io^
+||pbs-cs.yellowblue.io^
 ||rtb-seller-desktop.yellowblue.io^
 ||rtb-seller-digital.yellowblue.io^
 ||rtb-wins-desktop.yellowblue.io^
@@ -7184,6 +7222,7 @@
 ||skinsbazaar.com^
 ||sociusgaming.com^
 ||steamanalyst.com^
+||steamacommunity.com^
 ||steanmcomnmunlty.com^
 ||stonefire.io^
 ||universwelcomepro.com^
@@ -7291,6 +7330,11 @@
 ||t3.cdnpure.com^
 ||tapi.apkpure.net^
 ||tapi.pureapk.com^
+# ArsTechnica.com & net
+||c.arstechnica.com^
+||fpa-cdn.arstechnica.com^
+||fpa-events.arstechnica.com^
+||sstats.arstechnica.com^
 # AOK.de
 ||apiproxy.aok.de^
 # Augsburger-Allgemeine.de
@@ -9760,8 +9804,12 @@
 # An dieser Stelle werden andere Mittel zum Blockieren empfohlen
 # Google Firebase & Firebaseapp
 ||firebase.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
+||firebasestorage.googleapis.com^
+||nmdp-b86eb-users-ko.firebaseio.com^
+||s-usc1c-nss-269.firebaseio.com^
 ||tveweb-appsvcs-aetnd-com-8ff57.firebaseapp.com^
 ||walkthrough-tool.firebaseapp.com^
 ||walkthrough-tool.firebaseio.com^
@@ -9771,10 +9819,9 @@
 # Google Interactive Media Ads
 ||imasdk.googleapis.com^
 ||pki.google.com^
-# Google Programmable Search Engine
+# Google Programmable Search Engine & Adsense
 ||cse.google.de^
 ||cse.google.dk^
-||cse.google.com^
 ||cse.google.ru^
 ||cse.google.ro^
 ||cse.google.nl^
@@ -9807,6 +9854,7 @@
 ||07746710ab0dccf0e78acedc789f6588.safeframe.googlesyndication.com^
 ||07f7f897f87d61fd724bf7e97305f214.safeframe.googlesyndication.com^
 ||08b98fcb5aedd84609e926aecb2f4db3.safeframe.googlesyndication.com^
+||091055c71af0acf780052a35b1e9cd12.safeframe.googlesyndication.com^
 ||093e65487e52b268122673b3958e5763.safeframe.googlesyndication.com^
 ||0960f47a7e262a6f864179a001f9a240.safeframe.googlesyndication.com^
 ||0a01c95cd0f5e1149483d76de127f348.safeframe.googlesyndication.com^
@@ -9842,6 +9890,7 @@
 ||258e40fc53f87b61cf3dd60b1d440a81.safeframe.googlesyndication.com^
 ||25eaa16ba9d038439b376988b29d7870.safeframe.googlesyndication.com^
 ||2611aa4aba145e0cc7dfa5b9894280a4.safeframe.googlesyndication.com^
+||28011987ee07382c1dab975234398131.safeframe.googlesyndication.com^
 ||2816940a9cbe01c24546b59e08a11ae2.safeframe.googlesyndication.com^
 ||2892af9876fce919fb3981c643226fa0.safeframe.googlesyndication.com^
 ||28aa6466edcd18f0f3b108ebc00fb851.safeframe.googlesyndication.com^
@@ -9864,6 +9913,7 @@
 ||394bcb5b575947dbcf6bbce54b299e46.safeframe.googlesyndication.com^
 ||397d338da07773f71b5375c0a34248c8.safeframe.googlesyndication.com^
 ||39e2852fe77bad29af15d3b2ade0c3b8.safeframe.googlesyndication.com^
+||3a03b1db7486ef9c96a0756b2e1c8d4d.safeframe.googlesyndication.com^
 ||3ac3e18496524995a370c583ab63527b.safeframe.googlesyndication.com^
 ||3ac9dc7a1739c7d2b5b263e40dbb7fec.safeframe.googlesyndication.com^
 ||3b88c8825ecb9204c9c0fc757c91ed4f.safeframe.googlesyndication.com^
@@ -9872,11 +9922,12 @@
 ||3c7a58c716d7944a0f52252a5a4bd774.safeframe.googlesyndication.com^
 ||3ca22e2444fd64344b4af13e3a6fc2f8.safeframe.googlesyndication.com^
 ||3fd8638b4d3335eb3d7679bbfa75770e.safeframe.googlesyndication.com^
-||41d9f6a1fc073200bf479a17578d4f48.safeframe.googlesyndication.com^
 ||417fcf8457ec3925bf6edb0a22dbdcbd.safeframe.googlesyndication.com^
+||41d9f6a1fc073200bf479a17578d4f48.safeframe.googlesyndication.com^
 ||426bd84a25704d55ee071c9da6b8c611.safeframe.googlesyndication.com^
 ||43690dad4844bd27c7af6762eb8461ad.safeframe.googlesyndication.com^
 ||44effd5eb8bd52b0d1c385c1037dbc56.safeframe.googlesyndication.com^
+||44f81f2eacc8d045ca0f844428750137.safeframe.googlesyndication.com^
 ||44fa6513779a2fc1c718f22007adf651.safeframe.googlesyndication.com^
 ||4573575f3a098944097bf9802a58d5b3.safeframe.googlesyndication.com^
 ||475daa30f35ddd0be46173ca62e1e3eb.safeframe.googlesyndication.com^
@@ -9884,10 +9935,12 @@
 ||48d8e96e81a786d4d4990ff8ca4ac8d9.safeframe.googlesyndication.com^
 ||4925dbd693e552752a4d3a7a4f2669f3.safeframe.googlesyndication.com^
 ||49814e4c5cb8c59c0c9525141ce9a1f0.safeframe.googlesyndication.com^
+||4b01545ba12d32441c15c10da5a5f5c0.safeframe.googlesyndication.com^
 ||4baa89072b8cab031f3b3cfa81737466.safeframe.googlesyndication.com^
 ||4c500003ee5a4f93e837f696282715cf.safeframe.googlesyndication.com^
 ||4c67b51d49bb737bd8e94be92887f5b5.safeframe.googlesyndication.com^
 ||4cc74978c7574bdf08e27c72f1539e71.safeframe.googlesyndication.com^
+||4cff35dcf96bcd52c8a1b9aad4a82e23.safeframe.googlesyndication.com^
 ||4e36c6ae6ae58a28adb070c8e5d872cc.safeframe.googlesyndication.com^
 ||4f7f757372c36086c0e2f66f7e4460f3.safeframe.googlesyndication.com^
 ||4fa441da0ef5ed47b98e45b24c8fcf7c.safeframe.googlesyndication.com^
@@ -9912,10 +9965,12 @@
 ||5cc15e2f5a740a9b40996d3ba8316bbe.safeframe.googlesyndication.com^
 ||5cfa24f0b92e41c46b62179abebb57e3.safeframe.googlesyndication.com^
 ||5d4aed2eafe42fcc84eef4820a3803f8.safeframe.googlesyndication.com^
+||5deaa6da3e965753e3e3ad9f6409f79a.safeframe.googlesyndication.com^
 ||5e2cee866b5a9b0975b7311c3c9a97f4.safeframe.googlesyndication.com^
 ||5e589fdaba4a3a368a7c5df60ce65248.safeframe.googlesyndication.com^
 ||5e9853f8ccf36b3eff84bd9e91403059.safeframe.googlesyndication.com^
 ||5eeaeba4cc21b1f923c56a8e891d0ec0.safeframe.googlesyndication.com^
+||5fe6198cf9b1ef6735a2c7f0faca012c.safeframe.googlesyndication.com^
 ||602ffc47a72d5df674d3c074f3a0acb1.safeframe.googlesyndication.com^
 ||606683493122b2fb77a7d02bf3efe798.safeframe.googlesyndication.com^
 ||61312256faace181a550d32c7180a165.safeframe.googlesyndication.com^
@@ -9933,6 +9988,7 @@
 ||6a3f2eed34a43de4af7536a4d1002cc5.safeframe.googlesyndication.com^
 ||6b09e21fccb81d1971b38d0d84f33248.safeframe.googlesyndication.com^
 ||6bcf47a3b40f567487a6171078677c81.safeframe.googlesyndication.com^
+||6c88444b18793e0d197e716c01c70240.safeframe.googlesyndication.com^
 ||6daaa8aac43dc616ad662ca2f7d4657a.safeframe.googlesyndication.com^
 ||6dd8464d36388e4c1f5dcafcae2792f4.safeframe.googlesyndication.com^
 ||6e48e85e8076d02d64e081f75b55315e.safeframe.googlesyndication.com^
@@ -9942,6 +9998,7 @@
 ||722f8b0b405ad061a835e478ae8e301a.safeframe.googlesyndication.com^
 ||7306741ec37f66a5e54904d6f5b537de.safeframe.googlesyndication.com^
 ||730fd6b9b89a91ad02621bb35484be13.safeframe.googlesyndication.com^
+||73fea2cfa51cd835e521ca2835757298.safeframe.googlesyndication.com^
 ||745d59227057f4db93360af9dbfc61bb.safeframe.googlesyndication.com^
 ||74c07737a4a21db4c0548a3b73e2a775.safeframe.googlesyndication.com^
 ||754a9a4f04f227b0c7a5e386d6be5658.safeframe.googlesyndication.com^
@@ -9955,6 +10012,7 @@
 ||7bac7216ca91ca40eac36a4aef49068f.safeframe.googlesyndication.com^
 ||7bb38895bb74f50d96b8258f2dc45002.safeframe.googlesyndication.com^
 ||7bc0d6e6886e4311eb4f982fde26aa69.safeframe.googlesyndication.com^
+||7f34e921ae3ccb412bdced687b33a4aa.safeframe.googlesyndication.com^
 ||7f6c297df0c041900e90688d510c5b1b.safeframe.googlesyndication.com^
 ||814298b4d983c05df499d5ac21a01c47.safeframe.googlesyndication.com^
 ||82f809e66332f76c98433becf53c1b02.safeframe.googlesyndication.com^
@@ -9971,6 +10029,7 @@
 ||8e8ececf86dca26bd26108d92408e56d.safeframe.googlesyndication.com^
 ||8f3efbe7f6f4530f60c2eb3977ea8e0f.safeframe.googlesyndication.com^
 ||903cac25276d722b6817cdc229fefa88.safeframe.googlesyndication.com^
+||906bc511d96d789037532c3b79176c01.safeframe.googlesyndication.com^
 ||925c0f66a50611c2919a7b66784ba6bd.safeframe.googlesyndication.com^
 ||928e918c1ef8de575053b720a402617a.safeframe.googlesyndication.com^
 ||94555635fa911f6ff8ff9e70b425f88e.safeframe.googlesyndication.com^
@@ -10008,6 +10067,7 @@
 ||a7a9c9f926e326629d06785d1201e4ef.safeframe.googlesyndication.com^
 ||a96cf21933ddd5a5e9bb6f5ccd2cf1d8.safeframe.googlesyndication.com^
 ||aa0482814a4a400716fef31a296d2287.safeframe.googlesyndication.com^
+||aa8f92c76d496591beb2db078929702f.safeframe.googlesyndication.com^
 ||ab199ef2907dd24e2b00f0c13c8f722f.safeframe.googlesyndication.com^
 ||ab3fb9475486a55300170bd42aa14004.safeframe.googlesyndication.com^
 ||abfb6f50d162144ccd6efee7bf6505bc.safeframe.googlesyndication.com^
@@ -10052,6 +10112,7 @@
 ||c659860d58820534bd6e05d624958bad.safeframe.googlesyndication.com^
 ||c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com^
 ||c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com^
+||c9ccfedee2f31b8708cfcf9181bcd2bf.safeframe.googlesyndication.com^
 ||ca6de71f560f9631037e80d5e8c08256.safeframe.googlesyndication.com^
 ||cacf1bd81426438163ae43128c9dda13.safeframe.googlesyndication.com^
 ||ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com^
@@ -10060,6 +10121,7 @@
 ||cf40ed44402503d504b1b4b2f71e78b2.safeframe.googlesyndication.com^
 ||cf641e55510c8906c1054c5c01d4a3c3.safeframe.googlesyndication.com^
 ||cfe6bd334de47fbe148f2adf795ad29b.safeframe.googlesyndication.com^
+||d0bc129dc270a5f6693963bda68920ce.safeframe.googlesyndication.com^
 ||d1dbfd7d2a11e570779a5ad184ed594b.safeframe.googlesyndication.com^
 ||d22e873e0abdfccd1df095ff8df94ab2.safeframe.googlesyndication.com^
 ||d2eb32d836913b4bb547aa369e59c573.safeframe.googlesyndication.com^
@@ -10097,6 +10159,7 @@
 ||f131481977e8ffc72df9e8d249cdd4ea.safeframe.googlesyndication.com^
 ||f15bb78b02f4f1758aaab3dc4ee1efcf.safeframe.googlesyndication.com^
 ||f1898ecc38ec17a3a320932757934ebf.safeframe.googlesyndication.com^
+||f33c5f886b6b8f5d0e6eed084126e710.safeframe.googlesyndication.com^
 ||f46ad54d10b7c7a4c8912e41d8c3a6f9.safeframe.googlesyndication.com^
 ||f4765cea9f8d3105c5f641d79204d885.safeframe.googlesyndication.com^
 ||f615274de71c416eef27c091225df633.safeframe.googlesyndication.com^
@@ -10111,6 +10174,7 @@
 # Google Tag Manager
 # 172.217.16.136
 # 216.58.209.200
+||googletagmanager.com^
 ||lax31s01-in-f8.1e100.net^
 ||tagmanager.google.com^
 # Google Tag Services
@@ -10188,6 +10252,7 @@
 ||aax-us-iad.amazon.com^
 ||aax-us-pdx.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
+||aes.us-east.3px.axp.amazon-adsystem.com^
 ||c.amazon-adsystem.com^
 ||c.aps.amazon-adsystem.com^
 ||cdn-d.amazon-adsystem.com^
@@ -10208,6 +10273,7 @@
 ||rcm-jp.amazon.co.jp^
 ||rcm-na.amazon-adsystem.com^
 ||s.amazon-adsystem.com^
+||sq-tungsten-ts.amazon-adsystem.com^
 ||wms-eu.amazon-adsystem.com^
 ||wms-fe.amazon-adsystem.com^
 ||wms-na.amazon-adsystem.com^
@@ -11501,6 +11567,7 @@
 ||log.pinterest.com^
 ||prod.pinterest.global.map.fastly.net^
 ||alb.reddit.com^
+||conversions-config.reddit.com^
 ||embed.redditmedia.com^
 ||engine.a.redditmedia.com^
 ||pixel.redditmedia.com^
@@ -11600,6 +11667,7 @@
 ||clients5.google.com^
 ||btloader.com^
 ||pghub.io^
+||whatismylocale.start.me^
 ||newtablog.kinza.jp^
 ||api.floors.dev^
 ||ad-delivery.net^
@@ -11671,14 +11739,8 @@
 ||www.clarity.ms^
 # Microsoft Internet Explorer
 ||sam.msn.com^
-# Moonchild Productions
-# Pale Moon
-# Google Audiences unter https://www.google.com/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-34684641-1&cid=1939185456.1564415848&jid=563849675&_v=j77&z=1583130882
-||bstart.me^
-||ystart.me^
-# Bei Bedarf für Produkt & Firmenlogos der Palemoon Startseite aktivieren | Beinhaltet Tracker
-||startme.com^
-||start.me^
+||d14uwzxny1vpgw.cloudfront.net^
+||nel.heroku.com^
 # Mozilla-Europe
 ||mozilla-europe.org^
 ||balrog-cloudfront.prod.mozaws.net^
@@ -12311,6 +12373,7 @@
 ||freegeoip.app^
 ||geolocation.1trust.app^
 ||giftship.app^
+||iab-category-finder-xddc4j3vva-ey.a.run.app^
 ||kesselheldserviceform.vercel.app^
 ||members.profitfinder.app^
 ||segments-api-pro-yky7y5vtuq-ew.a.run.app^
@@ -12325,6 +12388,10 @@
 ||rnoddenkn.asia^
 ||rstartirrelea.asia^
 ||sync-dsp.ad-m.asia^
+# AU
+||delivery.momentummedia.com.au^
+||ip.momentummedia.com.au^
+||kevel.momentummedia.com.au^
 # Autos
 ||amwoukrks.autos^
 ||onakasulback.autos^
@@ -12538,6 +12605,7 @@
 ||eventd-eu.avct.cloud^
 ||gopopivu.cloud^
 ||ignite.ecg-liberty.cloud^
+||kazeonline.matomo.cloud^
 ||myownconference.cloud^
 ||rpe.dymatrix.cloud^
 ||rtc.dymatrix.cloud^
@@ -12621,6 +12689,7 @@
 ||cdn.pbbl.co^
 ||cdn.socialhoney.co^
 ||code.tidio.co^
+||eu.histi.co^
 ||fbi-c-d.com.co^
 ||fbi-c.com.co^
 ||fbi-cd.com.co^
@@ -13374,7 +13443,6 @@
 ||hummingbird.mavencoalition.io^
 ||hyscore.io^
 ||i.realytics.io^
-||ik.imagekit.io^
 ||images.takeshape.io^
 ||images.xceler8.io^
 ||imp.pxf.io^
@@ -13411,6 +13479,7 @@
 ||s.beop.io^
 ||s.ntv.io^
 ||s.p7s1.io^
+||s2s.t13.io^
 ||s8.cnnx.io^
 ||sa.geojs.io^
 ||script.anura.io^
@@ -13431,6 +13500,7 @@
 ||t.beop.io^
 ||t.dcmn.io^
 ||tag.1rx.io^
+||tag.escalated.io^
 ||tdrhge4k.apicdn.sanity.io^
 ||telemetry.transcend.io^
 ||thumb.fvs.io^
@@ -13440,9 +13510,11 @@
 ||trace-eu.mediago.io^
 ||trace.mediago.io^
 ||track.customer.io^
+||tracker.exchange.amitydigital.io^
 ||uid.mavencoalition.io^
 ||useast.quantumdex.io^
 ||usync.proper.io^
+||vast.extremereach.io^
 ||w-it.m-t.io^
 ||warehouse-x.io^
 ||web-vitals.bfops.io^
@@ -13733,6 +13805,9 @@
 ||kingwitheaa.lol^
 ||nedukeratio.lol^
 ||npecialukize.lol^
+# LY
+||apv-launcher.minute.ly^
+||yuliya.curt.ly^
 # MA
 ||lereporterexpress.ma^
 # MARKET
@@ -13836,6 +13911,7 @@
 ||advertisement.b-cdn.net^
 ||ai.trk42.net^
 ||ak.deephicy.net^
+||ak.kocairdo.net^
 ||ak.psaltauw.net^
 ||am.cdnetworks.net^
 ||am15.net^
@@ -13900,6 +13976,7 @@
 ||cdn.adsfactor.net^
 ||cdn.adt348.net^
 ||cdn.adt567.net^
+||cdn.amnew.net^
 ||cdn.aralego.net^
 ||cdn.blueconic.net^
 ||cdn.byplay.net^
@@ -14029,6 +14106,7 @@
 ||liqwid.net^
 ||live.soapps.net^
 ||log.bigroundass.net^
+||logws1330.ati-host.net^
 ||louchees.net^
 ||mailbc.hanbiro.net^
 ||matomo.ripe.net^
@@ -14084,6 +14162,7 @@
 ||prebid.ad.smaato.net^
 ||prebid.appnexusgslb.net^
 ||prefmgr-cookie.truste-svc.net^
+||preroll.hostave3.net^
 ||prod-ingestion.tracking.v2.yieldlove-ad-serving.net^
 ||prod.taboola.map.fastly.net^
 ||psootchu.net^
@@ -14091,6 +14170,7 @@
 ||ptoumsid.net^
 ||push-sdk.net^
 ||px.owneriq.net^
+||pxlclnmdecom-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
 ||qmsx.giosis.net^
 ||qsearch-a.akamaihd.net^
@@ -14125,6 +14205,7 @@
 ||sanctam.net^
 ||saumooly.net^
 ||sc-static.net^
+||secure.cdn.fastclick.net^
 ||segments.delidatax.net^
 ||sensic.net^
 ||serve.clicknova.net^
@@ -14245,6 +14326,7 @@
 ||fbi-gov.network^
 ||hgbn.network^
 ||market.moonicorn.network^
+||report.reachit.network^
 ||viewm.moonicorn.network^
 # NL
 ||ads.lekkerads.nl^
@@ -14715,6 +14797,7 @@
 ||pytpbhxpketulvi.top^
 ||qljuamcgrpriu.top^
 ||qualitydating.top^
+||racoonscalodo.top^
 ||refpa.top^
 ||refpazaaig.top^
 ||regulationprivilegescan.top^
@@ -14801,6 +14884,15 @@
 ||webcache.pp.ua^
 # UG
 ||chevrolet.ac.ug^
+# US
+||cdn.geni.us^
+||fbi-usa.us^
+||fbibau.us^
+||fbireport.us^
+||tracker.samplicio.us^
+||usersync.samplicio.us^
+||viralshare.us^
+||www.them.us^
 # WEBSITE
 ||disputumn.website^
 ||nhyey.misrepress.website^
@@ -14893,6 +14985,7 @@
 ||eptrulinebisc.xyz^
 ||erfumescome.xyz^
 ||ethimdownth.xyz^
+||eu.karoon.xyz^
 ||ewukbgaterho.xyz^
 ||excellaskiju.xyz^
 ||ezf.dalanaya.xyz^
@@ -15128,6 +15221,7 @@
 ||cdn-ukwest.onetrust.com^
 ||privacyportal-fr.onetrust.com^
 # Privacymanager.io
+||ats-wrapper.privacymanager.io^
 ||gdpr-consent-tool.privacymanager.io^
 ||gdpr-web-dau-prod.privacymanager.io^
 ||gdpr-web-logs-prod.privacymanager.io^
@@ -15339,6 +15433,7 @@
 ||599b44ea-5da4-459e-8468-0982ee74fece.seals-xcm.certria.com^
 ||5cc9c408-c3fa-41dd-88bb-c303115bb2db.snippet.antillephone.com^
 ||65da6bf5816be8a887ab4c4c2d23ecdb.adjns.com^
+||6600d6d98e534115970f9529a45f3195.js.ubembed.com^
 ||66ce98158e4f402.com^
 ||689ac20aa2.d3da127b69.com^
 ||6mdb.expertfastlink.com^
@@ -15483,6 +15578,7 @@
 ||ads.programattik.com^
 ||ads.projectagoraservices.com^
 ||ads.rekmob.com^
+||ads.securityweek.com^
 ||ads.servenobid.com^
 ||ads.shemedia.com^
 ||ads.sqadsrvr.com^
@@ -15573,6 +15669,7 @@
 ||alpixtrack.com^
 ||alspearowa.com^
 ||altowriestwispy.com^
+||aly.justuno.com^
 ||amatch.bnmla.com^
 ||amazing-dating.com^
 ||amazingcontestsonline.com^
@@ -15635,12 +15732,14 @@
 ||api-reuters-reuters-prod.cdn.arcpublishing.com^
 ||api-sensors.shein.com^
 ||api-v3.tinypass.com^
+||api.abcsinsights.com^
 ||api.addefend.com^
 ||api.adgem.com^
 ||api.adsttc.com^
 ||api.airfind.com^
 ||api.aklamio.com^
 ||api.apiembed.com^
+||api.avo.app^
 ||api.bam-x.com^
 ||api.clickaine.com^
 ||api.cloudgertopage.com^
@@ -15864,6 +15963,7 @@
 ||bs.showheroes.com^
 ||btcfaucetsptcsurveys.wixsite.com^
 ||btpnative.com^
+||bts.a11k.com^
 ||bumpyremittancecarnivorous.com^
 ||butalksuw9dj10.com^
 ||buy.tinypass.com^
@@ -15880,6 +15980,7 @@
 ||c.clarity.ms^
 ||c.deadlinefunnel.com^
 ||c.evidon.com^
+||c.gamedeveloper.com^
 ||c.imedia.cz^
 ||c.jsrdn.com^
 ||c.lycheenews.com^
@@ -15974,7 +16075,6 @@
 ||cdn.eplayassets.com^
 ||cdn.evgnet.com^
 ||cdn.findologic.com^
-||cdn.geni.us^
 ||cdn.goasrv.com^
 ||cdn.granify.com^
 ||cdn.insurads.com^
@@ -15989,6 +16089,7 @@
 ||cdn.localizejs.com^
 ||cdn.lr-in.com^
 ||cdn.magnetcall.com^
+||cdn.memo.co^
 ||cdn.mn1nm.com^
 ||cdn.moengage.com^
 ||cdn.mutinyhq.com^
@@ -16260,6 +16361,7 @@
 ||ctrl.sidebyx.com^
 ||cubecdms.com^
 ||cuddlethehyena.com^
+||cuplikenominee.com^
 ||cushiondrum.com^
 ||cute82.com^
 ||cutopporting.com^
@@ -16391,6 +16493,8 @@
 ||dsp.active-agent.com^
 ||dsp.agat-tech.com^
 ||dt.gnpge.com^
+||dts.clnmde.com^
+||dts6.clnmde.com^
 ||duamilsyr.com^
 ||ductrealistic.com^
 ||dukirliaon.com^
@@ -16451,7 +16555,9 @@
 ||eikegolehem.com^
 ||ejectbagsindefinite.com^
 ||ejp.rlcdn.com^
+||elb.the-ozone-project.com^
 ||ellentmatchwi.com^
+||elsa.memoinsights.com^
 ||em.licasd.com^
 ||embed.scribblelive.com^
 ||embed.tempestpremium.com^
@@ -16460,6 +16566,7 @@
 ||en.pr.ac.rs^
 ||en.ulozto.sk^
 ||enaceanspection.com^
+||endingrude.com^
 ||engine-cm.tiypa.com^
 ||engine.adlogists.com^
 ||engine.blacraft.com^
@@ -16487,7 +16594,9 @@
 ||esmentbrads.com^
 ||esp-m.aptrinsic.com^
 ||esp.aptrinsic.com^
+||esp.rtbhouse.com^
 ||et.twyn.com^
+||ethicalpastime.com^
 ||ethnicacknowledgedbeneficial.com^
 ||ethprofitminer.com^
 ||eu-adsrv.rtbsuperhub.com^
@@ -16498,6 +16607,7 @@
 ||eu2.madsone.com^
 ||eulnl.vornz.com^
 ||ev.api.bdg.com^
+||evaporateahead.com^
 ||event.2performant.com^
 ||event.clientgear.com^
 ||eventapi.libring.com^
@@ -16555,7 +16665,6 @@
 ||fbi-official.com^
 ||fbi-pay.com^
 ||fbi-police.com^
-||fbi-usa.us^
 ||fbi.camera^
 ||fbi.cash^
 ||fbi.com.jo^
@@ -16570,7 +16679,6 @@
 ||fbi9.com^
 ||fbi99.cn^
 ||fbiaustralia.com^
-||fbibau.us^
 ||fbiboston.com.jo^
 ||fbiboston.xn--mgbayh7gpa^
 ||fbicyberdivision.com^
@@ -16591,7 +16699,6 @@
 ||fbipedophilerings.com^
 ||fbiphoto.com^
 ||fbipublicidad.com^
-||fbireport.us^
 ||fbispassport.gq^
 ||fbiurl.com^
 ||fbiusagov.com^
@@ -16647,6 +16754,7 @@
 ||freecash.com^
 ||freegeoip.llll.ninja^
 ||freesexgame.com^
+||friendshipconcerning.com^
 ||friendshipmale.com^
 ||frolicpan.com^
 ||frtfwlvwuw.com^
@@ -16944,6 +17052,7 @@
 ||inabsolor.com^
 ||inboldoreer.com^
 ||includeinthebox.com^
+||increaserev.com^
 ||inediblewiderchuckled.com^
 ||infinitytrk.com^
 ||inflectionquake.com^
@@ -17097,6 +17206,7 @@
 ||kpuid.com^
 ||krjxhvyyzp.com^
 ||krk.kargo.com^
+||krk2.kargo.com^
 ||kshysnypina.com^
 ||ksn-stat-install.kaspersky-labs.com^
 ||kts.cvastico.com^
@@ -17113,6 +17223,7 @@
 ||ladsblue.com^
 ||lago-do.com^
 ||lame7bsqu8barters.com^
+||lamliecehbhdl.com^
 ||lantern.roeye.com^
 ||lantern.roeyecdn.com^
 ||largebrass.com^
@@ -17211,6 +17322,9 @@
 ||madurird.com^
 ||magapab.com^
 ||magararepublic.com^
+||magbup.com^
+||maginp.com^
+||magmbb.com^
 ||magnetapi.klangoo.com^
 ||magnetic.t.domdex.com^
 ||magnetrack.klangoo.com^
@@ -17334,6 +17448,7 @@
 ||money-quickly.com^
 ||moneyguru.co^
 ||moneymakercdn.com^
+||monitor.clickcease.com^
 ||monorail-edge.shopifysvc.com^
 ||montpellier-vipers.com^
 ||mookiyooki.com^
@@ -17413,6 +17528,7 @@
 ||none.coalrate.men^
 ||nonofmylinks.com^
 ||nopoloferewer.com^
+||northcentralus-0.in.applicationinsights.azure.com^
 ||northwestdiddived.com^
 ||notabilitysedative.com^
 ||notbad-ads.com^
@@ -17497,10 +17613,12 @@
 ||openrtb.cootlogix.com^
 ||openx.adhaven.com^
 ||opertyvaluat.com^
+||ophan.theguardian.com^
 ||ophoacit.com^
 ||opinandolo.com^
 ||opositeass.com^
 ||opticlygremio.com^
+||optimise.net^
 ||optimise2.assets-servd.host^
 ||optyruntchan.com^
 ||oqs.omeda.com^
@@ -17536,6 +17654,7 @@
 ||oxydend2r5umarb8oreum.com^
 ||oyi9f1kbaj.com^
 ||ozobsaib.com^
+||p.alcmpn.com^
 ||p.clarity.ms^
 ||p.errorception.com^
 ||p.midserved.com^
@@ -17657,6 +17776,7 @@
 ||pl16345970.highperformancecpm.com^
 ||pl17142106.safestgatetocontent.com^
 ||plaicecaught.com^
+||planebasin.com^
 ||planningunavoidablenull.com^
 ||plantpreventioncrab.com^
 ||plapper-fbi.com^
@@ -17677,6 +17797,7 @@
 ||podosupsurge.com^
 ||poghaurs.com^
 ||polarcdn-engine.com^
+||polarcdn-terrax.com^
 ||polarmobile.com^
 ||politads.com^
 ||poloptrex.com^
@@ -17714,6 +17835,7 @@
 ||preview.anyhentai.com^
 ||prez4success007.theconversionpros.com^
 ||prhzxq.com^
+||pricklypollution.com^
 ||primevalsymphonymuttering.com^
 ||principlessilas.com^
 ||pringed.space^
@@ -17725,6 +17847,7 @@
 ||prod.telemetry.tableausoftware.com^
 ||productmusics.com^
 ||professionalswebcheck.com^
+||proftrafficcounter.com^
 ||promo-bc.com^
 ||promo.pixelsee.app^
 ||promo.vador.com^
@@ -17996,6 +18119,8 @@
 ||seekingalpha.com^
 ||seg.ad.gt^
 ||segmentnext-com.videoplayerhub.com^
+||self.com^
+||send.hsbrowserreports.com^
 ||sendmepush.com^
 ||sentry-next.wixpress.com^
 ||serconmp.com^
@@ -18013,12 +18138,15 @@
 ||session-replay.browser-intake-datadoghq.eu^
 ||sessions.bugsnag.com^
 ||setupslum.com^
+||sfdtabcq.com^
 ||sftwrads.com^
+||sgtm.pacificpavingstone.com^
 ||shadesentimentssquint.com^
 ||shakegoldfish.com^
 ||shareasale-analytics.com^
 ||shareitpp.com^
 ||shepherdbetrayaldecoction.com^
+||shiverscissors.com^
 ||shockingstrategynovelty.com^
 ||shoksips.com^
 ||shopify-gtm-suite.getelevar.com^
@@ -18156,6 +18284,7 @@
 ||static.freeskreen.com^
 ||static.fstsrv2.com^
 ||static.imghst-de.com^
+||static.iris.informa.com^
 ||static.kueezrtb.com^
 ||static.lalaping.com^
 ||static.mailerlite.com^
@@ -18228,6 +18357,7 @@
 ||svibeacon.onezapp.com^
 ||swallowcrockerybless.com^
 ||sweepfrequencydissolved.com^
+||swimmercelerydialogue.com^
 ||swiperjs.com^
 ||swissquote.com^
 ||sync.adotmob.com^
@@ -18235,6 +18365,7 @@
 ||sync.colossusssp.com^
 ||sync.cootlogix.com^
 ||sync.gonet-ads.com^
+||sync.graph.bluecava.com^
 ||sync.hgrtb.com^
 ||sync.inmobi.com^
 ||sync.sync.viewdeos.com^
@@ -18310,6 +18441,7 @@
 ||targaubs.com^
 ||taspectsofcu.com^
 ||taxissunroom.com^
+||tbedrialctknjwq.com^
 ||tcatholicyclea.com^
 ||td.vs3.com^
 ||td.yieldify.com^
@@ -18338,6 +18470,7 @@
 ||terrifictooth.com^
 ||test.javmenu.com^
 ||test.rhodia-ecommerce.com^
+||test.torrentfreak.com^
 ||test2.hanwha-security.com^
 ||test2.wisenetlife.com^
 ||testamenttakeoutkill.com^
@@ -18369,7 +18502,6 @@
 ||thoroughlycanyonunanimously.com^
 ||threedrive.su^
 ||thrillingholesantarctic.com^
-||thumbnails.infolinks.com^
 ||thunderdom-v1.sftapi.com^
 ||thyhoughsh.com^
 ||thyourretyequ.com^
@@ -18456,7 +18588,6 @@
 ||tracker.nbcuas.com^
 ||tracker.nitropay.com^
 ||tracker.ranker.com^
-||tracker.samplicio.us^
 ||tracker.shanon-services.com^
 ||tracker.sqreemtech.com^
 ||tracker.stats.in.th^
@@ -18607,7 +18738,6 @@
 ||uselnk.com^
 ||usenetoffer.download^
 ||usersync-b3.videoamp.com^
-||usersync.samplicio.us^
 ||ushoofop.com^
 ||uslycoloursewo.com^
 ||usync.nexage.com^
@@ -18656,7 +18786,6 @@
 ||vidyome-com.cdn.vidyome.com^
 ||vip.gorotora.com^
 ||virallupdates.com^
-||viralshare.us^
 ||virtualfbi.com^
 ||virtuallylend.com^
 ||visariomedia.com^
@@ -18727,6 +18856,7 @@
 ||welcome.unibet.ee^
 ||welfarefit.com^
 ||weshareabundance.com^
+||wetlinepursuing.com^
 ||wfywchrzpic.com^
 ||whalecashads.com^
 ||whamauft.com^
@@ -18759,6 +18889,7 @@
 ||wintub.com^
 ||winyourprize36.com^
 ||wiringcollectorguffaw.com^
+||wiringsensitivecontents.com^
 ||wisehowronspar.com^
 ||wlbet3000.adsrv.eacdn.com^
 ||wlefbet.adsrv.eacdn.com^
@@ -18812,6 +18943,7 @@
 ||www.ahqpqpdjpj.com^
 ||www.aipulnion.com^
 ||www.aleba.lu^
+||www.architecturaldigest.com^
 ||www.artfut.com^
 ||www.audibletrack.com^
 ||www.backofficess.com^
@@ -18860,6 +18992,7 @@
 ||www.empiri.win^
 ||www.en.advertisercommunity.com^
 ||www.enewsgossip.com^
+||www.epicurious.com^
 ||www.ex-challenge.com^
 ||www.freevpn.win^
 ||www.gaming-adult.com^
@@ -18868,6 +19001,7 @@
 ||www.gearbest.com^
 ||www.giftn.id^
 ||www.girlfriendsfilms.com^
+||www.gq.com^
 ||www.grandx.com^
 ||www.greatdexchange.com^
 ||www.hhllryxtfgypz.com^
@@ -18884,7 +19018,6 @@
 ||www.ilohfbiph.com^
 ||www.imglnkd.com^
 ||www.imglnke.com^
-||www.increaserev.com^
 ||www.jetzt-dabei-sein.com^
 ||www.jkfdnofnz.com^
 ||www.joydownload.com^
@@ -18939,6 +19072,7 @@
 ||www.popbounty.com^
 ||www.predictivdisplay.com^
 ||www.profitablecpmgate.com^
+||www.profitabledisplaycontent.com^
 ||www.profitabledisplaynetwork.com^
 ||www.profitacceleratorsystem.com^
 ||www.prometeo-media-service.com^
@@ -18995,6 +19129,7 @@
 ||www.unibet.ee^
 ||www.unineed.com^
 ||www.updatesoftomorrow.com^
+||www.vanityfair.com^
 ||www.vcloudmedia.com^
 ||www.verajohn.com^
 ||www.verifycaptcha.com^
@@ -19098,7 +19233,6 @@
 ||yourwebbars.com^
 ||yourwownewz.com^
 ||yukongoldinfo.com^
-||yuliya.curt.ly^
 ||yummy.consumable.com^
 ||yuzu-xci-games.5806z.com^
 ||ywronwasthetron.com^
@@ -19578,10 +19712,6 @@
 # 74.201.106.168
 # 74.201.106.132
 ||cdn.services.gearboxsoftware.com^
-||mercury.shift.services.gearbox.com^
-||news.shift.services.gearbox.com^
-||ttwxp-mim.vivox.com^
-||ttwxp.www.vivox.com^
 ||promotions.api.2kcoretech.online^
 # Mafia III
 # Telemetry64.dll im Installationsordner löschen! Adressen sind für Telemetrie und Onlinefunktion zuständig
@@ -19622,6 +19752,12 @@
 ||api.2kgames.com^
 # Spec Ops: The Line
 ||p.line.dev.2kgames.com^
+||mercury.shift.services.gearbox.com^
+||news.shift.services.gearbox.com^
+||ttwxp-mim.vivox.com^
+||ttwxp.www.vivox.com^
+||508223012e5a5ff19f30a391b2bdadc0.my.2k.com^
+||telemetryk.api.2kcoretech.online^
 # WWE 2K17
 # 192.81.242.188
 ||prod-win32-sp.wwe17.2ksports.com^
@@ -21787,8 +21923,6 @@
 # Twitter, Youtube, Facebook, Googlevideo
 ||scores.grimm-bros.com^
 ||dragonfinsoup.com^
-# 208.64.200.105
-# Grinding Gear Games
 # Path of Exile inkl. Steam Version
 # Chinesische Version unter 流放之路 zu finden
 ||hk2-eap.settings.data.microsoft.com.akadns.net.com^
@@ -22752,7 +22886,7 @@
 # Nawia Games
 # Western 1849 Reloaded
 # 208.64.200.105
-# Ndemic Creations
+# Ndemic Creations LTD
 # Plague Inc: Evolved
 # 208.64.200.105
 ||l.ndemiccreations.com^
@@ -22760,6 +22894,7 @@
 ||s-cdn.ndemiccreations.com^
 ||cdn.ndemiccreations.com^
 ||www.ndemiccreations.com^
+||t.ndemiccreations.com^
 # NedoStudio
 # Qvabllock
 # Crashpad Analytics
@@ -23641,6 +23776,7 @@
 # s. Rubrik Kopierschutz / AntiCheat
 # Thrones.exe
 ||6148b9c6-14c1-4747-80a0-e0dbcb770b2e.totalwar.com^
+||www.twopointstudios.com^
 ||track-api.gamesight.io^
 # Valkyria Chronicles 4
 # s. Rubrik Kopierschutz / AntiCheat
@@ -24329,6 +24465,16 @@
 # 35.188.42.15
 # s. Eintrag Steam: IP Checks
 ||unreal.backtrace.io^
+# Expeditions: Rome
+# 54.191.113.36
+# 34.212.224.15
+# 88.198.206.113
+||gamelink.muxy.io^
+||expeditionsseries.com^
+||rome-drops.muxy.io^
+||ec2-34-212-224-15.us-west-2.compute.amazonaws.com^
+||ec2-54-191-113-36.us-west-2.compute.amazonaws.com^
+||static.88-198-206-113.clients.your-server.de^
 # Usertracking
 # Full Spectrum Warrior
 ||fswpc.available.gamespy.com^
@@ -24413,10 +24559,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# THQ / Embracer
-# Biomutant
-# s. Eintrag Steam: IP Checks
-# Ipv4: https://gameindustry.eu/katalog/epic-games-inc/
 # Thunder Lotus Games
 # Jotun: Valhalla Edition
 # Ingameanbindung Steamstore # store.akamai.steamstatic.com
@@ -24630,6 +24772,7 @@
 ||ecommerce.iap.unity3d.com^
 ||eloqua-trackings.unity3d.com^
 ||embedded.cloud.unity3d.com^
+||events.mz.unity3d.com^
 ||jump.cloud.unity3d.com^
 ||lore.cdp.internal.unity3d.com^
 ||lore.data.ie.cdp.internal.unity3d.com^
@@ -24640,6 +24783,7 @@
 ||uca.cloud.unity3d.com^
 ||unityads.unity3d.com^
 # Unity Ads
+||cdn-creatives-cf-prd.acquire.unity3dusercontent.com^
 ||cdn-creatives-tencent-prd.unityads.unitychina.cn^
 ||cdn-store-icons-tencent-prd.unityads.unitychina.cn^
 ||endscreen.unityads.unitychina.cn^
@@ -24662,8 +24806,8 @@
 # 35.241.26.53
 # 35.241.52.229
 ||186.244.227.35.bc.googleusercontent.com^
-||53.26.241.35.bc.googleusercontent.com^
 ||229.52.241.35.bc.googleusercontent.com^
+||53.26.241.35.bc.googleusercontent.com^
 # Data-Optout leitet auf Analytics mitsamt Übergabeparameter/Token weiter. Dazu gehören ProgrammID, UserID, GeräteID
 # Außerdem Einstellungen zu de/aktivierten Analytics, Optout ja/nein, Report erlaubt ja/nein
 # Bei Bedarf de/aktivieren
@@ -25075,5 +25219,4 @@
 ||dump.onlineskillclub.com^
 # ZOV GAME STUDIO
 # To The Light
-# Google Crashpad
 # Google Crashpad
