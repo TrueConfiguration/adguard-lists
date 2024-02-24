@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-02-22T09:00:16.205Z
+! Last modified: 2024-02-24T09:00:16.221Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 23FEB24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4172,6 +4172,7 @@
 ||analytics.avanser.com.au^
 ||analytics.avis.de^
 ||analytics.aweber.com^
+||analytics.b2.ai^
 ||analytics.banksneveraskthat.com^
 ||analytics.basistheory.com^
 ||analytics-batch.blitz.gg^
@@ -15245,6 +15246,7 @@
 ||l.cultgear.com^
 ||lcwodl.bleulibellule.com^
 ||l.dev.audibook.si^
+||ldgnrtn.com^
 ||ldgxsr.locasun-vp.fr^
 ||ldhteg.mooihorloge.nl^
 ||ldnlyap.com^
@@ -22964,6 +22966,7 @@
 ||repdata.yorkdispatch.com^
 ||reply.osv.com^
 ||report.appmetrica.yandex.net.iberostar.com^
+||reportic.app^
 ||reporting-api.gannettinnovation.com^
 ||reporting.autographapp.me^
 ||reporting.cdndex.io^
