@@ -3,7 +3,7 @@
 ! Description: Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 ! License: MIT License
-! Last modified: 2024-03-02T09:00:05.741Z
+! Last modified: 2024-03-05T09:00:06.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -28498,8 +28498,6 @@
 ||connect.facebook.com^
 ||graph-fallback.facebook.com^
 ||mqtt-mini.facebook.com^
-||star.c10r.facebook.com^
-||star.fallback.c10r.facebook.com^
 ||staticxx.facebook.com^
 ||z-m-graph.facebook.com^
 ||connect.facebook.net^
@@ -34750,7 +34748,6 @@
 ||gvkqpogjqvni.com^
 ||gvkzvgm.com^
 ||gvmojhugkiud.com^
-||gvt1-cn.com^
 ||gvyyhjyyfdgxij.xyz^
 ||gvzsrqp.com^
 ||gw-dv.vip^
