@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-03-07T09:00:16.207Z
+! Last modified: 2024-03-09T09:00:15.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6446,6 +6446,7 @@
 ||bluelp.2ask.blue.com.hk^
 ||bluemarblepayroll.actonservice.com^
 ||bluemountains.actonservice.com^
+||blue.nbc4i.com^
 ||blueoyster.click^
 ||blue-rocket.actonservice.com^
 ||bluvue.actonservice.com^
@@ -10885,6 +10886,7 @@
 ||eurotaxsrbija-si.autovistagroup.com^
 ||eusdbk.philosophyofficial.com^
 ||eu.sharpmarketing.eu^
+||eval.privateapi.click^
 ||e.vcty.co^
 ||evenement.ricoh.fr^
 ||event1.thermofisher.com^
@@ -11216,6 +11218,7 @@
 ||feedme.use-beez.com^
 ||fek1.fnactickets.com^
 ||feldman.net.anwalt.de^
+||feliz.data.tm-awx.com^
 ||f-emc.ngsp.gov.vn^
 ||femetrics.grammarly.io^
 ||feqbqn.rent.com^
@@ -22377,7 +22380,6 @@
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
 ||privacy.outdoorsg.com^
-||privateapi.click^
 ||private.cervicalcancer-risk.com^
 ||privateclient.hubinternational.com^
 ||private.roche.com^
