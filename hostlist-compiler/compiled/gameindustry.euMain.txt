@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-03-03T09:00:18.704Z
+! Last modified: 2024-03-11T09:00:19.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -41,6 +41,8 @@
 # Das AcdSee Setup über msiexec.exe telefoniert ebenfalls zu Google
 # 142.250.181.238
 ||www-google-analytics.l.google.com^
+# ACDSee Photo Studio Ultimate 2024
+# {- Ipv4: https://gameindustry.eu/en/search/?suchbegriff=ACDSee+Photo+Studio+Ultimate+2024
 ||dualstack.polyfill.map.fastly.net^
 ||d253eh1koi69kp.cloudfront.net^
 ||d3fd0cu6tq5sya.cloudfront.net^
