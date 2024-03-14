@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-03-12T09:00:16.036Z
+! Last modified: 2024-03-14T09:00:16.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 13MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -3925,6 +3925,7 @@
 ||a.getflowbox.com^
 ||agexpo.americanexpress.com^
 ||aggelakia.openapp.link^
+||aggle.net^
 ||agkn.com^
 ||agma-analytics.de^
 ||agnes.waz.de^
@@ -7434,6 +7435,7 @@
 ||cn-go.experian.com^
 ||cnlbxi.zoopla.co.uk^
 ||cn.mywd.com^
+||cnna.io^
 ||cnpxwl.cheapcaribbean.com^
 ||cnsecurity.actonservice.com^
 ||cns-service.actonservice.com^
@@ -7507,7 +7509,6 @@
 ||collector.automote.co.nz^
 ||collector.cint.com^
 ||collector.clareity.net^
-||collector.dmp.cnna.io^
 ||collector.fiverr.com^
 ||collector.getyourguide.com^
 ||collector.githubapp.com^
@@ -10886,7 +10887,6 @@
 ||eurotaxsrbija-si.autovistagroup.com^
 ||eusdbk.philosophyofficial.com^
 ||eu.sharpmarketing.eu^
-||eval.privateapi.click^
 ||e.vcty.co^
 ||evenement.ricoh.fr^
 ||event1.thermofisher.com^
@@ -11653,6 +11653,7 @@
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcowhi.thesalarycalculator.co.uk^
+||gcprivacy.com^
 ||gct.americanexpress.com^
 ||gc.titans.com.au^
 ||gcudsn.tradetested.co.nz^
@@ -33139,6 +33140,7 @@
 ||track.plygem.com^
 ||track.postkodlotteriet.se^
 ||track.pricespider.com^
+||track.prod.smash.pet^
 ||track.qoof.com^
 ||track.quad.com^
 ||track.realtimeboard.com^
@@ -34809,6 +34811,7 @@
 ||t.soec.ca^
 ||t.soonersports.com^
 ||t.southernmiss.com^
+||t.spbx.app^
 ||t-s.perjeta.com^
 ||t.splicky.com^
 ||tsp.onjoyri.de^
