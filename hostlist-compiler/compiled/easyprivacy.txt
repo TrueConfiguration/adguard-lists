@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-03-16T09:00:16.186Z
+! Last modified: 2024-03-19T09:00:15.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 18MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4139,6 +4139,7 @@
 ||analytics2-3-meride-tv.akamaized.net^
 ||analytics2-meride-tv.akamaized.net^
 ||analytics.30m.com^
+||analytics.3c5.com^
 ||analytics.aasaam.com^
 ||analytics.academy.com^
 ||analytics.adam.page^
@@ -7919,7 +7920,6 @@
 ||convention.interfaceflor.com^
 ||converge.headuplabs.com^
 ||convergentdental.actonservice.com^
-||conversationalsdevelopment.nl^
 ||conversions.genieventures.co.uk^
 ||convertlink.com^
 ||conveyor.lewcoinc.com^
@@ -10288,6 +10288,7 @@
 ||elqtrkstg.intel.com^
 ||elqtrk.thailand.intel.com^
 ||elqtrk.tw.morningstar.com^
+||el.quizlet.com^
 ||elq.utas.edu.au^
 ||elqview2.uclahealth.org^
 ||elqview.kofax.com^
@@ -10765,6 +10766,7 @@
 ||eqtrack.americashomeplace.com^
 ||equippo.actonservice.com^
 ||equity.e2g.com^
+||e.quizlet.com^
 ||eq.userneeds.com^
 ||eqvioe.polihome.gr^
 ||eqy.link^
@@ -33186,6 +33188,7 @@
 ||track.tiara.kakao.com^
 ||track.tom.com^
 ||track.tomwx.net^
+||track.ttsave.app^
 ||track.uc.cn^
 ||track.ultimate-guitar.com^
 ||track.unidata.ai^
