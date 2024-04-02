@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-03-30T09:00:16.682Z
+! Last modified: 2024-04-02T09:00:16.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29MAR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 01APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4390,6 +4390,7 @@
 ||analytics.mc500.info^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
+||analytics.mercadolibre.com^
 ||analytics.metro.be^
 ||analytics.metro-cc.ru^
 ||analytics.metro.co.in^
@@ -21111,6 +21112,7 @@
 ||ocozzio.actonservice.com^
 ||ocpi.americanexpress.ca^
 ||ocs.hagerty.com^
+||ocular.dealabs.com^
 ||ocwlhv.ecid.com.br^
 ||oda.markitondemand.com^
 ||odc.1und1.de^
@@ -22400,6 +22402,7 @@
 ||privateclient.hubinternational.com^
 ||private.roche.com^
 ||prkvlr.camper.com^
+||pr.nss.netease.com^
 ||prnzxf.glamira.se^
 ||pro.6arry.com^
 ||pro.bizportal.co.il^
@@ -31081,6 +31084,7 @@
 ||tag.flagship.io^
 ||tagger.opecloud.com^
 ||tagger.ope.scmp.com^
+||tagging.steelseries.com^
 ||tag.goldenbees.fr^
 ||tag.imagino.com^
 ||tag.leadplace.fr^
