@@ -3,7 +3,7 @@
 ! Description: Prigent-Ads, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2024-04-04T09:00:39.721Z
+! Last modified: 2024-04-06T09:00:40.475Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Ads.txt
 !
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 03APR24 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 05APR24 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0nlinemeds.com^
 ||1-2-money.com^
@@ -482,6 +482,7 @@
 ||adpredictive.com^
 ||adprofile.net^
 ||adprotraffic.com^
+||adpushup.com^
 ||adpv.com^
 ||adrazzi.com^
 ||adreactor.com^
@@ -1162,6 +1163,7 @@
 ||advertisementafterthought.com^
 ||advertiserurl.com^
 ||advertisespace.com^
+||advertising.amazon.com^
 ||advertising.com^
 ||advertising.quote.com^
 ||advertisingbanners.com^
@@ -1295,6 +1297,7 @@
 ||app-analytics.snapchat.com^
 ||app.pendo.io^
 ||applovin.com^
+||appnext.com^
 ||appsflyer.com^
 ||aps.hearstnp.com^
 ||apture.com^
@@ -1609,6 +1612,7 @@
 ||chinsnakes.com^
 ||chitika.com^
 ||chitika.net^
+||chocolateplatform.com^
 ||christingel.com^
 ||ciberbanner.com^
 ||cibleclick.com^
@@ -1943,6 +1947,7 @@
 ||erne.co^
 ||ero-advertising.com^
 ||errortablet.com^
+||est-regie.com^
 ||estat.com^
 ||etahub.com^
 ||etarget.hu^
@@ -2280,6 +2285,7 @@
 ||information.com^
 ||informer.com^
 ||inmobi.com^
+||inner-active.com^
 ||innocentwax.com^
 ||innovafox.com^
 ||innovid.com^
@@ -2606,6 +2612,7 @@
 ||myfactoryjob.fr^
 ||myfullline.info^
 ||mylink-today.com^
+||mylittlebigweb.com^
 ||mymoneymakingapp.com^
 ||mypagerank.net^
 ||mypagerank.ru^
@@ -2623,6 +2630,7 @@
 ||naj.sk^
 ||napalca.com^
 ||nativeroll.tv^
+||nativex.com^
 ||navigator.io^
 ||navrcholu.cz^
 ||nbjmp.com^
@@ -2926,6 +2934,7 @@
 ||pub.tappx.com^
 ||pub.uchimit.fr^
 ||pubdirecte.com^
+||pubinteractive.ca^
 ||publicidad.elmundo.es^
 ||publicidad.net^
 ||publicidad.universodemujeres.com^
@@ -3727,12 +3736,3 @@
 ||zumodemarketing.com^
 ||zxxds.net^
 ||zy16eoat1w.com^
-||mylittlebigweb.com^
-||est-regie.com^
-||www.adpushup.com^
-||pubinteractive.ca^
-||advertising.amazon.com^
-||www.inner-active.com^
-||chocolateplatform.com^
-||nativex.com^
-||www.appnext.com^

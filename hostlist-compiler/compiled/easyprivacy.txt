@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-04-04T09:00:15.289Z
+! Last modified: 2024-04-06T09:00:15.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 05APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -3405,6 +3405,8 @@
 ||accutrain.actonservice.com^
 ||accuzip.actonservice.com^
 ||accwww9.53kf.com^
+||ac.dun.163.com^
+||ac.dun.163yun.com^
 ||ac-ebis.otoraku.jp^
 ||ac-ebis-otrk.usen.com^
 ||ac-ebis-stb.usen.com^
@@ -4092,6 +4094,7 @@
 ||amo.myoyster.mx^
 ||amp-error-reporting.appspot.com^
 ||amplifypixel.outbrain.com^
+||amplitude.chess.com^
 ||ampltd2.medal.tv^
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
@@ -7310,6 +7313,7 @@
 ||client-log.box.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
+||clientlog.music.163.com^
 ||client-metrics.chess.com^
 ||clients.belairdirect.com^
 ||clientservice.alphasimplex.com^
@@ -11471,6 +11475,7 @@
 ||fptls3.com^
 ||fptls.com^
 ||fpt.microsoft.com^
+||fp-upload.dun.163.com^
 ||fpxewa.ilmeteo.it^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqcqnb.dwr.com^
@@ -24735,6 +24740,7 @@
 ||sense.cliexa.com^
 ||sentiment.icis.com^
 ||sentry.arc.io^
+||sentry.music.163.com^
 ||seoab.io^
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^
@@ -30808,6 +30814,7 @@
 ||suydnc.wwf.it^
 ||svarcom.actonservice.com^
 ||svc2.sc.com^
+||svc.eu01.miro.com^
 ||svibeacon.onezapp.com^
 ||svmarketing.destinationtoronto.com^
 ||svmarketing.torcvb.com^
@@ -33482,6 +33489,7 @@
 ||trck.repesta.com^
 ||trck.rework-s.com^
 ||trckr.nordiskemedier.dk^
+||trcksplt.miro.com^
 ||trck.spoteffects.net^
 ||trck.stefany.co.jp^
 ||trck.www4.earlywarning.com^
