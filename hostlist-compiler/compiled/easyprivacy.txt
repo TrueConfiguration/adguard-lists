@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-04-09T09:00:15.460Z
+! Last modified: 2024-04-11T09:00:16.203Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 10APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7031,6 +7031,7 @@
 ||casl.couch-associates.com^
 ||caspionlog.appspot.com^
 ||ca.ssl.holdmybeerconsulting.com^
+||castify-trk.playitviral.com^
 ||cast.net.anwalt.de^
 ||catalogs.printplace.com^
 ||cat.fonecta.fi^
@@ -7384,7 +7385,6 @@
 ||cmon.congress.gov^
 ||cmp2.channelpartner.de^
 ||cmp.courrierinternational.com^
-||cmp.datasign.co^
 ||cmp.dreamlab.pl^
 ||cmp.finn.no^
 ||cmp.huffingtonpost.fr^
@@ -16444,6 +16444,7 @@
 ||logs.mezmo.com^
 ||log.snapdeal.com^
 ||logs.naukri.com^
+||logs.netflix.com^
 ||logs-partners.coupang.com^
 ||logs.spilgames.com^
 ||logstash-3.radio-canada.ca^
@@ -21527,6 +21528,7 @@
 ||opsveda.actonservice.com^
 ||opt.delta.com^
 ||opticca.actonservice.com^
+||opticksprotection.com^
 ||opti-digital.com^
 ||optifiantsion.carte-gr.total.fr^
 ||optimeeze.appspot.com^
@@ -22264,6 +22266,7 @@
 ||pljuin.lensmode.com^
 ||pl.kanbanmail.app^
 ||pl.kis-nagy.art^
+||pl.letsblock.it^
 ||pll.pearlinsurance.com^
 ||pl.maya-astro.fi^
 ||pl.mynorthstarapp.com^
@@ -28862,6 +28865,7 @@
 ||sreport.mitsubishicars.com^
 ||srglobal.actonservice.com^
 ||srm4.destinia.co.no^
+||srmdata-eur.com^
 ||srmdvb.ekohealth.com^
 ||srmy.srglobal.com^
 ||srnzdl.morhipo.com^
@@ -34131,6 +34135,7 @@
 ||trk.plantafin.fr^
 ||trk.planta.pt^
 ||trk.plasticstoday.com^
+||trk.playitviral.com^
 ||trk.powderandbulkshow.com^
 ||trk.powderandbulksolids.com^
 ||trk.powerdms.com^
