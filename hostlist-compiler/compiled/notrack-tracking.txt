@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-04-14T09:00:36.726Z
+! Last modified: 2024-04-15T09:00:40.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -707,9 +707,6 @@
 ||analytics.yiyouliao.com^
 ||analytics.yolacdn.net^
 ||analytics.yongjinbao.com.cn^
-||analytics.zenly-app.com^
-||analytics.zpbt.uk^
-||analyticsdcs.ccs.mcafee.com^
 ||analyticsmsp.com^
 ||analyticspixel.microsoft.com^
 ||analyticssystems.net^
@@ -753,11 +750,8 @@
 ||api64.com^
 ||apien.ldmnq.com^
 ||apnanalytics.com^
-||app-analytics-cn.huami.com^
 ||app-analytics-de.huami.com^
-||app-analytics-in.huami.com^
 ||app-analytics-ru.huami.com^
-||app-analytics-sg.huami.com^
 ||app-analytics-us.huami.com^
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.huami.com^
