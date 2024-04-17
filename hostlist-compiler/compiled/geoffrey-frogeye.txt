@@ -3,7 +3,7 @@
 ! Description: First-party trackers host list
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2024-04-16T09:00:20.639Z
+! Last modified: 2024-04-17T09:00:21.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -652,6 +652,7 @@
 ||bidder.nl3.vip.prod.criteo.com^
 ||bidder.par.vip.prod.criteo.com^
 ||bidder.sg1.vip.prod.criteo.com^
+||bidder.us5.vip.prod.criteo.com^
 ||bidder.va1.vip.prod.criteo.com^
 ||bigfishgamesinc.tt.omtrdc.net^
 ||big.srax.com^
@@ -817,6 +818,7 @@
 ||cat.par.vip.prod.criteo.com^
 ||catracking.finning.com^
 ||cat.sg1.vip.prod.criteo.com^
+||cat.us5.vip.prod.criteo.com^
 ||cat.va1.vip.prod.criteo.com^
 ||cat.va.us.criteo.com^
 ||cbcca.hb.omtrdc.net^
@@ -1470,6 +1472,7 @@
 ||dynamic.nl3.vip.prod.criteo.com^
 ||dynamic.par.vip.prod.criteo.com^
 ||dynamic.sg1.vip.prod.criteo.com^
+||dynamic.us5.vip.prod.criteo.com^
 ||dynamic.va1.vip.prod.criteo.com^
 ||e2.hazeldenbettyford.org^
 ||e3rd01.eulerian.net^
@@ -6794,6 +6797,7 @@
 ||mug.nl3.vip.prod.criteo.com^
 ||mug.par.vip.prod.criteo.com^
 ||mug.sg1.vip.prod.criteo.com^
+||mug.us5.vip.prod.criteo.com^
 ||mug.va1.vip.prod.criteo.com^
 ||mutualofomahaemail.com^
 ||mva1.maeva.com^
