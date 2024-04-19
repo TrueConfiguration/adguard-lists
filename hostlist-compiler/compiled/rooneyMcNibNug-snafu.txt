@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-04-18T09:00:45.456Z
+! Last modified: 2024-04-19T09:00:44.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11746,3 +11746,26 @@
 ||metrics.uniteux.telerik.com^
 ||lulus.us.com^
 ||spy.pet^
+||ads-verifier.sundaysky.com^
+||adrtb-google-usw1.sundaysky.com^
+||adrtb-br-usw1.sundaysky.com^
+||adrtb-br-use1.sundaysky.com^
+||adrtb-cache-use.sundaysky.com^
+||adrtb-google-use1.sundaysky.com^
+||ads-cdn.sundaysky.com^
+||ads-vop.sundaysky.com^
+||adsrv-vast.sundaysky.com^
+||bitrbtevnt.com^
+||s3xified.com^
+||dstillery.com^
+||ad-l.media6degrees.com^
+||ad-e2.media6degrees.com^
+||ad-l2.media6degrees.com^
+||ad-s1.media6degrees.com^
+||ade-beta.media6degrees.com^
+||ad-e1.media6degrees.com^
+||ad.media6degrees.com^
+||ad-s2.media6degrees.com^
+||cdn.media6degrees.com^
+||showmore.cc^
+||ucfunnel.com^
