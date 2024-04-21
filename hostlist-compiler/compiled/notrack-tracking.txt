@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-04-19T09:00:37.659Z
+! Last modified: 2024-04-21T09:00:38.462Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -236,6 +236,7 @@
 ||adlightning.com^
 ||adlook.me^
 ||adlooxtracking.com^
+||adlooxtracking.ru^
 ||adlucent.com^
 ||admailtiser.com^
 ||admanmedia.com^
@@ -14303,6 +14304,9 @@
 ||pghub.io^
 ||pglstatp-toutiao.com^
 ||pgteu1-excel-telemetry-vip.officeapps.live.com^
+||pgteu2-word-telemetry-vip.officeapps.live.com^
+||pgteu3-powerpoint-telemetry-vip.officeapps.live.com^
+||pgteu4-excel-telemetry-vip.officeapps.live.com^
 ||phluant.com^
 ||phone.igexin.com^
 ||phonograph2.voxmedia.com^
@@ -16086,6 +16090,7 @@
 ||telemetry.appex.bing.net^
 ||telemetry.art19.com^
 ||telemetry.battle.net^
+||telemetry.canva.com^
 ||telemetry.dropbox.com^
 ||telemetry.gfe.nvidia.com^
 ||telemetry.intel.com^
