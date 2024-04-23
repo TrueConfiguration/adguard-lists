@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-04-20T09:00:15.475Z
+! Last modified: 2024-04-23T09:00:15.599Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -3874,6 +3874,7 @@
 ||affi.best-hoiku.com^
 ||afficv.lettuce.co.jp^
 ||affilate.hh.ru^
+||affiliate-api.raptive.com^
 ||affiliate.couleur-labo.com^
 ||affiliate.dietician-family.jp^
 ||affiliate.htb-energy.co.jp^
@@ -5998,6 +5999,7 @@
 ||auwdff.dyfashion.ro^
 ||aux.lansator.ro^
 ||av6fm8zw2cvz.furucombo.app^
+||avads.net^
 ||avalere.actonservice.com^
 ||avaloninnovation.actonservice.com^
 ||avandsecurity.actonservice.com^
@@ -8253,6 +8255,7 @@
 ||cv.agent-sana.com^
 ||cv.a-hikkoshi.com^
 ||cv.a-internet.jp^
+||c.vanityfair.com^
 ||cv.atelier-shark.com^
 ||cv.b2b.subscription-store.com^
 ||cv.bc-force.com^
@@ -8637,6 +8640,7 @@
 ||data.digitalks.az^
 ||data.discover.ringcentral.com^
 ||datadog-service.mvfglobal.com^
+||datadome.maisonsdumonde.com^
 ||datadome.patreon.com^
 ||data.dow.com^
 ||data.dreambaby.be^
@@ -9602,6 +9606,7 @@
 ||dngpzy.bfmtv.com^
 ||dngpzy.zone-turf.fr^
 ||dnhrxt.kintetsu-re.co.jp^
+||dniyppubkuut7.cloudfront.net^
 ||dnkeyt.svetsochtillbehor.se^
 ||dnltkp.lampeetlumiere.fr^
 ||dnn506yrbagrg.cloudfront.net^
@@ -16578,7 +16583,6 @@
 ||logstash-3.radio-canada.ca^
 ||logs.thebloggernetwork.com^
 ||logs.theccaa.com^
-||logs.viadata.store^
 ||logs.viavideo.digital^
 ||log.tagtic.cn^
 ||logtail.com^
@@ -18563,6 +18567,7 @@
 ||mcrmqv.joiasprime.com.br^
 ||mcs-ie.tiktokw.eu^
 ||mcs.tiktokv.us^
+||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mcs.zijieapi.com^
@@ -22834,6 +22839,7 @@
 ||qc.newyorker.com^
 ||qcppad.merrell.com^
 ||qc.qualicocommunitieswinnipeg.com^
+||qc.vanityfair.com^
 ||qc.vogue.com^
 ||qc.wired.com^
 ||qdicel.marymaxim.com^
@@ -30280,6 +30286,7 @@
 ||stats.meijer.com^
 ||stats.mein-futterlexikon.org^
 ||stats.memberdrive.org^
+||stats.mempool.space^
 ||stats.meno.science^
 ||stats.merx.com^
 ||stats.mesenvies.fr^
@@ -32607,6 +32614,7 @@
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
+||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nbcuas.com^
 ||tracker.nitropay.com^
