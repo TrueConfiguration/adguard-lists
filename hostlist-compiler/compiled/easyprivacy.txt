@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-04-27T09:00:15.989Z
+! Last modified: 2024-04-30T09:00:18.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 29APR24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6545,6 +6545,7 @@
 ||bot.stackbots.com^
 ||bot.streaktrivia.com^
 ||bounceexchange.com^
+||bouncex.net^
 ||boutique.ricoh.fr^
 ||bowl.actonservice.com^
 ||box.bossdata.be^
@@ -7112,6 +7113,7 @@
 ||cdn.net.elogia.net^
 ||cdn-rum.ngenix.net^
 ||cdn.usefathom.com^
+||cdnwidget.com^
 ||cdp.cifinancial.com^
 ||cdp.yna.co.kr^
 ||cdrive.compellent.com^
@@ -8147,6 +8149,7 @@
 ||cs1863sbeda.glaucoma-arrest.net^
 ||cs2113sbeda.hokto-onlineshop.jp^
 ||cs42.pikabu.ru^
+||cs43.pikabu.ru^
 ||cs.analytics.lego.com^
 ||cs.coopeservidores.fi.cr^
 ||cscsexam.quantresear.ch^
@@ -10997,7 +11000,6 @@
 ||event.dnv.com^
 ||event.evtm.53.com^
 ||eventgateway.soundcloud.com^
-||event.getblue.io^
 ||event.grassicpas.com^
 ||event.hackle.io^
 ||event.instiengage.com^
@@ -12438,6 +12440,7 @@
 ||go.piccolo.mobi^
 ||go.picsart.com^
 ||go.pinoy.innovatedating.com^
+||go.planetnine.com^
 ||go.playbackbone.com^
 ||go.player2app.com^
 ||go.plygem.com^
@@ -12596,6 +12599,7 @@
 ||go.unverbluemt.de^
 ||go.uscad.com^
 ||go.usecaya.com^
+||go-usertrack-importer.pub.24ur.si^
 ||go.ustruckbody.com^
 ||go.venezuela.innovatedating.com^
 ||governmentcloud.avaya.com^
@@ -12889,6 +12893,7 @@
 ||hines.actonservice.com^
 ||hipizza.openapp.link^
 ||hipkqt.contorion.de^
+||hirsung.de^
 ||hi.streetworkoutlist.com^
 ||hi.syllable.ai^
 ||hitachi-hightech-as.actonservice.com^
@@ -14764,6 +14769,7 @@
 ||ipixsi.aboutyou.fi^
 ||i.play.vividpicks.com^
 ||ip.lovely-app.com^
+||ip.momentummedia.com.au^
 ||ipn-app.hotdoc.com.au^
 ||i.poker2u.app^
 ||i.pokerbros.net^
@@ -18522,6 +18528,7 @@
 ||ma.tss.se^
 ||matsubun.matsubun.com^
 ||matt.mercadolivre.com.br^
+||mat.ukraine-nachrichten.de^
 ||matytt.tone.ne.jp^
 ||maui.shakaguide.com^
 ||ma.uslawns.com^
@@ -22062,6 +22069,7 @@
 ||p.classroombookings.com^
 ||pcm.symantec.com^
 ||pcnphysio-com.ca-eulerian.net^
+||pcp.coupert.com^
 ||pc.personalcreations.com^
 ||p.cquotient.com^
 ||pcs.capgroup.com^
@@ -22572,6 +22580,7 @@
 ||premiumapp.byjus.com^
 ||prenesi-mojm.mercator.si^
 ||preview.fi-institutional.com.au^
+||prfct.co^
 ||prf.vagnt.com^
 ||prhhqo.vintagevoyage.ru^
 ||primary-app.hotdoc.com.au^
@@ -31269,6 +31278,7 @@
 ||t3e.firstchoice.co.uk^
 ||t570.wiltonbulletin.com^
 ||t7baxp1xmw00.boxoffice.adventuretix.com^
+||t810.ctpost.com^
 ||t8.mailperformance.com^
 ||t.91syun.com^
 ||t.9gag.com^
@@ -37566,6 +37576,7 @@
 ||ztfjtn.liujo.com^
 ||ztgblo.vidaxl.lt^
 ||ztqnls.lojasrenner.com.br^
+||ztsrv.com^
 ||zudopk.callondoc.com^
 ||zudver.matsmart.se^
 ||zug.sbb.ch^
