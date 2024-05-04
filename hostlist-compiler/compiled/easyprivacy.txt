@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-05-02T09:00:17.768Z
+! Last modified: 2024-05-04T09:00:16.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 03MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6184,6 +6184,7 @@
 ||azg1.emalu-store.com^
 ||a.zleep.com^
 ||azlyta.immowelt.de^
+||az.nzn.io^
 ||azscgj.penningtons.com^
 ||azwxpp.nequittezpas.jp^
 ||azxhnt.uniformadvantage.com^
@@ -7489,7 +7490,6 @@
 ||cnt.nov.ru^
 ||cnt.rambler.ru^
 ||cnt.rate.ru^
-||cnt.trvdp.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
 ||cnt.wetteronline.de^
@@ -22281,6 +22281,7 @@
 ||pktbag.flighthub.com^
 ||pktytp.membershop.lv^
 ||pl.1feed.app^
+||pla.fwdcdn.com^
 ||plan.devbyexample.com^
 ||plans.ceteraretirement.com^
 ||plans.fundtherebuild.com^
@@ -23518,6 +23519,7 @@
 ||rum.azion.com^
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
+||rum-ingress-coralogix.com^
 ||rum.ingress.layer0.co^
 ||rum.kobo.com^
 ||rum.layer0.co^
@@ -30893,6 +30895,7 @@
 ||strack.tarif.allianz.ch^
 ||strack.www.allianzcare.com^
 ||strack.www.allianzcare-corporate.com^
+||strapi.clickjogos.com.br^
 ||strategycompanion.actonservice.com^
 ||stratitude.actonservice.com^
 ||strawberry.basf.com^
@@ -32623,6 +32626,7 @@
 ||tracker.iltrovatore.it^
 ||tracker.incite-group.com^
 ||tracker.insurancenexus.com^
+||tracker.jkplayers.com^
 ||tracker.jkstremum.xyz^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
@@ -32654,6 +32658,7 @@
 ||tracker.tolvnow.com^
 ||tracker.tubecj.com^
 ||tracker.unbxdapi.com^
+||tracker-v4.gamedock.io^
 ||tracker.wigzopush.com^
 ||tracker.winload.de^
 ||tracker.wpserveur.net^
@@ -37515,6 +37520,7 @@
 ||z.inlist.com^
 ||zion.qbo.intuit.com^
 ||zion-telemetry.api.cnn.io^
+||zion-telemetry-nonprod.api.cnn.io^
 ||zio.xcar.com.cn^
 ||zippyfrog.co^
 ||ziqrso.24mx.no^
