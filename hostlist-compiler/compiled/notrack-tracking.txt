@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-05-04T09:00:40.491Z
+! Last modified: 2024-05-05T09:00:40.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -946,7 +946,6 @@
 ||bonzai.co^
 ||boo-box.com^
 ||books-analytics-events.apple.com^
-||books-analytics-events.news.apple-dns.net^
 ||boomads.com^
 ||boostable.com^
 ||bounceads.net^
@@ -986,7 +985,6 @@
 ||brunettemattersrefused.com^
 ||bstats.org^
 ||btloader.com^
-||btrace.wetvinfo.com^
 ||btrll.com^
 ||btserve.com^
 ||btstatic.com^
@@ -1063,7 +1061,6 @@
 ||cdxr53.com^
 ||cedeimprovise.com^
 ||cedexis-radar.net^
-||cedexis-ssl.cdn.warpcache.net^
 ||cedexis-test.com^
 ||cedexis.com^
 ||celeryisolatedproject.com^
@@ -1082,7 +1079,6 @@
 ||chartbeat.net^
 ||chartboost.com^
 ||cheetahmail.com^
-||chfpgcbe.com^
 ||chicdn.net^
 ||chimpstatic.com^
 ||chipspasteprowl.com^
@@ -4766,10 +4762,13 @@
 ||mkt1202.com^
 ||mkt12022.com^
 ||mkt12024.com^
+||mkt12025.com^
 ||mkt12028.com^
+||mkt12029.com^
 ||mkt1203.com^
 ||mkt12032.com^
 ||mkt12033.com^
+||mkt12034.com^
 ||mkt1204.com^
 ||mkt1205.com^
 ||mkt1206.com^
