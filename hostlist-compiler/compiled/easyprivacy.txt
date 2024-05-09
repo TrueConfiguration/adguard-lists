@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-05-07T09:00:16.814Z
+! Last modified: 2024-05-09T09:00:16.673Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 08MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4310,6 +4310,7 @@
 ||analytics.gazeta.pl^
 ||analytics.geastore.com^
 ||analytics.geekyminds.net^
+||analytics.genial.ly^
 ||analytics.geoutletstore.com^
 ||analytics.gestore.com^
 ||analytics.getshogun.com^
@@ -12419,7 +12420,6 @@
 ||go.ondutydoc.com^
 ||go.onecart.co.za^
 ||go.onefc.com^
-||go.oracle.com^
 ||go.oroinc.com^
 ||go.ortholive.com^
 ||go.ovsoftware.nl^
@@ -22479,6 +22479,7 @@
 ||pm.eu.viatrisconnect.de^
 ||pm.eu.viatrisconnect.it^
 ||pm.geniusmonkey.com^
+||p.minds.com^
 ||pmmpjb.matratzen-concord.de^
 ||pm.pmu.fr^
 ||pnaagn.haekplanter-heijnen.dk^
@@ -23551,6 +23552,7 @@
 ||rwohdj.motocard.com^
 ||rwpuqm.underarmour.es^
 ||rwrnkb.lifelongcollectibles.com^
+||r.wz.de^
 ||rxaap.actonservice.com^
 ||rx.capsulecares.com^
 ||rxhsry.sortiraparis.com^
@@ -31808,6 +31810,7 @@
 ||telemetry.navispherecarrier.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
+||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.stryker.com^
 ||telemetry.tableausoftware.com^
@@ -32648,6 +32651,7 @@
 ||tracker.services.vaix.ai^
 ||tracker.shanon-services.com^
 ||tracker.shopclues.com^
+||tracker.smartframe.io^
 ||tracker.smartseminar.jp^
 ||tracker.softcube.com^
 ||tracker.ssl0d.com^
