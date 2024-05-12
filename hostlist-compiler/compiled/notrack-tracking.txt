@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-05-11T09:00:40.138Z
+! Last modified: 2024-05-12T09:00:40.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4698,6 +4698,7 @@
 ||mkt11960.com^
 ||mkt11962.com^
 ||mkt11963.com^
+||mkt11967.com^
 ||mkt1197.com^
 ||mkt11971.com^
 ||mkt11975.com^
@@ -4726,6 +4727,7 @@
 ||mkt12022.com^
 ||mkt12024.com^
 ||mkt12025.com^
+||mkt12026.com^
 ||mkt12028.com^
 ||mkt12029.com^
 ||mkt1203.com^
@@ -14004,7 +14006,6 @@
 ||okayarab.com^
 ||olapic.com^
 ||oldrrb.bid^
-||om.au^
 ||omeda.com^
 ||omessage.com^
 ||ometria.com^
@@ -14062,7 +14063,6 @@
 ||openxenterprise.com^
 ||ophan.co.uk^
 ||opinionbar.com^
-||opinionsquare.com^
 ||opmnstr.com^
 ||optad360.io^
 ||optilead.co.uk^
@@ -14147,7 +14147,6 @@
 ||perfdrive.com^
 ||perfectaudience.com^
 ||perfectmarket.com^
-||perfiliate.com^
 ||performable.com^
 ||performancetrustednetwork.com^
 ||performax.cz^
@@ -14222,7 +14221,6 @@
 ||pixelbox.uimserv.net^
 ||pixeleze.com^
 ||pixels.ai^
-||pixelsrvdmn.com^
 ||pixelunion.net^
 ||pixfuture.net^
 ||pixiedust.buzzfeed.com^
@@ -14299,7 +14297,6 @@
 ||privatestats.whatsapp.net^
 ||privy.com^
 ||privymktg.com^
-||prmtracking3.com^
 ||prmutv.co^
 ||prnx.net^
 ||pro-market.net^
@@ -14360,7 +14357,6 @@
 ||pubnative.net^
 ||pubs.xl.pt^
 ||pubs2.latinspots.com^
-||pubsqrd.com^
 ||pubstack.io^
 ||pubtrack.co^
 ||pubwise.io^
@@ -14391,7 +14387,6 @@
 ||pushprofit.ru^
 ||pushspring.com^
 ||pushub.net^
-||pushvault.com^
 ||pushwoosh.com^
 ||pushy.ai^
 ||pussycash.com^
@@ -14404,7 +14399,6 @@
 ||px.staticfiles.at^
 ||pxi.pub^
 ||pxl.indeed.com^
-||pxlad.io^
 ||pxlsrv.net^
 ||pxltgr.com^
 ||q1media.com^
@@ -14492,7 +14486,6 @@
 ||reluctanceleatheroptional.com^
 ||relybelonged.com^
 ||remainmother.com^
-||remarketingpixel.com^
 ||remembercompetitioninexplicable.com^
 ||rentingimmoderatereflecting.com^
 ||repentancematernity.com^
@@ -14521,7 +14514,6 @@
 ||reunitedtune.com^
 ||rev.contractoruk.com^
 ||revcontent.com^
-||revealytics.com^
 ||revenue.com^
 ||revenuecpmnetwork.com^
 ||revenueflex.com^
@@ -14544,9 +14536,7 @@
 ||ricewaterhou.xyz^
 ||richaudience.com^
 ||richmedia.cz^
-||richmetrics.com^
 ||richrelevance.com^
-||rightmoveanalytics.co.uk^
 ||rilelogicbuy.com^
 ||riotousunspeakablestreet.com^
 ||riotpixels.net^
@@ -14582,7 +14572,6 @@
 ||rtactivate.com^
 ||rtbanalytics.com^
 ||rtbidder.net^
-||rtbtrackers.com^
 ||rtmark.net^
 ||rts.mobula.sdk.duapps.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
@@ -14593,9 +14582,7 @@
 ||rudderstack.com^
 ||rum.kobo.com^
 ||rum.layer0.co^
-||rum.minutemediaservices.com^
 ||rum.ngenix.net^
-||rum20.a.trbcdn.net^
 ||runadtag.com^
 ||runative-syndicate.com^
 ||rundsp.com^
@@ -14646,7 +14633,6 @@
 ||sayutracking.co.uk^
 ||sc-analytics.appspot.com^
 ||sc-static.net^
-||sc.3xdb.com^
 ||sc.smardroid.com^
 ||scarabresearch.com^
 ||scenepass.com^
@@ -14656,7 +14642,6 @@
 ||schoolboyfingernail.com^
 ||scoota.co^
 ||scorecardresearch.com^
-||scoutanalytics.net^
 ||scramblerun.com^
 ||scriptvealpatronage.com^
 ||scsmetrics.vodafone.it^
@@ -14669,7 +14654,6 @@
 ||se07.biz^
 ||seaofads.com^
 ||search-log-1.tapatalk.com^
-||searchanalytics.turkcell.com.tr^
 ||searchlinks.com^
 ||searchmarketing.com^
 ||seat.it^
@@ -14680,7 +14664,6 @@
 ||securecd-smnd.com^
 ||securedvisit.com^
 ||securemetrics.apple.com^
-||securemetrics.yeezygap.com^
 ||securepaths.com^
 ||sedatecompulsiveout.com^
 ||seedownshow.live^
@@ -14695,7 +14678,6 @@
 ||sellathon.com^
 ||semasio.net^
 ||sematext.com^
-||sendekazan100.com^
 ||sendgrid.me^
 ||sendinblue.com^
 ||sendpulse.com^
@@ -14720,7 +14702,6 @@
 ||settlepineapple.com^
 ||severaljack.com^
 ||sevokop.com^
-||sex-affiliation.com^
 ||sexualpitfall.com^
 ||shaggyselectmast.com^
 ||shareaholic.com^
