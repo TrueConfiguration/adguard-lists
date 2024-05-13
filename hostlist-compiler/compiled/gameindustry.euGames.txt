@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-03-03T09:00:17.475Z
+! Last modified: 2024-05-13T09:00:20.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -196,6 +196,7 @@
 # Epic Games Datarouter
 # Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
 ||datarouter-weighted.ol.epicgames.com^
+||datarouter.cfef.live.use1a.on.epicgames.com^
 # Paradox Interactive AB
 # Paradox Launcher
 # Telemetrie und Tracking
@@ -2750,6 +2751,9 @@
 # s. Rubrik Kopierschutz / AntiCheat
 ||logs.freejamgames.com^
 ||cluster-d.playfabapi.com^
+# Misc
+||funcom.pubsub.iegcom.com^
+||bugserver-exiles.funcom.com^
 ||sb-ssl.google.com^
 ||safebrowsing.clients.google.com^
 # Game Ever Studio
@@ -4299,33 +4303,6 @@
 # 157.240.223.15
 ||external-dus1-1.xx.fbcdn.net^
 ||xx-fbcdn-shv-01-dus1.fbcdn.net^
-# Playway S.A. und Rejected Games
-# Mr. Prepper
-# Ip/s blockieren:
-# 142.250.74.206
-# 216.58.212.174
-# 2a00:1450:4001:82b::200e
-# Playway S.A. & Play2Chill S.A.
-# Motorcycle Mechanic Simulator 2021
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# 35.190.78.8
-# Plug In Digital and Cinétévé Experience
-# Emma the Story
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# POCKET PAIR, Inc.
-# Craftopia
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# VRoid Schnittstelle
-# 104.18.31.199
-||accounts.pixiv.net.cdn.cloudflare.net^
-||accounts.pixiv.net^
-||s.pximg.net^
 ||pwg-matchbot.herokuapp.com^
 # PolarityFlow
 # Sky Mercenaries
@@ -5203,6 +5180,9 @@
 # 52.70.146.197 # Beinhaltet folgende 4 Adressen/hostnamen
 ||hmsniper.os.eidos.com^
 ||dxbreach.os.eidos.com^
+# The Turing Test
+# Thief IV
+||t4.os.eidos.com^
 # Fallen Enchantress: Legendary Heroes
 ||impulsedriven.com^
 # Sorcerer King: Rivals

@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-05-12T09:00:40.526Z
+! Last modified: 2024-05-13T09:00:46.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14736,19 +14736,16 @@
 ||sidekickopen16.com^
 ||sidekickopen24.com^
 ||sidekickopen25.com^
-||sidekickopen61.com^
 ||sidekickopen68.com^
 ||sidekickopen69.com^
 ||sidekickopen70.com^
 ||sidekickopen72.com^
-||sidekickopen75.com^
 ||sidekickopen77.com^
 ||sidekickopen78.com^
 ||sidekickopen79.com^
 ||sidekickopen80.com^
 ||sidekickopen81.com^
 ||sidekickopen82.com^
-||sidekickopen83.com^
 ||sidekickopen84.com^
 ||sidekickopen85.com^
 ||sidekickopen87.com^
@@ -14781,7 +14778,6 @@
 ||siteplug.com^
 ||sitescout.com^
 ||sitescoutadserver.com^
-||sitestat.com^
 ||sitewit.com^
 ||sjremetrics.java.com^
 ||skassets.com^
@@ -14814,7 +14810,6 @@
 ||smetrics.10play.com.au^
 ||smetrics.1800contacts.com^
 ||smetrics.24hourfitness.com^
-||smetrics.28degreescard.com.au^
 ||smetrics.3m.com^
 ||smetrics.3m.com.cn^
 ||smetrics.48.ie^
@@ -14838,7 +14833,6 @@
 ||smetrics.aia.com^
 ||smetrics.aida.de^
 ||smetrics.aircanada.com^
-||smetrics.aireserv.com^
 ||smetrics.ajinomoto.co.jp^
 ||smetrics.alka.dk^
 ||smetrics.allegion.com^
@@ -14861,21 +14855,16 @@
 ||smetrics.apia.com.au^
 ||smetrics.apps.ge.com^
 ||smetrics.argos.co.uk^
-||smetrics.argos.ie^
-||smetrics.ariba.com^
 ||smetrics.army.mod.uk^
 ||smetrics.as.com^
-||smetrics.atlanticsuperstore.ca^
 ||smetrics.atomic.com^
 ||smetrics.atresplayer.com^
 ||smetrics.att.com^
 ||smetrics.au.com^
 ||smetrics.audi.co.uk^
 ||smetrics.autodesk.com^
-||smetrics.automobilemag.com^
 ||smetrics.automobilwoche.de^
 ||smetrics.autonews.com^
-||smetrics.autotrader.com^
 ||smetrics.avalara.com^
 ||smetrics.avanza.se^
 ||smetrics.aveva.com^
@@ -14884,7 +14873,6 @@
 ||smetrics.avnet.com^
 ||smetrics.axs.com^
 ||smetrics.bakerbrothersplumbing.com^
-||smetrics.bamboohr.com^
 ||smetrics.bancomundial.org^
 ||smetrics.bancsabadell.com^
 ||smetrics.bankaustria.at^
@@ -14907,8 +14895,6 @@
 ||smetrics.bcbsnc.com^
 ||smetrics.beachbody.com^
 ||smetrics.beatsbydre.com^
-||smetrics.bedbathandbeyond.ca^
-||smetrics.bedbathandbeyond.com^
 ||smetrics.belairdirect.com^
 ||smetrics.belk.com^
 ||smetrics.beneplace.com^
@@ -14940,12 +14926,10 @@
 ||smetrics.buffalotracedistillery.com^
 ||smetrics.bupa.com.au^
 ||smetrics.buyagift.co.uk^
-||smetrics.buybuybaby.com^
 ||smetrics.bzees.com^
 ||smetrics.caesars.com^
 ||smetrics.cahealthwellness.com^
 ||smetrics.caleres.com^
-||smetrics.calia.com^
 ||smetrics.calvinklein.us^
 ||smetrics.capitalone.com^
 ||smetrics.careplushealthplans.com^
@@ -14978,7 +14962,6 @@
 ||smetrics.churchill.com^
 ||smetrics.ciena.com^
 ||smetrics.cisco.com^
-||smetrics.citibank.co.uk^
 ||smetrics.citibank.com.au^
 ||smetrics.citibank.com.hk^
 ||smetrics.citibank.com.ph^
@@ -15020,7 +15003,6 @@
 ||smetrics.csmonitor.com^
 ||smetrics.csu.edu.au^
 ||smetrics.ctshirts.com^
-||smetrics.ctv.ca^
 ||smetrics.cultura.com^
 ||smetrics.currys.co.uk^
 ||smetrics.cytivalifesciences.com^
@@ -15094,15 +15076,11 @@
 ||smetrics.finishline.com^
 ||smetrics.finning.com^
 ||smetrics.firestonebpco.com^
-||smetrics.flagstar.com^
-||smetrics.flashnews.com.au^
-||smetrics.fleetcor.com^
 ||smetrics.fnac.ch^
 ||smetrics.fnac.com^
 ||smetrics.fnac.es^
 ||smetrics.fnac.pt^
 ||smetrics.ford.com^
-||smetrics.fortinos.ca^
 ||smetrics.foxbusiness.com^
 ||smetrics.foxnews.com^
 ||smetrics.fpl.com^
@@ -15114,7 +15092,6 @@
 ||smetrics.gatesnotes.com^
 ||smetrics.gcimetrics.com^
 ||smetrics.gehealthcare.com^
-||smetrics.gemvisa.com.au^
 ||smetrics.genomeweb.com^
 ||smetrics.gio.com.au^
 ||smetrics.glassdoctor.com^
@@ -15135,11 +15112,9 @@
 ||smetrics.ha.com^
 ||smetrics.hagerty.co.uk^
 ||smetrics.harley-davidson.com^
-||smetrics.hbf.com.au^
 ||smetrics.hbr.org^
 ||smetrics.hbs.edu^
 ||smetrics.hbsp.harvard.edu^
-||smetrics.hctra.org^
 ||smetrics.hdfcbank.com^
 ||smetrics.healthengine.com.au^
 ||smetrics.healthnetcalifornia.com^

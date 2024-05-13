@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-03-11T09:00:19.654Z
+! Last modified: 2024-05-13T09:00:21.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -42,7 +42,7 @@
 # 142.250.181.238
 ||www-google-analytics.l.google.com^
 # ACDSee Photo Studio Ultimate 2024
-# {- Ipv4: https://gameindustry.eu/en/search/?suchbegriff=ACDSee+Photo+Studio+Ultimate+2024
+# Ipv4: https://gameindustry.eu/en/search/?suchbegriff=ACDSee+Photo+Studio+Ultimate+2024
 ||dualstack.polyfill.map.fastly.net^
 ||d253eh1koi69kp.cloudfront.net^
 ||d3fd0cu6tq5sya.cloudfront.net^
@@ -2289,7 +2289,6 @@
 ||bighappy.co^
 # Billiger.de
 ||api-img.billiger.de^
-||cdn.billiger.com^
 # Binarywidget.com
 ||binarywidget.com^
 # Bing
@@ -8323,6 +8322,9 @@
 # Tarnkappe.info
 # 104.24.127.131
 ||matomo.tarnkappe.info^
+# Taz.de
+# Wie Bild.de, unseriöse Artikel und politische Schmierenkomödien, selbst disqualifiziert
+||taz.de^
 # Tchibo.de
 ||tagm.tchibo.de^
 ||ctagm.tchibo.de^
@@ -9737,6 +9739,7 @@
 ||clouderrorreporting.googleapis.com^
 ||recommendationengine.googleapis.com^
 ||safebrowsing.googleapis.com^
+||webpermissionpredictions.googleapis.com^
 # Google Appspot.com
 ||adtrust.appspot.com^
 ||amp-error-reporting.appspot.com^
@@ -10335,6 +10338,7 @@
 ||cd-ladsp-com.s3.amazonaws.com^
 ||clickbank-apache-54377296.us-west-2.elb.amazonaws.com^
 ||cognito-identity.ap-northeast-1.amazonaws.com^
+||cognito-identity.ca-central-1.amazonaws.com^
 ||cognito-identity.eu-west-1.amazonaws.com^
 ||cookiesyncing-1395500543.us-east-1.elb.amazonaws.com^
 ||dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com^
@@ -10611,6 +10615,7 @@
 ||d2ohmkyg5w2c18.cloudfront.net^
 ||d2osk0po1oybwz.cloudfront.net^
 ||d2p3zdq8vjvnxd.cloudfront.net^
+||d2psma0az3acui.cloudfront.net^
 ||d2q8xv8xf7whrd.cloudfront.net^
 ||d2q9y3krdwohfj.cloudfront.net^
 ||d2qnx6y010m4rt.cloudfront.net^
@@ -10845,55 +10850,309 @@
 ||a-ring-fallback.msedge.net^
 ||a-ring.msedge.net^
 ||afdxtest.z01.azurefd.net^
+||ams06prdapp02-canary.netmon.azure.com^
+||ams07prdapp01-canary.netmon.azure.com^
+||ams07prdapp02-canary.netmon.azure.com^
+||ams20prdapp02-canary.netmon.azure.com^
+||ams22prdapp02-canary-opaph.netmon.azure.com^
+||amz07prdapp01-canary.netmon.azure.com^
 ||api.cortana.ai^
+||arc-ring-fallback.msedge.net^
+||arc-ring.msedge.net^
+||arm-ring-fallback.msedge.net^
 ||arm-ring.msedge.net^
+||auh20prdapp01-canary-opaph.netmon.azure.com^
+||auh20prdapp02-canary-opaph.netmon.azure.com^
+||ax-ring-fallback.msedge.net^
+||ax-ring.msedge.net^
 ||azwancan.trafficmanager.net^
+||b-ring-fallback.msedge.net^
 ||b-ring.msedge.net^
 ||bgpdefault-amb.msedge.net^
 ||bgpdefault-fra.msedge.net^
+||bl6prdapp02-canary.netmon.azure.com^
+||blz22prdapp02-canary.netmon.azure.com^
+||bn4prdapp02-canary.netmon.azure.com^
+||bn6prdapp01-canary.netmon.azure.com^
+||bn7prdapp01-canary.netmon.azure.com^
+||bn8prdapp02-canary.netmon.azure.com^
+||bn9prdapp01-canary-opaph.netmon.azure.com^
+||by1prdapp02-canary.netmon.azure.com^
+||by4prdapp01-canary.netmon.azure.com^
+||bz6prdapp01-canary.netmon.azure.com^
+||bz7prdapp01-canary.netmon.azure.com^
+||c-ring-fallback.msedge.net^
+||c-ring.msedge.net^
+||cbn07prdapp01-canary.netmon.azure.com^
+||cbn09prdapp01-canary-opaph.netmon.azure.com^
+||cbn14prdapp01-canary-opaph.netmon.azure.com^
+||cby07prdapp02-canary-opaph.netmon.azure.com^
+||cbz07prdapp02-canary-opaph.netmon.azure.com^
+||cdm05prdapp01-canary.netmon.azure.com^
+||cdm05prdapp02-canary.netmon.azure.com^
 ||cdm05prdapp04-canary-opaph.netmon.azure.com^
+||ch2prdapp01-canary-opaph.netmon.azure.com^
+||chaprdapp01-canary.netmon.azure.com^
+||chi23prdapp02-canary-opaph.netmon.azure.com^
+||chi25prdapp01-canary-opaph.netmon.azure.com^
 ||cloudfront-vs-afd.azurefd.net^
+||co2prdapp01-canary.netmon.azure.com^
+||co3prdapp02-canary-opaph.netmon.azure.com^
+||cpq21prdapp01-canary-opaph.netmon.azure.com^
+||cpq23prdapp02-canary-opaph.netmon.azure.com^
+||cpq24prdapp01-canary-opaph.netmon.azure.com^
+||cpq24prdapp02-canary-opaph.netmon.azure.com^
+||cpq25prdapp02-canary-opaph.netmon.azure.com^
+||cq1prdapp01-canary.netmon.azure.com^
+||cvl02prdapp01-canary-opaph.netmon.azure.com^
+||cvl08prdapp01-canary.netmon.azure.com^
+||cys03prdapp01-canary-opaph.netmon.azure.com^
+||cys08prdapp01-canary-opaph.netmon.azure.com^
 ||d1l0kcze0h5pmt.cloudfront.net^
+||db5prdapp01-canary.netmon.azure.com^
+||db6prdapp01-canary.netmon.azure.com^
+||doh20prdapp01-canary-opaph.netmon.azure.com^
+||doh21prdapp01-canary-opaph.netmon.azure.com^
+||doh21prdapp02-canary-opaph.netmon.azure.com^
+||doh22prdapp01-canary-opaph.netmon.azure.com^
+||doh22prdapp02-canary-opaph.netmon.azure.com^
+||dsm06prdapp02-canary.netmon.azure.com^
+||dsm07prdapp01-canary-opaph.netmon.azure.com^
+||dsm08prdapp01-canary.netmon.azure.com^
+||dsm09prdapp01-canary-opaph.netmon.azure.com^
+||dsz04prdapp02-canary-opaph.netmon.azure.com^
+||dsz08prdapp02-canary.netmon.azure.com^
 ||dual-a-0001.a-msedge.net^
+||dual-s-ring-fallback.msedge.net^
 ||dual-s-ring.msedge.net^
+||dub10prdapp01-canary-opaph.netmon.azure.com^
+||dub20prdapp01-canary.netmon.azure.com^
+||dub21prdapp01-canary.netmon.azure.com^
 ||dw8wjz3q0i4gj.cloudfront.net^
+||dxb20prdapp01-canary-opaph.netmon.azure.com^
+||dxb21prdapp01-canary-opaph.netmon.azure.com^
+||dxb22prdapp01-canary-opaph.netmon.azure.com^
+||dxb23prdapp01-canary-opaph.netmon.azure.com^
+||dxb23prdapp02-canary-opaph.netmon.azure.com^
+||dz5prdapp01-canary.netmon.azure.com^
+||e-ring-fallback.msedge.net^
 ||eafd-dod-384ea1aa-6aab-4841-a754-35b60cef4ac8.azureedge.us^
+||eafddirect.msedge.net^
 ||elasticafd-footprint-0d855e84-e893-47bd-84fd-b5568a836b09.azureedge.us^
+||exo-ring-fallback.msedge.net^
 ||exo-ring.msedge.net^
+||fp-afd-nocache-ccp.azureedge.net^
 ||fp-afd-nocache.azureedge.net^
 ||fp-afd.azureedge.net^
+||fp-afd.azureedge.us^
+||fp-afd.azurefd.net^
 ||fp-afd.azurefd.us^
+||fp-afdx-bpdee4gtg6frejfd.z01.azurefd.net^
 ||fp-as.azureedge.net^
+||fp-vp-nocache.azureedge.net^
 ||fp-vp.azureedge.net^
+||fp-vs-nocache.azureedge.net^
 ||fp-vs.azureedge.net^
 ||fp.msedge.net^
+||fra21prdapp01-canary-opaph.netmon.azure.com^
+||fra21prdapp02-canary-opaph.netmon.azure.com^
+||fra22prdapp01-canary-opaph.netmon.azure.com^
+||fra22prdapp02-canary-opaph.netmon.azure.com^
+||fra23prdapp01-canary-opaph.netmon.azure.com^
+||fra23prdapp02-canary-opaph.netmon.azure.com^
+||graph.azurefd.net^
+||graph.microsoft.com^
+||gvx01prdapp01-canary-opaph.netmon.azure.com^
+||gvx01prdapp02-canary-opaph.netmon.azure.com^
+||gvx11prdapp01-canary-opaph.netmon.azure.com^
+||gvx11prdapp02-canary.netmon.azure.com^
+||gvx21prdapp01-canary-opaph.netmon.azure.com^
+||gvx21prdapp02-canary-opaph.netmon.azure.com^
+||hkg20prdapp02-canary.netmon.azure.com^
+||hkg22prdapp01-canary-opaph.netmon.azure.com^
+||hkg23prdapp01-canary-opaph.netmon.azure.com^
+||hkg23prdapp02-canary-opaph.netmon.azure.com^
+||hknprdapp01-canary.netmon.azure.com^
+||iad01prdapp01-canary-opaph.netmon.azure.com^
+||iad01prdapp02-canary-opaph.netmon.azure.com^
+||iad20prdapp02-canary-opaph.netmon.azure.com^
 ||iteactive-amb.msedge.net^
 ||iteactive-fra.msedge.net^
+||jga20prdapp01-canary-opaph.netmon.azure.com^
 ||jga20prdapp02-canary-opaph.netmon.azure.com^
+||jhz20prdapp01-canary.netmon.azure.com^
+||jhz20prdapp02-canary.netmon.azure.com^
+||jnb20prdapp02-canary-opaph.netmon.azure.com^
+||jnb21prdapp01-canary-opaph.netmon.azure.com^
+||jnb21prdapp02-canary-opaph.netmon.azure.com^
+||jnb22prdapp01-canary-opaph.netmon.azure.com^
+||jnb22prdapp02-canary.netmon.azure.com^
+||jnb23prdapp01-canary-opaph.netmon.azure.com^
+||k-ring-fallback.msedge.net^
 ||k-ring.msedge.net^
+||l-ring-fallback.msedge.net^
 ||l-ring.msedge.net^
+||ln-ring-fallback.msedge.net^
+||ln-ring.msedge.net^
+||ln1prdapp02-canary.netmon.azure.com^
+||lon22prdapp01-canary-opaph.netmon.azure.com^
+||lon22prdapp02-canary-opaph.netmon.azure.com^
+||lon23prdapp02-canary-opaph.netmon.azure.com^
+||lon27prdapp02-canary.netmon.azure.com^
+||lon28prdapp01-canary-opaph.netmon.azure.com^
+||lvl01prdapp01-canary-opaph.netmon.azure.com^
+||m.qualifytring.com^
+||management.azure.com^
+||mcr-ring-fallback.msedge.net^
+||mcr-ring.msedge.net^
+||mel20prdapp01-canary.netmon.azure.com^
+||mel23prdapp01-canary-opaph.netmon.azure.com^
+||mil01prdapp03-canary.netmon.azure.com^
+||mil01prdapp04-canary.netmon.azure.com^
+||mil20prdapp01-canary.netmon.azure.com^
+||mil20prdapp06-canary.netmon.azure.com^
+||mil21prdapp02-canary.netmon.azure.com^
+||mil21prdapp03-canary.netmon.azure.com^
+||mnz20prdapp01-canary.netmon.azure.com^
+||mnz20prdapp02-canary-opaph.netmon.azure.com^
+||mnz22prdapp02-canary-opaph.netmon.azure.com^
+||moiafdaws.clo.footprintdns.com^
+||moiafdazure.clo.footprintdns.com^
 ||moiazureorigin.clo.footprintdns.com^
+||mwh01prdapp02-canary.netmon.azure.com^
+||mwh03prdapp01-canary-opaph.netmon.azure.com^
+||mwh04prdapp01-canary-opaph.netmon.azure.com^
+||mwh05prdapp02-canary-opaph.netmon.azure.com^
+||mwh06prdapp02-canary-opaph.netmon.azure.com^
+||mwz02prdapp01-canary.netmon.azure.com^
+||mzz20prdapp01-canary-opaph.netmon.azure.com^
+||nag20prdapp01-canary-opaph.netmon.azure.com^
+||nag20prdapp02-canary-opaph.netmon.azure.com^
+||o-ring-fallback.msedge.net^
 ||o-ring.msedge.net^
 ||odinvzc.azureedge.net^
+||osa20prdapp01-canary.netmon.azure.com^
+||osa22prdapp02-canary-opaph.netmon.azure.com^
+||osa23prdapp01-canary.netmon.azure.com^
+||osa23prdapp02-canary.netmon.azure.com^
+||osl20prdapp01-canary-opaph.netmon.azure.com^
+||osl20prdapp02-canary-opaph.netmon.azure.com^
+||osl21prdapp01-canary-opaph.netmon.azure.com^
+||osl21prdapp02-canary-opaph.netmon.azure.com^
+||osl22prdapp01-canary-opaph.netmon.azure.com^
+||osl22prdapp02-canary-opaph.netmon.azure.com^
 ||ow1.res.office365.com^
+||par20prdapp01-canary.netmon.azure.com^
+||par20prdapp02-canary.netmon.azure.com^
+||par21prdapp01-canary.netmon.azure.com^
+||par21prdapp02-canary.netmon.azure.com^
+||par22prdapp01-canary.netmon.azure.com^
+||par23prdapp02-canary-opaph.netmon.azure.com^
 ||peer1-fra.msedge.net^
 ||peer2-fra.msedge.net^
 ||peer3-fra.msedge.net^
+||phx10prdapp01-canary-opaph.netmon.azure.com^
+||phx10prdapp02-canary-opaph.netmon.azure.com^
+||phx70prdapp02-canary-opaph.netmon.azure.com^
+||phx80prdapp01-canary-opaph.netmon.azure.com^
+||phx80prdapp02-canary-opaph.netmon.azure.com^
+||pnq20prdapp01-canary-opaph.netmon.azure.com^
+||pnq20prdapp02-canary-opaph.netmon.azure.com^
+||pnq21prdapp01-canary-opaph.netmon.azure.com^
+||pnq21prdapp02-canary-opaph.netmon.azure.com^
+||pnq22prdapp01-canary-opaph.netmon.azure.com^
+||pnq22prdapp02-canary-opaph.netmon.azure.com^
 ||q-ring-fallback.msedge.net^
 ||q-ring.msedge.net^
+||rio20prdapp01-canary-opaph.netmon.azure.com^
+||rio20prdapp02-canary-opaph.netmon.azure.com^
+||roxy.azurefd.net^
+||rum14.perf.linkedin.com^
 ||rum18.perf.linkedin.com^
 ||rum8.perf.inkedin.com^
+||rum8.perf.linkedin.com^
+||s-ring-fallback.msedge.net^
 ||s-ring.msedge.net^
+||sat09prdapp01-canary-opaph.netmon.azure.com^
+||sat12prdapp01-canary-opaph.netmon.azure.com^
+||sat20prdapp01-canary-opaph.netmon.azure.com^
 ||se1prdapp01-canary.netmon.azure.com^
+||se1prdapp02-canary.netmon.azure.com^
 ||segments-s.msedge.net^
+||sel21prdapp02-canary.netmon.azure.com^
+||sel22prdapp01-canary-opaph.netmon.azure.com^
+||sel22prdapp02-canary-opaph.netmon.azure.com^
 ||settingsfd-prod-db5-endpoint.trafficmanager.net^
+||sg2prdapp01-canary.netmon.azure.com^
+||sg3prdapp02-canary.netmon.azure.com^
+||sin06prdapp01-canary-opaph.netmon.azure.com^
+||sin21prdapp01-canary-opaph.netmon.azure.com^
+||sin21prdapp02-canary-opaph.netmon.azure.com^
+||sin22prdapp01-canary-opaph.netmon.azure.com^
+||sjc20prdapp03-canary-opaph.netmon.azure.com^
+||sjc22prdapp01-canary.netmon.azure.com^
+||sjc22prdapp02-canary.netmon.azure.com^
+||sn4prdapp01-canary.netmon.azure.com^
+||sn7prdapp01-canary-opaph.netmon.azure.com^
+||sn7prdapp02-canary-opaph.netmon.azure.com^
+||spo-ring-fallback.msedge.net^
 ||spo-ring.msedge.net^
-||t-ring.fallback.msedge.net^
+||spov-ring-fallback.msedge.net^
+||static-ecst.licdn.com^
+||stg01prdapp01-canary.netmon.azure.com^
+||stg01prdapp02-canary.netmon.azure.com^
+||stg03prdapp02-canary-opaph.netmon.azure.com^
+||sy3prdapp02-canary.netmon.azure.com^
+||syd22prdapp01-canary-opaph.netmon.azure.com^
+||syd25prdapp02-canary-opaph.netmon.azure.com^
+||syd26prdapp02-canary-opaph.netmon.azure.com^
+||syd27prdapp01-canary-opaph.netmon.azure.com^
+||syd27prdapp02-canary-opaph.netmon.azure.com^
+||t-ring-fallback.msedge.net^
 ||t-ring-fallbacks1.msedge.net^
+||t-ring-fallbacks2.msedge.net^
 ||t-ring-fdv2.msedge.net^
+||t-ring.fallback.msedge.net^
 ||t-ring.msedge.net^
+||t-s1-ring.msedge.net^
+||t-s2-ring.msedge.net^
+||teams-ring-fallback.msedge.net^
 ||teams-ring.msedge.net^
+||tlv97prdapp02-canary.netmon.azure.com^
+||tlv97prdapp03-canary.netmon.azure.com^
+||tlv98prdapp04-canary.netmon.azure.com^
+||tlv98prdapp05-canary.netmon.azure.com^
+||tlv99prdapp03-canary.netmon.azure.com^
+||tlv99prdapp04-canary.netmon.azure.com^
+||tring.clo.footprintdns.com^
+||ty1prdapp01-canary.netmon.azure.com^
+||tyo20prdapp01-canary.netmon.azure.com^
+||tyo20prdapp02-canary.netmon.azure.com^
+||tyo22prdapp01-canary.netmon.azure.com^
+||tyo22prdapp02-canary.netmon.azure.com^
+||tyo31prdapp02-canary-opaph.netmon.azure.com^
+||wac-ring-fallback.msedge.net^
 ||wac-ring.msedge.net^
+||waw02prdapp01-canary.netmon.azure.com^
+||waw02prdapp02-canary.netmon.azure.com^
+||waw20prdapp01-canary.netmon.azure.com^
+||waw20prdapp02-canary.netmon.azure.com^
+||waw21prdapp01-canary.netmon.azure.com^
+||waw21prdapp02-canary.netmon.azure.com^
+||yq1prdapp01-canary.netmon.azure.com^
+||yq1prdapp02-canary.netmon.azure.com^
+||yt1prdapp02-canary.netmon.azure.com^
+||yto21prdapp01-canary-opaph.netmon.azure.com^
+||yto21prdapp02-canary.netmon.azure.com^
+||yto22prdapp01-canary-opaph.netmon.azure.com^
+||yto23prdapp01-canary-opaph.netmon.azure.com^
+||yto23prdapp02-canary-opaph.netmon.azure.com^
+||zrh20prdapp01-canary-opaph.netmon.azure.com^
+||zrh20prdapp02-canary.netmon.azure.com^
+||zrh21prdapp01-canary-opaph.netmon.azure.com^
+||zrh21prdapp02-canary-opaph.netmon.azure.com^
+||zrh22prdapp01-canary-opaph.netmon.azure.com^
+||zrh22prdapp02-canary-opaph.netmon.azure.com^
 ||browser.events.data.msn.com^
 ||au.download.windowsupdate.com.c.footprint.net^
 ||opau.download.windowsupdate.com.c.footprint.net^
@@ -11470,7 +11729,6 @@
 ||geo.va-v.livepersonk.akadns.net^
 ||staging.to-do.officeppe.com^
 ||onedrive.live.com^
-||graph.microsoft.com^
 # 20.190.159.132
 # 2.16.212.108
 ||www.current.a.prd.aadg.akadns.net^
@@ -11565,7 +11823,6 @@
 ||media-lcdn.licdn.com^
 ||pop-esy1.perf.linkedin.com^
 ||pop-efr5.perf.linkedin.com^
-||rum8.perf.linkedin.com^
 ||events-1.muut.com^
 ||events-2.muut.com^
 ||api.pinterest.com^
@@ -12731,6 +12988,7 @@
 ||xml-eu.adright.co^
 # CO.UK
 ||analytics.eip.telegraph.co.uk^
+||ichef.bbci.co.uk^
 ||ipw.metadsp.co.uk^
 ||nexus.entitytag.co.uk^
 ||node1.digprod.express.co.uk^
@@ -13186,6 +13444,8 @@
 # HEALTH
 ||fbi.health^
 ||hcn.health^
+# HN
+||prf.hn^
 # HU
 ||ad.netmedia.hu^
 ||daserver.ultraweb.hu^
@@ -13243,6 +13503,7 @@
 ||dskyseconomic.info^
 ||eallywasnothyca.info^
 ||easysemblyjusti.info^
+||edbehindforhewa.info^
 ||edwhitnes.info^
 ||efully.info^
 ||elanatality.info^
@@ -13266,6 +13527,7 @@
 ||golymn.info^
 ||grementessenti.info^
 ||gwashiondevelhig.info^
+||hilarlymcken.info^
 ||hionedaugsbu.info^
 ||hissidelerep.info^
 ||hmbm7.kmodukuleqasfo.info^
@@ -13291,6 +13553,7 @@
 ||nedukeration.info^
 ||nicatethebene.info^
 ||ntoftheusysianedt.info^
+||ourtshipanditlas.info^
 ||p0lf9.kmodukuleqasfo.info^
 ||p188187.typo3server.info^
 ||p455208.mittwaldserver.info^
@@ -13318,6 +13581,7 @@
 ||roughexampler.info^
 ||sadorsagreeng.info^
 ||sambr.ssdwellsgrpo.info^
+||sandmakingsilver.info^
 ||scg1b.kmodukuleqasfo.info^
 ||shutternsbe.info^
 ||societingna.info^
@@ -13790,6 +14054,8 @@
 ||edge-hls.doppiocdn.live^
 ||fbi3262.live^
 ||game3558.nonamecss51.live^
+||go.19sex.live^
+||go.sexygirlspics.live^
 ||grand-prize-add4.live^
 ||leavequarterpassbeat.live^
 ||live.goatgame.live^
@@ -14062,6 +14328,7 @@
 ||edge-hls.doppiocdn.net^
 ||edgecast-perfops.azureedge.net^
 ||eip-ntt.pinimg.com.akapinimg.net^
+||errors.edgesuite.net^
 ||eu.doctorpost.net^
 ||event.yoochoose.net^
 ||eventcollector.azureedge.net^
@@ -14154,6 +14421,7 @@
 ||mitself.net^
 ||mormont.gamer-network.net^
 ||mos.fie.futurecdn.net^
+||mutcheng.net^
 ||mygiftcardsplus.7eer.net^
 ||n3-r2d2.amgload.net^
 ||na.wpush.net^
@@ -14170,6 +14438,7 @@
 ||onatsoas.net^
 ||oomsoapt.net^
 ||openstat.net^
+||ossmightyenar.net^
 ||oufauthy.net^
 ||oupaumul.net^
 ||output.nend.net^
@@ -14328,6 +14597,7 @@
 ||vipicmou.net^
 ||vooshagy.net^
 ||vt.myvisualiq.net^
+||w1mp.b-cdn.net^
 ||wachipho.net^
 ||watch-video.net^
 ||webchannel-content.eservice.emarsys.net^
@@ -14531,6 +14801,7 @@
 ||hegtiterbuttons.pro^
 ||herreperolsof.pro^
 ||hugregregy.pro^
+||imperturbableappearance.pro^
 ||jmrnews.pro^
 ||jogrukize.pro^
 ||kofirusy.pro^
@@ -14787,6 +15058,7 @@
 ||1ts19.top^
 ||1ts20.top^
 ||3r1kwxcd.top^
+||a.bestcontentcost.top^
 ||a.bestcontentfood.top^
 ||a.bestcontentprogram.top^
 ||a.montkpl.top^
@@ -14799,6 +15071,7 @@
 ||avbsdcfmrtbfqff.top^
 ||b.bestcontentfood.top^
 ||b.bestcontentprogram.top^
+||b.bestcontentsale.top^
 ||bbqqkcglrgkdwnq.top^
 ||brnok.cloudpsh.top^
 ||bxwkwwepuptaa.top^
@@ -15429,6 +15702,7 @@
 ||0cf861243d0446f2b4ecfba565358a71.js.ubembed.com^
 ||0i0i0i0.com^
 ||0pixl.com^
+||1.cqyj3ii7r.com^
 ||10-81.s.cdn15.com^
 ||1002.men^
 ||100tb.sothink.com^
@@ -15499,6 +15773,8 @@
 ||820.joomsearch.com^
 ||82o9v830.com^
 ||848.novitrk2.com^
+||84a0e8beca.5ede78f7a0.com^
+||84gs08xe1.com^
 ||8e7iazfvf2.com^
 ||8proof.com^
 ||8pulse.com^
@@ -15513,6 +15789,7 @@
 ||a.deadlinefunnel.com^
 ||a.dtssrv.com^
 ||a.eachporn.com^
+||a.espncdn.com^
 ||a.goatagame.com^
 ||a.impactradius-go.com^
 ||a.impactradius-tag.com^
@@ -15532,11 +15809,14 @@
 ||a.vfgta.com^
 ||a.videoreach.com^
 ||a0f671730127a0812.awsglobalaccelerator.com^
+||a1.espncdn.com^
 ||a16af8740f.07cc1ca467.com^
 ||a190d8.optimizesmart.com^
 ||a1tb.com^
+||a2.espncdn.com^
 ||a2d8cbc90f0a49b78a78f4312bd71987.js.ubembed.com^
 ||a2g-secure.com^
+||a3.espncdn.com^
 ||a5apzj82.emltrk.com^
 ||a69i.com^
 ||a8672336.mnoova.com^
@@ -15625,6 +15905,7 @@
 ||ads.livembed.com^
 ||ads.moartraffic.com^
 ||ads.nighttstand.com^
+||ads.nubilefilms.com^
 ||ads.onlinevideoconverter.com^
 ||ads.prnt.sc^
 ||ads.proboards.com^
@@ -15682,6 +15963,7 @@
 ||af-event-logger.appsflyer.com^
 ||afdse3.com^
 ||aff-tracker.com^
+||affabilitydisciple.com^
 ||affiliate.nagios.com^
 ||affiliategroove.com^
 ||affiliates.abebooks.com^
@@ -15696,9 +15978,13 @@
 ||aiprvqqnhm.com^
 ||airlytics-web.airlock.twcmobile.weather.com^
 ||ajorinryeso.com^
+||ak-d.tripcdn.com^
+||ak.aungudie.com^
+||ak.hesoorda.com^
 ||ak.hetaruvg.com^
 ||ak.roudoduor.com^
 ||ak.whookroo.com^
+||ak.zougreek.com^
 ||ak74blog.disqus.com^
 ||akmxts.com^
 ||akutapro.com^
@@ -15738,6 +16024,7 @@
 ||ampugi334f.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||amxrtb.com^
+||an.pornone.com^
 ||analyse.bcovery.com^
 ||analytics-eu.clickdimensions.com^
 ||analytics-udg.netdna-ssl.com^
@@ -15905,7 +16192,13 @@
 ||azentace.com^
 ||azulcw7.com^
 ||azure-assets-prod.vicomi.com^
+||b-hls-06.sacdnssedge.com^
+||b-hls-07.sacdnssedge.com^
+||b-hls-12.sacdnssedge.com^
+||b-hls-15.sacdnssedge.com^
+||b-hls-16.sacdnssedge.com^
 ||b-hls-17.strpst.com^
+||b-hls-23.sacdnssedge.com^
 ||b.a11k.com^
 ||b.bnrsis.com^
 ||b.dbnaked.com^
@@ -15923,6 +16216,7 @@
 ||baannre.com^
 ||babadnmak.com^
 ||babblecase.com^
+||backfirestomachreasoning.com^
 ||backoffice.transmatico.com^
 ||badsecs.com^
 ||badskis.com^
@@ -15938,6 +16232,7 @@
 ||bassets.bigabidserv.com^
 ||baustraightu.com^
 ||bbballs.men^
+||bbzutils.tripcdn.cn^
 ||bcdn.clickaine.com^
 ||bcdn.grmtas.com^
 ||bcprm.com^
@@ -15982,6 +16277,7 @@
 ||binary.limited^
 ||bitingcomposed.com^
 ||bitonclick.com^
+||bitsspiral.com^
 ||blacknesskeepplan.com^
 ||blastcahs.com^
 ||bleachfamouszinc.com^
@@ -15997,6 +16293,7 @@
 ||bngprm.com^
 ||bnmjjwinf292.com^
 ||bnvlebfv.com^
+||boastwelfare.com^
 ||boloptrex.com^
 ||bongacams10.com^
 ||bongacams7.com^
@@ -16019,6 +16316,7 @@
 ||btcfaucetsptcsurveys.wixsite.com^
 ||btpnative.com^
 ||bts.a11k.com^
+||bulkd.co^
 ||bumpyremittancecarnivorous.com^
 ||butalksuw9dj10.com^
 ||buy.tinypass.com^
@@ -16105,6 +16403,7 @@
 ||cdn.admitad-connect.com^
 ||cdn.adx1.com^
 ||cdn.apvdr.com^
+||cdn.banhq.com^
 ||cdn.barscreative1.com^
 ||cdn.bidfilter.com^
 ||cdn.bizible.com^
@@ -16226,6 +16525,7 @@
 ||chioneflake.com^
 ||chirkacylal.com^
 ||chivas.com^
+||chloro.trip.com^
 ||choices.consentframework.com^
 ||choices.trustarc.com^
 ||choices.truste.com^
@@ -16246,6 +16546,7 @@
 ||cleanleadsonly.com^
 ||cleardexchange.com^
 ||clearonclick.com^
+||cleftmeter.com^
 ||clenchedyouthmatching.com^
 ||clerrrep.com^
 ||click-v4.expdiremdia.com^
@@ -16380,7 +16681,7 @@
 ||creative.schjmp.com^
 ||creative.speednetwork15.com^
 ||creative.wwwpromoter.com^
-||creative.xlirdr.com^
+||creative.xlviirdr.com^
 ||creative.xxxiijmp.com^
 ||creatives.sportradarserving.com^
 ||creepercurvaturedefenceless.com^
@@ -16470,6 +16771,7 @@
 ||deebcards-themier.com^
 ||deep-wisteria-g7u6bcxr6vhvq109ky2cj4v8.herokudns.com^
 ||defencehungry.com^
+||defendantlucrative.com^
 ||definedbootnervous.com^
 ||delicatecascade.com^
 ||delivery.adrecover.com^
@@ -16488,6 +16790,7 @@
 ||demetsik.com^
 ||demolishabolish.com^
 ||denetsuk.com^
+||designsrivetfoolish.com^
 ||desperationembassy.com^
 ||destore-daindmade.com^
 ||dev.lifesoftwares.com^
@@ -16505,7 +16808,9 @@
 ||diffuser-cdn.app-us1.com^
 ||dig.ultimedia.com^
 ||digitalfuture.g2afse.com^
+||dimg04.tripcdn.com^
 ||dimreproofjumped.com^
+||dinerbreathtaking.com^
 ||directionssecondary.com^
 ||discriminationprovide.com^
 ||dismantlepenantiterrorist.com^
@@ -16541,6 +16846,7 @@
 ||dpvgmbh.germany-2.evergage.com^
 ||draft.blogger.com^
 ||drctslk.com^
+||drivingfoot.website^
 ||drkapoorclinic.com^
 ||droppedrolling.com^
 ||drtuber.desi^
@@ -16553,6 +16859,7 @@
 ||dts6.clnmde.com^
 ||duamilsyr.com^
 ||ductrealistic.com^
+||dukesubsequent.com^
 ||dukirliaon.com^
 ||dulillipupan.com^
 ||dump1.shopkeyem.com^
@@ -16590,8 +16897,11 @@
 ||ecdn.analysis.fi^
 ||echo.nws.press^
 ||ecma.sidebyz.com^
+||ecs.nel.measure.office.net^
+||ecs.office.com^
 ||edayo.waqool.com^
 ||edconside.com^
+||edge-hls.sacdnssedge.com^
 ||edge-vids.wirewax.com^
 ||edge.ad1x.com^
 ||edge12-gru.live.mmcdn.com^
@@ -16623,6 +16933,7 @@
 ||en.ulozto.sk^
 ||enaceanspection.com^
 ||endingrude.com^
+||engine-cm.hqscene.com^
 ||engine-cm.tiypa.com^
 ||engine.adlogists.com^
 ||engine.blacraft.com^
@@ -16768,6 +17079,7 @@
 ||feed.mikle.com^
 ||feedads.feedblitz.com^
 ||ferniewebcam.com^
+||fetidbelow.com^
 ||ff6840b5f0.338d2db673.com^
 ||fgddl9szdof7.com^
 ||fieldofbachus.com^
@@ -16787,6 +17099,7 @@
 ||fnjvkjeuf.com^
 ||fnkyyrgraizy.com^
 ||fo-static.omnitagjs.com^
+||focuscivilization.com^
 ||foewhajfnqry.com^
 ||fokea.com^
 ||for-j.com^
@@ -16912,6 +17225,7 @@
 ||go.imagetwistcams.com^
 ||go.ktkjmp.com^
 ||go.lnkam.com^
+||go.mnaspm.com^
 ||go.moaroffers.com^
 ||go.moartraffic.com^
 ||go.oclasrv.com^
@@ -16974,6 +17288,7 @@
 ||h2oapi.adaware.com^
 ||h30-deploy.hiconversion.com^
 ||h6.msn.com^
+||h74v6kerf.com^
 ||hackapparatus.com^
 ||hadesleta.com^
 ||hadsabs.com^
@@ -16991,6 +17306,7 @@
 ||harryloider.com^
 ||hartattenuate.com^
 ||hatefulgirlfriend.com^
+||hazelmarks.com^
 ||hb.adpone.com^
 ||hb.brainlyads.com^
 ||hb.vntsm.com^
@@ -17088,6 +17404,7 @@
 ||ilovemakingpics.com^
 ||ilusors.com^
 ||ilxhsgd.com^
+||imagecdn.clips4sale.com^
 ||images.babyboomboomads.com^
 ||images.cointelegraph.com^
 ||images.getadmiral.com^
@@ -17127,14 +17444,17 @@
 ||inorbitad.com^
 ||inpage-push.com^
 ||inpagepush.com^
+||inpp-ssp-trk.trknext.com^
 ||inrhyhorntor.com^
 ||inriceukwa.com^
+||insectearly.com^
 ||insidenewsreport.com^
 ||insights.blogfoster.com^
 ||insights.dyn.archdaily.com^
 ||insights.sitesearch360.com^
 ||inspectorstrongerpill.com^
 ||inspiringperiods.com^
+||instagram.bukusukses.com^
 ||installerleading.com^
 ||instant.page^
 ||instantresp.com^
@@ -17280,6 +17600,7 @@
 ||kvinit-prod.api.kochava.com^
 ||kz1d.piguiqproxy.com^
 ||l.evidon.com^
+||l.hyenadata.com^
 ||l3.aaxads.com^
 ||labourmuttering.com^
 ||ladsblue.com^
@@ -17312,6 +17633,7 @@
 ||lf1-cdn-tos.bytegoofy.com^
 ||lib-us-1.brilliantcollector.com^
 ||libedgolart.com^
+||libellousincurablecoronation.com^
 ||librato-collector.genius.com^
 ||libreriamedina.com^
 ||libs.aseads.com^
@@ -17351,6 +17673,7 @@
 ||loomscald.com^
 ||los.2hisnd.com^
 ||lottoland.evergage.com^
+||louisedistanthat.com^
 ||lousebankroll.com^
 ||lovelybingo.com^
 ||loversarrivaladventurer.com^
@@ -17359,6 +17682,7 @@
 ||lowtyroguer.com^
 ||lowtyruntor.com^
 ||lp.pctonics.com^
+||lp.theyellownewtab.com^
 ||lp.wicked.com^
 ||ls.getresponse.com^
 ||ltoftheplans.com^
@@ -17403,6 +17727,7 @@
 ||manageextremely-thestrongfile.best^
 ||manager.eu.smartlook.cloud^
 ||manicurereprimand.com^
+||manifest-server.naiadsystems.com^
 ||manorparty.com^
 ||manslaughterhallucinateenjoyment.com^
 ||mantlefluent.com^
@@ -17592,6 +17917,7 @@
 ||nopoloferewer.com^
 ||northcentralus-0.in.applicationinsights.azure.com^
 ||northwestdiddived.com^
+||nostop.go2cloud.org^
 ||notabilitysedative.com^
 ||notbad-ads.com^
 ||notecompilecogitate.com^
@@ -17684,6 +18010,7 @@
 ||optimise2.assets-servd.host^
 ||optyruntchan.com^
 ||oqs.omeda.com^
+||orderana5289.spankbang.com^
 ||oreflushvehemence.com^
 ||organsshinegarlic.com^
 ||orientaldumbest.com^
@@ -17733,10 +18060,12 @@
 ||pacifyrespirator.com^
 ||padslims.com^
 ||pagerankcafe.com^
+||pages.trip.com^
 ||pagiwp.com^
 ||palundrus.com^
 ||pan.adraccoon.com^
 ||parcrescentimportantly.com^
+||parentingcalculated.com^
 ||parentlargevia.com^
 ||park.above.com^
 ||parking.bodiscdn.com^
@@ -17894,6 +18223,7 @@
 ||predicamentdisconnect.com^
 ||predictiondexchange.com^
 ||premiumvertising.com^
+||preparedfile.com^
 ||preskalyn.com^
 ||preventionpitcherremedy.com^
 ||preview.anyhentai.com^
@@ -17940,6 +18270,7 @@
 ||pt.ptlwm.com^
 ||ptaohuawu.bagua.com.hgdjkgh.com^
 ||ptapjmp.com^
+||ptatexiwhe.com^
 ||pto.awecr.com^
 ||pto.protoawe.com^
 ||pto.ptawe.com^
@@ -17970,6 +18301,7 @@
 ||pushokey.com^
 ||pushsar.com^
 ||pushwhy.com^
+||putrefyeither.com^
 ||puwpush.com^
 ||pvpro.com^
 ||pwixabcden.com^
@@ -18102,6 +18434,7 @@
 ||rutpunishsnitch.com^
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
+||ry.crummerexisted.com^
 ||ryymie.com^
 ||s-img.steepto.com^
 ||s.206ads.com^
@@ -18178,6 +18511,7 @@
 ||seapolo.com^
 ||search.vibescaster.com^
 ||searchae.com^
+||seashorelikelihoodreasonably.com^
 ||secludealcoholoverwhelm.com^
 ||secretflirtparadise1.com^
 ||secure-cdn.mplxtms.com^
@@ -18196,6 +18530,7 @@
 ||serpenttattoo.art^
 ||servanttowns.com^
 ||serve.adworldmedia.com^
+||serveforthwithtill.com^
 ||serverc.aivdesk.com^
 ||service.findologic.com^
 ||services.bilsyndication.com^
@@ -18256,6 +18591,7 @@
 ||slippersferry.com^
 ||slotmagie.zendesk.com^
 ||sluicejell.com^
+||smallestgirlfriend.com^
 ||smallfiles-url12.netdna-ssl.com^
 ||smartadmaker.sqreemtech-test.com^
 ||smartcj.com^
@@ -18288,6 +18624,7 @@
 ||spc.primagames.com^
 ||special-alerts.com^
 ||specialistinsensitive.com^
+||specialtymet.com^
 ||specificallythesisballot.com^
 ||spiffymachine.com^
 ||spk-kundenumstellung.com^
@@ -18324,6 +18661,7 @@
 ||st.static-srv.com^
 ||st.tubecorporate.com^
 ||st6-22.vk.com^
+||staggeredravehospitality.com^
 ||staging-argus-fra1.snigelweb.com^
 ||stake.com^
 ||standroogly.com^
@@ -18334,6 +18672,7 @@
 ||stat.networkmanag.com^
 ||stat.onestat.com^
 ||statestockingsconfession.com^
+||static-cdn.strpst.com^
 ||static-content-1.smadex.com^
 ||static-origin.plista.com^
 ||static.a-ads.com^
@@ -18403,6 +18742,7 @@
 ||stray228.com^
 ||stream.playbuzz.com^
 ||stretchsquirrel.com^
+||stripchatgirls.com^
 ||studabsently.com^
 ||studiolineworks.com^
 ||subconsciousill.com^
@@ -18743,6 +19083,7 @@
 ||u.fg8dgt.com^
 ||u0.extreme-dm.com^
 ||u9oxdnxk8b.com^
+||ubt-sin.tripcdn.com^
 ||udarem.com^
 ||udinugoo.com^
 ||ueuodgnrhb.com^
@@ -18778,6 +19119,7 @@
 ||untropiuson.com^
 ||unwofulcountys.com^
 ||up.trkgenius.com^
+||upcomingmonkeydolphin.com^
 ||upcum.com^
 ||update.geo.drweb.com^
 ||updateenow.com^
@@ -18795,6 +19137,7 @@
 ||us-fbigov.com^
 ||us.ck-ie.com^
 ||us.tags.newscgp.com^
+||us.trip.com^
 ||us01-analysis.ymcart.com^
 ||us1.xvika.com^
 ||usa.bravo-dog.com^
@@ -18809,6 +19152,7 @@
 ||usersync-b3.videoamp.com^
 ||ushoofop.com^
 ||uslycoloursewo.com^
+||usw3-12.nginxborder-server.naiadsystems.com^
 ||usync.nexage.com^
 ||ut.performax.cz^
 ||utcatholicycl.co^
@@ -18913,6 +19257,7 @@
 ||webanalyst.guru^
 ||webcontentassessor.com^
 ||webedia-de-cdn.relevant-digital.com^
+||webresource.tripcdn.com^
 ||webroutetrk.com^
 ||websdk.appsflyer.com^
 ||websocket-visitors.smartsupp.com^
@@ -18929,6 +19274,7 @@
 ||weshareabundance.com^
 ||wetlinepursuing.com^
 ||wfywchrzpic.com^
+||wgqfo.ujscdn.com^
 ||whalecashads.com^
 ||whamauft.com^
 ||whatabouthotbabies.com^
@@ -18956,6 +19302,7 @@
 ||widgets.skyprivate.com^
 ||widgets.sprinklecontent.com^
 ||widow5blackfr.com^
+||wifegraduallyclank.com^
 ||wijjidqydgsxas.com^
 ||wintub.com^
 ||winyourprize36.com^
@@ -19066,6 +19413,7 @@
 ||www.epicurious.com^
 ||www.ex-challenge.com^
 ||www.freevpn.win^
+||www.frulednulx.com^
 ||www.gaming-adult.com^
 ||www.gamingnewsweb.com^
 ||www.gannett-cdn.com^
@@ -19092,6 +19440,7 @@
 ||www.jetzt-dabei-sein.com^
 ||www.jkfdnofnz.com^
 ||www.joydownload.com^
+||www.jpsthqhvxynfdx.com^
 ||www.jscount.com^
 ||www.junbi-tracker.com^
 ||www.justproperty.com^
@@ -19192,6 +19541,7 @@
 ||www.tradeadexchange.com^
 ||www.traktrafficflow.com^
 ||www.trfmxt.com^
+||www.trip.com^
 ||www.trkview.com^
 ||www.trustedcpmrevenue.com^
 ||www.trustedshops.com^
@@ -19281,10 +19631,12 @@
 ||xqiqnxxy.com^
 ||xqxknnvbwqfj.com^
 ||xs.doweralrostra.com^
+||xszpuvwr7.com^
 ||xu2.com^
 ||xxwasayldu.com^
 ||xymhdmqrjxwl.com^
 ||yabovip2027.com^
+||yapdiscuss.com^
 ||ydxeryetxyij.com^
 ||yfetyg.com^
 ||yhb.p.otm-r.com^
@@ -19303,8 +19655,10 @@
 ||yourfreepdfconverternow.com^
 ||yourfreshstories.com^
 ||yourgoads.com^
+||yourjsdelivery.com^
 ||yourwebbars.com^
 ||yourwownewz.com^
+||yrhnw7h63.com^
 ||yukongoldinfo.com^
 ||yummy.consumable.com^
 ||yuzu-xci-games.5806z.com^
@@ -19511,6 +19865,7 @@
 # Epic Games Datarouter
 # Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
 ||datarouter-weighted.ol.epicgames.com^
+||datarouter.cfef.live.use1a.on.epicgames.com^
 # Paradox Interactive AB
 # Paradox Launcher
 # Telemetrie und Tracking
@@ -21953,6 +22308,9 @@
 # s. Rubrik Kopierschutz / AntiCheat
 ||logs.freejamgames.com^
 ||cluster-d.playfabapi.com^
+# Misc
+||funcom.pubsub.iegcom.com^
+||bugserver-exiles.funcom.com^
 ||safebrowsing.clients.google.com^
 # Game Ever Studio
 # Juanito Arcade Mayhem
@@ -23424,33 +23782,6 @@
 # 104.79.88.64
 ||crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com^
 ||mrminepayments.com^
-# Playway S.A. und Rejected Games
-# Mr. Prepper
-# Ip/s blockieren:
-# 142.250.74.206
-# 216.58.212.174
-# 2a00:1450:4001:82b::200e
-# Playway S.A. & Play2Chill S.A.
-# Motorcycle Mechanic Simulator 2021
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# 35.190.78.8
-# Plug In Digital and Cinétévé Experience
-# Emma the Story
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# POCKET PAIR, Inc.
-# Craftopia
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# VRoid Schnittstelle
-# 104.18.31.199
-||accounts.pixiv.net.cdn.cloudflare.net^
-||accounts.pixiv.net^
-||s.pximg.net^
 ||pwg-matchbot.herokuapp.com^
 # PolarityFlow
 # Sky Mercenaries
@@ -24291,6 +24622,9 @@
 # 52.70.146.197 # Beinhaltet folgende 4 Adressen/hostnamen
 ||hmsniper.os.eidos.com^
 ||dxbreach.os.eidos.com^
+# The Turing Test
+# Thief IV
+||t4.os.eidos.com^
 # Fallen Enchantress: Legendary Heroes
 ||impulsedriven.com^
 # Sorcerer King: Rivals
