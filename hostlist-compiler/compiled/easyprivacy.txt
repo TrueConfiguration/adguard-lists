@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-05-11T09:00:16.942Z
+! Last modified: 2024-05-14T09:00:16.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 13MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5980,6 +5980,7 @@
 ||aurum.tirto.id^
 ||aus.amexforbusiness.com.au^
 ||ausclh.castlery.com^
+||australiarevival.com^
 ||auth.carte-gr.total.fr^
 ||authentic3d.actonservice.com^
 ||authsmtp.happ.social^
@@ -6947,6 +6948,7 @@
 ||caderonline.bu.edu^
 ||cadsuta.net^
 ||caf.actonservice.com^
+||cafirebreather.com^
 ||cahf4eed.mooo.com^
 ||cakmzz.schwab.de^
 ||calgary-content.cresa.com^
@@ -6956,6 +6958,7 @@
 ||callsource.actonservice.com^
 ||calltrack.co^
 ||calmradio.actonservice.com^
+||calvera-telemetry.polaris.me^
 ||ca.macheq.com^
 ||camagess.carte-gr.total.fr^
 ||ca.mattamyhomes.com^
@@ -12705,6 +12708,7 @@
 ||gsyegj.shatura.com^
 ||gtgvze.chintai.net^
 ||gtm.diamond.jp^
+||gtmfsstatic.getgoogletagmanager.com^
 ||gtm.wise.com^
 ||gtreus.aliexpress.com^
 ||gtrk.s3.amazonaws.com^
@@ -16528,6 +16532,7 @@
 ||logger.nerdwallet.com^
 ||logger.rm.uol.com.br^
 ||logger.snackly.co^
+||logger.torimochi-ad.net^
 ||logger.uol.com.br^
 ||logger.yp.ca^
 ||logging.api.intuit.com^
@@ -22524,6 +22529,7 @@
 ||post.carte-gr.total.fr^
 ||postgraduate2.smu.edu.sg^
 ||postgraduate.smu.edu.sg^
+||powerrobotflower.com^
 ||powerup.rsaworks.com^
 ||power.viggo.com^
 ||ppadv.actonservice.com^
@@ -35646,6 +35652,7 @@
 ||video-ad-stats.googlesyndication.com^
 ||video-analytics-api.cloudinary.com^
 ||video.bzfd.it^
+||videocdnmetrika.com^
 ||videoevents.outbrain.com^
 ||video.funnelbox.com^
 ||videoplayerhub.com^
