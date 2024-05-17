@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-05-11T09:00:46.625Z
+! Last modified: 2024-05-17T09:00:46.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11778,3 +11778,11 @@
 ||insights.outreach.io^
 ||view-analytics.wovn.io^
 ||sts.keap-link001.com^
+||sts.keap-link015.com^
+||in.analytics.eu.cultureamp.com^
+||amplitude.uw2.analytics.cultureamp.com^
+||in.analytics.cultureamp.com^
+||click.emails.paypal.com^
+||images.ctfassets.com^
+||s.t.barnesandnoble.com^
+||l.t.barnesandnoble.com^
