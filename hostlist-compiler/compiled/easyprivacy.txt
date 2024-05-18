@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-05-16T09:00:17.248Z
+! Last modified: 2024-05-18T09:00:24.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 17MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4455,6 +4455,7 @@
 ||analytics.oyorooms.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
+||analytics.palitra.ge^
 ||analytics.pangle-ads.com^
 ||analytics.partcommunity.com^
 ||analytics.pgncs.notion.so^
@@ -12779,6 +12780,7 @@
 ||harpra-companion.harvinar.com^
 ||harpra-companion-test.harvinar.com^
 ||harris.ni.com^
+||harvester.cms.markiza.sk^
 ||hasslefree.redwingshoes.com^
 ||hauhws.asgoodasnew.de^
 ||hauixd.halistores.com^
@@ -13185,6 +13187,7 @@
 ||ihcamp.ybtour.co.kr^
 ||ihc.cellmarque.com^
 ||ihfwer.aboutyou.com^
+||ihi.flowplayer.com^
 ||ihnbqe.shane.co.jp^
 ||ih.newegg.com^
 ||i.honk.me^
@@ -31832,6 +31835,7 @@
 ||tel.telegraaf.nl^
 ||temails.productnotice.thomsonreuters.com^
 ||te.mirapodo.de^
+||temp.twicomi.com^
 ||temsys.temsys.fr^
 ||t.emueagles.com^
 ||t.emusic.com^
@@ -33488,6 +33492,7 @@
 ||track.unidata.ai^
 ||track.untd.com^
 ||track.uppromote.com^
+||track.us.org^
 ||track-v4.ipadpresence.com^
 ||track.veedio.it^
 ||track.venatusmedia.com^
@@ -36368,6 +36373,7 @@
 ||wqkcsg.armandthiery.fr^
 ||wqudcv.finnishdesignshop.com^
 ||wqytxm.kurly.com^
+||wranalytics.wildrocket.io^
 ||wren.condenastdigital.com^
 ||wrhv.education.gouv.fr^
 ||wrkbha.lyst.de^

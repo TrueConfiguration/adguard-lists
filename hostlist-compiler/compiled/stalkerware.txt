@@ -3,7 +3,7 @@
 ! Description: Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
 ! License: CC-BY
-! Last modified: 2024-05-16T09:01:15.095Z
+! Last modified: 2024-05-18T09:01:23.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -45,6 +45,7 @@
 ||android-api.umobix.com^
 ||android-monitor.ru^
 ||android-police.ru^
+||android.chyldmonitor.com^
 ||android.spy24.app^
 ||android.spytoapp.com^
 ||android.viptrack.ro^
@@ -328,6 +329,7 @@
 ||observer.back4app.io^
 ||ogymoggy.firebaseio.com^
 ||olurdaolurdediler.shop^
+||onespy-in-196211.firebaseio.com^
 ||onlinefundb.com^
 ||panel24.org^
 ||panspy-1.oss-us-west-1.aliyuncs.com^
@@ -502,6 +504,7 @@
 ||spyzee.com^
 ||spyzie-a.firebaseio.com^
 ||spyzie.com^
+||sse.chyldmonitor.com^
 ||staging-all-tracker.appspot.com^
 ||staging.smstracker.com^
 ||studio11-7e288.firebaseio.com^
@@ -599,6 +602,7 @@
 ||vys.me^
 ||waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com^
 ||waws-prod-blu-247.sip.azurewebsites.windows.net^
+||web.chyldmonitor.com^
 ||webwatcher-child-app.firebaseio.com^
 ||webwatcherdata.com^
 ||webwatchernow.com^
