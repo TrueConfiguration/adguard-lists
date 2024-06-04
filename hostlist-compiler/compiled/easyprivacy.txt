@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-01T09:00:16.650Z
+! Last modified: 2024-06-04T09:00:17.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 31MAY24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 03JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -10925,6 +10925,7 @@
 ||etwovr.underarmour.eu^
 ||etx.indiatimes.com^
 ||etznkn.ec-store.net^
+||eu-1-id5-sync.com^
 ||euapp.levi.com^
 ||eu.business.samsung.com^
 ||eu.cignaglobalhealth.com^
@@ -28566,6 +28567,7 @@
 ||soelui.butosklep.pl^
 ||sofa.bankofamerica.com^
 ||sofire.bdstatic.com^
+||sofire.terabox.app^
 ||sohiuc.sheego.de^
 ||sokutei.car2828.jp^
 ||solar.sharpmarketing.eu^
@@ -35827,6 +35829,8 @@
 ||vtrtl.de^
 ||vttics.world.co.jp^
 ||v-t.topya.com^
+||vturb.com.br^
+||vturb.net^
 ||vuypew.ikks.com^
 ||vvaaol.enuygun.com^
 ||vvcufx.colombo.com.br^
@@ -37194,6 +37198,7 @@
 ||xaguwy.thomas-muenz.ru^
 ||xait.actonservice.com^
 ||x.allabout.co.jp^
+||xanalytics.vip^
 ||xay5o.toscane-boutique.fr^
 ||x.babe.today^
 ||x.bloggurat.net^
