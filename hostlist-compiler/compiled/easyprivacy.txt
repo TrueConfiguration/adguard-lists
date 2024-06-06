@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-04T09:00:17.421Z
+! Last modified: 2024-06-06T09:00:17.782Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 05JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6024,6 +6024,7 @@
 ||avolvesoftware.actonservice.com^
 ||avp.labanquepostale.fr^
 ||avs.adpinfo.com^
+||a.vturb.net^
 ||awap.equifax.com^
 ||awaps.yandex.net^
 ||awaps.yandex.ru^
@@ -8063,7 +8064,6 @@
 ||counter.ukr.net^
 ||counter.webmart.de^
 ||counter.websitevoice.com^
-||counter.wikiwiki.jp^
 ||counter.yadro.ru^
 ||count.gothaer-digital.de^
 ||count.me.uk^
@@ -8455,6 +8455,7 @@
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
+||d2lxqodqbpy7c2.cloudfront.net^
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
@@ -32325,6 +32326,7 @@
 ||t.massmutualcenter.com^
 ||tmbsxx.oxybul.com^
 ||t.meangreensports.com^
+||t.mediaset.it^
 ||t.menepe.com^
 ||tm-eps.neutrino.nu^
 ||tmetrics.hdfcbank.com^
@@ -35829,8 +35831,6 @@
 ||vtrtl.de^
 ||vttics.world.co.jp^
 ||v-t.topya.com^
-||vturb.com.br^
-||vturb.net^
 ||vuypew.ikks.com^
 ||vvaaol.enuygun.com^
 ||vvcufx.colombo.com.br^
