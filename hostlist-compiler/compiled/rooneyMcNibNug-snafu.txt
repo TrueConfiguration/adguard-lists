@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-05-29T09:00:46.698Z
+! Last modified: 2024-06-08T09:00:47.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9779,7 +9779,10 @@
 ||secondspace.com^
 ||mintigo.com^
 ||strikeiron.com^
-||informatica.com^
+||b2bdx.informatica.com^
+||b2btest.informatica.com^
+||brand.informatica.com^
+||metrics.informatica.com^
 ||www.shortpixel.ai^
 ||cdn.shortpixel.ai^
 ||cdn-sp.shortpixel.ai^
