@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-11T09:00:17.341Z
+! Last modified: 2024-06-13T09:00:17.782Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 12JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4116,6 +4116,7 @@
 ||ana.e-ticket.co.jp^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
+||anal.sataniskwijt.be^
 ||analyse.bcovery.com^
 ||analyse.hinemos.info^
 ||analysis.aws.locondo.jp^
@@ -4237,6 +4238,7 @@
 ||analytics.cnfanart.com^
 ||analytics.cnnchile.com^
 ||analytics.cocolog-nifty.com^
+||analytics.code.dccouncil.gov^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
 ||analytics.codigo.se^
@@ -8074,6 +8076,7 @@
 ||count-server.sharethis.com^
 ||count.sibbo.net^
 ||count.upc.rakuten.co.jp^
+||count.vidsrc.pro^
 ||count.xxxssk.com^
 ||count.yandeg.ru^
 ||covenant.psjhealth.org^
@@ -12109,6 +12112,10 @@
 ||go.app.sharekey.com^
 ||go.asian.mingle.com^
 ||go.askbee.my^
+||goat.hepicgamerz.com^
+||goat.nhimmeo.cf^
+||goat.skeetstats.xyz^
+||goat.tailspace.net^
 ||go.audacy.com^
 ||go.augin.app^
 ||go.aussie.mingle.com^
@@ -29869,6 +29876,7 @@
 ||stats.adobe.com^
 ||stats.adultswim.com^
 ||stats.aerotime.aero^
+||stats.afrocave.com^
 ||stats.agl.com.au^
 ||stats.airfarewatchdog.com^
 ||stats.airfarewatchdog.co.uk^
@@ -29945,6 +29953,7 @@
 ||stats.bookingbuddy.eu^
 ||stats.book-rec.com^
 ||stats.booncon.com^
+||stats.boringproxy.io^
 ||stats.boscabeatha.ie^
 ||stats-bq.stylight.net^
 ||stats.bradmax.com^
@@ -30185,6 +30194,7 @@
 ||stats.homestow.com^
 ||stats.honeywell.com^
 ||stats.hostfactor.io^
+||stats.how.wtf^
 ||stats.hpz-scharnhausen.de^
 ||stats.htmlcsstoimage.com^
 ||stats.htp.org^
@@ -30854,6 +30864,7 @@
 ||stliom.vidaxl.cz^
 ||stlog.d.dmkt-sp.jp^
 ||stlog.dmarket.docomo.ne.jp^
+||st.mapleranks.com^
 ||st.mashable.com^
 ||st.mazdausa.com^
 ||stmetrics.bbva.com.ar^
