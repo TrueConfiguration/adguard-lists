@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-13T09:00:17.782Z
+! Last modified: 2024-06-15T09:00:16.815Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 14JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -16611,6 +16611,7 @@
 ||log.snapdeal.com^
 ||logs.naukri.com^
 ||logs.netflix.com^
+||logs.openbank.com^
 ||logs-partners.coupang.com^
 ||logs.spilgames.com^
 ||logstash-3.radio-canada.ca^
@@ -30130,6 +30131,7 @@
 ||stats.fishersci.de^
 ||stats.fishersci.it^
 ||stats.flightsphere.com^
+||stats.flixhq.live^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
 ||stats.fomo.com^
