@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-15T09:00:16.815Z
+! Last modified: 2024-06-18T09:00:16.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 14JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 17JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -58,6 +58,7 @@
 ||1a715b8q5m3j.www.logology.co^
 ||1amehwchx31.bloxdhop.io^
 ||1baq2nvd6n7.www.keevowallet.com^
+||1bliq.io^
 ||1bpmtrvkqkj.pettoonies.com^
 ||1bw7etm93lf.www.woodbrass.com^
 ||1cros.net^
@@ -3826,6 +3827,7 @@
 ||ad-track.paravi.jp^
 ||ad.udition.jp^
 ||adultium.com^
+||adv-analytics-collector.videograph.ai^
 ||advancedsolutions.actonservice.com^
 ||advancing.acams.org^
 ||advantageauburn.actonservice.com^
@@ -8787,6 +8789,7 @@
 ||data.keybank.dev.cjmadobe.com^
 ||data.kulturkaufhaus.de^
 ||data.latinamerica.coca-cola.com^
+||datalayer.orange.fr^
 ||data.leipzig.de^
 ||data.lifesize.com^
 ||data-logdelivery.wconcept.co.kr^
@@ -19174,6 +19177,7 @@
 ||metrics.brighthorizons.com^
 ||metrics.britishgas.co.uk^
 ||metrics.brocade.com^
+||metrics-broker.prod.p.tf1.fr^
 ||metrics.bt.com^
 ||metrics.bt.com.au^
 ||metrics.bt.se^
