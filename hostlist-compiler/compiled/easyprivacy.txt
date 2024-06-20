@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-18T09:00:16.626Z
+! Last modified: 2024-06-20T09:00:18.077Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 19JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6415,6 +6415,7 @@
 ||bigcustomernetwork.actonservice.com^
 ||bigdata.clarin.com^
 ||b.iheart.southwest.com^
+||bi.heyloyalty.com^
 ||bi.irisdating.com^
 ||bijkep.hotelesestelar.com^
 ||bilahh.feuvert.fr^
@@ -11154,6 +11155,7 @@
 ||evt-api.ntm.eu^
 ||evt.houzz.com^
 ||evupmg.olehenriksen.com^
+||ew3.io^
 ||ewfarp.kappa.com^
 ||ewfrnd.stockmann.ru^
 ||eworfe.babyartikel.de^
@@ -22415,6 +22417,7 @@
 ||plausible.retune.de^
 ||plausible.safing.io^
 ||plausible.sbw.org^
+||plausible.server.hakai.app^
 ||plausible.shadygrovepca.org^
 ||plausible.simplelogin.io^
 ||plausible.srijn.net^
