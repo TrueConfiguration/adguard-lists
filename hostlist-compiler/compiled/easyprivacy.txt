@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-06-22T09:00:16.907Z
+! Last modified: 2024-06-25T09:00:16.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 24JUN24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -39,6 +39,7 @@
 ||12915784.help.sanvello.com^
 ||12build.actonservice.com^
 ||13js1lbtbj3.sparkloop.app^
+||1438976156.recolution.de^
 ||1558334541.rsc.cdn77.org^
 ||16134024.artcollection.io^
 ||161779.publy.co^
@@ -8519,6 +8520,7 @@
 ||da.bodenhaus.de^
 ||dabu.askmediagroup.com^
 ||dacocorp.actonservice.com^
+||dadalytics.it^
 ||dadispapi.gmarket.co.kr^
 ||d.adlpo.com^
 ||da.freo.nl^
@@ -9764,6 +9766,7 @@
 ||d.uni-medias.com^
 ||dup.baidustatic.com^
 ||duprelogistics.actonservice.com^
+||durchsichtig.xyz^
 ||durst-group.actonservice.com^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dv59b.montecarlomeeting.com^
@@ -13074,6 +13077,7 @@
 ||hst2-invite.ander.ai^
 ||hstats.askmiso.com^
 ||hstats.hepsiburada.com^
+||hstatstest.hepsiburada.com^
 ||htcnbx.odkarla.cz^
 ||htc.oaken.com^
 ||htmgrl.jollyroom.no^
@@ -17020,6 +17024,7 @@
 ||mantis.edge47.testandtarget.omniture.com^
 ||manufacturing.autodeskcommunications.com^
 ||ma.pasco.com^
+||mapixl.com^
 ||mapp.biryanibykilo.com^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
@@ -20455,6 +20460,7 @@
 ||m.giftry.com^
 ||mg.info.averydennison.com^
 ||mgixgn.wittchen.com^
+||mgln.ai^
 ||mg.mistrasgroup.com^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||m.go4.io^
@@ -22261,6 +22267,7 @@
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
 ||pixel.cpex.cz^
+||pixel.driveniq.com^
 ||pixel.dugwood.com^
 ||pixel.europapress.net^
 ||pixel.facebook.com^
