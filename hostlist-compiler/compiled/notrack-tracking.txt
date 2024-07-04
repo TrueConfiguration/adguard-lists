@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-07-02T09:00:39.981Z
+! Last modified: 2024-07-04T09:00:42.426Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4395,6 +4395,7 @@
 ||mkt11950.com^
 ||mkt11951.com^
 ||mkt11952.com^
+||mkt11954.com^
 ||mkt11955.com^
 ||mkt11956.com^
 ||mkt11957.com^
@@ -4417,6 +4418,7 @@
 ||mkt11982.com^
 ||mkt11983.com^
 ||mkt11984.com^
+||mkt11986.com^
 ||mkt11987.com^
 ||mkt11988.com^
 ||mkt1199.com^
@@ -13824,7 +13826,6 @@
 ||paas-vpc01-dms-edge-fk.easy4ipcloud.com^
 ||padsims.com^
 ||pagefair.com^
-||pagefair.net^
 ||pages01.net^
 ||pages02.net^
 ||pages03.net^
@@ -13862,8 +13863,6 @@
 ||performax.cz^
 ||performfeeds.com^
 ||performgroup.com^
-||performtechnique.com^
-||perfunctoryfrugal.com^
 ||perkyexcitedlyscenario.com^
 ||permutive.app^
 ||permutive.com^
