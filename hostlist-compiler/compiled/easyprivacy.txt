@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-07-13T09:00:17.190Z
+! Last modified: 2024-07-16T09:00:17.357Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 15JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7634,6 +7634,7 @@
 ||brmuvif.eccocar.com^
 ||brmuvon.eccocar.com^
 ||brnc.seidecor.com.br^
+||broadstreet.ai^
 ||b.rohde-schwarz.com^
 ||bronxvanilla.openapp.link^
 ||brooklynway.openapp.link^
@@ -8478,6 +8479,7 @@
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
 ||collector-px0py5pczn.octopart.com^
+||collector.quillbot.com^
 ||collector.schibsted.io^
 ||collector-soompi.viki.io^
 ||collector.sspinc.io^
@@ -12187,6 +12189,7 @@
 ||events.kangan.edu.au^
 ||events.limango.com^
 ||events-logs.doctolib.com^
+||events.mapbox.com^
 ||events.marketingcube.com.au^
 ||events.matterport.com^
 ||events.mbrl.ae^
@@ -12915,6 +12918,7 @@
 ||gatan.actonservice.com^
 ||gateway.aimia.com^
 ||gateway.foresee.com^
+||ga-tracker-dot-detmir-bonus.appspot.com^
 ||gawayez.e-postserv.com^
 ||ga.webdigi.co.uk^
 ||gay-hotvideo.net^
@@ -15049,6 +15053,7 @@
 ||imp.optaim.com^
 ||imp.pvnsolutions.com^
 ||impression.clickinc.com^
+||impressions.svc.abillion.com^
 ||impression-tracker-service-5eimuebuhq-lz.a.run.app^
 ||impress.vcita.com^
 ||improve.tempest.com^
@@ -16708,7 +16713,6 @@
 ||la.idgenterprise.com^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
-||lambda-url.us-east-1.on.aws^
 ||lammico.actonservice.com^
 ||landing-activemeetings.wolterskluwer.com^
 ||landing-annotext.wolterskluwer.com^
@@ -17844,6 +17848,7 @@
 ||lltrck.com^
 ||llwoyl.mirraw.com^
 ||l.lyfshort.com^
+||lma.npaw.com^
 ||lmavci.eloquii.com^
 ||lmeniu.timberland.com.au^
 ||lmepbq.com^
