@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-07-16T09:00:17.357Z
+! Last modified: 2024-07-18T09:00:17.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 17JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4901,7 +4901,6 @@
 ||a.munters.nl^
 ||a.munters.se^
 ||a.munters.us^
-||am-vid-events.taboola.com^
 ||amvtwk.thebottleclub.com^
 ||anaconda.net.anwalt.de^
 ||ana.e-ticket.co.jp^
@@ -7162,6 +7161,7 @@
 ||beacon.sojern.com^
 ||beacon.statful.com^
 ||beacon.tingyun.com^
+||beacon-v2.helpscout.net^
 ||beacon.vertebrae-axis.com^
 ||beacon.viewlift.com^
 ||beacon.walmart.com^
@@ -7638,6 +7638,7 @@
 ||b.rohde-schwarz.com^
 ||bronxvanilla.openapp.link^
 ||brooklynway.openapp.link^
+||browser.covatic.io^
 ||browser-intake-datadoghq.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser-updater.yandex.net^
@@ -8891,7 +8892,6 @@
 ||convertlink.com^
 ||conveyor.lewcoinc.com^
 ||convision.davivienda.com^
-||convsgmp.taboola.com^
 ||coobuo.pinkpanda.cz^
 ||cookie.amerigas.com^
 ||cookie.cynch.com^
@@ -12241,6 +12241,7 @@
 ||events.whisk.com^
 ||event.syndigo.cloud^
 ||events.yourcx.io^
+||event.tagtoo.co^
 ||event.thermofisher.com^
 ||event.thermoscientific.cn^
 ||event.thermoscientific.com^
@@ -14164,7 +14165,6 @@
 ||hksfkh.otomotoprofi.pl^
 ||hkskqs.belvilla.fr^
 ||hktracker.hankookilbo.com^
-||hk-trc-events.taboola.com^
 ||hlagkl.vinatis.com^
 ||hleouh.feelunique.com^
 ||hlhyzh.fann.cz^
@@ -16757,7 +16757,6 @@
 ||l.apna.co^
 ||lapwkd.feelgood-shop.com^
 ||laserconcepts.actonservice.com^
-||la-sync.taboola.com^
 ||latam.thomsonreuters.com^
 ||l.audibook.si^
 ||launch.aella.app^
@@ -22554,7 +22553,6 @@
 ||nqxnvy.levi.com.hk^
 ||nqyuel589fq5.esgrounding.com^
 ||nra.locktonaffinity.net^
-||nr-events.taboola.com^
 ||nrg.red-by-sfr.fr^
 ||nrjcur.pomelofashion.com^
 ||nrquff.supurgemarket.com^
@@ -23097,7 +23095,6 @@
 ||opoffice.actonservice.com^
 ||opportunity.businessbroker.net^
 ||opportunityfund.actonservice.com^
-||opps.taboola.com^
 ||oppuz.com^
 ||ops.sunpowercorp.com^
 ||opsveda.actonservice.com^
@@ -23860,6 +23857,7 @@
 ||pl.kis-nagy.art^
 ||pl.letsblock.it^
 ||pll.pearlinsurance.com^
+||pl.lucida.to^
 ||pl.maya-astro.fi^
 ||pl.mynorthstarapp.com^
 ||p.logbox.io^
@@ -32595,7 +32593,6 @@
 ||sync.adap.tv^
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
-||sync.taboola.com^
 ||s.yorkregion.com^
 ||syqhvv.vivense.com^
 ||sys.hager.com^
@@ -33694,7 +33691,6 @@
 ||tmhgma.juwelo.de^
 ||t.miamihurricanes.com^
 ||t.miamiredhawks.com^
-||tm.jsuol.com.br^
 ||t.mktg.genesys.com^
 ||tmlt.actonservice.com^
 ||t.mmaeast.com^
@@ -36893,7 +36889,6 @@
 ||uqhpej.wiberrentacar.com^
 ||urbanairship.com^
 ||ur.b.inhaabit.com^
-||urc.taboolasyndication.com^
 ||urehgr.halekulani.com^
 ||ureoaw.netthandelen.no^
 ||ureruadebis.papawash.com^
@@ -37118,7 +37113,6 @@
 ||video.verintsystemsinc.com^
 ||video.vitcord.com^
 ||vidfiles.net.mydays.de^
-||vidstat.taboola.com^
 ||view.americanbuildings.com^
 ||view.aon.com^
 ||view.centria.com^
@@ -37730,7 +37724,6 @@
 ||wevbgr.vidaxl.it^
 ||wezbvq.heine-shop.nl^
 ||wfmcgd.msccruzeiros.com.br^
-||wf.taboola.com^
 ||wgeaqi.laredoute.gr^
 ||wgnrrd.culturekings.com^
 ||wgpepw.boatoutfitters.com^
