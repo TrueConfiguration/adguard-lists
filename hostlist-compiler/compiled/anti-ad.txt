@@ -3,7 +3,7 @@
 ! Description: Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 ! License: MIT License
-! Last modified: 2024-07-18T09:00:06.961Z
+! Last modified: 2024-07-19T09:00:06.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13653,6 +13653,9 @@
 ||boostog.net^
 ||share.boostorder.com^
 ||polhvf.bootbarn.com^
+||bootcdn.cn^
+||bootcdn.net^
+||bootcss.com^
 ||bootharchie.com^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -76097,6 +76100,8 @@
 ||static-cnt.bid^
 ||static-sb.com^
 ||static-srv.com^
+||staticfile.net^
+||staticfile.org^
 ||px.staticfiles.at^
 ||staticiv.com^
 ||staticjs.cn^
