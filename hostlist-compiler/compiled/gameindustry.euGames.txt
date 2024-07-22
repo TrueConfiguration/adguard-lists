@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-05-13T09:00:20.048Z
+! Last modified: 2024-07-22T09:00:20.164Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -82,60 +82,22 @@
 ||script.hotjar.com^
 ||vars.hotjar.com^
 ||static.hotjar.com^
+||trial-eum-clienttons-s.akamaihd.net^
+||statsigapi.net^
 ||c.go-mpulse.net^
-||confluence.ea.com^
-||consent.trustarc.com^
+||featuregates.org^
+||02179912.akstat.io^
+||sdk.split.io^
 ||events.split.io^
+||ea-app-data-override-dev.eax.ea.com^
 ||gosca18.ea.com^
-||pin-river.data.ea.com^
+||freeform-river.data.ea.com^
+||confluence.ea.com^
+||redirector.gvt1.com^
+||r3---sn-gxuo03g-vqne.gvt1.com^
 ||ratt.juno.ea.com^
-||s.go-mpulse.net^
-# Origin Launcher
-# Weiterhin auf dem MAC präsent
-# Für den Client oder Spiele nicht benötigt
-# 34.230.177.100
-# 34.202.75.252
-||vpc-prod-heartbeat-439069019.us-east-1.elb.amazonaws.com^
-||pin-em.data.ea.com^
-||recommendations.tnt-ea.com^
-||2e33b7cf.mpstat.us^
-||gen4.reports.tools.gos.ea.com^
-||stage.secure.download.dm.origin.com^
-||dirtybits.api.origin.com^
-# Neu dabei - geprüft Februar 2020
-# 34.199.132.106
-# 34.226.66.159
-# 52.4.13.87
-# 52.5.70.71
-# 52.44.9.38
-# 52.4.13.87
-||information-api-gateway-prod-blck.us-east-1.elasticbeanstalk.com^
-# Sonstiges
-||09b5a91c7f2d383e9.gs.ea.com^
-||0cf6c0df87dc9f73e.gs.ea.com^
-||0a0f2aa0965ed4a40.gs.ea.com^
-||036bdce1effdafbb4.gs.ea.com^
-||05196775c0912488b.gs.ea.com^
-||03e0279355465f8bc.gs.ea.com^
-||0c14eda1ff93d3986.gs.ea.com^
-||0543d8862727cf1e0.gs.ea.com^
-||07a7ad9333cabe619.gs.ea.com^
-||0ab2c6e49da4a3502.gs.ea.com^
-||0c3d0ff1cff2a72a9.gs.ea.com^
-||0dc5948d07b2684c3.gs.ea.com^
-||03fd2e58e769a6f1f.gs.ea.com^
-||03a4c502020d4ea47.gs.ea.com^
-||03f94b757df37da66.gs.ea.com^
-||09b039b90ee5e48a6.gs.ea.com^
-||0955daf526e15ad28.gs.ea.com^
-||0df42cc7484911469.gs.ea.com^
-||0bcd99b427f2ef101.gs.ea.com^
-||04b59136e1a643f38.gs.ea.com^
-||01e4757ac7e1e56c4.gs.ea.com^
-||0b0449e21a4a7e7ba.gs.ea.com^
-||0a7a1e036169de01a.gs.ea.com^
-||0679d175b8912d4d7.gs.ea.com^
-||0bb5efe081f99e8d0.gs.ea.com^
+||pin-river.data.ea.com^
+||jvnlfjixedxncztem7pq-pjz1qn-ea616a9d6-clientnsv4-s.akamaihd.net^
 ||qos2.ol.epicgames.com^
 ||qos3.ol.epicgames.com^
 ||qos4.ol.epicgames.com^
@@ -243,7 +205,7 @@
 ||polyfill.io^
 ||cdn.cquotient.com^
 # Valve Corporation | Valve Softworks | Steam Client
-# Dazugehörige Infos unter https://gameindustry.eu/katalog/valve-corporation/#GoogleCaptive
+# Info: https://gameindustry.eu/katalog/valve-corporation/captive-portal/
 # Seit Version 1637358733 inaktiv
 # Steam: Captive Portal und Google
 ||gstatic.com^
@@ -276,24 +238,14 @@
 ||collector-02.valve.net^
 ||r3.o.lencr.org^
 # Steam: Datagram Relay | SDR
-# Ipv4 Download - https://www.gameindustry.eu/de/blog/steam-datagram-relay/
+# Ipv4 Download - https://www.gameindustry.eu/blog/steam-datagram-relay/
 # Steamworks Info - https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay
 # Steam: Game Overlay UI
 # Ip/s blockieren:
 # 52.58.211.18
 ||ec2-52-58-211-18.eu-central-1.compute.amazonaws.com^
-# Steam: General Directory Server - Dienst obsolet
-# Ip/s blockieren:
-# 208.64.200.105
-||a1737.b.akamai.net^
-||208-64-200-105.steampowered.com^
-||gds1.steampowered.com^
-||gds2.steampowered.com^
-||gds3.steampowered.com^
-||gds4.steampowered.com^
 # Steam: IP Checks
-# Von Valve eingeführte verpflichtende Callbacks im Steam-Client und UE4 Produkten, die allerdings blockiert werden können
-# Dazugehörige IP-Adressen unter https://gameindustry.eu/katalog/valve-corporation/#SteamIPChecks
+# Info & IPv6: https://gameindustry.eu/katalog/valve-corporation/ipv6check/
 ||ipv6check-http.steamcontent.com^
 ||ipv6check-udp.steamcontent.com^
 ||ipv6check-udp.steamserver.net^
@@ -301,31 +253,8 @@
 ||http.ipv6check.akadns.net^
 ||udp.ipv6check.akadns.net^
 ||origin-ip-selector.steampipe.steamcontent.akadns.net^
-||blob.syd26prdstr02a.store.core.windows.net^
-# Steam: SteamWebhelper.exe
-||limited-prod.giphy.map.fastly.net^
-# Ip/s blockieren:
-# 151.101.12.193
-# 151.101.112.193
-# 172.217.12.206
-# 190.61.17.9
-||prod.imgur.map.fastlylb.net^
-||fpdownload2.macromedia.com^
-# Ip/s blockieren:
-# 172.217.12.206
-# 216.58.207.238
-# 216.58.212.136
-# 172.217.22.162
-# 216.58.211.6
-# 173.194.222.154
-||www-google-analytics.l.google.com^
-||ssl-google-analytics.l.google.com^
-||pagead46.l.doubleclick.net^
-||static-doubleclick-net.l.google.com^
-||stats.l.doubleclick.net^
 # Steam: Unkategorisiert
 # 2a02:26f0:105:0:0:0:216:16d3
-||steampipe.akamaized.net^
 ||steamstats.valvesoftware.com^
 ||t.paypal.com^
 # Desktop-Spiele
@@ -402,6 +331,12 @@
 # 10tons Ltd
 # JYDGE
 # 208.64.200.105
+||gds1.steampowered.com^
+||gds2.steampowered.com^
+||gds3.steampowered.com^
+||gds4.steampowered.com^
+||208-64-200-105.steampowered.com^
+||a1737.b.akamai.net^
 # Ip/s blockieren:
 # 52.72.141.108
 # 54.164.66.28
@@ -581,6 +516,7 @@
 ||datagather.xsolla.com^
 ||xlauncher-logs.s3.amazonaws.com^
 ||www.drdump.com^
+||www-google-analytics.l.google.com^
 # 38,9_Degrees
 # Forest Escape
 # Ip/s blockieren:
@@ -1050,10 +986,6 @@
 ||fra15s29-in-f3.1e100.net^
 ||fra16s13-in-x03.1e100.net^
 ||ams15s22-in-f163.1e100.net^
-# JUMP FORCE
-# s. Easy Anti-Cheat
-# Ip/s blockieren:
-# 52.203.187.25
 # Little Nightmares
 # 塊魂 | Katamari Damacy Reroll
 # Ip/s blockieren:
@@ -1392,6 +1324,11 @@
 # 20.42.150.112
 ||7402.playfabapi.com^
 ||p-common-1-mainserver-720424357.us-west-2.elb.amazonaws.com^
+# モンスターハンターライズ | MONSTER HUNTER RISE
+||drshjy61dpwmg.cloudfront.net^
+||prod.api.agapanthus.capcom.com^
+||pubsub.googleapis.com^
+||us-central1-snow-analysis.cloudfunctions.net^
 # Dark Void™
 # SecuROM s. Rubrik Kopierschutz / AntiCheat
 # デビル メイ クライ 5 | Devil may Cry 5
@@ -1400,6 +1337,8 @@
 # 13.35.78.110
 ||sag-api.capcom-s.jp^
 ||d21s7hqn3pmzza.cloudfront.net^
+||hjm.rebe.capcom.com^
+||mtm.rebe.capcom.com^
 # 208.64.200.105
 # バイオハザード RE:2 | RESIDENT EVIL 2 / BIOHAZARD RE:2
 # s. Rubrik Kopierschutz / AntiCheat
@@ -1411,19 +1350,28 @@
 # 216.239.36.54
 # 2001:4860:4802:36::36
 ||us-central1-escape-analysis.cloudfunctions.net^
-||pubsub.googleapis.com^
-||nobunaga.ayagu.jp^
-# Epic Games Analytics und Amazon AWS Anbindung
+# バイオハザード4 | Resident Evil 4
+# s. Rubrik Kopierschutz / AntiCheat
+||mmr.rebe.capcom.com^
+||mtms.rebe.capcom.com^
+||nkm.rebe.capcom.com^
+||selector.gs.capcom.com^
+# Multiplayer
+# 52.25.78.247
+# 34.220.52.214
+# 35.164.228.153
+# 34.215.57.130
+# 34.220.52.214
+# 52.25.78.247
+# 54.245.165.72
+# Epic Games Telemetry
 # Ip/s blockieren:
-# 52.200.123.101
-# 54.244.108.50
-# 35.161.233.207
-# 34.220.253.90
-# 35.161.65.242
-# 34.221.17.53
-# 34.215.184.198
-# 34.214.222.226
-||ec2-52-200-123-101.compute-1.amazonaws.com^
+# 52.0.76.96
+||etsource.epicgames.com^
+# バイオハザード6 | Resident Evil VI
+# 40.74.83.21
+# 131.107.13.100
+||xofr02.capcom.co.jp^
 # バイオハザード7 | Resident Evil VII
 # 40.74.124.164
 ||game.residentevil.net^
@@ -1435,11 +1383,6 @@
 # 13.32.121.26
 # 13.32.121.38
 # 13.32.121.101
-||mmr.rebe.capcom.com^
-||mtm.rebe.capcom.com^
-||mtms.rebe.capcom.com^
-||hjm.rebe.capcom.com^
-||selector.gs.capcom.com^
 ||c379418fd6100691807f32f274ebe9ce.cloudfront.net^
 # Cardboard Keep
 # Warden: Melody of the Undergrowth
@@ -1626,7 +1569,6 @@
 # 52.71.184.98
 # 104.18.12.16
 ||api.stathat.com^
-||api.mod.io^
 # Sanctum 2
 # Ip/s blockieren:
 # 35.241.0.225
@@ -2028,7 +1970,6 @@
 # 52.72.55.27
 # 3.231.246.124
 ||valhallahills.s3.amazonaws.com^
-||etsource.epicgames.com^
 # Ip/s blockieren:
 # 52.85.246.229
 ||dji22ijeurkhd.cloudfront.net^
@@ -2298,12 +2239,6 @@
 ||ec2-54-185-74-213.us-west-2.compute.amazonaws.com^
 ||ec2-44-240-250-25.us-west-2.compute.amazonaws.com^
 ||ec2-34-211-24-172.us-west-2.compute.amazonaws.com^
-# Easy Day Studios PTY.
-# Skater XL
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# 35.190.78.8
 # Eek! Games, LLC
 # House Party
 # Ip/s blockieren:
@@ -2327,6 +2262,7 @@
 ||go.bioware.com^
 ||bytevault.gameservices.ea.com^
 ||ds-aksb-a.akamaihd.net^
+||dirtybits.api.origin.com^
 ||www-googletagmanager.l.google.com^
 ||58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com^
 ||swbf1-terminator.ops.dice.se^
@@ -4309,16 +4245,6 @@
 # Twitter, Youtube, Facebook
 # 208.64.200.105
 ||www.polarityflow.com^
-# PolyARC
-# Moss
-# Ip/s blockieren:
-# 216.58.207.238
-# Polymorph Games
-# Foundation
-# Nutzer werden zwar zwecks Datenversand um Einwilligung gebeten. Ein Deaktivieren ist danach aber nicht mehr vorgesehen.
-# CrashSender1403.exe und crashrpt_lang.ini im Installationsverzeichnis löschen
-# 103.24.121.30
-# 74.208.236.121
 ||www.polymorph.games^
 # Positech Games
 # Big Pharma
@@ -4744,11 +4670,14 @@
 ||8aefz.x.incapdns.net^
 ||d3j5omnogt8tmc.cloudfront.net^
 # Tracker/Analytics/Cookies
+||pagead46.l.doubleclick.net^
 ||03c9acbb-4d65-4544-bc3d-082aa04cc5b4.totalwar.com^
 ||launcher-analytics.totalwar.com^
 # Sega Support optional
 ||support.sega.co.uk^
 ||d3n23swryao27j.cloudfront.net^
+||metrics.hub.caaws.services^
+||wh3prod.whprod.caaws.services^
 # Server-Endpunkte
 ||s3.eu-west-1.amazonaws.com^
 ||ec2-52-30-239-7.eu-west-1.compute.amazonaws.com^
@@ -4868,8 +4797,10 @@
 # Sparpweed
 # 18.185.111.141
 ||ec2-18-185-111-141.eu-central-1.compute.amazonaws.com^
+# Shiro Games
 # Evoland 2
 # 104.79.88.64
+# 2.18.96.131
 # Northgard
 # Einzelspielermodus
 # 5.39.74.98
@@ -5120,7 +5051,6 @@
 ||a23-48-23-181.deploy.static.akamaitechnologies.com^
 ||sqm.microsoft.com^
 ||dns.msftncsi.com^
-||lbmtl.os.eidos.com^
 # Deus Ex: The Fall
 # 157.240.20.35
 # 157.240.20.19
@@ -5839,11 +5769,21 @@
 # Unknown Worlds Entertainment
 # Subnautica | Update 05.02.2019
 # Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
+# 172.104.209.232
+# 45.79.228.142
+# 3.5.163.130
+# 3.5.162.101
+# 52.219.216.50
+# 52.219.193.34
+# 3.5.160.162
+# 52.219.220.178
+# 52.219.120.193
+# 3.5.160.124
+# 172.104.215.92
 # 35.190.78.8
+||analytics.unknownworlds.com^
 ||subnautica.unknownworlds.com^
-||uwese.herokuapp.com^
+||snupdates.s3.us-west-1.amazonaws.com^
 # Subnautica: Below Zero
 # Ip/s blockieren:
 # 65.9.58.204
@@ -5854,7 +5794,6 @@
 # 65.9.58.95
 ||dkli3tbfz4zj3.cloudfront.net^
 ||snexpansion.unknownworlds.com^
-||analytics.unknownworlds.com^
 ||economy.unknownworlds.com^
 ||li1327-142.members.linode.com^
 ||li1925-92.members.linode.com^
@@ -6024,6 +5963,19 @@
 # Ip/s blockieren:
 # 74.125.140.154
 # 216.58.210.46
+# Hogwarts Legacy
+# s. Rubrik Kopierschutz / AntiCheat
+||phoenix-api.wbagora.com^
+||wb-agora-hydra-file-storage-phoenix.s3.amazonaws.com^
+||prod-network-api.wbagora.com^
+||event.wbinsights.com^
+||us-east-1-phoenix-realtime-12.wbagora.com^
+||us-east-1-phoenix-realtime-19.wbagora.com^
+||us-east-1-phoenix-realtime-24.wbagora.com^
+||us-east-1-phoenix-realtime-31.wbagora.com^
+||us-east-1-phoenix-realtime-32.wbagora.com^
+||us-east-1-phoenix-realtime-38.wbagora.com^
+||us-east-1-phoenix-realtime-42.wbagora.com^
 # Mortal Kombat X
 # Ip/s blockieren:
 # 23.20.70.137
@@ -6039,7 +5991,6 @@
 # 52.86.38.253
 # 3.82.164.250
 # 50.17.88.93
-||event.wbinsights.com^
 # Verschiedene Endpunkte
 ||ec2-3-90-130-30.compute-1.amazonaws.com^
 ||ec2-52-6-230-7.compute-1.amazonaws.com^
