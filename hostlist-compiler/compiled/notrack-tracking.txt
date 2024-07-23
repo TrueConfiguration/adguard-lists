@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-07-21T09:00:39.894Z
+! Last modified: 2024-07-23T09:00:40.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -288,6 +288,7 @@
 ||ads.securityweek.com^
 ||ads.sportradar.com^
 ||ads.sportslocalmedia.com^
+||ads.the-sun.com^
 ||ads.thescottishsun.co.uk^
 ||ads.thesun.co.uk^
 ||ads.thesun.ie^
@@ -4515,6 +4516,7 @@
 ||mkt1210.com^
 ||mkt12100.com^
 ||mkt12101.com^
+||mkt12102.com^
 ||mkt12103.com^
 ||mkt12105.com^
 ||mkt12106.com^
@@ -4523,6 +4525,7 @@
 ||mkt12115.com^
 ||mkt12119.com^
 ||mkt1212.com^
+||mkt12123.com^
 ||mkt1213.com^
 ||mkt1214.com^
 ||mkt1215.com^
@@ -15184,11 +15187,9 @@
 ||sophomoreguessingestrange.com^
 ||sophus3.com^
 ||sortable.com^
-||sounddelegate.com^
 ||sovrn.com^
 ||spaceio.xyz^
 ||sparkflow.net^
-||sparrowaboveaveragedefence.com^
 ||spatterjointposition.com^
 ||specificclick.net^
 ||speedcurve.com^
@@ -15346,6 +15347,7 @@
 ||svibeacon.onezapp.com^
 ||swa.vodafone.pt^
 ||swaptrap.live^
+||sweetanalytics.com^
 ||switchadhub.com^
 ||switchads.com^
 ||swoop.com^
