@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-07-22T09:00:20.164Z
+! Last modified: 2024-07-27T09:00:18.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -102,27 +102,13 @@
 ||qos3.ol.epicgames.com^
 ||qos4.ol.epicgames.com^
 ||merchantpool1.epicgames.com^
-# Version 1
+# Version 1 Endpunkt
 ||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
-# Version 2
-||eos-gateway-ingressv2-prod-c1-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c1-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c1-w5.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w3.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w5.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w5.befa.live.use1a.on.epicgames.com^
 ||metrics.ol.epicgames.com^
 # Analytics, Affiliate und Geodatenerfassung
 # 52.2.190.222
@@ -922,8 +908,6 @@
 # 104.16.2.61
 # 104.16.1.61
 ||metrics.avalanchestudios.com^
-||eos-gateway-ingressv2-prod-c1-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c1-w3.befa.live.use1a.on.epicgames.com^
 # Awaken Realms Digital
 # Tainted Grail: Conquest
 # Ip/s blockieren:
@@ -3885,6 +3869,19 @@
 ||nxl.log.nexon.io^
 # 208.64.200.105
 ||bs.serving-sys.com^
+# The First Descendant
+||toy.log.nexon.io^
+||jp.livelog.nexon.com^
+||psm-log.ngs.nexon.com^
+||nxnxp.vivox.com^
+||nxnxp.www.vivox.com^
+||nxnxp-ws.vivox.com^
+||nxnxp-mim.vivox.com^
+||sdk-push.mp.nexon.com^
+||gtable.inface.nexon.com^
+||d30y0swoxkbnsm.cloudfront.net^
+||jyp.nexon.com^
+||livestream.inface.nexon.com^
 # Next Studios & 哔哩哔哩
 # Unheard
 # 208.64.200.105

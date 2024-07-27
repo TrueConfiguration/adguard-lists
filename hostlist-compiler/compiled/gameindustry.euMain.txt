@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-07-23T09:00:20.634Z
+! Last modified: 2024-07-27T09:00:19.755Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1601,7 +1601,7 @@
 ||a.adnium.com^
 ||i.adnium.com^
 # Adnxs | Appnexus, Inc. | AT&T
-# ×-37.252.173.27
+# 37.252.173.27
 # 185.33.221.91
 ||538.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net^
 ||940.bm-nginx-loadbalancer.mgmt.ams3.adnexus.net^
@@ -1880,6 +1880,13 @@
 ||api.adsnative.com^
 ||bevo-eu-west-1.adsnative.com^
 ||static.adsnative.com^
+# Adspyglass & Traforama
+||api.adspyglass.com^
+||app.adspyglass.com^
+||app.traforama.com^
+||www.adspyglass.com^
+||www.adspyglass.net^
+||www.traforama.com^
 # adsrvr.org
 # 176.74.173.247
 # 176.74.173.251
@@ -4459,6 +4466,7 @@
 # Werbung auf Videos z.b. bei Jav.watch
 ||cdn.o333o.com^
 ||a.o333o.com^
+||s.o333o.com^
 # OadTS
 ||media.oadts.com^
 # Oclaserver
@@ -8980,13 +8988,14 @@
 ||fs.bizspring.net^
 ||gu.bizspring.net^
 # Aliexpress.com
+||campaign.aliexpress.com^
 ||cbu01.alicdn.com^
+||de-wum.aliexpress.com^
 ||lighthouse.aliexpress.com^
+||moduleanalysis.aliexpress.com^
 ||pcookie.aliexpress.com^
 ||s.click.aliexpress.com^
-||de-wum.aliexpress.com^
 ||us.ynuf.aliapp.org^
-||moduleanalysis.aliexpress.com^
 ||wp.aliexpress.com^
 # Ameba.jp
 ||ad.pr.ameba.jp^
@@ -10704,6 +10713,7 @@
 ||d3tsytm1wtjqo2.cloudfront.net^
 ||d3u8vuldqjolr7.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
+||d3v3bqdndm4erx.cloudfront.net^
 ||d3vw4uehoh23hx.cloudfront.net^
 ||d3x0jb14w6nqz.cloudfront.net^
 ||d4el4parm0zb3.cloudfront.net^
@@ -12110,6 +12120,7 @@
 ||add0n.com^
 ||fundingchoicesmessages.google.com^
 ||getpocket.com^
+||passwordsleakcheck-pa.googleapis.com^
 ||prod-classifyclient.normandy.prod.cloudops.mozgcp.net^
 ||prod.ads.prod.webservices.mozgcp.net^
 ||prod.classify-client.prod.webservices.mozgcp.net^
@@ -12572,18 +12583,28 @@
 ||m.spankbang.com^
 ||stats00main9707.spankbang.com^
 # Stripchat
-||img.strpst.com^
-||stripchat.com^
-||cdn.strpst.com^
-||st.stripcdn.com^
-||cdn.stripst.com^
+||b-hls-06.sacdnssedge.com^
+||b-hls-07.sacdnssedge.com^
+||b-hls-12.sacdnssedge.com^
+||b-hls-15.sacdnssedge.com^
+||b-hls-16.sacdnssedge.com^
 ||b-hls-16.stripst.com^
 ||b-hls-17.stripst.com^
+||b-hls-17.strpst.com^
 ||b-hls-18.stripst.com^
-||widgets.stripst.com^
 ||b-hls-20.stripst.com^
+||b-hls-23.sacdnssedge.com^
 ||b-hls-23.stripst.com^
 ||b-hls-24.stripst.com^
+||cdn.stripst.com^
+||cdn.strpst.com^
+||edge-hls.sacdnssedge.com^
+||img.strpst.com^
+||st.stripcdn.com^
+||static-cdn.strpst.com^
+||stripchat.com^
+||video.sacdnssedge.com^
+||widgets.stripst.com^
 # ThePornDude
 ||theporndude.com^
 # Trafficfactory
@@ -14255,6 +14276,7 @@
 ||ak.deephicy.net^
 ||ak.kocairdo.net^
 ||ak.psaltauw.net^
+||ak.shaugacakro.net^
 ||am.cdnetworks.net^
 ||am15.net^
 ||amd.sellingsimplified.net^
@@ -14667,7 +14689,6 @@
 ||www.962.net^
 ||www.acint.net^
 ||www.addonsearch.net^
-||www.adspyglass.net^
 ||www.adsupplyads.net^
 ||www.angloinfo.net^
 ||www.coinpayments.net^
@@ -15193,6 +15214,7 @@
 ||p.1ts11.top^
 ||p.1ts18.top^
 ||pmnwjmrteyfcn.top^
+||press-continue.hh33zv49zemn.top^
 ||pytpbhxpketulvi.top^
 ||qljuamcgrpriu.top^
 ||qualitydating.top^
@@ -15970,6 +15992,7 @@
 ||adrielas.realpush.news^
 ||ads-15s6h.ortb.vuukle.com^
 ||ads.2mdnsys.com^
+||ads.a-static.com^
 ||ads.adextrem.com^
 ||ads.adverline.com^
 ||ads.aimatch.com^
@@ -16282,13 +16305,6 @@
 ||azentace.com^
 ||azulcw7.com^
 ||azure-assets-prod.vicomi.com^
-||b-hls-06.sacdnssedge.com^
-||b-hls-07.sacdnssedge.com^
-||b-hls-12.sacdnssedge.com^
-||b-hls-15.sacdnssedge.com^
-||b-hls-16.sacdnssedge.com^
-||b-hls-17.strpst.com^
-||b-hls-23.sacdnssedge.com^
 ||b.a11k.com^
 ||b.bnrsis.com^
 ||b.dbnaked.com^
@@ -16594,6 +16610,8 @@
 ||cdn1-smallimg.phncdn.com^
 ||cdn2.editmysite.com^
 ||cdn2.lockerdomecdn.com^
+||cdn2.tapioni.com^
+||cdn3.tapioni.com^
 ||cdn4ads.com^
 ||cdnaqw.com^
 ||cdns.yieldscale.com^
@@ -17004,7 +17022,6 @@
 ||ecs.office.com^
 ||edayo.waqool.com^
 ||edconside.com^
-||edge-hls.sacdnssedge.com^
 ||edge-vids.wirewax.com^
 ||edge.ad1x.com^
 ||edge12-gru.live.mmcdn.com^
@@ -17014,6 +17031,7 @@
 ||edioca.com^
 ||edstever.com^
 ||eehuzaih.com^
+||eesidesukbeingaj.com^
 ||eevvhoawzybzpv.com^
 ||effaceecho.com^
 ||effectivelyreport.com^
@@ -17022,6 +17040,7 @@
 ||eggs-content.kinkoid.com^
 ||eggs-ext.kinkoid.com^
 ||ehbbeikveqgmtj.com^
+||ehihrkrj.com^
 ||eikegolehem.com^
 ||ejectbagsindefinite.com^
 ||ejp.rlcdn.com^
@@ -17342,6 +17361,7 @@
 ||go.pub2srv.com^
 ||go.pushnative.com^
 ||go.rcvlink.com^
+||go.rmshqa.com^
 ||go.schjmp.com^
 ||go.siemonster.com^
 ||go.static-srv.com^
@@ -17359,6 +17379,7 @@
 ||google.vrthcobj.com^
 ||goomaphy.com^
 ||goosebomb.com^
+||goplayhere.com^
 ||gopusher1.com^
 ||gossipbuzz.com^
 ||got-a-message.com^
@@ -17423,7 +17444,6 @@
 ||hdqkfbi.cn^
 ||healthvot.com^
 ||heapanalytics.com^
-||heatherdiscussionwhen.com^
 ||heiressplane.com^
 ||hekate.abs-saas.com^
 ||hello-fresh-widget.com^
@@ -18058,6 +18078,7 @@
 ||ntvpwpush.com^
 ||numbgradualassertive.com^
 ||numbtoobly.com^
+||nuqocpabj.com^
 ||nvg.gpbeta.com^
 ||nxt-psh.com^
 ||nxtck.com^
@@ -18680,6 +18701,7 @@
 ||shiverscissors.com^
 ||shockingstrategynovelty.com^
 ||shoksips.com^
+||shoordaird.com^
 ||shopify-gtm-suite.getelevar.com^
 ||shopusuallyvirtue.com^
 ||shoveoccupiedinsult.com^
@@ -18801,7 +18823,6 @@
 ||stat.networkmanag.com^
 ||stat.onestat.com^
 ||statestockingsconfession.com^
-||static-cdn.strpst.com^
 ||static-content-1.smadex.com^
 ||static-origin.plista.com^
 ||static.a-ads.com^
@@ -18896,6 +18917,7 @@
 ||swimmercelerydialogue.com^
 ||swiperjs.com^
 ||swissquote.com^
+||syenergyflexibil.com^
 ||sync.adotmob.com^
 ||sync.adstir.com^
 ||sync.colossusssp.com^
@@ -18918,6 +18940,7 @@
 ||t.adx.opera.com^
 ||t.bbwafx.com^
 ||t.bdwafx.com^
+||t.bt1-vod.com^
 ||t.cfjump.com^
 ||t.cwkuki.com^
 ||t.dtscdn.com^
@@ -19060,7 +19083,6 @@
 ||tlysearchingf.com^
 ||tm-eu.beiersdorf.com^
 ||tm-offers.gamingadult.com^
-||top-extension.com^
 ||tmnsync.target.com^
 ||tmsnrt.rs^
 ||toenailtrishaw.com^
@@ -19069,6 +19091,7 @@
 ||toolbox.brightspotcdn.com^
 ||tools.impactbnd.com^
 ||tools.ip2location.com^
+||top-extension.com^
 ||topadultwebcams.com^
 ||topdata.downloadatoz.com^
 ||topgreatxoffers.com^
@@ -19492,7 +19515,6 @@
 ||www.adexchangeguru.com^
 ||www.adsaro.com^
 ||www.adspredictiv.com^
-||www.adspyglass.com^
 ||www.adultd8.com^
 ||www.adultdates.com^
 ||www.advinapps.com^
@@ -19628,6 +19650,7 @@
 ||www.pbcake.com^
 ||www.pebblepost.com^
 ||www.performancetrustednetwork.com^
+||www.picroe.com^
 ||www.pizzaandads.com^
 ||www.platincasino.com^
 ||www.playstations99.com^
@@ -19812,6 +19835,7 @@
 ||yummy.consumable.com^
 ||yuzu-xci-games.5806z.com^
 ||ywronwasthetron.com^
+||yy.puffexies.com^
 ||z.cdn.braun634.com^
 ||z0000g.yvmads.com^
 ||z3dmbpl6309s.com^
@@ -19920,27 +19944,13 @@
 ||qos3.ol.epicgames.com^
 ||qos4.ol.epicgames.com^
 ||merchantpool1.epicgames.com^
-# Version 1
+# Version 1 Endpunkt
 ||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
 ||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
-# Version 2
-||eos-gateway-ingressv2-prod-c1-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c1-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c1-w5.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w3.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c2-w5.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w3.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c3-w5.befa.live.use1a.on.epicgames.com^
 ||metrics.ol.epicgames.com^
 # Analytics, Affiliate und Geodatenerfassung
 # 52.2.190.222
@@ -20711,8 +20721,6 @@
 # 104.16.2.61
 # 104.16.1.61
 ||metrics.avalanchestudios.com^
-||eos-gateway-ingressv2-prod-c1-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingressv2-prod-c1-w3.befa.live.use1a.on.epicgames.com^
 # Awaken Realms Digital
 # Tainted Grail: Conquest
 # Ip/s blockieren:
@@ -23546,6 +23554,19 @@
 # BattleEye Launcher und diverse Zertifikatabfragen verschiedenster Anbieter
 ||newworldinteractive.com^
 ||nxl.log.nexon.io^
+# The First Descendant
+||toy.log.nexon.io^
+||jp.livelog.nexon.com^
+||psm-log.ngs.nexon.com^
+||nxnxp.vivox.com^
+||nxnxp.www.vivox.com^
+||nxnxp-ws.vivox.com^
+||nxnxp-mim.vivox.com^
+||sdk-push.mp.nexon.com^
+||gtable.inface.nexon.com^
+||d30y0swoxkbnsm.cloudfront.net^
+||jyp.nexon.com^
+||livestream.inface.nexon.com^
 # Next Studios & 哔哩哔哩
 # Unheard
 # 208.64.200.105

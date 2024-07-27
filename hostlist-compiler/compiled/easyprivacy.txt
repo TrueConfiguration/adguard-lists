@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-07-25T09:00:17.643Z
+! Last modified: 2024-07-27T09:00:17.158Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 26JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8954,6 +8954,7 @@
 ||count.bank99.at^
 ||count.candou.com^
 ||count.carrierzone.com^
+||count.darkreader.app^
 ||counter.1i.kz^
 ||counter2.blog.livedoor.com^
 ||counter.blogoscoop.net^
@@ -25644,6 +25645,7 @@
 ||save.smartsalary.com.au^
 ||savings.adp.ca^
 ||sawap.equifax.com^
+||sayac.kapital.com.tr^
 ||say.hello.navan.com^
 ||say.hello.tripactions.com^
 ||sbc-app-links.specialized.com^
@@ -33195,6 +33197,7 @@
 ||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.stryker.com^
+||telemetry.stytch.com^
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
 ||telemetry.vtex.com^
