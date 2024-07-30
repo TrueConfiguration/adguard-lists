@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-07-27T09:00:17.158Z
+! Last modified: 2024-07-30T09:00:18.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 29JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5011,6 +5011,7 @@
 ||analytics.ceneo.pl^
 ||analytics.certifriedit.com^
 ||analytics.ceu.com^
+||analytics-cf.bigcrunch.com^
 ||analytics.changiairport.com^
 ||analytics.chase.com^
 ||analytics.chattarize.de^
@@ -7152,6 +7153,7 @@
 ||beacon.flow.io^
 ||beacon.klm.com^
 ||beacon.qq.com^
+||beacon.radiko.jp^
 ||beacon.riskified.com^
 ||beacon.samsclub.com^
 ||beacon.searchspring.io^
@@ -12472,7 +12474,6 @@
 ||feedback.lifeguardarena.com^
 ||feedback.nslsc-csnpe.ca^
 ||feedme.use-beez.com^
-||feliz.data.tm-awx.com^
 ||f-emc.ngsp.gov.vn^
 ||femetrics.grammarly.io^
 ||feppiu.systemaction.es^
@@ -23647,6 +23648,7 @@
 ||pixel.dugwood.com^
 ||pixel.europapress.net^
 ||pixel.facebook.com^
+||pixel.fohr.co^
 ||pixel.homebook.pl^
 ||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
