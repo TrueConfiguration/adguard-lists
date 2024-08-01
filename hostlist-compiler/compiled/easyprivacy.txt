@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-07-30T09:00:18.115Z
+! Last modified: 2024-08-01T09:00:16.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 31JUL24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -10828,6 +10828,7 @@
 ||dtr-onsite-feed.datarize.ai^
 ||dttrk.com^
 ||d.tv-asahi.co.jp^
+||dt.xfyun.cn^
 ||dtxtngytz5im1.cloudfront.net^
 ||dtzrrz.green-japan.com^
 ||du4rq1xqh3i1k.cloudfront.net^
@@ -21776,7 +21777,6 @@
 ||mggakg.littleblack.co.kr^
 ||m.giftry.com^
 ||mgixgn.wittchen.com^
-||mgln.ai^
 ||mg.mistrasgroup.com^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||m.go4.io^
@@ -22501,6 +22501,7 @@
 ||nnvoia.closetworld.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noa0.compteczam.fr^
+||noa.yahoo.com^
 ||nocaadobefpc.optus.com.au^
 ||noeyeon.click^
 ||noeyeon.com^
