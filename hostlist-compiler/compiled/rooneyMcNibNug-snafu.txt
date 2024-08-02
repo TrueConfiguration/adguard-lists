@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-07-31T09:00:47.818Z
+! Last modified: 2024-08-02T09:00:48.313Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11844,3 +11844,10 @@
 ||forwardoffernow.com^
 ||monitor.dynalist.io^
 ||optable.co^
+||marketfinisterreuk.click^
+||marketing.cnevids.com^
+||adbase.e2ma.net^
+||adworks.e2ma.net^
+||images.e2ma.net^
+||t.e2ma.net^
+||gtm-analytics.asana.com^
