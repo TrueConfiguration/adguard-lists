@@ -3,7 +3,7 @@
 ! Description: Prigent-Crypto, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2024-08-03T09:00:45.678Z
+! Last modified: 2024-08-06T09:00:45.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Crypto.txt
 !
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 02AUG24 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 05AUG24 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0.0.0.0adminer.com^
 ||0.0.0.0adminka-pro.ru^
@@ -16283,6 +16283,7 @@
 ||zyngablog.api2giga.link^
 ||zyngablog2giga.link^
 ||zypzec.ethos2giga.link^
+||zypzec.ethosdi2giga.link^
 ||zypzec.ethosdistro2giga.link^
 ||zyqlfplqdgxu.com^
 ||zyrkminer.com^

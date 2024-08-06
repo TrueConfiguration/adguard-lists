@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-08-03T09:00:17.352Z
+! Last modified: 2024-08-06T09:00:16.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 05AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -10251,6 +10251,7 @@
 ||dfanalytics.dealerfire.com^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||dffpxg.targus.com^
+||df.huya.com^
 ||dfigxb.underarmour.com.mx^
 ||dfitgc.yamamay.com^
 ||dfr.deloitte.com^
@@ -12194,6 +12195,7 @@
 ||events.flagship.io^
 ||events.forddirectdealers.com^
 ||events.framer.com^
+||events.getsitectrl.com^
 ||events.glory-global.com^
 ||events.gogoair.com^
 ||events.golubcapital.com^
@@ -12975,6 +12977,7 @@
 ||gdphhl.elite-auto.fr^
 ||gdqlno.weisshaus.de^
 ||gdsngr.chainreactioncycles.com^
+||gdt.qq.com^
 ||gea-exchange-03.net.jumia.ug^
 ||gear.echovisuals.com^
 ||gecfnc.foresight.jp^
@@ -15515,7 +15518,6 @@
 ||info.mccloudservices.com^
 ||info.mdsol.com^
 ||info.med-iq.com^
-||info.medtronicdiabetes.com^
 ||info.membercoverage.com^
 ||info.memberzone.com^
 ||info.mergertech.com^
@@ -16658,6 +16660,7 @@
 ||kqkydl.postel-deluxe.ru^
 ||kqscrl.bonprix.nl^
 ||kqvtez.watt24.com^
+||k.qwant.com^
 ||kqzbph.zerohedge.com^
 ||kraken.rambler.ru^
 ||kratosdefense.actonservice.com^
@@ -18023,6 +18026,7 @@
 ||log.targetpush.co.kr^
 ||log.tossinvest.com^
 ||log.ttbc-hcm.gov.vn^
+||log-upload-os.hoyoverse.com^
 ||log.v.ssp.yahoo.com^
 ||log.webnovel.com^
 ||log.worldsoft-cms.info^
@@ -18267,6 +18271,7 @@
 ||l.voleousa.com^
 ||lvsats.gardner-white.com^
 ||lw.b.inhaabit.com^
+||l.web.huya.com^
 ||lwh1.carrefour-banque.fr^
 ||l.whizzl.com^
 ||lwkvkd.maison-objet.com^
@@ -25395,6 +25400,7 @@
 ||sailinsight-app.sapsailing.com^
 ||sa.investigationdiscovery.com^
 ||s.airgoat.com^
+||sa.kolik.cz^
 ||salesandmarketing.aitcfis.com^
 ||sales.avis.com^
 ||sales.disneylandparis.com^
@@ -32126,6 +32132,7 @@
 ||stat.wolterskluwer.pl^
 ||stat.wolterskluwer.pt^
 ||stat.ws.126.net^
+||statwup.huya.com^
 ||stat.y.qq.com^
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||statystyki.panelek.com^
@@ -33459,6 +33466,7 @@
 ||think.phdinc.com^
 ||t.hmwy.io^
 ||t.hokiesports.com^
+||t.home.news.cn^
 ||thomsonreuters.actonservice.com^
 ||t.hornetsports.com^
 ||thraka.openapp.link^
@@ -35295,6 +35303,7 @@
 ||tr.cypruspremiervacations.com^
 ||tr.datacom.espmp-pofr.net^
 ||tr.datatrics.com^
+||tr.dec-connect.decsuite.com^
 ||tr.demo.np6.com^
 ||tr.designoutlet-contact.fr^
 ||tr.devis-companeo.be^
@@ -36787,6 +36796,7 @@
 ||ucounter.ucoz.net^
 ||ucppeo.silux.hr^
 ||uc.xddi.ru^
+||udblog.huya.com^
 ||udgrbq.malwarebytes.com^
 ||udicje.perrys.co.uk^
 ||udmmdl.dudalina.com.br^
