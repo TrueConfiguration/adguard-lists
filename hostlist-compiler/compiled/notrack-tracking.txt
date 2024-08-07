@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-08-06T09:00:40.750Z
+! Last modified: 2024-08-07T09:00:40.200Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -748,7 +748,6 @@
 ||atwola.com^
 ||audienceinsights.net^
 ||audiencemanager.de^
-||audioeye.com^
 ||auditioningborder.com^
 ||auditude.com^
 ||audrte.com^
@@ -1836,6 +1835,7 @@
 ||iljmp.com^
 ||illuminatelocks.com^
 ||ilo134ulih.com^
+||im-sentry.sportmaster.ru^
 ||imageadv.ccb.com^
 ||imedia.cz^
 ||img-taboola.com^
@@ -14315,6 +14315,8 @@
 ||sentifi.com^
 ||sentkey.com^
 ||sentry-api.sberdevices.ru^
+||sentry-do.x5.ru^
+||sentry-dsn-customers.megamarket.tech^
 ||sentry.archive.org^
 ||sentry.ozon.ru^
 ||sentry.platform24.tv^

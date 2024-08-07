@@ -3,7 +3,7 @@
 ! Description: This blocklist helps to restrict access to Google and its domains
 ! Homepage: https://github.com/nickspaargaren/no-google
 ! License: The Unlicense
-! Last modified: 2024-06-13T09:00:38.458Z
+! Last modified: 2024-08-07T09:00:37.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19,7 +19,6 @@
 ||adexchangebuyer.googleapis.com^
 ||adgoogle.net^
 ||admin.googleapis.com^
-||adsettings.google.com^
 ||adssettings.google.com^
 ||aiplatform.googleapis.com^
 ||ajax11.googleapis.com^
@@ -60,7 +59,6 @@
 ||autofill.googleapis.com^
 ||automate-prod.storage.googleapis.com^
 ||baseremoteconfig.googleapis.com^
-||baseremoteconfig.googleapis.comadometry.com^
 ||bigquery.asia-east1.googleapis.com^
 ||bigquery.asia-east2.googleapis.com^
 ||bigquery.asia-northeast1.googleapis.com^
@@ -121,14 +119,12 @@
 ||datamixer.pa.googleapis.com^
 ||dataprep.googleapis.com^
 ||datastream.googleapis.com^
-||datastream.googleapis.complusone.google.com^
 ||deviceenrollmentforwindows.googleapis.com^
 ||devicemanagementforwindows.googleapis.com^
 ||deydgyehwsptekn.storage.googleapis.com^
 ||digitalassetlinks.mtls.googleapis.com^
 ||discord-attachments-uploads-prd.storage.googleapis.com^
 ||discover-pa.googleapis.com^
-||dns-admin.google.com^
 ||dns1.googleapis.com^
 ||doc-0g-48-docstext.googleusercontent.com^
 ||drive-thirdparty.googleusercontent.com^
@@ -143,7 +139,6 @@
 ||fcmconnection.googleapis.com^
 ||federatedcompute-pa.googleapis.com^
 ||federatedml-pa.googleapis.com^
-||feedads.googleadservices.com^
 ||feedback-pa.googleapis.com^
 ||firebaseappdistribution.googleapis.com^
 ||firebasedurablelinks-ipv4-pa.googleapis.com^
@@ -171,7 +166,6 @@
 ||gkehub.googleapis.com^
 ||gmbmobile-pa.googleapis.com^
 ||gnpfesdk-pa.googleapis.com^
-||gnpfesdk-pa.googleapis.comclients2.google.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||googleads.googleapis.com^
@@ -215,16 +209,6 @@
 ||meshca.googleapis.com^
 ||meshconfig.googleapis.com^
 ||meshtelemetry.googleapis.com^
-||mimageads.googleadservices.com^
-||mimageads1.googleadservices.com^
-||mimageads2.googleadservices.com^
-||mimageads3.googleadservices.com^
-||mimageads4.googleadservices.com^
-||mimageads5.googleadservices.com^
-||mimageads6.googleadservices.com^
-||mimageads7.googleadservices.com^
-||mimageads8.googleadservices.com^
-||mimageads9.googleadservices.com^
 ||ml.googleapis.com^
 ||mlkit.googleapis.com^
 ||mobilecrashreporting.googleapis.com^
@@ -273,7 +257,6 @@
 ||recommender.googleapis.com^
 ||remotebuildexecution.googleapis.com^
 ||remotedesktop-pa.googleapis.com^
-||remotedesktop-pa.googleapis.comgcdn.2mdn.net^
 ||reseller.googleapis.com^
 ||retail.googleapis.com^
 ||safe-browsing.googleapis.com^
@@ -321,7 +304,6 @@
 ||webrisk.googleapis.com^
 ||wirelessdevicestats.googleapis.com^
 ||www.device-provisioning.googleapis.com^
-||www.fonts.googleapis.com^
 ||www.googleanalytics.com^
 ||www.semanticlocation-pa.googleapis.com^
 ||xgapromomanager-pa.googleapis.com^
