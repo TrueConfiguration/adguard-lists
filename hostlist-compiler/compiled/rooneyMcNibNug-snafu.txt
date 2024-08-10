@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-08-08T09:00:47.007Z
+! Last modified: 2024-08-10T09:00:47.050Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11861,3 +11861,4 @@
 ||facebookads.com^
 ||ad.thefacebook.com^
 ||facebookmarketingpartners.com^
+||extremereach.io^
