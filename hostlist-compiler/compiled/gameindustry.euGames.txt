@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-07-27T09:00:18.624Z
+! Last modified: 2024-08-19T09:00:20.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -208,10 +208,6 @@
 ||f3b7q2p3.ssl.hwcdn.net^
 ||steamcdn-uswest.storage.googleapis.com^
 ||steam-cdn-storage.iam.gserviceaccount.com^
-# Clouduploads direkt über IP
-# 208.64.201.182 # /depotupload/xxxxx/manifest und chunk
-# Nicht authorisierte Clouduploads
-||steamcloudfrankfurt.blob.core.windows.net^
 ||steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com^
 ||steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com^
 # Steam: Crashlogs | Telemetrie
@@ -273,12 +269,6 @@
 # Ip/s blockieren:
 # 120.27.101.247
 ||mengstone.com^
-||sf.symcd.com^
-# Verbindungen während der Installation
-||trace-report.tgp.qq.com^
-||btrace.video.qq.com^
-||ied-tqos-tgp.qq.com^
-||speed.tgp.qq.com^
 ||pc.bugly.qcloud.com^
 ||bugreportv2.qq.com^
 ||dumpintl.gamesafe.qq.com^
@@ -1432,6 +1422,12 @@
 # 46.101.214.231
 # 184.86.60.65
 ||www.charyb.com^
+# Chronobit Studios
+# Lunaform
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.107.172.168
+# Chucklefish
 # Stardew Valley
 ||blog.chucklefish.org^
 ||www.stardewvalley.net^
@@ -2084,17 +2080,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# Dharker Studio
-# Negligee: Love Stories
-# 208.64.200.105
-# Digerati Distribution
-# Monster Slayers
-# 208.64.200.105
-# Slain: Back from Hell
-# 208.64.200.105
-# Digital Bento
-# A Salem Witch Trial - Murder Mystery
-# 208.64.200.105
 # DigitalDNA Games LLC
 # Death Toll
 # Quote: "Game Closed"
@@ -2120,8 +2105,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# Kings of Kung Fu
-# 208.64.200.105
 # Shaolin vs Wutang
 # IPv4 > https://gameindustry.eu/katalog/gameanalytics/
 # Dinosaur Polo Club
@@ -2186,10 +2169,6 @@
 # DSGame
 # Lunar Mirror
 # 35.190.78.8
-# dtp entertainment AG
-# The cursed Crusade
-# Ip/s blockieren:
-# 208.64.200.105
 # Ductape studio
 # Summer Sale
 ||et2.epicgames.com^
@@ -2693,6 +2672,7 @@
 ||a279.dscq.akamai.net^
 ||unreal.backtrace.io^
 ||nb-139-162-140-165.fra.nodebalancer.linode.com^
+||signup.hopoogames.net^
 ||discovery.tribesofmidgard.com^
 ||d3or4hfcyl0s42.cloudfront.net^
 # We Happy Few
@@ -2797,9 +2777,6 @@
 # Twitter, Youtube, Facebook, Googlevideo
 ||scores.grimm-bros.com^
 ||dragonfinsoup.com^
-# Path of Exile inkl. Steam Version
-# Chinesische Version unter 流放之路 zu finden
-||hk2-eap.settings.data.microsoft.com.akadns.net.com^
 # Grip Digital
 # MOTHERGUNSHIP
 # Ip/s blockieren:
@@ -2875,6 +2852,10 @@
 # 208.64.200.105
 ||ec2-35-162-118-172.us-west-2.compute.amazonaws.com^
 ||magpole.eus^
+# Hopoo Games
+# Risk of Rain
+||www.riskofraingame.com^
+||www.riskofrain.com.cdn.cloudflare.net^
 # HONG KONG SPARK SOFTWARE TECHNOLOGY CO., LIMITED
 # Idle Big Devil
 # Ip/s blockieren:
@@ -3089,12 +3070,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# JAST USA
-# Sonicomi
-# 208.64.200.105
-# JDM4iK
-# J.U.R : Japan Underground Racing
-# 208.64.200.105
 # JKgames & OHIYOsoft
 # Monster Girl2 | 捉妖物语2
 # Ip/s blockieren:
@@ -3103,8 +3078,9 @@
 # 35.190.78.8
 # JMJ Interactive
 # Akihabara - Feel the Rhythm
+# Ip/s blockieren:
+# 217.170.198.101
 ||scoreserver.klikgamer.com^
-# 208.64.200.105
 # Joey Drew Studios Inc.
 # Bendy and the Dark Revival
 # 35.190.78.8
@@ -4099,6 +4075,9 @@
 ||statgw2.devtodev.com^
 ||cognito-identity.us-west-2.amazonaws.com^
 ||10965211.collect.igodigital.com^
+||sdk.iad-06.braze.com^
+||services.paradoxplaza.com^
+||legal.paradoxplaza.com.herokudns.com^
 ||s.adroll.com^
 ||d25yha10orzq01.cloudfront.net^
 ||p.cquotient.com^
@@ -5343,25 +5322,6 @@
 # Texel Raptor
 # Parkitect
 ||www.themeparkitect.com^
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# TGA Company LLC
-# You Deserve
-# Youtube, Facebook, Twitter, Instagram
-# The Arcade Crew & Maple Whispering Limited
-# 208.64.200.105
-# The Brotherhood & Daedalic Entertainment
-# Cayne
-# Ip/s blockieren:
-# 172.217.16.206
-# 216.58.212.174
-# 172.217.16.142
-# The Behemoth
-# Castle Crashers
-# 107.23.154.158
-||ec2-107-23-154-158.compute-1.amazonaws.com^
-||behemoth-websites-alb-1662044894.us-east-1.elb.amazonaws.com^
 # The Deep End Games
 # Perception
 # s. Eintrag Steam: IP Checks
@@ -5374,17 +5334,6 @@
 ||optimizationguide-pa.googleapis.com^
 # True Fear: Forsaken Souls Part 1
 ||www.goblinz.com^
-# The Irregular Corporation
-# PC Building Simulator
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# The Quantum Astrophysicists Guild
-# Tumblestone
-# 54.162.179.194 # Freier Key für Freunde
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
 # The Young Socratics
 # Odyssey - The Story of Science
 # Ip/s blockieren:
