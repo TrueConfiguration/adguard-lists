@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-08-17T09:00:18.846Z
+! Last modified: 2024-08-20T09:00:17.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 19AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -22,6 +22,7 @@
 ||07b3.pandasuite.io^
 ||0d8is908gby1.www.terraform.com.ar^
 ||0ddf.pandasuite.io^
+||0.myikas.com^
 ||0.net.easyjet.com^
 ||0sbm.consobaby.co.uk^
 ||0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com^
@@ -3897,6 +3898,7 @@
 ||abbqns.gowabi.com^
 ||abc.bayer04.de^
 ||abcd.coderays.com^
+||ab.chatgpt.com^
 ||abclegal.actonservice.com^
 ||abdpac.williamsshoes.com.au^
 ||abdrjm.eurostarshotels.de^
@@ -7625,7 +7627,6 @@
 ||bronxvanilla.openapp.link^
 ||brooklynway.openapp.link^
 ||browser.covatic.io^
-||browser-intake-datadoghq.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser-updater.yandex.net^
 ||brpayless.eccocar.com^
@@ -9333,6 +9334,7 @@
 ||d196fri2z18sm.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
+||d1get58iwmjrxx.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1hyarjnwqrenh.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
@@ -9667,6 +9669,7 @@
 ||data.email.yourmessage.aviva.co.uk^
 ||data.email.yousee.dk^
 ||data.em.assurancewireless.com^
+||data.embeddables.com^
 ||data.emdev.officedepot.com^
 ||data.emea.coca-cola.com^
 ||data.eml.wegmans.com^
@@ -12146,6 +12149,7 @@
 ||event.seatradecruiseglobal.com^
 ||events.elev.io^
 ||events.elliemae.com^
+||events-endpoint.pointandplace.com^
 ||events.engage.cebglobal.com^
 ||event-service.letslinc.com^
 ||events.executiveboard.com^
@@ -21505,6 +21509,7 @@
 ||metrics.thesellingagency.com^
 ||metrics.thetrainline.com^
 ||metrics.theworlds50best.com^
+||metrics.th.gl^
 ||metrics.thingspeak.com^
 ||metrics.thingsremembered.com^
 ||metrics.thomasandfriends.com^
@@ -22076,6 +22081,7 @@
 ||msub.mmail.northeast.aaa.com^
 ||m.suda.io^
 ||msufcu.actonservice.com^
+||ms.vk.com^
 ||msz3.destinia.cn^
 ||mt48.net^
 ||mtag.mman.kr^
@@ -22648,6 +22654,7 @@
 ||obrazy.dlabiznesu.pracuj.pl^
 ||obrqts.hudforeclosed.com^
 ||observe.metarouter.io^
+||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
 ||obtfhl.bellemaison.jp^
 ||oca.microsoft.com^
@@ -23375,6 +23382,7 @@
 ||panorama.wixapps.net^
 ||pa.opqr.co^
 ||papemz.rcwilley.com^
+||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||paqqlk.motatos.de^
 ||parallax.askmediagroup.com^
@@ -24090,6 +24098,7 @@
 ||providentcrm.actonservice.com^
 ||prowareness.actonservice.com^
 ||proxy.dzeio.com^
+||proxy.trysavvy.com^
 ||pr.prnewswire.com^
 ||pr.prnewswire.co.uk^
 ||prudential.distribution.team.prudential.co.uk^
@@ -26475,6 +26484,7 @@
 ||servicing.unitedautocredit.net^
 ||serv.letudiant.fr^
 ||se-se.siemensplmevents.com^
+||sessions.embeddables.com^
 ||session.timecommerce.net^
 ||setaram.actonservice.com^
 ||setonhill.actonservice.com^
