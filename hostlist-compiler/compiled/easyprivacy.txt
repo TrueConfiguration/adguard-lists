@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-08-20T09:00:17.897Z
+! Last modified: 2024-08-22T09:00:17.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 21AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -3898,7 +3898,6 @@
 ||abbqns.gowabi.com^
 ||abc.bayer04.de^
 ||abcd.coderays.com^
-||ab.chatgpt.com^
 ||abclegal.actonservice.com^
 ||abdpac.williamsshoes.com.au^
 ||abdrjm.eurostarshotels.de^
@@ -12100,6 +12099,7 @@
 ||event.clubcorp.com^
 ||event-collector.moviesanywhere.com^
 ||event-collector.prd.data.s.joyn.de^
+||event.collector.scopely.io^
 ||event.csdn.net^
 ||event.dnv.com^
 ||event.evtm.53.com^
@@ -12157,6 +12157,7 @@
 ||events.flagship.io^
 ||events.forddirectdealers.com^
 ||events.framer.com^
+||events.getmodemagic.com^
 ||events.getsitectrl.com^
 ||events.glory-global.com^
 ||events.gogoair.com^
@@ -33459,6 +33460,7 @@
 ||t.itsehoitoapteekki.fi^
 ||tittendestages.net.anwalt.de^
 ||t.iuhoosiers.com^
+||tivan.naver.com^
 ||tivixv.nutribullet.com^
 ||tjbhng.hemington.com.tr^
 ||tj.img4399.com^
@@ -34552,6 +34554,7 @@
 ||tracking.peco.com^
 ||tracking.pella.com^
 ||tracking.pennmedicine.princetonhcs.org^
+||tracking.peopleareeverything.com^
 ||tracking.pepsicopartners.com^
 ||tracking.petrelocation.com^
 ||tracking.pgi.com^
