@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-08-24T09:00:17.551Z
+! Last modified: 2024-08-27T09:00:18.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 26AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7926,6 +7926,7 @@
 ||c.arstechnica.com^
 ||carte.fleet-page.total.fr^
 ||cartoon.hardalist.com^
+||cartx.cloud^
 ||cascadion.thermo.com^
 ||cascadion.thermofisher.com^
 ||cashbeet.com^
@@ -22540,8 +22541,10 @@
 ||nqxnvy.levi.com.hk^
 ||nqyuel589fq5.esgrounding.com^
 ||nra.locktonaffinity.net^
+||nr-data.noelleeming.co.nz^
 ||nrg.red-by-sfr.fr^
 ||nrjcur.pomelofashion.com^
+||nr.noelleeming.co.nz^
 ||nrquff.supurgemarket.com^
 ||nrrgyk.hair-gallery.it^
 ||nr.static.mmcdn.com^
@@ -33990,6 +33993,7 @@
 ||tracker.affirm.com^
 ||tracker.ai.xiaomi.com^
 ||trackerapi.truste.com^
+||tracker.au.zitcha.app^
 ||tracker.azet.sk^
 ||tracker.beezup.com^
 ||tracker.bestshopping.com^
@@ -34024,6 +34028,7 @@
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
+||tracker.multisearch.io^
 ||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nbcuas.com^
@@ -36958,6 +36963,7 @@
 ||us.onkyo.actonservice.com^
 ||us.pdc.micloud.xiaomi.net.iberostar.com^
 ||us.ricoh-usa.com^
+||usr.interactiveone.com^
 ||usrkrz.zdravcity.ru^
 ||ussco-dev.actonservice.com^
 ||ussolutions.equifax.com^
