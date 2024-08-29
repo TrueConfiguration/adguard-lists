@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-08-27T09:00:18.150Z
+! Last modified: 2024-08-29T09:00:16.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4923,6 +4923,8 @@
 ||analytic.capitalgroup.com^
 ||analyticcdn.globalmailer.com^
 ||analytic.cibc.com^
+||analytic-client.chickgoddess.com^
+||analytic-client.panowars.com^
 ||analytic.fishtrack.com^
 ||analytic.hawaii.aaa.com^
 ||analytic.hotelclub.com^
@@ -5483,6 +5485,7 @@
 ||analytics.xoomenergy.com^
 ||analytics.yahoo.com^
 ||analytics.yext-static.com^
+||analytics.yicai.com^
 ||analytics.ynap.biz^
 ||analytics.yolacdn.net^
 ||analytics.yola.net^
@@ -8037,6 +8040,7 @@
 ||ch0p.darty.com^
 ||challengeh.carte-gr.total.fr^
 ||chanalytics.merchantadvantage.com^
+||channel-analysis-js.gmw.cn^
 ||channelblender.actonservice.com^
 ||channel.cummins.com^
 ||channelevents.partnermcafee.com^
@@ -8435,6 +8439,7 @@
 ||collect.cap.ch^
 ||collect.chaordicsystems.com^
 ||collect.cloudsponge.com^
+||collect.deel.com^
 ||collect.elvia.ch^
 ||collect-eu.attraqt.io^
 ||collect.ezidox.com^
@@ -25591,6 +25596,7 @@
 ||sanl.six02.com^
 ||sanmet.originenergy.com.au^
 ||sa.oprah.com^
+||sapi.tremendous.com^
 ||sapphire-api.target.com^
 ||sappmetrics.sprint.com^
 ||sa.reebok.co.uk^
@@ -33773,6 +33779,7 @@
 ||tommys.openapp.link^
 ||tongji.mafengwo.cn^
 ||tongji-res.meizu.com^
+||tongji.techweb.com.cn^
 ||tongji.xinmin.cn^
 ||tongkhohangnhat.abphotos.link^
 ||toolboxadobe.inter-ikea.com^
