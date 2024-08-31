@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-08-29T09:00:16.818Z
+! Last modified: 2024-08-31T09:00:17.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 30AUG24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -23742,6 +23742,7 @@
 ||plausible.doctave.com^
 ||plausible.dragonfru.it^
 ||plausible.ejs.dev^
+||plausible.elbisebul.com^
 ||plausible.eurostocks.nl^
 ||plausible.exploreandcreate.com^
 ||plausible.external.sine.foundation^
@@ -24207,6 +24208,7 @@
 ||pxjkbj.bostonproper.com^
 ||pxlgnpgecom-a.akamaihd.net^
 ||pxl.indeed.com^
+||pxlstat.com^
 ||px.marchex.io^
 ||px.mountain.com^
 ||pxmzlk.redfin.com^
@@ -33724,7 +33726,6 @@
 ||t.msz-bahn.de^
 ||tmt.intelligence.informa.com^
 ||tm.tradetracker.net^
-||tm.uol.com.br^
 ||tm.urssaf.fr^
 ||tmvasapp.fitnessyard.com^
 ||tm.vendemore.com^
@@ -34023,6 +34024,7 @@
 ||tracker.gamedock.io^
 ||tracker.gamemonkey.org^
 ||tracker.gleanview.com^
+||tracker.grupanya.com^
 ||tracker.hdtvcloud.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
@@ -34042,7 +34044,6 @@
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
-||tracker.openwebtorrent.com^
 ||tracker.prom.ua^
 ||tracker.providence.org^
 ||tracker.psjhealth.org^
