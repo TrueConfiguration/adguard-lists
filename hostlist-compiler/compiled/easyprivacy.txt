@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-09-03T09:00:17.144Z
+! Last modified: 2024-09-05T09:00:16.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 04SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5147,7 +5147,6 @@
 ||analytics.ihg.com^
 ||analytics.ikyu.com^
 ||analytic.simplyhealth.co.uk^
-||analytics.infobae.com^
 ||analytics.inquisitr.com^
 ||analytics.iraiser.eu^
 ||analytics.ishopchangi.com^
@@ -6786,7 +6785,6 @@
 ||audiofly.actonservice.com^
 ||audit.303br.net^
 ||audit.median.hu^
-||audit.qiuwen.net.cn^
 ||audit.shaa.it^
 ||audsoa.narumiya-online.jp^
 ||audxht.effeweg.nl^
@@ -8234,7 +8232,6 @@
 ||click.trycobble.com^
 ||click.tv.repubblica.it^
 ||click.uol.com.br^
-||click.vgnett.no^
 ||click.vocus.com^
 ||click.zoominformation.com^
 ||client-analytics.braintreegateway.com^
@@ -9350,7 +9347,6 @@
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
-||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -10608,7 +10604,6 @@
 ||dl.nekropol-khv.ru^
 ||dloeloqua.danskespil.dk^
 ||d-log.asahi.co.jp^
-||d-log.bs-asahi.tv^
 ||d-log.tv-asahi.co.jp^
 ||dl.oneworldonesai.com^
 ||dl.orders.accredo.com^
@@ -10773,7 +10768,6 @@
 ||druzja.canmart.co.kr^
 ||drvive.lamoda.ru^
 ||dryvit.actonservice.com^
-||ds2.independer.nl^
 ||ds-aksb-a.akamaihd.net^
 ||d.santemagazine.fr^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -17975,7 +17969,6 @@
 ||log.seekda.com^
 ||logservice1.hicloud.com^
 ||logservice.hicloud.com^
-||logs.ggweb.nl^
 ||logs.hotstar.com^
 ||log.sina.cn^
 ||logs.mezmo.com^
@@ -21919,7 +21912,6 @@
 ||mlkblr.la-becanerie.com^
 ||mlkklg.suncamp.de^
 ||mlmswk.janpara.co.jp^
-||mlm-tracking-service.meinestadt.de^
 ||mlqzau.koffer.com^
 ||ml-sys.xyz^
 ||m.luckym.ca^
@@ -22438,7 +22430,6 @@
 ||nidays.switzerland.ni.com^
 ||nigelmidnightrappers.com^
 ||nikitas.openapp.link^
-||nil.naver.com^
 ||nimblebird.co^
 ||nimbleswan.io^
 ||ninja.akamaized.net^
@@ -24389,6 +24380,7 @@
 ||qualitas-app.hotdoc.com.au^
 ||quantserve.com^
 ||qubitanalytics.appspot.com^
+||query1.petametrics.com^
 ||quest.epoise.com^
 ||questintegrity.actonservice.com^
 ||question.snapiio.com^
@@ -24641,7 +24633,6 @@
 ||remote.carte-gr.total.fr^
 ||removeads.workers.dev^
 ||remp.nv.ua^
-||rem-track.bild.de^
 ||renaultbankdirekt.efscle.com^
 ||renting.aldautomotive.es^
 ||rent.mgrc.com^
@@ -26496,7 +26487,6 @@
 ||services.cairn.info^
 ||services.eclerx.com^
 ||services.edc.ca^
-||services.haaretz.co.il^
 ||services.princes-trust.org.uk^
 ||services.releasepoint.com^
 ||service.trustpid.com^
@@ -30777,7 +30767,6 @@
 ||ssmr.nuro.jp^
 ||ssmr.so-net.ne.jp^
 ||ssmr.sonynetwork.co.jp^
-||ssp.hinet.net^
 ||ss.photospecialist.at^
 ||ss.photospecialist.co.uk^
 ||ss.photospecialist.de^
@@ -31205,7 +31194,6 @@
 ||stat.mydaddy.cc^
 ||stat.ncl.com^
 ||stat.nyheter24.se^
-||stat.ouedkniss.com^
 ||stat.outrigger.com^
 ||stat.ovh^
 ||stat.praceamzda.cz^
@@ -32072,6 +32060,7 @@
 ||stats.zotabox.com^
 ||stat.taxlive.nl^
 ||statt-collect.herokuapp.com^
+||stat.testme.cloud^
 ||stat.thegeneral.com^
 ||stat.tiara.daum.net^
 ||stat.tiara.kakao.com^
@@ -33102,7 +33091,6 @@
 ||t.depaulbluedemons.com^
 ||tdep.bunzlonline.nl^
 ||tdep.growwwdigital.com^
-||tdep.kvk.nl^
 ||tdep.sdim.nl^
 ||tdep.suncamp.be^
 ||tdep.suncamp.de^
@@ -33172,6 +33160,7 @@
 ||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
 ||telemetry.boxt.co.uk^
+||telemetry.canva.com^
 ||telemetry.chrobinson.com^
 ||telemetry.commonspirit.org^
 ||telemetry.dematic.com^
@@ -34841,7 +34830,6 @@
 ||track.prod.smash.pet^
 ||track.qoof.com^
 ||track.quad.com^
-||track.realtimeboard.com^
 ||track.reservationcounter.com^
 ||track.rheinpfalz.de^
 ||track.roomster.com^
@@ -37644,7 +37632,6 @@
 ||web.solesource.com^
 ||webstat.4music.com^
 ||webstat.garanti.com.tr^
-||webstat.kuwo.cn^
 ||webstat.qiumibao.com^
 ||webstats.americanbar.org^
 ||webstats.bijenpatel.com^
