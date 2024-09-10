@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-09-07T09:00:16.506Z
+! Last modified: 2024-09-10T09:00:16.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 09SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4236,6 +4236,7 @@
 ||ad-a8.www.zeiri4.com^
 ||ad.aceplanet.co.kr^
 ||ad.aim-universe.co.jp^
+||a-da.invideo.io^
 ||ad.aloodo.com^
 ||adat.borsonline.hu^
 ||adat.ingatlanbazar.hu^
@@ -5062,6 +5063,7 @@
 ||analytics.cyrillus.fr^
 ||analytics.daasrv.net^
 ||analytics.data.lloydsbankinggroup.com^
+||analytics-dataplane.invideo.io^
 ||analytics.data.visenze.com^
 ||analytics.designspiration.com^
 ||analytics.deutscher-apotheker-verlag.de^
@@ -5305,6 +5307,7 @@
 ||analytics.qualcomm.com^
 ||analytics.qualityquestions.co^
 ||analytics.qualityunit.com^
+||analytics.qushad.com^
 ||analytics.radiatemedia.com^
 ||analytics.rambla.be^
 ||analytics.ramiyer.io^
@@ -12139,6 +12142,7 @@
 ||events.audiate.me^
 ||events.auth.gid.ru^
 ||events.avaya.com^
+||events.baselime.io^
 ||events.bendigotafe.edu.au^
 ||events.blackboard.com^
 ||events.brightline.tv^
@@ -23620,6 +23624,7 @@
 ||pixel.biano.ro^
 ||pixel.blivenyc.com^
 ||pixel.byspotify.com^
+||pixel.clutter.com^
 ||pixel.coccoc.com^
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
@@ -31332,6 +31337,7 @@
 ||stats.chadly.net^
 ||stats.changelog.com^
 ||stats.chomp.haus^
+||stats.chromatone.center^
 ||stats.chronoslabs.net^
 ||stats.cinqsecondes.fr^
 ||stats.citizenos.com^
