@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-09-10T09:00:16.525Z
+! Last modified: 2024-09-12T09:00:18.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 11SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -13633,7 +13633,6 @@
 ||go.picsart.com^
 ||go.pinoy.innovatedating.com^
 ||go.planetnine.com^
-||go.playbackbone.com^
 ||go.player2app.com^
 ||go.plygem.com^
 ||go.poland.innovatedating.com^
@@ -31241,6 +31240,7 @@
 ||stats.albert-kropp-gmbh.de^
 ||stats.alibhai.co^
 ||stats.alleaktien.de^
+||stats.allenai.org^
 ||stats.alocreativa.com^
 ||stats.amaeya.media^
 ||stats.am.ai^
@@ -36808,6 +36808,7 @@
 ||uifesg.modulor.de^
 ||uigwgn.france-abonnements.fr^
 ||uijciz.gunze.jp^
+||uilogging.tcdevops.com^
 ||uilwmi.coop.nl^
 ||uim.tifbs.net^
 ||uinpmz.iichi.com^
@@ -36872,6 +36873,7 @@
 ||universaldev.taylormadegolf.com^
 ||universal.okane-reco-plus.com^
 ||universal.shakaguide.com^
+||unleash.livepix.gg^
 ||unm.emol.com^
 ||unsubscribe.datadelivers.com^
 ||unsubscribe.email.verizon.com^
