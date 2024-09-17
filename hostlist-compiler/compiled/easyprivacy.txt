@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-09-14T09:00:16.870Z
+! Last modified: 2024-09-17T09:00:17.328Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 16SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -25008,6 +25008,7 @@
 ||rum.azion.com^
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
+||rum.hlx.page^
 ||rum-ingress-coralogix.com^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
@@ -31794,6 +31795,7 @@
 ||stats.psychotherapieravensburg.de^
 ||stats.pubfind.io^
 ||stats.pusher.com^
+||stats.pushloop.io^
 ||stat.sputnik.ru^
 ||stats.qdq.com^
 ||stats.qovery.com^
@@ -32644,7 +32646,6 @@
 ||t9k3a.jeanpaulfortin.com^
 ||t.a3cloud.net^
 ||tablesafe.actonservice.com^
-||t.ac.pandora.com^
 ||t.actemra.com^
 ||t.adlpo.com^
 ||taduhy.timberland.co.uk^
