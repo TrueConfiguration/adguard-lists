@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-09-05T09:00:48.548Z
+! Last modified: 2024-09-18T09:00:49.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -524,13 +524,6 @@
 ||woopra.com^
 ||script.crazyegg.com^
 ||rules.quantcount.com^
-||oqs.omeda.com^
-||olytics.omeda.com^
-||main.omeda.com^
-||jira.omeda.com^
-||acbm.omeda.com^
-||acme.omeda.com^
-||peerless.omeda.com^
 ||srv.pixel.parsely.com^
 ||analytics.chase.com^
 ||pushgaga.com^
@@ -11889,3 +11882,8 @@
 ||leadsend.ai^
 ||feed.xyz^
 ||deptagency.com^
+||email.email.hyattic.com^
+||marketing-assets.procreate.art^
+||survey.medallia.com^
+||omeclk.com^
+||omeda.com^
