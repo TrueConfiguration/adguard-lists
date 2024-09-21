@@ -3,7 +3,7 @@
 ! Description: Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
 ! License: CC-BY
-! Last modified: 2024-09-03T09:01:18.536Z
+! Last modified: 2024-09-21T09:01:19.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -374,6 +374,7 @@
 ||protocol-a.ispyoo.com^
 ||protocol-a.thetruthspy.com^
 ||protocol-a100.fonetracker.com^
+||protocol-a100.phoneparental.com^
 ||protocol-a100.thetruthspy.com^
 ||protocol-a6.thetruthspy.com^
 ||protocol-a600.fonetracker.com^
@@ -517,6 +518,7 @@
 ||staging-all-tracker.appspot.com^
 ||staging.smstracker.com^
 ||studio11-7e288.firebaseio.com^
+||support.phoneparental.com^
 ||sync-a.exactspy.com^
 ||sync-a.fonetracker.com^
 ||sync-a.ispyoo.com^
