@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-09-21T09:00:16.638Z
+! Last modified: 2024-09-24T09:00:17.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 23SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4102,6 +4102,8 @@
 ||acc.info.lumxpert.signify.com^
 ||acclaro.actonservice.com^
 ||acc-link-ccontact.focuscura.com^
+||acclog001.shop-pro.jp^
+||acclog002.shop-pro.jp^
 ||acc.marketing.adobedxcusteng.com^
 ||accountancy.bppeloqua.com^
 ||accounting.frbservices.org^
@@ -5371,6 +5373,7 @@
 ||analytics.sona-mira.co.jp^
 ||analytics.southpointcasino.com^
 ||analytics.spark.co.nz^
+||analytics.spearly.com^
 ||analytics.spun.com.br^
 ||analytics-ssl.allconnect.com^
 ||analytics-ssl.bradyid.com^
@@ -8245,6 +8248,7 @@
 ||client-log.box.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
+||client-log.karte.io^
 ||clientlog.music.163.com^
 ||client-metrics.chess.com^
 ||clients.belairdirect.com^
@@ -16908,6 +16912,7 @@
 ||lgzkzp.bauhaus.at^
 ||lhaqtn.lyst.ca^
 ||lhasalimited.actonservice.com^
+||lh.bigcrunch.com^
 ||lhcivu.dekbed-discounter.nl^
 ||lhdidz.successories.com^
 ||lhevhb.hjgreek.com^
@@ -36656,7 +36661,6 @@
 ||tvpixel.com^
 ||tvppa.actonservice.com^
 ||t.vrbo.io^
-||t.vrt.be^
 ||tv-test.esvdigital.com^
 ||tv.totaljobs.com^
 ||tvuaeb.taqi.com.br^
