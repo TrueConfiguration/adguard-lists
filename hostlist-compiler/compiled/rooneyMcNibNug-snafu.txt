@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-09-26T09:00:50.613Z
+! Last modified: 2024-09-28T09:00:49.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11892,3 +11892,13 @@
 ||mkt.e.doodle.com^
 ||iyfbodn.com^
 ||spr.ly^
+||advermind.com^
+||advertica-cdn.com^
+||advertica-cdn2.com^
+||insights.disneyadsales.com^
+||hulunewfront.disneyadsales.com^
+||tmobile-fy22.disneyadsales.com^
+||multisites.disneyadsales.com^
+||events.disneyadsales.com^
+||hulu.disneyadsales.com^
+||marketing.disneyadsales.com^
