@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-09-28T09:00:18.058Z
+! Last modified: 2024-10-01T09:00:17.659Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 30SEP24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -35581,6 +35581,7 @@
 ||tr.jkcd.espmp-cufr.net^
 ||tr.jkcd.espmp-pofr.net^
 ||tr.jkyg.espmp-cufr.net^
+||trjs2.mediafin.be^
 ||trk01.informaconnect.com^
 ||trk01.knect365.com^
 ||trk02.knect365.com^
