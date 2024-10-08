@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-10-05T09:00:17.917Z
+! Last modified: 2024-10-08T09:00:16.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 07OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4952,7 +4952,6 @@
 ||analytics.3c5.com^
 ||analytics.academy.com^
 ||analytics.adam.page^
-||analytics.adfreetime.com^
 ||analytics.adliners.de^
 ||analytics.adobe.io^
 ||analytics.adobe.ly^
@@ -5154,6 +5153,7 @@
 ||analytics-hub.3plearning.com^
 ||analytics.id.amazongames.com^
 ||analytics.idfnet.net^
+||analytics.ifanrusercontent.com^
 ||analytics.ihg.com^
 ||analytics.ikyu.com^
 ||analytic.simplyhealth.co.uk^
@@ -6772,7 +6772,6 @@
 ||atom-log.3.cn^
 ||a.topya.com^
 ||at.postbank.de^
-||atrack.allposters.com^
 ||a.transportgruppen.se^
 ||a.trivita.com^
 ||ats.alot.com^
@@ -7149,6 +7148,7 @@
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.cdnma.com^
+||beacon.cdn.qq.com^
 ||beaconcdn.qq.com^
 ||beacon.dropbox.com^
 ||beacon.errorception.com^
@@ -13062,6 +13062,7 @@
 ||get.ingomoney.com^
 ||get.instalocum.com^
 ||get.jan.ai^
+||getjan.io^
 ||get.jaranda.kr^
 ||get.kabbee.com^
 ||getl4w.lookout.com^
@@ -14408,7 +14409,6 @@
 ||id-ward.com^
 ||idx.lat^
 ||ie-business.vodafone.com^
-||iedc.fitbit.com^
 ||ieeowa.marcjacobsbeauty.com^
 ||iefiop.raizs.com.br^
 ||ieg.intel.com^
@@ -15000,6 +15000,7 @@
 ||imap.happ.social^
 ||imbhdu.housedo.co.jp^
 ||imeetcentral.pgi.com^
+||img2021.navyfederal.org^
 ||img.aonunited.com^
 ||img.biospace.com^
 ||img.buch.ch^
@@ -17963,6 +17964,7 @@
 ||log-lb.skyperfectv.co.jp^
 ||log.mediacategory.com^
 ||log.medietall.no^
+||log.mgtv.com^
 ||log.mix.sina.com.cn^
 ||log.mofa.go.kr^
 ||log.m.sm.cn^
@@ -23657,7 +23659,6 @@
 ||pixel.facebook.com^
 ||pixel.fohr.co^
 ||pixel.homebook.pl^
-||pixel.honestjohn.co.uk^
 ||pixel.ionos.com^
 ||pixel.ionos.de^
 ||pixel.ionos.fr^
@@ -33170,7 +33171,6 @@
 ||te.creation-l.de^
 ||t.ecupirates.com^
 ||teczbq.amicashop.com^
-||ted.dailymail.co.uk^
 ||teefiksummin.visma.fi^
 ||teen.zubie.com^
 ||te.frankonia.at^
