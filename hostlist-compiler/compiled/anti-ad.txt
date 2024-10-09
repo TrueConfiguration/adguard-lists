@@ -3,7 +3,7 @@
 ! Description: Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 ! License: MIT License
-! Last modified: 2024-10-08T09:00:05.345Z
+! Last modified: 2024-10-09T09:00:05.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12032,6 +12032,7 @@
 ||bharalhallahs.com^
 ||bharsilked.com^
 ||bhartianteact.com^
+||sentry.bhbapp.cn^
 ||bhcont.com^
 ||bhcostefja.com^
 ||bhcumsc.com^
@@ -16866,6 +16867,7 @@
 ||china99315.cn^
 ||bdjsfl.chinabig.com.cn^
 ||adsys.chinacloudapp.cn^
+||pcmactivity.chinacloudsites.cn^
 ||chinacontraryintrepid.com^
 ||sq1.chinacsky.com^
 ||sq2.chinacsky.com^
@@ -32527,6 +32529,7 @@
 ||zxr.fzxrjx.com^
 ||e.fzyda.com^
 ||m.fzyda.com^
+||simulatelab-datasink.fzzixun.com^
 ||g--o.info^
 ||g-content.bi^
 ||g-statistic.com^
@@ -33067,6 +33070,9 @@
 ||cdnads.geeksforgeeks.org^
 ||geeksundigne.com^
 ||link.sparrow.geekup.vn^
+||cooper.geelark.cn^
+||datasink.geelark.cn^
+||datasink.geelark.com^
 ||nsmetrics.geelongadvertiser.com.au^
 ||geerairu.net^
 ||geetacog.xyz^
@@ -47592,6 +47598,7 @@
 ||linkexchange.com^
 ||linkexchangers.net^
 ||st.linkfire.com^
+||datasink.linkfox.com^
 ||linkgrand.com^
 ||linkhaitao.com^
 ||linkifier.com^
@@ -50744,7 +50751,7 @@
 ||xiuxiu.android.dl.meitu.com^
 ||report.meituan.com^
 ||pubmsg.meituan.com^
-||ata-sdk-uuid-report.dreport.meituan.net^
+||dreport.meituan.net^
 ||xiuxiu.mobile.meitudata.com^
 ||meitumq.com^
 ||dc.meitustat.com^
@@ -76804,6 +76811,7 @@
 ||ping.cloud.tencent.com^
 ||sensors.cloud.tencent.com^
 ||tpstelemetry.tencent.com^
+||report.meeting.tencent.com^
 ||tencentmind.com^
 ||adcdn.tencentmusic.com^
 ||adclick.tencentmusic.com^
@@ -89807,6 +89815,7 @@
 ||v2-ad.video.yximgs.com^
 ||v3-ad.video.yximgs.com^
 ||js-ad.a.yximgs.com^
+||tob-tracker.yximgs.com^
 ||yxjnzydc.com^
 ||yxkbgg.xyz^
 ||yxkfaskdaybakf.com^
@@ -90453,6 +90462,9 @@
 ||bavvgo.zingat.com^
 ||apps.zingeroo.com^
 ||target.zinia.com^
+||datasink.ziniao.com^
+||logs-collect.ziniao.com^
+||test-cb-log.ziniao.com^
 ||insights.zinio.com^
 ||zinipx.xyz^
 ||marketing.zinniawealth.com^
