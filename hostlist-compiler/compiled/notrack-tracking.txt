@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-10-08T09:00:39.332Z
+! Last modified: 2024-10-10T09:00:40.238Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -940,7 +940,6 @@
 ||c.hit.ua^
 ||c.msn.com^
 ||c.riskified.com^
-||c0cd2idcl5.com^
 ||c3tag.com^
 ||cachegorilla.com^
 ||cadreon.com^
@@ -4548,6 +4547,10 @@
 ||mkt1221.com^
 ||mkt12210.com^
 ||mkt12211.com^
+||mkt12213.com^
+||mkt12214.com^
+||mkt12215.com^
+||mkt12216.com^
 ||mkt1222.com^
 ||mkt1223.com^
 ||mkt1224.com^
