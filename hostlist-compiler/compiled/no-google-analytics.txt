@@ -3,7 +3,7 @@
 ! Description: This blocklist helps to restrict access to Google and its domains
 ! Homepage: https://github.com/nickspaargaren/no-google
 ! License: The Unlicense
-! Last modified: 2024-08-14T09:00:37.728Z
+! Last modified: 2024-10-12T09:00:35.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -164,7 +164,6 @@
 ||datafusion.googleapis.com^
 ||datalabeling.googleapis.com^
 ||datalineage.googleapis.com^
-||datamixer.pa.googleapis.com^
 ||datapipelines.googleapis.com^
 ||dataplex.googleapis.com^
 ||dataprep.googleapis.com^
