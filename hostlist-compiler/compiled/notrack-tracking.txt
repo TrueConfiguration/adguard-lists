@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-10-14T09:00:42.583Z
+! Last modified: 2024-10-15T09:00:39.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15210,7 +15210,6 @@
 ||stat.media^
 ||stat.mixi.media^
 ||stat.okko.tv^
-||stat.techtimes.com^
 ||stat.tiara.daum.net^
 ||stat.tiara.melon.com^
 ||stat.tildacdn.com^
@@ -15252,7 +15251,6 @@
 ||stats.sa-as.com^
 ||stats.safeway.com^
 ||stats.schoolholidays.com.au^
-||stats.videodelivery.net^
 ||stats.videoseyred.in^
 ||stats.vk-portal.net^
 ||stats.wikimedia.org^
