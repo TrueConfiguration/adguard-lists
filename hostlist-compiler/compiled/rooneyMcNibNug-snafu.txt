@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-10-16T09:00:49.035Z
+! Last modified: 2024-10-17T09:00:45.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4911,6 +4911,10 @@
 ||gfeed.yotpo.com^
 ||metrics.yotpo.com^
 ||widget.yotpo.com^
+||salesloft.yotpo.com^
+||b2b.yotpo.com^
+||smsbump.yotpo.com^
+||events.yotpo.com^
 ||000-koy-740.mktoresp.com^
 ||038-nfp-336.mktoresp.com^
 ||062-qob-530.mktoresp.com^
