@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-10-19T09:00:39.836Z
+! Last modified: 2024-10-20T09:00:40.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4557,6 +4557,11 @@
 ||mkt1222.com^
 ||mkt12220.com^
 ||mkt12221.com^
+||mkt12222.com^
+||mkt12224.com^
+||mkt12225.com^
+||mkt12226.com^
+||mkt12227.com^
 ||mkt1223.com^
 ||mkt1224.com^
 ||mkt1225.com^
@@ -13925,13 +13930,7 @@
 ||pixanalytics.pixnet.net^
 ||pixel-static.spotify.com^
 ||pixel.ad^
-||pixel.archive.fo^
-||pixel.archive.is^
-||pixel.archive.li^
-||pixel.archive.md^
-||pixel.archive.ph^
 ||pixel.archive.today^
-||pixel.archive.vn^
 ||pixel.cfspx.digitalriver.com^
 ||pixel.cornercart.io^
 ||pixel.facebook.com^
@@ -14217,7 +14216,6 @@
 ||riotousunspeakablestreet.com^
 ||riotpixels.net^
 ||ripewhining.com^
-||rivetrearrange.com^
 ||rivne.space^
 ||rkdms.com^
 ||rlcdn.com^
