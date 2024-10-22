@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-10-19T09:00:15.760Z
+! Last modified: 2024-10-22T09:00:15.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 21OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6769,6 +6769,7 @@
 ||at.norisbank.de^
 ||atom-log.3.cn^
 ||a.topya.com^
+||at.pagesjaunes.fr^
 ||at.postbank.de^
 ||a.transportgruppen.se^
 ||a.trivita.com^
@@ -12368,7 +12369,6 @@
 ||ezhddx.thesouledstore.com^
 ||eziccr.dedoles.cz^
 ||ezobam.jdsports.nl^
-||ezodn.com^
 ||ezstat.ru^
 ||ezuhbd.industrialdiscount.it^
 ||ezvjys.belezanaweb.com.br^
@@ -22510,7 +22510,6 @@
 ||nnqyed.laredoute.be^
 ||nntgna.dmm.com^
 ||nnvoia.closetworld.com^
-||no88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noa0.compteczam.fr^
 ||noa.yahoo.com^
@@ -22582,6 +22581,7 @@
 ||nrg.red-by-sfr.fr^
 ||nrjcur.pomelofashion.com^
 ||nr.noelleeming.co.nz^
+||nrpukcsgboqr0gz2o8.www.bolighub.dk^
 ||nrquff.supurgemarket.com^
 ||nrrgyk.hair-gallery.it^
 ||nr.static.mmcdn.com^
@@ -38865,6 +38865,7 @@
 ||yebvpc.gardengoodsdirect.com^
 ||yefktd.avito.ru^
 ||yehyqc.hugoboss.com^
+||yes88kks.infinityscans.net^
 ||yewrcd.govoyages.com^
 ||yezztf.pinkelephant.co.kr^
 ||yf5.voyage-prive.at^
