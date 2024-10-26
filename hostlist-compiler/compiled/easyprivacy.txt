@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-10-24T09:00:16.710Z
+! Last modified: 2024-10-26T09:00:16.250Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 25OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5449,6 +5449,7 @@
 ||analytics.virginmobileusa.com^
 ||analytics.visible.com^
 ||analytics.vixcloud.co^
+||analytics.vortexscans.com^
 ||analytics.warnertv.fr^
 ||analytics.wavebox.io^
 ||analytics.wayland.app^
@@ -14126,6 +14127,7 @@
 ||hits.dealer.com^
 ||hitserver.ibope.com.br^
 ||hits.getelevar.com^
+||hits.gokwik.co^
 ||hits.guardian.co.uk^
 ||hits.informer.com^
 ||hit.skrz.cz^
@@ -24195,6 +24197,7 @@
 ||pulsar.ebay.com^
 ||pulse.delta.com^
 ||pulse.munsonhealthcare.org^
+||pulse.shopflo.com^
 ||pumlmb.netcologne.de^
 ||pumpkin.abine.com^
 ||pu.pretunique.fr^
@@ -30431,6 +30434,7 @@
 ||squirrel.cividi.ch^
 ||squirrel.malaynahocker.com^
 ||sr59t7wbx5.claricelin.com^
+||src.freshmarketer.in^
 ||srd1-pdx.net.jumia.ci^
 ||srepdata.12newsnow.com^
 ||srepdata.13wmaz.com^
