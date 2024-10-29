@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-10-26T09:00:16.250Z
+! Last modified: 2024-10-29T09:00:14.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5627,6 +5627,7 @@
 ||api.fuck.education^
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
+||api.june.so^
 ||a.pikabu.ru^
 ||apilog-web.acfun.cn^
 ||api.ryanyao.design^
@@ -31203,6 +31204,7 @@
 ||statistics.tattermedia.com^
 ||statistics.tuv.com^
 ||statistics.wibiya.com^
+||statistiek.rijksoverheid.nl^
 ||statistik.apartments-tirolerhaus.at^
 ||statistik.simaja.de^
 ||stat.iteye.com^
