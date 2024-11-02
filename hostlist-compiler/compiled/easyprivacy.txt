@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-10-31T09:00:15.567Z
+! Last modified: 2024-11-02T09:00:17.886Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30OCT24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 01NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -10670,6 +10670,7 @@
 ||dmkt.solutions.cas.org^
 ||d.m-net.de^
 ||dmpcdn.el-mundo.net^
+||dmp.citynews.ovh^
 ||dmpmetrics.rcsmetrics.it^
 ||dmpxs.com^
 ||dmqykw.thirtymall.com^
@@ -12703,6 +12704,7 @@
 ||fpc.immattersacp.org^
 ||fpc.inxinternational.com^
 ||fpc.laerdal.com^
+||fpcn.bpsgameserver.com^
 ||fpc.pelican.com^
 ||fpc.questoraclecommunity.org^
 ||fpc.sage.com^
@@ -21837,6 +21839,7 @@
 ||mine.nahnoji.cz^
 ||minerad.com^
 ||mini-site.larksuite-marketing.com^
+||minstats.xyz^
 ||m.ioicommunity.com.my^
 ||miqeuu.timberland.it^
 ||mirabelanalytics.com^
