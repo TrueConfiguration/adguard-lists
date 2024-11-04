@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2024-10-31T09:00:46.650Z
+! Last modified: 2024-11-04T09:00:47.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -914,6 +914,9 @@
 ||us1.heatmap.it^
 ||us2.heatmap.it^
 ||us4.heatmap.it^
+||eu1.heatmap.it^
+||eu2.heatmap.it^
+||eu3.heatmap.it^
 ||api.maxymiser.net^
 ||gitlab.maxymiser.net^
 ||migratecg-eu.maxymiser.net^
@@ -11955,3 +11958,8 @@
 ||www-stats.ably.io^
 ||geoip-rest.ably.io^
 ||convertexperiments.com^
+||kla6.io^
+||emailbuilder.chownowcdn.com^
+||emailbuilder.qa.chownowcdn.com^
+||campaigns.chownow.com^
+||embed.chownow.com^
