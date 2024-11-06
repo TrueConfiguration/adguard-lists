@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Use this file to prevent your computer from connecting to selected internet hosts
 ! Homepage: http://someonewhocares.org/hosts/zero/
-! Last modified: 2024-11-04T09:00:12.076Z
+! Last modified: 2024-11-06T09:00:11.510Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1145,6 +1145,7 @@
 # sites with known trojans, phishing, or other malware
 ||0.nextyourcontent.com^
 ||05tz2e9.com^
+||1-bmo-client-login.com^
 ||1-directshipmtdhlsexpress-order.help^
 ||1001paixnidia.fr^
 ||105915624.com^
