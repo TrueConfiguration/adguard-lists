@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-11-05T09:00:39.476Z
+! Last modified: 2024-11-07T09:00:37.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2047,7 +2047,6 @@
 ||logauth.polarisoffice.com^
 ||logconfig.polarisoffice.com^
 ||logger.foxitcloud.com^
-||logger.unsplash.com^
 ||loggly.com^
 ||loginradius.com^
 ||logrocket.com^
@@ -4573,6 +4572,8 @@
 ||mkt1224.com^
 ||mkt12240.com^
 ||mkt12241.com^
+||mkt12242.com^
+||mkt12243.com^
 ||mkt1225.com^
 ||mkt1226.com^
 ||mkt1227.com^
@@ -15283,7 +15284,6 @@
 ||stickerchapelsailing.com^
 ||stickervillain.com^
 ||stickyadstv.com^
-||stimulateartificial.com^
 ||stocks-analytics-events.apple.com^
 ||storeen.ldmnq.com^
 ||stores-counters.wix.com^

@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-11-05T09:00:16.046Z
+! Last modified: 2024-11-07T09:00:15.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 06NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -11994,6 +11994,7 @@
 ||err.ifengcloud.ifeng.com^
 ||error-collector.ted.com^
 ||errorreports.couponcabin.com^
+||errors.darkreader.app^
 ||errors.snackly.co^
 ||error.videonow.ru^
 ||ert5.rmcsport.tv^
@@ -26721,6 +26722,7 @@
 ||shelbypublishing.actonservice.com^
 ||shell-recharge.tupinambaenergia.com.br^
 ||sheregesh-io.traveler.today^
+||shgcdn3.com^
 ||shhoix0fuonj0hz6.net.fidor.de^
 ||shipsmarter.idrivelogistics.com^
 ||shjwhv.falsepeti.com^
@@ -31197,6 +31199,7 @@
 ||statistic.qzone.qq.com^
 ||statistics.csob.cz^
 ||statistics.daktilo.com^
+||statistics.darkreader.app^
 ||statistics.fppressa.ru^
 ||statistics.heatbeat.de^
 ||statistics.jfmedier.dk^
@@ -31421,6 +31424,7 @@
 ||stats.danestevens.dev^
 ||stats.danielwolf.photography^
 ||stats.danner-landschaftsbau.at^
+||stats.darkreader.app^
 ||stats.dashbit.co^
 ||stats.datahjaelp.net^
 ||stats.datamanie.cz^
@@ -31629,6 +31633,7 @@
 ||stats.jjude.com^
 ||stats.joaopedro.dev^
 ||stats.jsbible.com^
+||statsjs.klevu.com^
 ||stats.jtrees.io^
 ||stats.jun-etan.com^
 ||stats.justinwilliams.ca^
@@ -32740,7 +32745,6 @@
 ||tags.klove.com^
 ||tags.master-perf-tools.com^
 ||tags.op-palvelut.fi^
-||tags.refinery89.com^
 ||tags.soloway.ru^
 ||tags.stepstone.com^
 ||tag.statshop.fr^
