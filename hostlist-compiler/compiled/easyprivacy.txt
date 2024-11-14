@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-11-12T09:00:16.219Z
+! Last modified: 2024-11-14T09:00:15.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 13NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8483,6 +8483,7 @@
 ||collector.betway.com^
 ||collector.cint.com^
 ||collector.clareity.net^
+||collector-direct.xhamster.com^
 ||collector.fiverr.com^
 ||collector.getyourguide.com^
 ||collector.githubapp.com^
@@ -8503,6 +8504,7 @@
 ||collector.xhamster3.com^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
+||collector.xhamsterporno.mx^
 ||collect.reagroupdata.com.au^
 ||collect.rebelmouse.io^
 ||collect.rewardstyle.com^
@@ -15868,6 +15870,7 @@
 ||info.zoominfotechnologies.com^
 ||info.zoomintel.com^
 ||info.zuidema.nl^
+||ingest.coincodex.com^
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
 ||in-go.experian.com^
@@ -23164,6 +23167,7 @@
 ||ordbng.extra.com.br^
 ||ordpmx.victorianplumbing.co.uk^
 ||oregonstate.actonservice.com^
+||organiccdn.io^
 ||organizations.stratfor.com^
 ||orhdev.com^
 ||origin-smetrics.go365.com^
@@ -31683,6 +31687,7 @@
 ||stats.literacysomerset.org^
 ||stats.literaturkreis.online^
 ||stats.lmdsp.com^
+||stats.locallabs.com^
 ||stats.localmetravel.com^
 ||stats.lord.io^
 ||stats.lotlinx.com^
