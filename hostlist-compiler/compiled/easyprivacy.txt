@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-11-21T09:00:16.009Z
+! Last modified: 2024-11-23T09:00:15.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 22NOV24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6393,6 +6393,7 @@
 ||app.soonersports.com^
 ||app.sortedai.com^
 ||app.soultime.com^
+||apps-pbd.ctraffic.io^
 ||apps.shakaguide.com^
 ||apps.software.netsimplicity.com^
 ||apps.spectrum-member.com^
@@ -12166,6 +12167,7 @@
 ||events.bendigotafe.edu.au^
 ||events.blackboard.com^
 ||events.brightline.tv^
+||events.bsky.app^
 ||events.btw.so^
 ||events.careallies.com^
 ||events.centex.com^
@@ -12898,6 +12900,7 @@
 ||g1188506010.co^
 ||g12083144435.co^
 ||g12281228770.co^
+||g1386590346.co^
 ||g1584674682.co^
 ||g1584674684.co^
 ||g1782759015.co^
@@ -32311,7 +32314,6 @@
 ||strapi.clickjogos.com.br^
 ||strategycompanion.actonservice.com^
 ||strawberry.basf.com^
-||stream.9now.com.au^
 ||stream.corporatefinanceinstitute.com^
 ||stream-log.dditscdn.com^
 ||streams.cablecar.sph.com.sg^
@@ -34107,6 +34109,7 @@
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.prom.ua^
 ||tracker.providence.org^
 ||tracker.psjhealth.org^
@@ -37053,6 +37056,7 @@
 ||u-test.getgoose.com^
 ||utexas.actonservice.com^
 ||utgckq.reductionrevolution.com.au^
+||utics.nodejibi.in^
 ||ut.iggroup.com^
 ||utjzyz.phillips.com^
 ||utklhk.kojima.net^
