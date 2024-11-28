@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-11-27T09:00:43.481Z
+! Last modified: 2024-11-28T09:00:38.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4574,6 +4574,9 @@
 ||mkt12250.com^
 ||mkt12251.com^
 ||mkt12252.com^
+||mkt12256.com^
+||mkt12257.com^
+||mkt12258.com^
 ||mkt1226.com^
 ||mkt1227.com^
 ||mkt1228.com^
@@ -14994,7 +14997,6 @@
 ||smetrics.sharecare.com^
 ||smetrics.sharekhan.com^
 ||smetrics.shell.co.uk^
-||smetrics.shinseibank.com^
 ||smetrics.shopmyexchange.com^
 ||smetrics.shoppremiumoutlets.com^
 ||smetrics.singlife.com^
