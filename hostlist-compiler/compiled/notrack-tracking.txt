@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2024-11-30T09:00:39.624Z
+! Last modified: 2024-12-01T09:00:39.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4570,10 +4570,15 @@
 ||mkt12250.com^
 ||mkt12251.com^
 ||mkt12252.com^
+||mkt12255.com^
 ||mkt12256.com^
 ||mkt12257.com^
 ||mkt12258.com^
+||mkt12259.com^
 ||mkt1226.com^
+||mkt12260.com^
+||mkt12261.com^
+||mkt12262.com^
 ||mkt1227.com^
 ||mkt1228.com^
 ||mkt1229.com^
@@ -13738,7 +13743,6 @@
 ||norma-external-collect.meizu.com^
 ||nosto.com^
 ||notes-analytics-events.apple.com^
-||notifycertainty.com^
 ||notifyvisitors.com^
 ||notsy.io^
 ||noughttrustthreshold.com^
@@ -13750,7 +13754,6 @@
 ||nrdp.nccp.netflix.com^
 ||ns1p.net^
 ||nsfwadds.com^
-||nt.vc^
 ||ntv.io^
 ||nudgeworry.com^
 ||nuggad.net^
