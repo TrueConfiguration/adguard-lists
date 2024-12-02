@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-08-19T09:00:20.919Z
+! Last modified: 2024-12-02T09:00:19.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -219,6 +219,13 @@
 ||collector-01.valve.net^
 ||collector-02.valve.net^
 ||r3.o.lencr.org^
+# Steam: Discovery
+# Verbindungen während des Clientstarts als auch zum Start von Spielen aktiviert - Auflistnung nicht vollständig
+# Connections activated during client start as well as for starting games - listing not complete
+||p2p-ams1.discovery.steamserver.net^
+||p2p-fra1.discovery.steamserver.net^
+||p2p-fra2.discovery.steamserver.net^
+||p2p-sto1.discovery.steamserver.net^
 # Steam: Datagram Relay | SDR
 # Ipv4 Download - https://www.gameindustry.eu/blog/steam-datagram-relay/
 # Steamworks Info - https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay
@@ -2100,6 +2107,7 @@
 ||depthquestsserver-live.h2npnkkxe2.us-west-2.elasticbeanstalk.com^
 ||metrics.warframe.com^
 ||arbiter.warframe.com^
+||crashes.warframe.com^
 # Digital Tribe
 # Hyperdrive Massacre
 # Ip/s blockieren:
@@ -2110,6 +2118,16 @@
 # Dinosaur Polo Club
 # Mini Metro
 ||dinopoloclub.com^
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.107.172.168
+# Digixart & Ravenscourt
+# Road 96
+# Ip/s blockieren:
+# 35.190.78.8
+# Dionic Software GmbH
+# InfraSpace
+||dionicsoftware.com^
 # DOT Entertainment | Name wurde zu KNP gändert
 # Undead
 # 85.95.237.229
@@ -2887,19 +2905,9 @@
 ||buffpanel.com^
 ||api.infinario.com^
 ||assets.nexmachinagame.com^
-# Hovgaard Games
-# Startup Company
-# 208.64.200.105
-# HuaYiGame
-# 末日方舟 - Delivery from the Pain
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# Humble Games
-# Aegis Defenders
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
+||a23-216-77-18.deploy.static.akamaitechnologies.com^
+||a23-216-77-30.deploy.static.akamaitechnologies.com^
+||249.195.120.34.bc.googleusercontent.com^
 # Forager
 # 162.125.66.1
 # 2620:100:6022:1::a27d:4201
@@ -2907,6 +2915,8 @@
 # Dropbox für im Spiel integrierte Fankunst
 ||www.dropbox.com^
 ||www.dropbox-dns.com^
+# Ghost Song
+||telemetry.humblegames.com^
 # Staxel
 ||log.playstaxel.com^
 ||auth.playstaxel.com^
@@ -4359,6 +4369,36 @@
 # Rainssong
 # Zasa - An AI Story
 ||rainsgameworld.sinaapp.com^
+# Raiser Games
+# Goat of Duty
+# 172.217.22.78
+# 2a00:1450:4001:81c::200e
+# 107.23.222.133
+# 52.204.2.138
+# 2a01:bc80:5:101::9b85:fa35
+# 2a01:bc80:5:101::9b85:fa39
+# 2a01:bc80:5:100::9b85:fa0e
+# s. Eintrag Steam: IP Checks
+# Rake in Grass
+# Rampage Knights
+# 208.64.200.105
+# Random Seed Games
+# TIMEframe
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.107.172.168
+# Ravenage Games
+# The Crackpet Show: Prologue
+# 3.126.70.20
+# Ip/s blockieren:
+# 34.111.113.40
+# 34.107.172.168
+# 35.190.78.8
+# Raw Fury AB
+# Dome Keeper
+# Playfab Telemetrie optional. Anwender können ein sauberes OptIn/Out ausführen.
+# Playfab telemetry optional. Users can perform a clean opt-in/out.
+||954a2.playfabapi.com^
 # Star Renegades
 # Ip/s blockieren:
 # 34.111.113.40
@@ -4374,6 +4414,9 @@
 # Launcher und Webseite
 ||se3-content.rebellion.co.uk^
 ||include.reinvigorate.net^
+||rebeldev.zendesk.com^
+||rebellion.com^
+||nephelus-v1.rebellion.co.uk^
 # Sniper Elite 5
 # 104.22.18.90
 # 52.211.245.30
@@ -4405,7 +4448,6 @@
 # Strange Brigade
 # Inhalt ist codiert. Zum Spielen wird nichts von beiden benötigt
 ||athena-v1.rebellion.co.uk^
-||nephelus-v1.rebellion.co.uk^
 ||content2.webdev.rebellion.co.uk^
 # Red Limb Studio
 # Rise of Insanity
@@ -4769,7 +4811,6 @@
 # Ip/s blockieren:
 # 47.93.244.219
 ||94d63cbf92082237b86267ffd4cacc64.cloudfront.net^
-||249.195.120.34.bc.googleusercontent.com^
 # Sparpweed
 # 18.185.111.141
 ||ec2-18-185-111-141.eu-central-1.compute.amazonaws.com^
