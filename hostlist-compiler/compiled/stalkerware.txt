@@ -3,7 +3,7 @@
 ! Description: Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
 ! License: CC-BY
-! Last modified: 2024-10-08T09:01:16.985Z
+! Last modified: 2024-12-07T09:01:27.169Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -453,6 +453,7 @@
 ||remotecommands.com^
 ||remotesecurity-629f2.firebaseio.com^
 ||remotesecurityots.firebaseio.com^
+||remoto.foxspy.com.br^
 ||reptilicus.net^
 ||rockalab.com^
 ||rp.dedrone.com.ua^
