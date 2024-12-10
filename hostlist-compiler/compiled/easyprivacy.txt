@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-12-07T09:00:15.145Z
+! Last modified: 2024-12-10T09:00:16.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 09DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7163,6 +7163,7 @@
 ||beacon.radiko.jp^
 ||beacon.riskified.com^
 ||beacon.samsclub.com^
+||beacons.digital.disneyadvertising.com^
 ||beacon.searchspring.io^
 ||beacon.securestudies.com^
 ||beacon.sftoaa.com^
@@ -34078,6 +34079,7 @@
 ||tracker.cauly.co.kr^
 ||tracker.cdnbye.com^
 ||tracker.comagic.ru^
+||tracker.curama.jp^
 ||tracker.decomworld.com^
 ||tracker.digitalcamp.co.kr^
 ||tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com^
