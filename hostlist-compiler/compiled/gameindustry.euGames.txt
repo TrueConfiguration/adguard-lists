@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-12-02T09:00:19.852Z
+! Last modified: 2024-12-18T09:00:17.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -187,7 +187,6 @@
 ||dpm.demdex.net^
 ||googleads.g.doubleclick.net^
 ||static.doubleclick.net^
-||jnn-pa.googleapis.com^
 ||polyfill.io^
 ||cdn.cquotient.com^
 # Valve Corporation | Valve Softworks | Steam Client
@@ -543,9 +542,6 @@
 # 9Heads Game Studios
 # Vitrum
 ||terror-project.no-ip.org^
-# .ez Games
-# Riaaf the spider
-# 208.64.200.105
 # Abbey Games
 # Godhood
 # Ip/s blockieren:
@@ -899,7 +895,14 @@
 ||e4578.dscb.akamaiedge.net^
 ||crashreporter.avalanchestudios.com^
 ||tracking2.avalanchestudios.com^
-||tracking2.avalanche.com^
+# Generation Zero
+# CrashRPT | Crashrpt_lang.ini, CrashRpt1403.dll, CrashRptProbe1403.dll, CrashSender1403.exe im Installationsverzeichnis löschen
+# 104.16.1.61
+# 104.16.2.61
+# 104.17.80.160
+# 104.16.239.209
+||genzero-cdn.avalanchestudios.com^
+||oldtracking.avalanchestudios.com^
 ||westus.tts.speech.microsoft.com^
 # Ip/s blockieren:
 # 104.16.2.61
@@ -1975,13 +1978,14 @@
 # Zeug
 # 207.154.210.110
 ||kamos.kingart-games.com^
-# Abschaltbar
-||egp-idsoc-proxy-prod.ol.epicgames.com^
-||egp-idsoc-proxy-prod-2006500474.us-east-1.elb.amazonaws.com^
-||ecomprod02.ol.epicgames.com^
-||ecommerce-int-prod-public-alb-1926882986.us-east-1.elb.amazonaws.com^
-# Ip/s blockieren:
+# Metro Exodus
 # 35.227.230.186
+# 23.207.210.157
+# 23.207.210.133
+# Metro Exodus Enhanced Edition
+# 35.227.230.186
+# 23.207.210.157
+# 23.207.210.133
 # Pathfinder: Kingmaker
 # Ip/s blockieren:
 # 188.93.59.251
@@ -2299,11 +2303,13 @@
 # 35.190.78.8
 # Event Horizon Ltd.
 # Tower of Time
-# Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
 # 35.190.78.8
-# 88.221.137.219
+# 52.222.214.35
+# 52.222.214.69
+# 52.222.214.72
+# 52.222.214.71
 ||api.trello.com^
 ||trello-attachments.s3.amazonaws.com^
 # Evil Tortilla Games
@@ -2403,7 +2409,11 @@
 # 34.111.113.40
 # 34.107.172.168
 # FOAM Entertainment
-# Riff Racer
+# Riff Racer - Race Your Music!
+# 13.35.58.111
+# 13.35.58.43
+# 13.35.58.116
+# 13.35.58.129
 ||parseapi.back4app.com^
 ||92c0f.playfabapi.com^
 ||ec2-34-211-93-125.us-west-2.compute.amazonaws.com^
