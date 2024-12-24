@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-12-21T09:00:16.414Z
+! Last modified: 2024-12-24T09:00:16.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 23DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -21885,6 +21885,7 @@
 ||mitt.3.se^
 ||mix-omniture.rbs.com^
 ||mixomniture.rbs.com^
+||mixpanel-proxy.coingecko.com^
 ||mixpanel-proxy.ted.com^
 ||mixxuo.sportys.gr^
 ||m.jarvisinvest.com^
