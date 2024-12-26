@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-12-24T09:00:16.630Z
+! Last modified: 2024-12-26T09:00:16.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 25DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4837,6 +4837,7 @@
 ||also.greatsecuritydebate.net^
 ||als-svc.nytimes.com^
 ||altalex.wolterskluwer.com^
+||altema-log.com^
 ||alternativetechnology.arrow.com^
 ||al.test.airtel.in^
 ||alticoadvisors.actonservice.com^
@@ -31286,6 +31287,7 @@
 ||stats2.bonappetit.com^
 ||stats2.cntraveler.com^
 ||stats2.golfdigest.com^
+||stats2.indianpornempire.com^
 ||stats2.mytuner.mobi^
 ||stats2.newyorker.com^
 ||stats2.self.com^
@@ -31619,6 +31621,7 @@
 ||stats.ibtimes.sg^
 ||stats.ibuildings.net^
 ||stats.icimusique.ca^
+||statsig.anthropic.com^
 ||stats.igassmann.me^
 ||stats.igor4stir.com^
 ||stats.incoming.co^
