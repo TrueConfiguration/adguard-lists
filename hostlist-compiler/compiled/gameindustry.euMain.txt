@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-12-26T09:00:19.513Z
+! Last modified: 2024-12-27T09:00:19.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -705,9 +705,6 @@
 # FolderSizes
 ||www.foldersizes.com^
 ||t3j2g9x7.stackpathcdn.com^
-# KM-Player
-||cdn.kmplayer.com^
-||log.kmplayer.com^
 # Verschiedene Downloadmirror nach Bedarf benutzen
 ||mirror.dal10.us.leaseweb.net^
 ||ct.mirror.garr.it^
@@ -861,6 +858,12 @@
 ||www.oo-software.com^
 ||update10.oo-software.com^
 ||go.oo-software.com^
+# Pandora TV Co., Ltd.
+# KMPlayer
+||cdn.kmplayer.com^
+||fra24s05-in-f8.1e100.net^
+||fra24s06-in-f2.1e100.net^
+||fra24s01-in-f14.1e100.net^
 # PassFAB
 ||www.passfab.com^
 ||www.tenorshare.com^
@@ -1016,6 +1019,8 @@
 ||downloads.redgiant.com^
 # Reviversoft
 ||goto.reviversoft.com^
+||amiibo.ryujinx.org^
+||patreon.ryujinx.org^
 # VS Revo Group Ltd.
 # Revo Uninstaller v3.2.1, v4.0.0, v4.1.0, v4.1.5+
 # 146.20.152.114
@@ -14818,6 +14823,7 @@
 ||az412617.vo.msecnd.net^
 ||azure-perfops.azureedge.net^
 ||b-hls-07.doppiocdn.net^
+||b-hls-22.doppiocdn.net^
 ||b.ns1p.net^
 ||b6b5p6y2.ssl.hwcdn.net^
 ||b6u2w2z4.ssl.hwcdn.net^
@@ -14954,9 +14960,10 @@
 ||goaciptu.net^
 ||gpush.cogocast.net^
 ||gredraus.net^
+||groajirtooh.net^
 ||grunoaph.net^
-||gwiq.globalwebindex.net^
 ||gwiq-v3.globalwebindex.net^
+||gwiq.globalwebindex.net^
 ||gwiqcdn.globalwebindex.net^
 ||gxgwgk.made4fcuck.net^
 ||haihaime.net^
@@ -15360,6 +15367,7 @@
 ||piwik.lwl.org^
 ||piwik.terrashop.org^
 ||prebid.org^
+||prodregistryv2.org^
 ||pubcid.org^
 ||reallyfreegeoip.org^
 ||rldwideorgani.org^
@@ -15658,6 +15666,7 @@
 ||hgbn.space^
 ||hireprecially.space^
 ||holdhostel.space^
+||hoplekhornnist.space^
 ||idat.production.ippen.space^
 ||lewritishma.space^
 ||marazzigcmod5.space^
@@ -16797,6 +16806,7 @@
 ||anchovysuccession.com^
 ||andtracer.com^
 ||animegamesus.com^
+||animeplaynow.com^
 ||anlcld.com^
 ||annual-gamers-choice.com^
 ||anqbzv.chosenlove.com^
@@ -17489,6 +17499,7 @@
 ||cs.krushmedia.com^
 ||cs.mobfox.com^
 ||cs.money^
+||cs.mytheresa.com^
 ||cs.openwebmp.com^
 ||cs.spotimmedia.com^
 ||cs3.wettercomassets.com^
@@ -17569,6 +17580,7 @@
 ||defencehungry.com^
 ||defendantlucrative.com^
 ||definedbootnervous.com^
+||degreewhether.com^
 ||delicatecascade.com^
 ||delivery.adrecover.com^
 ||delivery.forkcdn.com^
@@ -17919,6 +17931,7 @@
 ||fksnk.com^
 ||flamboyantmarketing.com^
 ||fleraprt.com^
+||flint.defybrick.com^
 ||floitcarites.com^
 ||flx1163.lporirxe.com^
 ||fnayazchhum.com^
@@ -18256,6 +18269,7 @@
 ||ihzuephjxb.com^
 ||ii.alatest.com^
 ||ii.woolensulking.com^
+||iliketomakingpics.com^
 ||ilo134ulih.com^
 ||iloptrex.com^
 ||ilovemakingpics.com^
@@ -19344,6 +19358,7 @@
 ||rndsystems.com^
 ||roastoup.com^
 ||robovoiz.com^
+||rock.defybrick.com^
 ||rollercoin.com^
 ||romeoforum.com^
 ||roolgage.com^
@@ -23286,6 +23301,10 @@
 ||www.pastelgames.com^
 ||madman-games.com^
 ||img.sedoparking.com^
+# Teddy Floppy Ear: Kayaking
+# 34.111.113.40
+# 34.107.172.168
+||api.uca.cloud.unity3d.^
 # Ip/s blockieren:
 # 34.96.113.148
 # 35.241.7.82
@@ -23419,10 +23438,11 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# Grey Box, Six Foot
-# Rime
-# Ip/s blockieren:
-# 34.237.44.165
+# Grey Box and Six Foot
+# RiME
+||a23-216-77-18.deploy.static.akamaitechnologies.com^
+||a23-216-77-30.deploy.static.akamaitechnologies.com^
+||249.195.120.34.bc.googleusercontent.com^
 # Grimm Bros, LLC
 # Dragon Fin Soup
 # Twitter, Youtube, Facebook, Googlevideo
@@ -23534,9 +23554,6 @@
 ||buffpanel.com^
 ||api.infinario.com^
 ||assets.nexmachinagame.com^
-||a23-216-77-18.deploy.static.akamaitechnologies.com^
-||a23-216-77-30.deploy.static.akamaitechnologies.com^
-||249.195.120.34.bc.googleusercontent.com^
 # Forager
 # 162.125.66.1
 # 2620:100:6022:1::a27d:4201
