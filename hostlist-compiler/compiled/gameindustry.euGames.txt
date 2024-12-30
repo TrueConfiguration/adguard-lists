@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-12-18T09:00:17.301Z
+! Last modified: 2024-12-30T09:00:20.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2796,10 +2796,11 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# Grey Box, Six Foot
-# Rime
-# Ip/s blockieren:
-# 34.237.44.165
+# Grey Box and Six Foot
+# RiME
+||a23-216-77-18.deploy.static.akamaitechnologies.com^
+||a23-216-77-30.deploy.static.akamaitechnologies.com^
+||249.195.120.34.bc.googleusercontent.com^
 # Grimm Bros, LLC
 # Dragon Fin Soup
 # Twitter, Youtube, Facebook, Googlevideo
@@ -2915,9 +2916,6 @@
 ||buffpanel.com^
 ||api.infinario.com^
 ||assets.nexmachinagame.com^
-||a23-216-77-18.deploy.static.akamaitechnologies.com^
-||a23-216-77-30.deploy.static.akamaitechnologies.com^
-||249.195.120.34.bc.googleusercontent.com^
 # Forager
 # 162.125.66.1
 # 2620:100:6022:1::a27d:4201
