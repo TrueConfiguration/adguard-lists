@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2024-12-30T09:00:22.164Z
+! Last modified: 2025-01-01T09:00:19.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1400,6 +1400,7 @@
 ||euw-ice.360yield.com^
 ||ex-euc-ice.360yield.com^
 ||ex-euw-ice.360yield.com^
+||ex-na-ice.360yield.com^
 ||ice.360yield.com^
 ||match.360yield.com^
 ||na-ice.360yield.com^
@@ -1454,6 +1455,7 @@
 ||a.ad.gt^
 ||id.hadron.ad.gt^
 ||ids.ad.gt^
+||ids4.ad.gt^
 ||p.ad.gt^
 ||pixels.ad.gt^
 ||seg.hadron.ad.gt^
@@ -1511,6 +1513,10 @@
 # Adapf.com
 ||cas.adapf.com^
 ||rs.adapf.com^
+# Adblade.com
+||dmp.adblade.com^
+||staticd.cdn.adblade.com^
+||web.adblade.com^
 # Adbrn
 ||sp.adbrn.com^
 # AdButler
@@ -1618,9 +1624,11 @@
 # Adlooxtracking.com
 ||adlooxtracking.com^
 # Admanmedia.com
-||mona.admanmedia.com^
-||cs.admanmedia.com^
 ||acs.admanmedia.com^
+||cs.admanmedia.com^
+||mona.admanmedia.com^
+||pub.admanmedia.com^
+||sync.admanmedia.com^
 # Admaster.cc
 ||gtracenep.admaster.cc^
 ||imagesnep.admaster.cc^
@@ -1703,6 +1711,7 @@
 ||cbsi.demdex.net^
 ||charter.demdex.net^
 ||choice.demdex.net^
+||comcast.demdex.net^
 ||condenast.demdex.net^
 ||de.demdex.net^
 ||dena.demdex.net^
@@ -2329,6 +2338,8 @@
 # Betrad.com
 ||l.betrad.com^
 ||c.betrad.com^
+# Betweendigital.com
+||ads.betweendigital.com^
 # Bf-ad.net & bf-tools.net
 ||a.bf-ad.net^
 ||a.bf-tools.net^
@@ -2352,6 +2363,7 @@
 # BidSwitch
 ||apac-jp-sync.bidswitch.net^
 ||aws-fr-sync.bidswitch.net^
+||gce-nl.bidswitch.net^
 ||gce-jp.bidswitch.net^
 ||gce-nl-sync.bidswitch.net^
 ||ghent-aws-fr.bidswitch.net^
@@ -2489,6 +2501,10 @@
 ||incapsula-cdn.cedexis-test.com^
 ||level3.cedexis-test.com^
 ||fastly.cedexis-test.com^
+# Celtra.com
+||ads.celtra.com^
+||cache-ssl.celtra.com^
+||track.celtra.com^
 # Chango.com
 ||d.chango.com^
 # charmstroy.info
@@ -2785,6 +2801,7 @@
 ||static.nl3.vip.prod.criteo.net^
 ||static.par.vip.prod.criteo.net^
 ||static.us5.vip.prod.criteo.net^
+||staticassets-creator-design.criteo.net^
 ||widget.am5.vip.prod.criteo.com^
 ||widget.eu.criteo.com^
 ||widget.jp2.as.criteo.com^
@@ -2938,6 +2955,7 @@
 ||tpsc-nyc.doubleverify.com^
 ||tpsc-ue1.doubleverify.com^
 ||tpsc-uw1.doubleverify.com^
+||tpsc-video-uw.doubleverify.com^
 ||tpsc-video-ue.doubleverify.com^
 ||vast.doubleverify.com^
 ||vpaid.doubleverify.com^
@@ -2975,6 +2993,7 @@
 ||proc.ad.cpe.dotomi.com^
 ||pubmatic-match.dotomi.com^
 ||purch-match.dotomi.com^
+||retargetly-match.dotomi.com^
 ||rubicon-match.dotomi.com^
 ||synacor-match.dotomi.com^
 ||triplelift-match.dotomi.com^
@@ -3062,10 +3081,16 @@
 ||www.e-mailit.com^
 # E-planning.net
 ||ads.us.e-planning.net^
+||imglaunch-us.e-planning.net^
+||imglaunch.e-planning.net^
+||pbjs.e-planning.net^
 ||s.e-planning.net^
 ||sync.e-planning.net^
 ||u-ams02.e-planning.net^
+||u-ams03.e-planning.net^
 ||u-sin01.e-planning.net^
+||u-sjc03.e-planning.net^
+||us.img.e-planning.net^
 # Eacdn
 ||wlbetathome.adsrv.eacdn.com^
 # EBay com & de
@@ -3942,6 +3967,7 @@
 ||7b6mxsc7o7.kameleoon.eu^
 ||7kqv8mugue.kameleoon.eu^
 ||ca4kfioskh.mentalist.kameleoon.com^
+||data.kameleoon.eu^
 ||data.kameleoon.io^
 ||eldamar01-loadbalanced.kameleoon.com^
 ||eldamar03-loadbalanced.kameleoon.com^
@@ -4044,6 +4070,11 @@
 # Leanback Digital
 ||lbdp.us^
 ||www.leanback.digital^
+# Lemonpi.io
+||content.lemonpi.io^
+||creative-libraries.lemonpi.io^
+||d.lemonpi.io^
+||log.lemonpi.io^
 # Lentainform
 ||api.lentainform.com^
 ||c.lentainform.com^
@@ -4274,9 +4305,11 @@
 ||prebid.mgid.com^
 # Minutemedia-prebid.com
 ||cs-rtb.minutemedia-prebid.com^
+||cs-tam.minutemedia-prebid.com^
 ||cs.minutemedia-prebid.com^
 ||evt.minutemedia-prebid.com^
 ||hb.minutemedia-prebid.com^
+||pbs-cs.minutemedia-prebid.com^
 ||sdk.minutemedia-prebid.com^
 # Mirando
 ||get.mirando.de^
@@ -4702,6 +4735,7 @@
 ||hb-api.omnitagjs.com^
 ||tracking-fra02.omnitagjs.com^
 ||visitor-33across.omnitagjs.com^
+||visitor-adpone.omnitagjs.com^
 ||visitor-fra02.omnitagjs.com^
 ||visitor-ow.omnitagjs.com^
 ||visitor-risecode.omnitagjs.com^
@@ -5061,6 +5095,8 @@
 # 151.101.14.2
 ||amplify-imp.outbrain.com^
 ||amplifypixel.outbrain.com^
+||at.outbrain.com^
+||b1sync.outbrain.com^
 ||chidc2.outbrain.org^
 ||editorial.outbrain.com^
 ||images.outbrain.com^
@@ -5072,6 +5108,7 @@
 ||mcdp-chidc2.outbrain.com^
 ||mcdp-nydc1.outbrain.com^
 ||mcdp-sadc1.outbrain.com^
+||mcdp-wndc1.outbrain.com^
 ||mv.outbrain.com^
 ||ny.outbrain.com^
 ||nydc1.outbrain.org^
@@ -5081,10 +5118,13 @@
 ||prod.outbrain.map.fastlylb.net^
 ||stas.outbrain.com^
 ||tcheck.outbrainimg.com^
+||vas.outbrain.com^
 ||videoclientsservicescalls.outbrain.com^
 ||videoevents.outbrain.com^
+||vis.outbrain.com^
 ||vrp.outbrain.com^
 ||vrt.outbrain.com^
+||vt.outbrain.com^
 ||widget-pixels.outbrain.com^
 ||widgetmonitor.outbrain.com^
 ||widgets.outbrain.com^
@@ -6327,10 +6367,12 @@
 # Scanscout
 ||dt.scanscout.com^
 # Scorecardresearch.com
+||ads.scorecardresearch.com^
 ||b.scorecardresearch.com^
 ||sb.scorecardresearch.com^
 # Seedtag
 ||config.seedtag.com^
+||cs.seedtag.com^
 ||ping.seedtag.com^
 ||s.seedtag.com^
 ||t.seedtag.com^
@@ -6541,6 +6583,7 @@
 ||cm.smartstream.tv^
 ||smartyield.smartstream.tv^
 # Smilewanted.com
+||bidder-front-13.smilewanted.com^
 ||csync.smilewanted.com^
 ||prebid.smilewanted.com^
 ||static.smilewanted.com^
@@ -7009,6 +7052,7 @@
 ||sc.tynt.com^
 # TypeA Holdings
 ||cookie-sync-desktop.yellowblue.io^
+||cs-ob.yellowblue.io^
 ||cs-server-s2s.yellowblue.io^
 ||cs-tam.yellowblue.io^
 ||cs.yellowblue.io^
@@ -7168,6 +7212,8 @@
 # Vidazoo.com
 ||bis2.vidazoo.com^
 ||bis3.vidazoo.com^
+||bis4.vidazoo.com^
+||bis5.vidazoo.com^
 ||bisdr.vidazoo.com^
 ||inventory.vidazoo.com^
 ||pl.vidazoo.com^
@@ -7182,6 +7228,10 @@
 ||segmentnext-com.videoplayerhub.com^
 # Vidonna.de
 ||vidonna.de^
+# Vidoomy.com
+||a.vidoomy.com^
+||vid.vidoomy.com^
+||vpaid.vidoomy.com^
 # Viewdeos.com
 ||track.viewdeos.com^
 ||track1.viewdeos.com^
@@ -7738,6 +7788,7 @@
 ||automarkt.bild.de^
 ||bestseller.bild.de^
 ||bilder.bild.de^
+||data-bb21a2f11b.bild.de^
 ||don.bild.de^
 ||download-spiele.bild.de^
 ||download.storage.bild.de^
@@ -8167,6 +8218,7 @@
 ||w.usabilla.com^
 # Heise.de
 ||1.f.ix.de^
+||d1v24z5ky75q0k.heise.de^
 ||data-fb7f8b3ae8.heise.de^
 ||prophet.heise.de^
 ||responder.wt.heise.de^
@@ -10053,6 +10105,7 @@
 ||http-check-headers.yandex.ru^
 ||informer.yandex.ru^
 ||matchid.adfox.yandex.ru^
+||mc.yandex.com^
 ||mc.yandex.ru^
 ||share.yandex.ru^
 ||st.kp.yandex.net^
@@ -10235,6 +10288,7 @@
 # 216.58.209.161
 # 216.58.210.130
 ||000b22b8527b5827045d761b4e031f5e.safeframe.googlesyndication.com^
+||00216eb1c93e1a229e24aab1831b05b8.safeframe.googlesyndication.com^
 ||01cf40c6ed1844b7aa9d10f79d62fcbd.safeframe.googlesyndication.com^
 ||021a487fa6d1deed336e7289069e49b5.safeframe.googlesyndication.com^
 ||0263af4760a97a110039cb4103a1ccdf.safeframe.googlesyndication.com^
@@ -10257,25 +10311,35 @@
 ||0cf4c8f0be9f61e95fff8b909fc7363f.safeframe.googlesyndication.com^
 ||0d05615e6ba038dd4a70753550e32d04.safeframe.googlesyndication.com^
 ||0dab83e42e5a7ec62f186dcb8ebd0a4f.safeframe.googlesyndication.com^
+||0e3d30c2dbc6427f3b31428aab927704.safeframe.googlesyndication.com^
+||0e5fb99737aceceef8d10e3bb54ad7cb.safeframe.googlesyndication.com^
 ||0fa07c2d101f9966c73d35aef9a8dc45.safeframe.googlesyndication.com^
 ||0ff3a4e3e4c688a043118adaafeadbf2.safeframe.googlesyndication.com^
+||101e7fcf2bccec36fee5b2d23878916a.safeframe.googlesyndication.com^
 ||106cf2754cbe57af47a90f7d39ef4125.safeframe.googlesyndication.com^
 ||10f367ca77ade837a717c11911084546.safeframe.googlesyndication.com^
+||1254e5c75bedaeb9ed5a5c98a6b67400.safeframe.googlesyndication.com^
 ||131b2ff3d9be61fbdc3d9734b57d66f2.safeframe.googlesyndication.com^
 ||144dfbbf5cfc90fafaba024248d8ef65.safeframe.googlesyndication.com^
 ||147839ab3677319184da2d8fd78c6204.safeframe.googlesyndication.com^
 ||14b162e3176d2b94caa7c1293fc25b05.safeframe.googlesyndication.com^
 ||14bff7ed2419a6a0dc71f5e628b9d83a.safeframe.googlesyndication.com^
+||17547b9af79ade7803e9cd6eb7858038.safeframe.googlesyndication.com^
+||176c92041dfa270cb1ba890db1dbc5a8.safeframe.googlesyndication.com^
+||17928573ba3e420369f7c53009e4772f.safeframe.googlesyndication.com^
 ||17c11764c8e58ffd607e9f6442c3f7d8.safeframe.googlesyndication.com^
 ||194a1ebc0c678b5676881c7161aa8d91.safeframe.googlesyndication.com^
 ||19e3e61f29560ba81e930bc43da595db.safeframe.googlesyndication.com^
 ||1a19f16a4a09399c42de610deb053d33.safeframe.googlesyndication.com^
+||1a33e722290853a253b69b6a77dd04e0.safeframe.googlesyndication.com^
 ||1a5f5c822f476315783b32524dd2e951.safeframe.googlesyndication.com^
 ||1b68e5727e05d7baa06617125450c754.safeframe.googlesyndication.com^
 ||1b9db85f5d5f15808f584768e4f4474d.safeframe.googlesyndication.com^
+||1bb6f14959e41a1da94593e5242a7139.safeframe.googlesyndication.com^
 ||1bb7b2a1fb6b65bcb1443b51193b7c20.safeframe.googlesyndication.com^
 ||1c582ac74f37fe8c9b932bf7a52c134b.safeframe.googlesyndication.com^
 ||1cd76f6ae996ba9f199232e6ba6e1e8e.safeframe.googlesyndication.com^
+||1d752d23d596b248ec6c68aa96ee261a.safeframe.googlesyndication.com^
 ||1de98fd65f480bf30da52e2b204e9c39.safeframe.googlesyndication.com^
 ||1f523345c1fa66bad99229f0cd16d115.safeframe.googlesyndication.com^
 ||204dd7cc4ee1a8558273245c3ba4b658.safeframe.googlesyndication.com^
@@ -10284,27 +10348,35 @@
 ||20befc9fcbf36dbc98d9a7b87dab0625.safeframe.googlesyndication.com^
 ||2136235c67e63313547d0814826b46fa.safeframe.googlesyndication.com^
 ||234192bd4d4742b1b7660f2530e250b9.safeframe.googlesyndication.com^
+||23c15de8e555dab55c88b454eeacf79a.safeframe.googlesyndication.com^
+||241f63c22f8c5a784917d945cb80e0de.safeframe.googlesyndication.com^
 ||258e40fc53f87b61cf3dd60b1d440a81.safeframe.googlesyndication.com^
 ||25eaa16ba9d038439b376988b29d7870.safeframe.googlesyndication.com^
 ||2611aa4aba145e0cc7dfa5b9894280a4.safeframe.googlesyndication.com^
 ||28011987ee07382c1dab975234398131.safeframe.googlesyndication.com^
 ||2816940a9cbe01c24546b59e08a11ae2.safeframe.googlesyndication.com^
+||286e4186b5275341604ae6c29c73324d.safeframe.googlesyndication.com^
 ||2892af9876fce919fb3981c643226fa0.safeframe.googlesyndication.com^
 ||28aa6466edcd18f0f3b108ebc00fb851.safeframe.googlesyndication.com^
 ||299a2a32a75961febcb4fc3916d67fcf.safeframe.googlesyndication.com^
 ||29abb84b4003a2436d8518facff30bb1.safeframe.googlesyndication.com^
 ||2b2f3c6dfbdc4044c1a90bff4157224c.safeframe.googlesyndication.com^
+||2b91ca9531012602f0e4ef20db3e9d54.safeframe.googlesyndication.com^
+||2bc92de3622dfc22a158152f62665c98.safeframe.googlesyndication.com^
 ||2c76397778d51d02a043cde2a0d01ca1.safeframe.googlesyndication.com^
 ||2d05677259ca02f7a168d7eb83f77ec7.safeframe.googlesyndication.com^
+||2e41f592ea4256e93f6a14b9dc496319.safeframe.googlesyndication.com^
 ||2ecee7468459d61dbb9321f47518d40e.safeframe.googlesyndication.com^
 ||2f28dc97fbf983ad7523b2f85fff4547.safeframe.googlesyndication.com^
 ||31042e7d846e4e0f2859457758b7b152.safeframe.googlesyndication.com^
+||314a784a988b1491df21a4ec1276d63c.safeframe.googlesyndication.com^
 ||316ea0b98fae0c58d6ee91cfc4a8a93f.safeframe.googlesyndication.com^
 ||3330090432b38bd27ecf9ab02c5e8fcf.safeframe.googlesyndication.com^
 ||3366357422338b2ed1b598a425a2a734.safeframe.googlesyndication.com^
 ||3501285eb57f4f37035cbc4f9665bc67.safeframe.googlesyndication.com^
 ||3531f36b4c5a6f7af17ee90ce023a33e.safeframe.googlesyndication.com^
 ||3597c830e5ab9dbc6bf6a7a7e4e03178.safeframe.googlesyndication.com^
+||3628701aa6bd671d73f8d25d3cf410fd.safeframe.googlesyndication.com^
 ||368438a5dfd897cab709a5846b3595a6.safeframe.googlesyndication.com^
 ||37ce95811f2c633dfd95021ebcd6ad78.safeframe.googlesyndication.com^
 ||37e69cb49f56e4eee88ccda11dace41b.safeframe.googlesyndication.com^
@@ -10328,13 +10400,17 @@
 ||425f9c9c56d8245033233717c73b92ca.safeframe.googlesyndication.com^
 ||426bd84a25704d55ee071c9da6b8c611.safeframe.googlesyndication.com^
 ||43690dad4844bd27c7af6762eb8461ad.safeframe.googlesyndication.com^
+||44beeb03a4490e049132b030e99d2bbb.safeframe.googlesyndication.com^
 ||44effd5eb8bd52b0d1c385c1037dbc56.safeframe.googlesyndication.com^
 ||44f81f2eacc8d045ca0f844428750137.safeframe.googlesyndication.com^
 ||44fa6513779a2fc1c718f22007adf651.safeframe.googlesyndication.com^
 ||4573575f3a098944097bf9802a58d5b3.safeframe.googlesyndication.com^
+||474cc0a69819e5bdbdb9ba7d5232748d.safeframe.googlesyndication.com^
 ||475daa30f35ddd0be46173ca62e1e3eb.safeframe.googlesyndication.com^
 ||4791bbfc6bd3ec4f5b2c819d4e1b83b4.safeframe.googlesyndication.com^
+||47d33c66a816f3daae0136dcfba15c5b.safeframe.googlesyndication.com^
 ||48d8e96e81a786d4d4990ff8ca4ac8d9.safeframe.googlesyndication.com^
+||491e0c9d68b7f169efa4a70a52ee47fa.safeframe.googlesyndication.com^
 ||4925dbd693e552752a4d3a7a4f2669f3.safeframe.googlesyndication.com^
 ||49814e4c5cb8c59c0c9525141ce9a1f0.safeframe.googlesyndication.com^
 ||49c483124a3c2e1541bdc8d0c8849438.safeframe.googlesyndication.com^
@@ -10373,6 +10449,7 @@
 ||5d4aed2eafe42fcc84eef4820a3803f8.safeframe.googlesyndication.com^
 ||5deaa6da3e965753e3e3ad9f6409f79a.safeframe.googlesyndication.com^
 ||5e2cee866b5a9b0975b7311c3c9a97f4.safeframe.googlesyndication.com^
+||5e42cbb59f1c745bd076c0d53e9911f6.safeframe.googlesyndication.com^
 ||5e589fdaba4a3a368a7c5df60ce65248.safeframe.googlesyndication.com^
 ||5e7d7371f286aa701ac0cdfd3d955fc3.safeframe.googlesyndication.com^
 ||5e9853f8ccf36b3eff84bd9e91403059.safeframe.googlesyndication.com^
@@ -10391,6 +10468,7 @@
 ||667b26794fe30d355e404b8e9de42539.safeframe.googlesyndication.com^
 ||670b1e0fccec1295ff006f942fbde2dc.safeframe.googlesyndication.com^
 ||67fcf44a8283333c7beebd4432fd5ed0.safeframe.googlesyndication.com^
+||683a8a9d2a86c1af88ca0d5bfcf1f362.safeframe.googlesyndication.com^
 ||68ac20684e57526b425f5e67d93f04d9.safeframe.googlesyndication.com^
 ||68ffe7417f71f42e00c8fdf052b745e7.safeframe.googlesyndication.com^
 ||69022b2f33608f2eafc12f1f0e88458f.safeframe.googlesyndication.com^
@@ -10415,17 +10493,20 @@
 ||74c07737a4a21db4c0548a3b73e2a775.safeframe.googlesyndication.com^
 ||754a9a4f04f227b0c7a5e386d6be5658.safeframe.googlesyndication.com^
 ||768e4d15ea4299a5f7a622e6756d524e.safeframe.googlesyndication.com^
+||76d2040a950fd8e8661cc3edefcd03e8.safeframe.googlesyndication.com^
 ||76d2bc4332499c3940f6da8af37c0338.safeframe.googlesyndication.com^
 ||776fbf4d23051cb62ebe8a69f01610d3.safeframe.googlesyndication.com^
 ||7831e1c133cb8c0b32dcc7c2bf74f8e6.safeframe.googlesyndication.com^
 ||78e021e775988e0a0da3b2150238a249.safeframe.googlesyndication.com^
 ||793b7de2e03a1e10455b47a9b8e6c48f.safeframe.googlesyndication.com^
+||79ebb11ee6e32f0c5483e1838d3fec19.safeframe.googlesyndication.com^
 ||7a4ed0561c0f6c9964c658d88ff92639.safeframe.googlesyndication.com^
 ||7bac7216ca91ca40eac36a4aef49068f.safeframe.googlesyndication.com^
 ||7bb38895bb74f50d96b8258f2dc45002.safeframe.googlesyndication.com^
 ||7bc0d6e6886e4311eb4f982fde26aa69.safeframe.googlesyndication.com^
 ||7f34e921ae3ccb412bdced687b33a4aa.safeframe.googlesyndication.com^
 ||7f6c297df0c041900e90688d510c5b1b.safeframe.googlesyndication.com^
+||80baf92ff70d74d83a0c8f9d5b90196a.safeframe.googlesyndication.com^
 ||814298b4d983c05df499d5ac21a01c47.safeframe.googlesyndication.com^
 ||82f809e66332f76c98433becf53c1b02.safeframe.googlesyndication.com^
 ||83c294cc07cb2fdacd2fa17a7482ceff.safeframe.googlesyndication.com^
@@ -10442,6 +10523,9 @@
 ||8f3efbe7f6f4530f60c2eb3977ea8e0f.safeframe.googlesyndication.com^
 ||903cac25276d722b6817cdc229fefa88.safeframe.googlesyndication.com^
 ||906bc511d96d789037532c3b79176c01.safeframe.googlesyndication.com^
+||9181476b325b6687b3f2ccc8a0cfbac3.safeframe.googlesyndication.com^
+||922e28f156b7d6696a9170024eccd102.safeframe.googlesyndication.com^
+||92456746efce13aae51095c815b1f3b0.safeframe.googlesyndication.com^
 ||925c0f66a50611c2919a7b66784ba6bd.safeframe.googlesyndication.com^
 ||928e918c1ef8de575053b720a402617a.safeframe.googlesyndication.com^
 ||92c2528677bca42c88b7d0c44360847f.safeframe.googlesyndication.com^
@@ -10449,9 +10533,13 @@
 ||94555635fa911f6ff8ff9e70b425f88e.safeframe.googlesyndication.com^
 ||94a7f166de77cbde274b7bc926d00983.safeframe.googlesyndication.com^
 ||94cea2dbb939eacea1acfc5b8ff98af3.safeframe.googlesyndication.com^
+||9527cf518ac03bd2867d57df5600e1e7.safeframe.googlesyndication.com^
+||9585938e7e5f4ae85331c575d560825a.safeframe.googlesyndication.com^
+||95c0f16f57d7f28ef801cda55209153e.safeframe.googlesyndication.com^
 ||95ec553f10b2454283ca7dbce72c563e.safeframe.googlesyndication.com^
 ||96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com^
 ||96dc78383be612b608f948c91110dc06.safeframe.googlesyndication.com^
+||9757fb7ebd114c92cccc34be80ab798d.safeframe.googlesyndication.com^
 ||97cffe0e553d2083e8cce0de14dc2001.safeframe.googlesyndication.com^
 ||97df27b67cd8a48fb4baf0579fc3e561.safeframe.googlesyndication.com^
 ||98715c0e7c194aa5ccc496a7eb766613.safeframe.googlesyndication.com^
@@ -10465,8 +10553,8 @@
 ||9df9cff989e4c4bd8989b425eaa611a3.safeframe.googlesyndication.com^
 ||9e96caa3e1c5757e0d3ad7037bd8f83b.safeframe.googlesyndication.com^
 ||9ebb82bf93aeb0542c1653f69bc72dbf.safeframe.googlesyndication.com^
-||9fdbe3334aa63419e95702eada086c83.safeframe.googlesyndication.com^
 ||9f5cee3e8653942611fb0101edf19040.safeframe.googlesyndication.com^
+||9fdbe3334aa63419e95702eada086c83.safeframe.googlesyndication.com^
 ||9fe9d98688fde10fbf5965d3ec5f9c2d.safeframe.googlesyndication.com^
 ||a00e70519b93be38ee133365461e48d3.safeframe.googlesyndication.com^
 ||a030b951ae67f2cae4d84da9b6d3e200.safeframe.googlesyndication.com^
@@ -10505,6 +10593,7 @@
 ||b0b03dc0f046fc1edce7a835c11035c0.safeframe.googlesyndication.com^
 ||b16824485bee779e4a3d5c4f1d237218.safeframe.googlesyndication.com^
 ||b214afbad13118365eaec474df0f72fa.safeframe.googlesyndication.com^
+||b30bcd49122155eabbf83668b8fe729d.safeframe.googlesyndication.com^
 ||b6aa48f30f64c547dc85cead765a36c1.safeframe.googlesyndication.com^
 ||b6de2115633a68fcc46af6cf03dc0d06.safeframe.googlesyndication.com^
 ||b708323b9438978424d32832347319b2.safeframe.googlesyndication.com^
@@ -10536,6 +10625,7 @@
 ||c659860d58820534bd6e05d624958bad.safeframe.googlesyndication.com^
 ||c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com^
 ||c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com^
+||c94d817eac8ade84ae7df87a8ece9b29.safeframe.googlesyndication.com^
 ||c9ccfedee2f31b8708cfcf9181bcd2bf.safeframe.googlesyndication.com^
 ||ca5a16ae8e4eb37addb6fd2a46734d36.safeframe.googlesyndication.com^
 ||ca6de71f560f9631037e80d5e8c08256.safeframe.googlesyndication.com^
@@ -10559,6 +10649,7 @@
 ||d96bcdc30c1165ea8cc44dafa315565a.safeframe.googlesyndication.com^
 ||d99bbe6e75000180ef8b624cc2a58289.safeframe.googlesyndication.com^
 ||d9c44f4fef03be680deab2689bef189e.safeframe.googlesyndication.com^
+||dc6e8088e2f694a3fd3e45a58762e8f3.safeframe.googlesyndication.com^
 ||dcca610a85767e9b93ed662b787324d6.safeframe.googlesyndication.com^
 ||dd07335e6049255f35dc8f4de8c9d206.safeframe.googlesyndication.com^
 ||dd731f537e17c559e65d7ef6a00f44a4.safeframe.googlesyndication.com^
@@ -10568,6 +10659,7 @@
 ||e0e73e0ca519e442ae9cf187092f1274.safeframe.googlesyndication.com^
 ||e1d458e0c975c3f9a15ba87f92c74e0c.safeframe.googlesyndication.com^
 ||e1e1677738169f0db052a90f7afab912.safeframe.googlesyndication.com^
+||e26d73f52ec847e2a0e6e1aa46d18f25.safeframe.googlesyndication.com^
 ||e598b4b9e7e73fc6fc0237dbc76c4f4e.safeframe.googlesyndication.com^
 ||e5c2e13ff71df426c2c3164f97c62f6b.safeframe.googlesyndication.com^
 ||e677e5975b68b8423a0dbf6164118b7a.safeframe.googlesyndication.com^
@@ -10585,12 +10677,15 @@
 ||ecf15ea02266dd39983adb1e2b4ce582.safeframe.googlesyndication.com^
 ||ed9a12962d5349e8d5092b090bd62e41.safeframe.googlesyndication.com^
 ||ed9d215738550999ce1fb08352d190ab.safeframe.googlesyndication.com^
+||ee50859e30399b3204aed6b248143673.safeframe.googlesyndication.com^
+||ef1e367dc982fee1cb6b09aba492a757.safeframe.googlesyndication.com^
 ||f0cc1e5a1275e6ac4ad4be65e88000d1.safeframe.googlesyndication.com^
 ||f10cbbdf4fe04563a8d0776097e2008c.safeframe.googlesyndication.com^
 ||f11cffaf953b287e0474e4b6c92433d9.safeframe.googlesyndication.com^
 ||f131481977e8ffc72df9e8d249cdd4ea.safeframe.googlesyndication.com^
 ||f15bb78b02f4f1758aaab3dc4ee1efcf.safeframe.googlesyndication.com^
 ||f1898ecc38ec17a3a320932757934ebf.safeframe.googlesyndication.com^
+||f19ce9daba065621c1e8cf102d0a1cb3.safeframe.googlesyndication.com^
 ||f33c5f886b6b8f5d0e6eed084126e710.safeframe.googlesyndication.com^
 ||f45dcc770b20614331fb954dfc25294e.safeframe.googlesyndication.com^
 ||f46ad54d10b7c7a4c8912e41d8c3a6f9.safeframe.googlesyndication.com^
@@ -10598,6 +10693,7 @@
 ||f615274de71c416eef27c091225df633.safeframe.googlesyndication.com^
 ||f6b864b5b0439f32b5594aff0f223a73.safeframe.googlesyndication.com^
 ||f720b7c35b67b3d76efaa6796ec6a08d.safeframe.googlesyndication.com^
+||f77e3b5737bbb65f303e26150f3d2636.safeframe.googlesyndication.com^
 ||f7bb432e3d15a52307deea73f8ec2f92.safeframe.googlesyndication.com^
 ||f81ffb8bcf627b0865cb333f01bc466e.safeframe.googlesyndication.com^
 ||f8d789487a49ae046b9327a8b131c215.safeframe.googlesyndication.com^
@@ -10607,6 +10703,7 @@
 ||fb6a1f7182d1907bc7f5784d9bd54dcb.safeframe.googlesyndication.com^
 ||fda4bed8aedba9844bc32359d6ba66a0.safeframe.googlesyndication.com^
 ||fe0f579f2cbf055e612eb60ca8ab08f6.safeframe.googlesyndication.com^
+||fec7a917c944fd5281a207db027c645c.safeframe.googlesyndication.com^
 ||p1cluster.cxense.comeframe.googlesyndication.com^
 ||video-ad-stats.googlesyndication.com^
 # Google Syndication Endpoints
@@ -13494,6 +13591,7 @@
 ||api-js.datadome.co^
 ||api.intellimize.co^
 ||api.repixel.co^
+||vid1051.d41.co^
 ||api3847.d41.co^
 ||api5137.d41.co^
 ||app.mona.co^
@@ -14309,6 +14407,7 @@
 ||cdn.lqm.io^
 ||cdn.mediago.io^
 ||cdn.ndg.io^
+||cdn.nexx360.io^
 ||cdn.plyr.io^
 ||cdn.xceler8.io^
 ||chef-widget.bf-whatsnext-production.aws.bfops.io^
@@ -14316,8 +14415,8 @@
 ||cl.k5a.io^
 ||cm.idealmedia.io^
 ||collector.sophi.io^
+||cookiesync.api.bliink.io^
 ||core-api.bringhub.io^
-||d.lemonpi.io^
 ||dafloor.tidelinedata.io^
 ||data.beop.io^
 ||data.deep-content.io^
@@ -14334,9 +14433,11 @@
 ||f038192cab4afafaacee34d22ed2e1dd.report-uri.io^
 ||facewallet.io^
 ||fallsm.ndg.io^
+||fast.nexx360.io^
 ||fdyn.pubwise.io^
 ||fg8vvsvnieiv3ej16jby.litix.io^
 ||freegeoip.io^
+||functions.adnami.io^
 ||gannett.sjv.io^
 ||get.geojs.io^
 ||get.optad360.io^
@@ -14401,6 +14502,7 @@
 ||smartly.io^
 ||snippet.affilimate.io^
 ||socialstats.netgen.io^
+||sos-bg-sof-1.exo.io^
 ||streaming.split.io^
 ||sync.1dmp.io^
 ||sync.1rx.io^
@@ -14411,6 +14513,7 @@
 ||t.beop.io^
 ||t.dcmn.io^
 ||tag.1rx.io^
+||tag.bliink.io^
 ||tag.escalated.io^
 ||tdrhge4k.apicdn.sanity.io^
 ||telemetry.transcend.io^
@@ -14675,6 +14778,7 @@
 ||budoz.page.link^
 ||cryptofarm.page.link^
 ||i.sng.link^
+||impression.link^
 ||us.convers.link^
 ||wct.link^
 ||zuba.prod.tda.link^
@@ -15119,7 +15223,6 @@
 ||ox-rtb-europe-west4.openx.net^
 ||pabionak.net^
 ||panorama.wixapps.net^
-||pbjs.e-planning.net^
 ||pctuneupsoftwares.net^
 ||pebed.dm-event.net^
 ||perfops.glbcdn.net^
@@ -15268,7 +15371,6 @@
 ||uk-script.dotmetrics.net^
 ||undom.net^
 ||unicef.adclear.net^
-||us.img.e-planning.net^
 ||use.edgefonts.net^
 ||usma.cdnetworks.net^
 ||v1.green-ads.net^
@@ -15285,6 +15387,7 @@
 ||wailoageebivy.net^
 ||watch-video.net^
 ||webchannel-content.eservice.emarsys.net^
+||webinline-usage.streamesh.net^
 ||whoutsog.net^
 ||woafoame.net^
 ||ww1.adultantenna.net^
@@ -15335,6 +15438,8 @@
 ||www.onlinecasinoground.nl^
 ||piwik.kees.nl^
 ||www.thuis.nl^
+# NOW
+||u.send.now^
 # ONE
 ||adethemos.one^
 ||ationpeci.one^
@@ -15454,8 +15559,9 @@
 ||static2.creative-serving.org^
 ||stquality.org^
 ||sw.wpush.org^
-||tempuri.org^
+||t2.awagama.org^
 ||tellihandlesexwr.org^
+||tempuri.org^
 ||the-ethereum.bit-system.org^
 ||top.nydus.org^
 ||utilapi.geeksforgeeks.org^
@@ -15470,6 +15576,7 @@
 ||xmr-eu2.nanopool.org^
 # PICS
 ||chedstimaarr.pics^
+||gfxdn.pics^
 ||imdn.pics^
 ||mydwm.directuklyecon.pics^
 ||x.sexhd.pics^
@@ -15779,6 +15886,7 @@
 ||a.videohead.tech^
 ||cdn.3647.tech^
 ||cdn.gimbal.tech^
+||cs.ingage.tech^
 ||direct.apus.tech^
 ||ex.ingage.tech^
 ||game-assets-tma1-prd.themill.tech^
@@ -15893,6 +16001,7 @@
 ||support.streamjav.top^
 ||swapsprediet.top^
 ||timidclubbed.top^
+||tipto.top^
 ||tjbuxltdsg.top^
 ||tnnhhhqmhijqd.top^
 ||ttskfhepsoma.top^
@@ -16485,6 +16594,7 @@
 # Newsletter
 # 52.10.102.247
 ||spgo.io^
+||0be9f5cb61.32ae2295ab.com^
 ||0cf861243d0446f2b4ecfba565358a71.js.ubembed.com^
 ||0i0i0i0.com^
 ||0pixl.com^
@@ -16560,7 +16670,9 @@
 ||564d28256cddaeba.com^
 ||599b44ea-5da4-459e-8468-0982ee74fece.seals-xcm.certria.com^
 ||5ac52612c3.aba7348092.com^
+||5b13e52520.fcc217ae84.com^
 ||5cc9c408-c3fa-41dd-88bb-c303115bb2db.snippet.antillephone.com^
+||5d0405d69d.7677b41a02.com^
 ||5e37c0d1cf.772f4bba41.com^
 ||6221881285.7378a03ff8.com^
 ||65da6bf5816be8a887ab4c4c2d23ecdb.adjns.com^
@@ -16645,6 +16757,7 @@
 ||absenceoverload.com^
 ||absentmissingaccept.com^
 ||abstractedauthority.com^
+||ac.aruncdn.com^
 ||ac2.tnaflix.com^
 ||acdcdn.com^
 ||aclpitquxfad.com^
@@ -16710,7 +16823,6 @@
 ||ads.anilos.com^
 ||ads.aralego.com^
 ||ads.assemblyexchange.com^
-||ads.betweendigital.com^
 ||ads.blogherads.com^
 ||ads.cdngain.com^
 ||ads.contextweb.com^
@@ -16877,6 +16989,7 @@
 ||analytics.lbry.com^
 ||analytics.onionsearchengine.com^
 ||analytics.ovh.com^
+||analytics.pangle-ads.com^
 ||analytics.pesktop.com^
 ||analytics.plugon.me^
 ||analytics.publir.com^
@@ -16928,6 +17041,7 @@
 ||api.fool.com^
 ||api.fouanalytics.com^
 ||api.gitbook.com^
+||api.iiris.com^
 ||api.ip.sb^
 ||api.iperceptions.com^
 ||api.promptsgod.com^
@@ -16952,6 +17066,7 @@
 ||app.n26.com^
 ||app.notipack.com^
 ||app.readpeak.com^
+||app.retargetly.com^
 ||app.trafficdominationpages.com^
 ||app.trustami.com^
 ||app4-cdn2.sbx-cdn.com^
@@ -17120,9 +17235,11 @@
 ||bid.mbidtg.com^
 ||bid2.videostep.com^
 ||bid3.videostep.com^
+||bidberry.net^
 ||bidder-google.ecdrsvc.com^
 ||bidder.7xbid.com^
 ||bidder.9mediaonline.com^
+||bidder.doceree.com^
 ||bidder.h12-media.com^
 ||bidswitch-eu.splicky.com^
 ||biltag.bilsyndication.com^
@@ -17215,7 +17332,6 @@
 ||c8468c7e4fa35572f4dfd8a23ce2f267.adjns.com^
 ||cab-too-low.com^
 ||cache-api.ranker.com^
-||cache-ssl.celtra.com^
 ||cactus-search.com^
 ||cadetrigourlegitimate.com^
 ||cadrctlnk.com^
@@ -17256,6 +17372,7 @@
 ||cdn-f.adsmoloco.com^
 ||cdn-header-bidding.snack-media.com^
 ||cdn-ht.trafficforce.com^
+||cdn-prod.match2one.com^
 ||cdn-production-opera-website.operacdn.com^
 ||cdn-qw.ts.mtvnservices.com^
 ||cdn-sec.optmd.com^
@@ -17342,6 +17459,7 @@
 ||cdn.sb4you1.com^
 ||cdn.sendpulse.com^
 ||cdn.show-creative1.com^
+||cdn.show-sb.com^
 ||cdn.smachnakittchen.com^
 ||cdn.sonaserve.com^
 ||cdn.speakol.com^
@@ -17371,6 +17489,7 @@
 ||cdn1-smallimg.phncdn.com^
 ||cdn2.editmysite.com^
 ||cdn2.lockerdomecdn.com^
+||cdn2.match2one.net^
 ||cdn2.tapioni.com^
 ||cdn3.tapioni.com^
 ||cdn4.userzoom.com^
@@ -17412,6 +17531,7 @@
 ||chpadblock.com^
 ||chultoux.com^
 ||ci-mpsnare.iovation.com^
+||cimg.audiencerun.com^
 ||citadelpathstatue.com^
 ||cityads.com^
 ||ckofrnk.com^
@@ -17536,6 +17656,7 @@
 ||convertkit.com^
 ||cookie.lmgssp.com^
 ||cookieinfoscript.com^
+||cookies.nextmillmedia.com^
 ||coolcpms.com^
 ||cooperationmoth.com^
 ||coosync.com^
@@ -17661,6 +17782,7 @@
 ||ddjmv.edonhisdhi.com^
 ||ddlox.com^
 ||ddtvskish.com^
+||de.anycubic.com^
 ||de.anygator.com^
 ||de.profitmaximizer-app.com^
 ||de.sitestat.com^
@@ -17819,6 +17941,7 @@
 ||edge2-alb.stream.highwebmedia.com^
 ||edgesecretion.com^
 ||edgystrangleconcentrate.com^
+||ediatesuperviso.com^
 ||edioca.com^
 ||edstever.com^
 ||eehuzaih.com^
@@ -17861,6 +17984,7 @@
 ||enginsquawks.cam^
 ||eningspon.com^
 ||enormousearth.com^
+||enrtx.com^
 ||entterto.com^
 ||envoy-hl.envoy-csync1.core-b8mf.ov1o.com^
 ||eo244l.cloudatacdn.com^
@@ -17912,6 +18036,7 @@
 ||events.godatashift.com^
 ||events.jotform.com^
 ||events.native20.com^
+||events.servenobids.com^
 ||evergage.lottobirock.com^
 ||evidenceguidance.com^
 ||evovasalup.com^
@@ -18044,6 +18169,7 @@
 ||forflygonom.com^
 ||forkjork12.com^
 ||forlumineontor.com^
+||forms-na1.hsforms.com^
 ||forms.m-pages.com^
 ||formulacountess.com^
 ||fortudios-wriefs.com^
@@ -18054,6 +18180,7 @@
 ||fr-gmtdmp.mookie1.com^
 ||fractionfridgejudiciary.com^
 ||frameboxxindore.com^
+||fran.frvr.com^
 ||francetobaccotrading.com^
 ||fraudclatterflying.com^
 ||frd-dws-piwik.mehrkanal.com^
@@ -18269,6 +18396,7 @@
 ||hb.brainlyads.com^
 ||hb.digbearings.com^
 ||hb.openwebmp.com^
+||hb.trustedstack.com^
 ||hb.vntsm.com^
 ||hclips-tn1.gfkey.com^
 ||hd100546c.com^
@@ -18549,6 +18677,7 @@
 ||kapotlyka.com^
 ||katie.trktnc.com^
 ||kayakm.comm^
+||kelpmetorealiuk.com^
 ||kerumal.com^
 ||kesimon.com^
 ||ketchupscreech.com^
@@ -18846,6 +18975,7 @@
 ||motorweb.co^
 ||mparticle.weather.com^
 ||mpct1.maropost.com^
+||mpd.mxptint.net^
 ||mps.nbcuni.com^
 ||mpsnare.iesnare.com^
 ||mptgate.com^
@@ -18940,6 +19070,7 @@
 ||ns-dnstest.spyoff.com^
 ||nstarvardsus.com^
 ||ntlysearchin.com^
+||ntqtvdlnzhkoc.com^
 ||ntvpevnts.com^
 ||ntvpforever.com^
 ||ntvpinp.com^
@@ -19028,6 +19159,7 @@
 ||orientaldumbest.com^
 ||originatecrane.com^
 ||orionis.techradar.com^
+||orkwithcatukhy.com^
 ||ortjkobdw.com^
 ||osiextantly.com^
 ||oskar.themuse.com^
@@ -19315,7 +19447,6 @@
 ||pto.ptawe.com^
 ||ptoushoa.com^
 ||pttn.m3pd.com^
-||pub.admanmedia.com^
 ||public.profitwell.com^
 ||public.servenobid.com^
 ||publicconfirm.com^
@@ -19476,6 +19607,7 @@
 ||rtb.adpone.com^
 ||rtb.adstanding.com^
 ||rtb.bid.com^
+||rtb.om-meta.com^
 ||rtb.us4post.com^
 ||rtbbnr.com^
 ||rtbrenab.com^
@@ -19733,6 +19865,7 @@
 ||ssl2anyone3.com^
 ||ssp-nj.webtradehub.com^
 ||ssp-nj1.webtradehub.com^
+||ssp.api.tappx.com^
 ||ssp.bidvol.com^
 ||ssp.imedia.cz^
 ||ssp.playbuzz.com^
@@ -19795,7 +19928,6 @@
 ||static1.jsmstatic.com^
 ||static2.creative-serving.com^
 ||static2.sharepointonline.com^
-||staticd.cdn.adblade.com^
 ||staticd.cdn.industrybrains.com^
 ||staticimg.youtuuee.com^
 ||staticw2.yotpo.com^
@@ -20331,7 +20463,6 @@
 ||vibranthaven.com^
 ||victorefughi.members.hbafunnelbuilder.com^
 ||vid-adblocker.com^
-||vid.vidoomy.com^
 ||video-library-mirror-8.showheroes.com^
 ||video-library.showheroes.com^
 ||video.dmzjmp.com^
@@ -20400,9 +20531,9 @@
 ||web-sdk.control.kochava.com^
 ||web-sdk.urbanairship.com^
 ||web-writer.eu.smartlook.cloud^
-||web.adblade.com^
 ||web.webpushs.com^
 ||webanalyst.guru^
+||webcomes.com^
 ||webcontentassessor.com^
 ||webedia-de-cdn.relevant-digital.com^
 ||webresource.tripcdn.com^
@@ -20415,6 +20546,7 @@
 ||webstats.tnaflix.com^
 ||wedgeenclosed.com^
 ||weedlio.com^
+||wegjfleiohb.com^
 ||weimar-powder.com^
 ||wekomix.com^
 ||welcome.unibet.ee^
@@ -20447,6 +20579,7 @@
 ||widget.tiledesk.com^
 ||widget6.linkwithin.com^
 ||widgets.ad.style^
+||widgets.iiris.com^
 ||widgets.skyprivate.com^
 ||widgets.sprinklecontent.com^
 ||widow5blackfr.com^
@@ -20590,6 +20723,7 @@
 ||www.imcounting.com^
 ||www.imglnkd.com^
 ||www.imglnke.com^
+||www.into-led.com^
 ||www.iolo.com^
 ||www.jetzt-dabei-sein.com^
 ||www.jkfdnofnz.com^
@@ -20848,6 +20982,7 @@
 ||z9v5j9a5.stackpathcdn.com^
 ||zaf.services.zam.com^
 ||zaglushkaaa.com^
+||zb.rafikfangas.com^
 ||zdravselhoz.com^
 ||zdstatic.toolbox.com^
 ||zenbusiness-dataplane.rudderstack.com^
