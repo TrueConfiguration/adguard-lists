@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-01-01T09:00:19.402Z
+! Last modified: 2025-01-03T09:00:19.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9906,6 +9906,7 @@
 ||1l-view.mail.ru^
 ||676528u53u82k.tke-tambov.ru^
 ||acales.ru^
+||acint.net^
 ||ad.mail.ru^
 ||advmanager.techfun.pl^
 ||adx.pladform.ru^
@@ -9920,6 +9921,7 @@
 ||c-prolink2.mf.cz^
 ||campsplus.ru^
 ||catsnetwork.ru^
+||cdn.adfinity.pro^
 ||cdn.afp.ai^
 ||cdn.directadvert.ru^
 ||cdn.videonow.ru^
@@ -10093,6 +10095,13 @@
 ||static.upravel.com^
 ||sync.upravel.com^
 ||video.upravel.com^
+# VK.com
+||632221.ms.vk.com^
+||652221.ms.vk.com^
+||ads.vk.com^
+||akashi.vk-portal.net^
+||stacks.vk-portal.net^
+||st6-22.vk.com^
 # Yadro
 ||counter.yadro.ru^
 ||amc.yandex.ru^
@@ -10795,6 +10804,8 @@
 ||www.assoc-amazon.de^
 # 13.33.132.216
 # Amazon Adsystem
+||aan.amazon.co.jp^
+||atv-ps-fe.amazon.co.jp^
 ||aan.amazon.de^
 ||aax-dtb-cf.amazon-adsystem.com^
 ||aax-eu-retail-direct.amazon-adsystem.com^
@@ -10851,6 +10862,7 @@
 ||33xchange-1576862511.us-east-1.elb.amazonaws.com^
 ||3tt0xhv5u7.execute-api.us-east-1.amazonaws.com^
 ||7waf-649347558.us-east-1.elb.amazonaws.com^
+||982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com^
 ||9dbd256a-default-ih-dd4d-36901406.eu-central-1.elb.amazonaws.com^
 ||9dbd256a-default-trx-2d0e-496170222.eu-central-1.elb.amazonaws.com^
 ||9e2xkh9f1e.execute-api.ap-northeast-1.amazonaws.com^
@@ -10920,9 +10932,11 @@
 ||elb-optchk-asg-euw1-1156411587.eu-west-1.elb.amazonaws.com^
 ||elb01-2039628332.us-west-2.elb.amazonaws.com^
 ||esev2.s3.amazonaws.com^
+||fb788ee3e13c37e386c4fc5c50068dbd4f2d37ac192335d0d1dfd07cb52635b.us-east-1.prod.service.minerva.devices.a2z.com^
 ||fc-euc1-00-pics-bkt-00.s3.amazonaws.com^
 ||firehose.us-west-2.amazonaws.com^
 ||firewall-external-2134955858.eu-west-1.elb.amazonaws.com^
+||global.telemetry.insights.video.a2z.com^
 ||gtrk.s3.amazonaws.com^
 ||hjszhb9uk3.execute-api.eu-west-1.amazonaws.com^
 ||infra-events-pipelineproduction-1520650058.useast-1.elb.amazonaws.com^
@@ -11002,13 +11016,13 @@
 ||ywgysqpm3f.execute-api.us-east-1.amazonaws.com^
 ||zeta-ssp-385516103.us-east-1.elb.amazonaws.com^
 ||zvszrckxik.execute-api.eu-central-1.amazonaws.com^
-# Amazon-Adsystem und Drittanbietertracking und Metrics
+# Amazon-Adsystem, Drittanbietertracking und Metrics
 # 52.94.222.127
 ||ams-ads-cornerstone-creatives.s3.amazonaws.com^
 ||ams-ads-cornerstone-creatives-eu.s3.amazonaws.com^
 ||ams-ads-cornerstone-pda-creatives-eu.s3.amazonaws.com^
 ||ams-ads-cornerstone-pda-creatives-fe.s3.amazonaws.com^
-# Sponsored Product Event Tracking
+# Sponsored Product Event Tracking & Service Metrics
 # 52.94.223.32
 ||unagi-eu.amazon.com^
 ||unagi-fe.amazon.com^
@@ -11023,6 +11037,7 @@
 ||a265fc0c8c626759d130aff5f4a082c8e.profile.phl50.cloudfront.net^
 ||a2bd8c814f3ee979227ce562342ae1ddd.profile.syd62-p2.cloudfront.net^
 ||a3495b80f0cfcca791f408c5a4841e1e6.profile.vpop1.cloudfront.net^
+||a3e25b3c2a3b0d7e30f8f7ecc7f8bdf39.profile.kul51-p1.cloudfront.net^
 ||a3fce50b0e5cfc79568cfbc6149145dd2.profile.fra56-c2.cloudfront.net^
 ||a4b26c2621b0f117befbb032173f509a4.profile.hyd50-c1.cloudfront.net^
 ||a4c0a0d6cd3e2465be5f99871d2d62258.profile.tpe52-c1.cloudfront.net^
@@ -11035,11 +11050,15 @@
 ||a7a04ff9eca35d2ba0a3a863b0e0fa924.profile.icn50.cloudfront.net^
 ||a7a49ac39cda3c33bfbd74eb7ed19a396.profile.kul50.cloudfront.net^
 ||a8090ff55a607aa5ebac401823d28574f.profile.ewr52-c4.cloudfront.net^
+||a84d9c2fc85b169aa3a412816f713b74b.profile.kix50-p2.cloudfront.net^
 ||a85680581f84039ad850835e6a06514c9.profile.sin2-p2.cloudfront.net^
 ||a892faacf49cfa1031d51f98f05f9c5e7.profile.icn55-c1.cloudfront.net^
 ||a93a005a53a47bedd93469537563f7700.profile.atl-m.cloudfront.net^
+||a9ac7553cf1a6620263e723e579e61400.profile.atl56-c1.cloudfront.net^
+||a9da2bfc3d79980c53300fd900ee3795f.profile.atl56-c1.cloudfront.net^
 ||ab238a5d5992d086fe5f1a4a782b11a69.profile.lax50-c1.cloudfront.net^
 ||ab253c68fab9dd4e26553beb8d9d4dbcb.profile.nrt12-c1.cloudfront.net^
+||ab5f0383f9b778297b84e5294e8affaba.profile.mia3-p8.cloudfront.net^
 ||ab725fc205b1310af3b907f8fdaa129d3.profile.ord52-c1.cloudfront.net^
 ||ab8dc511023d9ebf4c850dcd0c69e01a0.profile.ord51-c4.cloudfront.net^
 ||ac0c2a27568a9659a36bb956f9ce55cbb.profile.syd1-c1.cloudfront.net^
@@ -13265,6 +13284,7 @@
 ||targeting.vdo.ai^
 ||track.vdo.ai^
 ||vetted.ai^
+||xeno.media-lab.ai^
 # APP
 ||actions-api-pro-esvehatdmq-ew.a.run.app^
 ||bt-log.dfast.app^
@@ -15315,7 +15335,6 @@
 ||srv4j.net^
 ||ssl2.perquisite.net^
 ||ssr.streamrail.net^
-||stacks.vk-portal.net^
 ||static.newsinform.net^
 ||static.pushub.net^
 ||static.trackedweb.net^
@@ -15392,7 +15411,6 @@
 ||woafoame.net^
 ||ww1.adultantenna.net^
 ||www.962.net^
-||www.acint.net^
 ||www.addonsearch.net^
 ||www.adsupplyads.net^
 ||www.angloinfo.net^
@@ -16698,7 +16716,6 @@
 ||8proof.com^
 ||8pulse.com^
 ||97ad8a430e.3841f4b0c4.com^
-||982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com^
 ||9b5396665f.ca3223d702.com^
 ||9dfa4e4005.2279691fe2.com^
 ||9fbd2fab-8f74-42d4-bd13-5bcb3c2a4bd9.snippet.antillephone.com^
@@ -17128,6 +17145,7 @@
 ||audigent.com^
 ||aukalerim.com^
 ||auth.netdnstrace1.com^
+||auto17insurance.blogspot.com^
 ||autocomplete.geocoder.ls.hereapi.com^
 ||automate-frontend.linksynergy.com^
 ||automationeventually.com^
@@ -17356,6 +17374,7 @@
 ||carsstar.co^
 ||casedrop.com^
 ||cassettepreceding.com^
+||cat2.hbwrapper.com^
 ||catsunrunjam.com^
 ||cavbildi.com^
 ||cawbarthe.com^
@@ -18239,6 +18258,7 @@
 ||genieedmp.com^
 ||genistawabbler.com^
 ||geniusonclick.com^
+||geo.ads.audio.thisisdax.com^
 ||geoapi.indiatimes.com^
 ||geocoding.internetbrands.com^
 ||geogenyveered.com^
@@ -18419,6 +18439,7 @@
 ||hexagon-analytics.com^
 ||heycryptic.com^
 ||hfllrf6lwh.com^
+||hfnuqljjnt.com^
 ||hfziq.voluumtrk.com^
 ||hg-bn.com^
 ||hgbn1.com^
@@ -19151,6 +19172,7 @@
 ||optimise.net^
 ||optimise2.assets-servd.host^
 ||optyruntchan.com^
+||oqbaxgolrabl.com^
 ||oqs.omeda.com^
 ||orderana5289.spankbang.com^
 ||oreflushvehemence.com^
@@ -19454,6 +19476,7 @@
 ||publishers.clickadilla.com^
 ||pubmatic.bbvms.com^
 ||pubtrky.com^
+||puhyjyf.com^
 ||pulpsbarndomed.com^
 ||pumpkinneighbourpoet.com^
 ||punctuationbelow.com^
@@ -19548,6 +19571,8 @@
 ||repayrotten.com^
 ||repeatresolve.com^
 ||replaceexplanationevasion.com^
+||report-uri.highwebmedia.com^
+||report-uri.mmcdn.com^
 ||reportsnail.com^
 ||reposemarshknot.com^
 ||representativeskipcloudy.com^
@@ -19865,6 +19890,7 @@
 ||ssl2anyone3.com^
 ||ssp-nj.webtradehub.com^
 ||ssp-nj1.webtradehub.com^
+||ssp.al-adtech.com^
 ||ssp.api.tappx.com^
 ||ssp.bidvol.com^
 ||ssp.imedia.cz^
@@ -19878,7 +19904,6 @@
 ||st.fullcircleinsights.com^
 ||st.static-srv.com^
 ||st.tubecorporate.com^
-||st6-22.vk.com^
 ||staffdisgustedducked.com^
 ||staggeredravehospitality.com^
 ||staggersuggestedupbrining.com^
@@ -20854,6 +20879,7 @@
 ||www.vietnamairlines.com^
 ||www.viralmediatrends.com^
 ||www.vsmokhklbw.com^
+||www.vuohztiwpwqd.com^
 ||www.web-adnote.com^
 ||www.webbuildernews.com^
 ||www.wemod.com^
