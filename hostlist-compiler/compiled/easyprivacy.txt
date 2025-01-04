@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2024-12-31T09:00:16.163Z
+! Last modified: 2025-01-04T09:00:16.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,12 +12,11 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30DEC24 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 03JAN25 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
-||000scripps.hb.omtrdc.net^
 ||00px.net^
 ||07b3.pandasuite.io^
 ||0ddf.pandasuite.io^
@@ -8478,6 +8477,7 @@
 ||collect.iteam-dress.com^
 ||collect.klove.com^
 ||collect.meilleurtaux.com^
+||collector-1.ex.co^
 ||collector2c.zhihuishu.com^
 ||collector5.zipy.ai^
 ||collector-api.99designs.com^
@@ -14416,6 +14416,7 @@
 ||i-dev.villa.ge^
 ||idg1.idgarages.com^
 ||idgptg.esm-computer.de^
+||idhtm.bb.com.br^
 ||idianw.warmteservice.nl^
 ||idlqzb.puntoscolombia.com^
 ||idm.api.autohome.com.cn^
@@ -24302,7 +24303,6 @@
 ||pzimff.com^
 ||pzxhyp.aeropostale.com^
 ||q0losid.com^
-||q20jqurls0y7gk8.info^
 ||q4l5gz6lqog6.www.eventus.io^
 ||q777.sfchronicle.com^
 ||q88.actonservice.com^
