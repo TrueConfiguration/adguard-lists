@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-01-05T09:00:19.438Z
+! Last modified: 2025-01-09T09:00:19.819Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -462,6 +462,7 @@
 ||webcompanion.com^
 ||errortracking.deepl.com^
 ||experimentation.deepl.com^
+||gtm.deepl.com^
 ||loft12103.serverprofi24.de^
 ||r1---sn-5hnedn7s.gvt1.com^
 ||redirector.gvt1.com^
@@ -1784,6 +1785,7 @@
 ||scripps.demdex.net^
 ||sears.demdex.net^
 ||shaw.demdex.net^
+||skydeutschland.demdex.net^
 ||sonet.demdex.net^
 ||sonysonpo.demdex.net^
 ||swa.demdex.net^
@@ -4651,6 +4653,7 @@
 ||g94cw1mpcsopvagnim7zsff1jtnsh1623315320.uaid.nmrodam.com^
 ||i39qzqmvudlyv5meps0yx7oxmfhsj1616475850.nuid.nmrodam.com^
 ||ibzi9odxylbf35kxmra49zlhvecdv1623326376.uaid.nmrodam.com^
+||l7x2drpgrvyx7gsqi1dmdhqwjgztx1736350843.nuid.nmrodam.com^
 ||lrj4lntts7eo2usvn2hh7ml3ldjz61623311240.uaid.nmrodam.com^
 ||m2o0tewwapwckjmawk305wmt51nws1623398123.uaid.nmrodam.com^
 ||m87cz5z6o00rtja01emxrnhjuzgdo1623311490.uaid.nmrodam.com^
@@ -7127,11 +7130,6 @@
 ||positions.upscore.com^
 # Useinsider.com
 ||api.useinsider.com^
-# Usercentrics.eu
-# 35.190.14.188
-# 34.120.28.121
-# 34.95.108.180
-||aggregator.service.usercentrics.eu^
 ||analytics.usercentrics.com^
 ||app.eu.usercentrics.eu^
 ||config.eu.usercentrics.eu^
@@ -8078,7 +8076,6 @@
 ||screencapture.kampyle.com^
 # Erwin Müller de & com
 ||app.usercentrics.eu^
-||api.usercentrics.eu^
 ||aa.erwinmueller.com^
 ||matomo.erwinmueller.com^
 ||a.erwinmueller.com^
@@ -8287,6 +8284,13 @@
 ||contilla-cdn.s3-eu-west-1.amazonaws.com^
 # Japan-feinkost.de
 ||piwik.japan-feinkost.de^
+# Joyn.de
+||ab-testing.prd.data.s.joyn.de^
+||dec-svc.abs-prd.s.joyn.de^
+||event-collector.prd.data.s.joyn.de^
+||infinity-c34.youboranqs01.com^
+||infinity-c38.youboranqs01.com^
+||swankyrule.zomap.de^
 # Kaufda
 # Ausführliche Metadatenerfassung bei Seitenbesuch. Geodaten, Besuchszeit, Erstbesuche, Suchergebnisse, Browserinfos etc. Dafür gibt's Werbung umsonst
 # Länderbezogene Werbung über Google Ads und Maps... Such/Metadaten werden hier natürlich weitergegeben
@@ -9061,6 +9065,7 @@
 ||an.cmertv.com^
 ||ana2.tatsumi-sys.jp^
 ||analytics.cocolog-nifty.com^
+||analytics.tver.jp^
 ||analyze.pro.research-artisan.com^
 ||anymind360.com^
 ||api-rank-shikiho.toyokeizai.net^
@@ -9166,6 +9171,7 @@
 ||log.maniadb.com^
 ||log.melon.com^
 ||log.nordot.jp^
+||log12.interactive-circle.jp^
 ||logend.cookpad.com^
 ||mbadw.nan.co.jp^
 ||mediaweaver.jp^
@@ -9194,6 +9200,7 @@
 ||s3a.pstatp.com^
 ||salle-de-fortune.com^
 ||sankei2ad.durasite.net^
+||sdk.interactive-circle.jp^
 ||send-guile.sonicmoov.com^
 ||sgs-api.interactive-circle.jp^
 ||site.gnavi.co.jp^
@@ -9735,11 +9742,13 @@
 ||universe.send.microad.jp^
 # Nakanohito.jp
 ||nakanohito.jp^
-# Naver.com
 ||analytics.dict.naver.com^
 ||cc.naver.com^
 ||lcs.naver.com^
 ||nam.veta.naver.com^
+||nlog.naver.com^
+||proxy.blog.naver.com^
+||scv-blog.io.naver.com^
 ||tivan.naver.com^
 ||wcs.naver.net^
 # Nbp-corp.com
@@ -11404,6 +11413,7 @@
 ||dn0qt3r0xannq.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dnhfi5nn2dt67.cloudfront.net^
+||dof9zd9l290mz.cloudfront.net^
 ||dph3kccpbigca.cloudfront.net^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dr3fr5q4g2ul9.cloudfront.net^
@@ -13393,6 +13403,9 @@
 ||onakasulback.autos^
 ||opertyvaluat.autos^
 ||yresumeform.autos^
+# BABY
+||chargeit.baby^
+||roots.baby^
 # BE
 ||gw.geoedge.be^
 # BI
@@ -13554,6 +13567,7 @@
 ||orientaldaily.on.cc^
 ||tagbucket.cc^
 ||useragent.cc^
+||vmring.cc^
 ||www.lokicasino.cc^
 # CENTER
 ||track.mp4.center^
@@ -14255,6 +14269,7 @@
 ||synccompletelyquickproduct.icu^
 ||tracrauma-notional.icu^
 ||www.03347b0e2c1321feb76e79ad81003e51.icu^
+||xdgeslibgbim.icu^
 ||xzillla.icu^
 # IN
 ||2ntrfi.jakervokild.co.in^
@@ -14513,6 +14528,7 @@
 ||collector.sophi.io^
 ||cookiesync.api.bliink.io^
 ||core-api.bringhub.io^
+||creative-adchoices.advertise.qcinternal.io^
 ||dafloor.tidelinedata.io^
 ||data.beop.io^
 ||data.deep-content.io^
@@ -14959,6 +14975,7 @@
 ||9.express-news.me^
 ||90531bbba.dl8.me^
 ||api.grow.me^
+||app.staticmoly.me^
 ||asg.aphex.me^
 ||cimg.blacklist.me^
 ||coin.onelink.me^
@@ -15230,6 +15247,7 @@
 ||gredraus.net^
 ||groajirtooh.net^
 ||grunoaph.net^
+||gutockeewhargo.net^
 ||gwiq-v3.globalwebindex.net^
 ||gwiq.globalwebindex.net^
 ||gwiqcdn.globalwebindex.net^
@@ -15279,6 +15297,7 @@
 ||logws1330.ati-host.net^
 ||louchees.net^
 ||mailbc.hanbiro.net^
+||massiveanalyticssys.net^
 ||matomo.ripe.net^
 ||matomo.steamcardexchange.net^
 ||mauchopt.net^
@@ -15667,6 +15686,7 @@
 ||tellihandlesexwr.org^
 ||tempuri.org^
 ||the-ethereum.bit-system.org^
+||timaariraconiansta.org^
 ||top.nydus.org^
 ||utilapi.geeksforgeeks.org^
 ||video-box.org^
@@ -15715,6 +15735,7 @@
 ||flustered-contest.pro^
 ||gamebooster.pro^
 ||gomain2.pro^
+||gummy-bonus.pro^
 ||halleyperson.pro^
 ||hegtiterbuttons.pro^
 ||herreperolsof.pro^
@@ -15767,6 +15788,7 @@
 ||wasshoneaningar.pro^
 ||whamukoji.pro^
 ||wilwasharrabred.pro^
+||www.awfulmorning.pro^
 ||www.boringoccasion.pro^
 ||www.classicguarantee.pro^
 ||www.negative-speed.pro^
@@ -15896,6 +15918,7 @@
 ||ncecafvdeu.shop^
 ||nl.almagrabalkish.shop^
 ||sparredcubans.shop^
+||swamperhyphens.shop^
 ||xu.olympuscracowe.shop^
 # SITE
 ||1337x.onlyvpn.site^
@@ -16701,6 +16724,43 @@
 # Newsletter
 # 52.10.102.247
 ||spgo.io^
+# Unsortiertes Zeug
+# Erklärt sich von selbst. Sammelsorium, alles von Tracking, Miner, Scam, Spyware-Installern, Umleitungen, Werbung usw.
+# Ip/s blockieren:
+# 172.20.15.255
+# 212.71.236.117
+# 40.113.136.100
+# 37.157.2.236
+# 23.53.165.124
+# 37.157.6.252
+# 46.166.137.71
+# 35.188.59.75
+# 66.225.197.197
+# 52.216.131.187
+# 104.74.74.55
+# 207.158.22.134
+# 13.33.131.69
+# 80.239.254.201
+# 23.50.56.123
+# 224.0.0.251
+||rochestertrend.com^
+||uqqmj868.xyz^
+||epededonemile.com^
+||gekeebsirs.com^
+||c83de17caf.a8e8c59504.com^
+||222f2632ff.3535d0471e.com^
+||e3b36d8f06.69de27b955.com^
+||et.vizierspavan.com^
+||cgxctfqmhvc.com^
+||shakingtacklingunpeeled.com^
+||nucjcavicpun.com^
+||rs.prioraslop.com^
+||tegleebs.com^
+||camp.purchase-shop.com^
+||railingperformance.com^
+||1002820.metrics.convertexperiments.com^
+||adosfgcfajqvfi.com^
+||logs.convertexperiments.com^
 ||0be9f5cb61.32ae2295ab.com^
 ||0cf861243d0446f2b4ecfba565358a71.js.ubembed.com^
 ||0i0i0i0.com^
