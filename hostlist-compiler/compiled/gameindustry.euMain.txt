@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-01-09T09:00:19.819Z
+! Last modified: 2025-01-16T09:00:19.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1350,7 +1350,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-||unity-ai-dp-prd.cdp.internal.unity3d.com^
 ||cdp.cloud.unity3d.com^
 ||40.113.111.34.bc.googleusercontent.com^
 ||168.172.107.34.bc.googleusercontent.com^
@@ -11829,6 +11828,7 @@
 ||waw20prdapp02-canary.netmon.azure.com^
 ||waw21prdapp01-canary.netmon.azure.com^
 ||waw21prdapp02-canary.netmon.azure.com^
+# www.bing.com - Recording and posting of users machineid, deviceid, manufacturerID, client session, optin status, touch device status, safe search status, timezone, guid, ageclass, mainboard data, country and much more with additional Trackingcookie to Microsoft by using the start menu
 ||yq1prdapp01-canary.netmon.azure.com^
 ||yq1prdapp02-canary.netmon.azure.com^
 ||yt1prdapp02-canary.netmon.azure.com^
@@ -22343,6 +22343,13 @@
 # Bogemic Games
 # Flying Pengy
 ||battle.bogemic.com^
+# Treasuredata Endpoints
+||ec2-3-93-156-208.compute-1.amazonaws.com^
+||ec2-34-203-55-59.compute-1.amazonaws.com^
+||ec2-34-204-29-220.compute-1.amazonaws.com^
+||ec2-44-214-250-118.compute-1.amazonaws.com^
+||ec2-52-20-2-226.compute-1.amazonaws.com^
+||ec2-54-208-157-65.compute-1.amazonaws.com^
 # Arma Tactics
 ||collect5588rmtct.deltadna.net^
 # Boogygames Studios
@@ -23699,7 +23706,6 @@
 # Facebook Anbindung
 ||farabel.com^
 ||www.frogames.com^
-# 208.64.200.105
 # Frogwares
 # Magrunner: Dark Pulse
 # s. Eintrag Steam: IP Checks
@@ -26711,6 +26717,7 @@
 # 35.186.194.186
 # 34.111.113.40
 # 35.190.88.234
+||unity-ai-dp-prd.cdp.internal.unity3d.com^
 # Veraltet / Obsolete
 # Ip/s blockieren:
 # 35.227.244.186
