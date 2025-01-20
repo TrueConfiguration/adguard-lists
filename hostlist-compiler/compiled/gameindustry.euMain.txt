@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-01-16T09:00:19.999Z
+! Last modified: 2025-01-20T09:00:20.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -63,9 +63,10 @@
 ||stats.adlice.com^
 ||23ynjitwt5.adobe.io^
 ||2ftem87osk.adobe.io^
+||8eptecerpq.adobestats.io^
+||8ncdzpmmrg.adobe.io^
 ||95yojg6epq.adobestats.io^
 ||9rcgbke6qx.adobestats.io^
-||8ncdzpmmrg.adobe.io^
 ||a652.dscb.akamai.net^
 ||accounts.adobe.com^
 ||acroipm2.adobe.com^
@@ -99,6 +100,7 @@
 ||d3d51sjda1sdc4.cloudfront.net^
 ||dlmping2.adobe.com^
 ||download.macromedia.com^
+||dr49lng3n1n2s.cloudfront.net^
 ||dump.cr.adobe.com^
 ||ets-prd1-ue1-coll-elb-122061436.us-east-1.elb.amazonaws.com^
 ||ets-prd2-uw1-coll-elb-2013165758.us-west-2.elb.amazonaws.com^
@@ -130,6 +132,7 @@
 ||log.cr.adobe.com^
 ||na0e-acc.services.adobe.com^
 ||na1r.services.adobe.com^
+||nttk31y0q.mw1i8.adobestats.io^
 ||oobe.adobe.com^
 ||p13n.adobe.io^
 ||performance.typekit.net^
@@ -153,6 +156,7 @@
 ||w3ffpxhbn6.adobestats.io^
 ||workflow.licenses.adobe.com^
 ||www.adobe.com^
+||xa8g202i4u.adobestats.io^
 # Adobe Acrobat Reader DC
 # 95.101.174.33
 # 107.22.247.231
@@ -7531,6 +7535,7 @@
 ||battle-cup.com^
 ||bitskins.com^
 ||bolocase.com^
+||buff163.gifts^
 ||cloudcsgo.com^
 ||communuityprofile.com^
 ||counterluck.com^
@@ -7651,6 +7656,8 @@
 ||steamanalyst.com^
 ||steamcommnuiety.com^
 ||steamconmunmilty.com^
+||steampowered.eldenring-nightreign-invite.com^
+||steampowered.playtestgameinvited.com^
 ||steamwalletgifts.com^
 ||steanmcomnmunlty.com^
 ||stonefire.io^
@@ -11565,6 +11572,8 @@
 ||bn7prdapp01-canary.netmon.azure.com^
 ||bn8prdapp02-canary.netmon.azure.com^
 ||bn9prdapp01-canary-opaph.netmon.azure.com^
+||bx-ring-fallback.msedge^
+||bx-ring.msedge.net^
 ||by1prdapp02-canary.netmon.azure.com^
 ||by4prdapp01-canary.netmon.azure.com^
 ||bz6prdapp01-canary.netmon.azure.com^
@@ -11627,6 +11636,7 @@
 ||eafd-dod-384ea1aa-6aab-4841-a754-35b60cef4ac8.azureedge.us^
 ||eafddirect.msedge.net^
 ||elasticafd-footprint-0d855e84-e893-47bd-84fd-b5568a836b09.azureedge.us^
+||ev2-ring.msedge.net^
 ||exo-ring-fallback.msedge.net^
 ||exo-ring.msedge.net^
 ||fp-afd-nocache-ccp.azureedge.net^
@@ -11730,6 +11740,7 @@
 ||osl22prdapp01-canary-opaph.netmon.azure.com^
 ||osl22prdapp02-canary-opaph.netmon.azure.com^
 ||ow1.res.office365.com^
+||p-ring.msedge.net^
 ||par20prdapp01-canary.netmon.azure.com^
 ||par20prdapp02-canary.netmon.azure.com^
 ||par21prdapp01-canary.netmon.azure.com^
@@ -12060,6 +12071,7 @@
 ||secure.aadcdn.microsoftonline-p.com^
 ||config.teams.microsoft.com^
 # Noch mehr Telemetrie
+||js.monitor.azure.com^
 ||oca.microsoft.com^
 ||v10c.events.data.microsoft.com^
 ||v10.vortex-win.data.microsoft.com^
@@ -15911,10 +15923,12 @@
 ||sw.wpu.sh^
 # SHOP
 ||athyimmesa.shop^
+||blearspellaea.shop^
 ||chef-essentials.shop^
 ||dentofinauk.shop^
 ||dvw22rk.c2dat.shop^
 ||jumpsite.shop^
+||jurantsepinine.shop^
 ||ncecafvdeu.shop^
 ||nl.almagrabalkish.shop^
 ||sparredcubans.shop^
@@ -16073,6 +16087,7 @@
 ||dahgarq.top^
 ||damsez02.top^
 ||dgnjrysxl.top^
+||dianilinfant.top^
 ||dvxrxm-cxo.top^
 ||epocttuajqtswu.top^
 ||ewakyc72.top^
@@ -16122,6 +16137,7 @@
 ||refpaucqkl.top^
 ||refpazaaig.top^
 ||regulationprivilegescan.top^
+||rivagesguam.top^
 ||s.1ts17.top^
 ||s.1ts18.top^
 ||seespiracul.top^
@@ -16134,6 +16150,7 @@
 ||tjbuxltdsg.top^
 ||tnnhhhqmhijqd.top^
 ||ttskfhepsoma.top^
+||tz.uiguriczante.top^
 ||ueaggress.top^
 ||uosxberyg.top^
 ||vrkl.vymybkyamvzky.top^
@@ -16724,43 +16741,6 @@
 # Newsletter
 # 52.10.102.247
 ||spgo.io^
-# Unsortiertes Zeug
-# Erklärt sich von selbst. Sammelsorium, alles von Tracking, Miner, Scam, Spyware-Installern, Umleitungen, Werbung usw.
-# Ip/s blockieren:
-# 172.20.15.255
-# 212.71.236.117
-# 40.113.136.100
-# 37.157.2.236
-# 23.53.165.124
-# 37.157.6.252
-# 46.166.137.71
-# 35.188.59.75
-# 66.225.197.197
-# 52.216.131.187
-# 104.74.74.55
-# 207.158.22.134
-# 13.33.131.69
-# 80.239.254.201
-# 23.50.56.123
-# 224.0.0.251
-||rochestertrend.com^
-||uqqmj868.xyz^
-||epededonemile.com^
-||gekeebsirs.com^
-||c83de17caf.a8e8c59504.com^
-||222f2632ff.3535d0471e.com^
-||e3b36d8f06.69de27b955.com^
-||et.vizierspavan.com^
-||cgxctfqmhvc.com^
-||shakingtacklingunpeeled.com^
-||nucjcavicpun.com^
-||rs.prioraslop.com^
-||tegleebs.com^
-||camp.purchase-shop.com^
-||railingperformance.com^
-||1002820.metrics.convertexperiments.com^
-||adosfgcfajqvfi.com^
-||logs.convertexperiments.com^
 ||0be9f5cb61.32ae2295ab.com^
 ||0cf861243d0446f2b4ecfba565358a71.js.ubembed.com^
 ||0i0i0i0.com^
@@ -16768,6 +16748,7 @@
 ||1.cqyj3ii7r.com^
 ||10-81.s.cdn15.com^
 ||1002.men^
+||1002820.metrics.convertexperiments.com^
 ||100tb.sothink.com^
 ||10739-3.s.cdn15.com^
 ||1086.hostedprebid.com^
@@ -16792,6 +16773,7 @@
 ||1xbetbk7.com^
 ||1xbetbk8.com^
 ||1xbetbk9.com^
+||222f2632ff.3535d0471e.com^
 ||23427cb58c.2e59c3b290.com^
 ||263ce1e63f.a6947f0e54.com^
 ||26eaafe34dec47878ba763c3b1daf6d5-77ee068b6863.cdn.forter.com^
@@ -16976,6 +16958,7 @@
 ||adminpromotion.com^
 ||adnetwrk.com^
 ||adoptimadigital.com^
+||adosfgcfajqvfi.com^
 ||adotsolution.com^
 ||adpolsbix.com^
 ||adrenalpop.com^
@@ -17497,6 +17480,7 @@
 ||c2shb.pubgw.yahoo.com^
 ||c43a3cd8f99413891.com^
 ||c5.patreon.com^
+||c83de17caf.a8e8c59504.com^
 ||c8468c7e4fa35572f4dfd8a23ce2f267.adjns.com^
 ||cab-too-low.com^
 ||cache-api.ranker.com^
@@ -17507,6 +17491,7 @@
 ||calimantana.com^
 ||calm-cabbage-a9umxyb6jlwq9ypiv5av5m12.herokudns.com^
 ||camose.com^
+||camp.purchase-shop.com^
 ||campaign.bet3000.com^
 ||camterest.com^
 ||candyprotected.com^
@@ -17679,6 +17664,7 @@
 ||cfgrcr1.com^
 ||cfjump.ergoflex.com.au^
 ||cftn.pornhits.com^
+||cgxctfqmhvc.com^
 ||ch-gmtdmp.mookie1.com^
 ||chanelets-aurning.com^
 ||chapsartore.com^
@@ -18084,6 +18070,7 @@
 ||e1.static.hoptopboy.com^
 ||e2ertt.com^
 ||e335udnv6drg78b7.com^
+||e3b36d8f06.69de27b955.com^
 ||e7393e33565ce805.com^
 ||eanddescri.com^
 ||earandmarketing.com^
@@ -18160,6 +18147,7 @@
 ||envoy-hl.envoy-csync1.core-b8mf.ov1o.com^
 ||eo244l.cloudatacdn.com^
 ||epb.hextom.com^
+||epededonemile.com^
 ||epeex.com^
 ||epicguide.com^
 ||epiv.cardlytics.com^
@@ -18177,12 +18165,14 @@
 ||ervantasrelaterc.com^
 ||erxdq.com^
 ||es.dislovebroody.com^
+||escooterzone.com^
 ||esmentbrads.com^
 ||esp-m.aptrinsic.com^
 ||esp.aptrinsic.com^
 ||esp.rtbhouse.com^
 ||esvfhfqx.com^
 ||et.twyn.com^
+||et.vizierspavan.com^
 ||ethicalpastime.com^
 ||ethnicacknowledgedbeneficial.com^
 ||ethprofitminer.com^
@@ -18408,6 +18398,7 @@
 ||gedspecificano.com^
 ||geekestoot.com^
 ||gejute.com^
+||gekeebsirs.com^
 ||generic-2.lb.lm5v.com^
 ||genieedmp.com^
 ||genistawabbler.com^
@@ -18819,7 +18810,6 @@
 ||js.getlasso.co^
 ||js.mbidinp.com^
 ||js.mbidpp.com^
-||js.monitor.azure.com^
 ||js.natsdk.com^
 ||js.sddan.com^
 ||js.taplytics.com^
@@ -18959,6 +18949,7 @@
 ||log.prezi.com^
 ||log2.r2games.com^
 ||logs-api.shoprunner.com^
+||logs.convertexperiments.com^
 ||lokicode.had.su^
 ||lologhfd.com^
 ||lon3vdr.sterlingdatarooms.com^
@@ -19246,6 +19237,7 @@
 ||nr.static.mmcdn.com^
 ||nr.tetrantreverer.com^
 ||nrs6ffl9w.com^
+||nrubunkuzawg.com^
 ||ns-dnstest.spyoff.com^
 ||nstarvardsus.com^
 ||ntlysearchin.com^
@@ -19254,6 +19246,7 @@
 ||ntvpforever.com^
 ||ntvpinp.com^
 ||ntvpwpush.com^
+||nucjcavicpun.com^
 ||numbgradualassertive.com^
 ||numbtoobly.com^
 ||nuqocpabj.com^
@@ -19695,6 +19688,7 @@
 ||rabbitent-static.casinomodule.com^
 ||rag3ca7t5amubr8eedffin.com^
 ||railcowboy.com^
+||railingperformance.com^
 ||railroadtomato.com^
 ||ramp.purch.com^
 ||randommaxtrix.com^
@@ -19774,6 +19768,7 @@
 ||rndsystems.com^
 ||roastoup.com^
 ||robovoiz.com^
+||rochestertrend.com^
 ||rock.defybrick.com^
 ||rollercoin.com^
 ||romeoforum.com^
@@ -19783,6 +19778,7 @@
 ||rotumal.com^
 ||rounddescribe.com^
 ||rp.gwallet.com^
+||rs.prioraslop.com^
 ||rsafrwd.com^
 ||rt.marphezis.com^
 ||rt.prnewswire.com^
@@ -19930,6 +19926,7 @@
 ||sgtm.pacificpavingstone.com^
 ||shadesentimentssquint.com^
 ||shakegoldfish.com^
+||shakingtacklingunpeeled.com^
 ||shareasale-analytics.com^
 ||shareitpp.com^
 ||sheltermilligrammillions.com^
@@ -20014,6 +20011,7 @@
 ||soocaips.com^
 ||soundelktemper.com^
 ||sourcepoint.kotaku.com^
+||spacecatholicpalmful.com^
 ||spamvariationswithin.com^
 ||spanuletubings.com^
 ||sparks.ipowow.com^
@@ -20022,6 +20020,7 @@
 ||special-alerts.com^
 ||specialistinsensitive.com^
 ||specialtymet.com^
+||specificallycries.com^
 ||specificallythesisballot.com^
 ||spiffymachine.com^
 ||spitspacecraftfraternity.com^
@@ -20291,6 +20290,7 @@
 ||tech.convergd.com^
 ||teddynineteenthpreoccupation.com^
 ||teeglimu.com^
+||tegleebs.com^
 ||telegramsit.com^
 ||telehouse.interactgo.com^
 ||telemetry.jivosite.com^
@@ -20571,6 +20571,7 @@
 ||unsuccessfulpensive.com^
 ||untappedwealth.com^
 ||untropiuson.com^
+||unusuallypilgrim.com^
 ||unwofulcountys.com^
 ||up.trkgenius.com^
 ||upcomingmonkeydolphin.com^
@@ -20587,6 +20588,7 @@
 ||uptimecdn.com^
 ||uptodatefinishconference.com^
 ||upx.provenpixel.com^
+||uqqmj868.xyz^
 ||urechar.com^
 ||url.giveaff.com^
 ||urlish.com^
@@ -20933,6 +20935,7 @@
 ||www.linkconnector.com^
 ||www.linkfame.com^
 ||www.linkhaitao.com^
+||www.liveplaygame.com^
 ||www.lokicasino.com^
 ||www.lufbogazixz.com^
 ||www.maplejuddy.com^
@@ -21122,6 +21125,7 @@
 ||xmlclick.flairadscpc.com^
 ||xmlclick.hueadsxml.com^
 ||xngqoc.com^
+||xnmcahltoqq.com^
 ||xoadxxnbwkapq.com^
 ||xpidixaqkos.com^
 ||xpwbgf.com^
@@ -21166,6 +21170,7 @@
 ||yrhnw7h63.com^
 ||yukongoldinfo.com^
 ||yummy.consumable.com^
+||yummyadvertiseexploded.com^
 ||yuzu-xci-games.5806z.com^
 ||ywronwasthetron.com^
 ||ywrqulbftw.com^
@@ -21406,12 +21411,8 @@
 ||ec2-52-58-211-18.eu-central-1.compute.amazonaws.com^
 # Steam: IP Checks
 # Info & IPv6: https://gameindustry.eu/katalog/valve-corporation/ipv6check/
-||ipv6check-http.steamcontent.com^
-||ipv6check-udp.steamcontent.com^
 ||ipv6check-udp.steamserver.net^
 ||ipv6check-http.steamserver.net^
-||http.ipv6check.akadns.net^
-||udp.ipv6check.akadns.net^
 ||origin-ip-selector.steampipe.steamcontent.akadns.net^
 # Steam: Unkategorisiert
 # 2a02:26f0:105:0:0:0:216:16d3
@@ -21476,23 +21477,38 @@
 ||ec2-3-125-235-203.eu-central-1.compute.amazonaws.com^
 # 10tons Ltd
 # JYDGE
+# Invalid callback to http:///v2/d5a6eea103f2b8c83ea11d051b1e677f/init
+||api.gameanalytics.com^
+||ec2-100-29-84-172.compute-1.amazonaws.com^
+||ec2-18-209-253-14.compute-1.amazonaws.com^
+||ec2-23-20-246-32.compute-1.amazonaws.com^
+||ec2-3-213-169-74.compute-1.amazonaws.com^
+||ec2-3-213-173-117.compute-1.amazonaws.com^
+||ec2-34-192-184-46.compute-1.amazonaws.com^
+||ec2-34-224-211-251.compute-1.amazonaws.com^
+||ec2-34-233-79-20.compute-1.amazonaws.com^
+||ec2-34-234-157-6.compute-1.amazonaws.com^
+||ec2-44-219-106-168.compute-1.amazonaws.com^
+||ec2-52-2-191-29.compute-1.amazonaws.com^
+||ec2-52-23-82-100.compute-1.amazonaws.com^
+||ec2-52-4-74-59.compute-1.amazonaws.com^
+||ec2-52-6-79-121.compute-1.amazonaws.com^
+||ec2-54-147-117-252.compute-1.amazonaws.com^
+||ec2-54-221-216-107.compute-1.amazonaws.com^
+||ec2-98-85-192-210.compute-1.amazonaws.com^
+||ec2-52-72-190-184.compute-1.amazonaws.com^
+||ec2-52-5-111-243.compute-1.amazonaws.com^
+||ec2-34-234-45-65.compute-1.amazonaws.com^
+# Spellspire
+# 54.225.115.127
+||10tonsnews.the10tons.com^
+# Tesla Force
 # 208.64.200.105
 ||gds1.steampowered.com^
 ||gds2.steampowered.com^
 ||gds3.steampowered.com^
 ||gds4.steampowered.com^
 ||208-64-200-105.steampowered.com^
-# Ip/s blockieren:
-# 52.72.141.108
-# 54.164.66.28
-# 18.215.25.247
-||api.gameanalytics.com^
-||live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com^
-# Spellspire
-# 54.225.115.127
-||10tonsnews.the10tons.com^
-# Tesla Force
-# 208.64.200.105
 # 11 bit studios S.A.
 # Anomaly Warzone Earth
 ||11bitstudios.com^
@@ -21672,7 +21688,7 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# 505 Games
+# 505 Games S.p.A.
 # Abzû
 # s. Rubrik Kopierschutz / AntiCheat
 # Control Ultimate Edition
@@ -21682,18 +21698,19 @@
 ||collect14853cntrl.deltadna.net^
 ||balanced-collect.deltadna.net^
 ||148.113.96.34.bc.googleusercontent.com^
+||a23-207-210-133.deploy.static.akamaitechnologies.com^
+||a23-207-210-157.deploy.static.akamaitechnologies.com^
+# Empty DNS Response
+||collect16548ghstr.deltadna.net^
 ||pro-us-east-1-infra-211691592.us-east-1.elb.amazonaws.com^
 # Underworld Ascendant
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
 # 35.190.78.8
-# 505 Games und All In! Games
+# 505 Games S.p.A. und All In! Games
 # Ghostrunner
-# Ip/s blockieren:
-# 34.96.113.148
-# 2600:1901:0:15bb::
-||collect16548ghstr.deltadna.net^
+# Empty DNS Response
 # 8-Bit Studio
 # Skara - The Blade Remains
 # Accounterstellung
@@ -21737,12 +21754,6 @@
 # 34.111.113.40
 # 34.107.172.168
 ||be3a2ea70ea68d04665ee5db91a73443.cloudfront.net^
-# Momodora: Reverie Under the Moonlight
-# 208.64.200.105
-# Murasaki
-# Wohl ehemalige Patchnotes. Seite ist nicht mehr existent. Adressen bereits verschachtelt im Configmenü aufgerufen
-||members.jcom.home.ne.jp^
-||maintenance.zaq.ne.jp^
 # AGM Playism & Vaka Game Magazine
 # Touhou Luna Nights
 # Ip/s blockieren:
@@ -22028,10 +22039,6 @@
 # ATLUS USA
 # Rock of Ages II: Bigger & Boulder™
 ||aceteam.cl^
-||www.darkfuture.info^
-||darkfutureblog.disqus.com^
-||aurochdigital.us7.list-manage2.com^
-||twemoji.maxcdn.com^
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
@@ -22302,6 +22309,7 @@
 # Ip/s blockieren:
 # 52.72.141.108
 # 208.64.200.105
+||live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com^
 # Black Dog Publishing
 # Tales from the Void
 ||script.google.com^
@@ -22407,8 +22415,7 @@
 # 208.64.200.105
 # BTNcafe
 # Mold on Pizza
-# dauerhafte Onlineverbindung zwecks Statistiken bzw. Herkunftsland, Plattform, Grafikkarte/Hersteller, Angaben zu Levelabschnitten, Zeit, Schwierigkeitsgrad, Spracheinstellungen usw.
-# 208.64.200.105
+# Broadcast: 255.255.255.255
 ||mopdserver.btncafe.com^
 # Buddy Productions GmbH
 # Bud Spencer & Terence Hill - Slaps And Beans
@@ -22423,26 +22430,6 @@
 # Lightrise™
 ||api.kii.com^
 ||irc.gamesurge.net^
-# Bullid Games
-# Ninja Way
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# Burning Daylight Team
-# Burning Daylight
-# Ip/s blockieren:
-# 100.25.57.141
-# BURP! Games
-# Deep Ones
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# Butterscotch Senanigans
-# Crashlands
-# Amazonaws, Quantserve, Google, Google Analytics, GStatic, GoogleTagManager, Bandcamp, Imgix Anbindung
-# 208.64.200.105
-||id.bscotch.net^
-||www.crashlands.net^
 # Playfab Playload Playstream Telemetry
 # 20.42.151.188
 # 20.42.150.112
@@ -22463,7 +22450,6 @@
 ||d21s7hqn3pmzza.cloudfront.net^
 ||hjm.rebe.capcom.com^
 ||mtm.rebe.capcom.com^
-# 208.64.200.105
 # バイオハザード RE:2 | RESIDENT EVIL 2 / BIOHAZARD RE:2
 # s. Rubrik Kopierschutz / AntiCheat
 # RE NET
@@ -23344,18 +23330,7 @@
 ||ec2-34-211-24-172.us-west-2.compute.amazonaws.com^
 # Eek! Games, LLC
 # House Party
-# Ip/s blockieren:
-# 173.194.76.155
-# 35.165.253.172
-# 216.239.36.178
-# 208.64.71.50
-# 142.250.74.196
-# 172.217.18.10
-# 142.250.181.232
-# 208.64.71.50
-||games.eekllc.com^
-||housepartygame.com^
-||gsght.com^
+||7hyufttso6.execute-api.us-west-2.amazonaws.com^
 # Ip/s blockieren:
 # 54.144.219.36
 # 52.71.139.74
@@ -25255,6 +25230,12 @@
 # Positech Games
 # Big Pharma
 # 208.64.200.105
+# Democracy 4
+# Permanent data sharing of game status, ingame-decisions, settings and sessions
+||www.positech.co.uk^
+# Production Line : Car factory simulation
+# Unter der Hauptdomäne /productionline/server/check_update.php, post_mectrics.php und post_survey2.php sind Updatechecks, Analytics und die Umfrage zu finden
+# Ebenso existiert post_framerate.php die besagte weitergibt und die Analytics aktualisieren sich je nach Aktion von selbst
 # PotatoIndustries
 # RollingBall
 # Ip/s blockieren:
@@ -25264,10 +25245,6 @@
 # Ip/s blockieren:
 # 34.111.113.40
 # 34.107.172.168
-# Production Line : Car factory simulation
-# Unter der Hauptdomäne /productionline/server/check_update.php, post_mectrics.php und post_survey2.php sind Updatechecks, Analytics und die Umfrage zu finden
-# Ebenso existiert post_framerate.php die besagte weitergibt und die Analytics aktualisieren sich je nach Aktion von selbst
-||www.positech.co.uk^
 # PQube Limited
 # Gal✰Gun 2
 # Ip/s blockieren:
@@ -26480,6 +26457,7 @@
 # Sundered
 # GoogleApi, Google, Recaptcha
 ||thunderlotusgames.us9.list-manage1.com^
+||twemoji.maxcdn.com^
 ||eepurl.com^
 # Thunderful Publishing
 # HELLFRONT: HONEYMOON
