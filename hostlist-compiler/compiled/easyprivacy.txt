@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-01-23T09:00:16.919Z
+! Last modified: 2025-01-25T09:00:16.342Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24JAN25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8314,6 +8314,7 @@
 ||cdnhst.xyz^
 ||cdn.net.dz.jumia.com^
 ||cdn.net.elogia.net^
+||cdn.polarbyte.com^
 ||cdnral.com^
 ||cdn.ravm.tv^
 ||cdn-rum.ngenix.net^
@@ -35092,6 +35093,7 @@
 ||t.cofcsports.com^
 ||t.collinscenterforthearts.com^
 ||t.cometlytrack.com^
+||t.commandbar.com^
 ||t.comms.thetimes.co.uk^
 ||t.cozone.com^
 ||t.csurams.com^
