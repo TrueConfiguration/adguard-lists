@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-01-29T09:00:57.118Z
+! Last modified: 2025-01-31T09:00:51.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10964,15 +10964,6 @@
 ||imhd.io^
 ||adds.geoedge.be^
 ||adm.geoedge.be^
-||magiclinks.trackonomics.net^
-||www.trackonomics.net^
-||brandcycle.trackonomics.net^
-||cdn-magiclinks.trackonomics.net^
-||fr-actions.trackonomics.net^
-||reebokstore.trackonomics.net^
-||site.trackonomics.net^
-||tm.trackonomics.net^
-||uberconnect.trackonomics.net^
 ||inspector.pico.tools^
 ||triggertrap.reamaze.com^
 ||interests.reamaze.com^
@@ -12083,3 +12074,16 @@
 ||socialannex.com^
 ||measure.sanity.io^
 ||heap.io^
+||click.mail.thaliahallchicago.com^
+||email.t.ticketweb.com^
+||optimonk.com^
+||trackonomics.net^
+||amp.permutive.app^
+||analytics-staging.pixels.ai^
+||analytics-dev.pixels.ai^
+||pixels-js-dev.pixels.ai^
+||pixels-js-horizontal-dev.pixels.ai^
+||analytics.pixels.ai^
+||video-intel.pixels.ai^
+||video-intel-dev.pixels.ai^
+||blockchain.pixels.ai^
