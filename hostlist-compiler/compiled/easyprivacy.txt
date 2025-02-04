@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-02-01T09:00:16.387Z
+! Last modified: 2025-02-04T09:00:16.260Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 31JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 03FEB25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -14840,6 +14840,7 @@
 ||gvmomuqjv1.swyftx.com^
 ||gvxnff.soulara.com.au^
 ||gw-analytics.panasonic.com^
+||gw.conversionsapigateway.com^
 ||gw-dv.vip^
 ||gwguyh.edreams.es^
 ||g.whatsapp.net.iberostar.com^
@@ -19110,6 +19111,7 @@
 ||log.targetpush.co.kr^
 ||log.tossinvest.com^
 ||log.ttbc-hcm.gov.vn^
+||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||log.webnovel.com^
 ||log.worldsoft-cms.info^
@@ -35492,6 +35494,7 @@
 ||thraka.openapp.link^
 ||threechurch.com^
 ||threetruck.com^
+||thrillasoft.com^
 ||thrive.metagenics.com^
 ||throattrees.com^
 ||thsnvv.hollywoodschaukel-paradies.de^

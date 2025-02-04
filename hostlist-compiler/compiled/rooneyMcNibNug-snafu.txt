@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-01-31T09:00:51.648Z
+! Last modified: 2025-02-04T09:00:50.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -282,12 +282,6 @@
 ||1179.xg4ken.com^
 ||sspinc.io^
 ||analytics.unity3d.com^
-||cdn.unityads.unity3d.com^
-||webview.unityads.unity3d.com^
-||admediator.unityads.unity3d.com^
-||ads-brand-postback.unityads.unity3d.com^
-||adserver.unityads.unity3d.com^
-||tracking.adsx.unityads.unity3d.com^
 ||cdn.pushwoosh.com^
 ||api.pushwoosh.com^
 ||sport1.pushwoosh.com^
@@ -12087,3 +12081,8 @@
 ||video-intel.pixels.ai^
 ||video-intel-dev.pixels.ai^
 ||blockchain.pixels.ai^
+||o.isx.unity3d.com^
+||unityads.unity3d.com^
+||moloco.com^
+||clicks.biltrewards.com^
+||tvspix.com^
