@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-01-22T09:00:21.348Z
+! Last modified: 2025-02-24T09:00:21.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -122,6 +122,7 @@
 ||ims-na1.adobelogin.com^
 ||ims-prod06.adobelogin.com^
 ||iy304996hm.adobestats.io^
+||l32ts1bba.mw1i8.adobestats.io^
 ||lcs-cops.adobe.io^
 ||lcs-robs.adobe.io^
 ||lcs.cops.adobe.io^
@@ -7654,13 +7655,16 @@
 ||staemcommunnuty.com^
 ||staemcomunnitly.com^
 ||steam.communiuityauth.com^
+||steam.workshop-assist.shop^
 ||steamacommunitry.com^
 ||steamacommunity.com^
 ||steamanalyst.com^
 ||steamcommnuiety.com^
+||steamcommunity.app2627887.com^
 ||steamconmunmilty.com^
 ||steampowered.app262919.com^
 ||steampowered.eldenring-nightreign-invite.com^
+||steamscommumnnity.com^
 ||steamwalletgifts.com^
 ||steanmcomnmunlty.com^
 ||stonefire.io^
@@ -11019,6 +11023,7 @@
 ||esev2.s3.amazonaws.com^
 ||fb788ee3e13c37e386c4fc5c50068dbd4f2d37ac192335d0d1dfd07cb52635b.us-east-1.prod.service.minerva.devices.a2z.com^
 ||fc-euc1-00-pics-bkt-00.s3.amazonaws.com^
+||fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com^
 ||firehose.us-west-2.amazonaws.com^
 ||firewall-external-2134955858.eu-west-1.elb.amazonaws.com^
 ||fixnlntptgvuwqeaqv7ij3bgoy0fyiho.lambda-url.us-east-1.on.aws^
@@ -11075,7 +11080,6 @@
 ||rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com^
 ||rxgh4jurki.execute-api.us-east-2.amazonaws.com^
 ||s3-w.eu-central-1.amazonaws.com^
-||s3.eu-central-1.amazonaws.com^
 ||saas-components-ecsloadbalancer-1709586717.eu-central-1.elb.amazonaws.com^
 ||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^
 ||sharedid-2070269664.us-east-1.elb.amazonaws.com^
@@ -11365,6 +11369,7 @@
 ||d3oy68whu51rnt.cloudfront.net^
 ||d3qz0rrtpnddkp.cloudfront.net^
 ||d3sai2k6w952qd.cloudfront.net^
+||d3sdfpysdncs72.cloudfront.net^
 ||d3t3z4teexdk2r.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||d3t87ooo0697p8.cloudfront.net^
@@ -11519,13 +11524,15 @@
 # 40.127.240.158
 ||settings-prod-neu-1.northeurope.cloudapp.azure.com^
 # NCSI - Callbacks Nettzwerkverbindungsanzeige
-||dns.msftncsi.com^
-||iana.org^
-||example.org^
-||ipv4only.arpa^
 ||client.wns.windows.com^
-||www.msftconnecttest.com^
+||dns.msftncsi.com^
+||example.org^
+||iana.org^
+||ipv4only.arpa^
 ||ipv6.msftconnecttest.com^
+||ipv6.msftncsi.com^
+||www.msftconnecttest.com^
+||www.msftncsi.com^
 # Communication App
 ||sn2.settings.data.microsoft.com.akadns.net^
 ||db5-ap.settings.data.microsoft.com.akadns.net^
@@ -12707,8 +12714,6 @@
 # 52.19.133.54
 # 52.48.45.48
 ||target.microsoft.com^
-# 13.107.246.10
-||wcpstatic.microsoft.com^
 # 204.79.197.200
 # 2620:1ec:c11::200
 # Cookie Einwilligung
@@ -13535,10 +13540,12 @@
 ||entualkenti.buzz^
 ||familysareascompany.buzz^
 ||gcouncer.buzz^
+||hpnkctxx.buzz^
 ||hzquq.ewoverth.buzz^
 ||ismscold.buzz^
 ||jilorunmy.buzz^
 ||lustgoddessthegame.buzz^
+||lvlhmjerf.buzz^
 ||mvmph.wukbgater.buzz^
 ||mworkh.buzz^
 ||ndbriolenproc.buzz^
@@ -13623,6 +13630,7 @@
 ||brfdkk45tf.click^
 ||ceveq.click^
 ||e346ab6c68.click^
+||financialforecast.click^
 ||live.ravelin.click^
 ||spadirect.click^
 ||z.cpng.click^
@@ -14149,6 +14157,9 @@
 ||little-flower-d8af.torrentfreak.workers.dev^
 ||performante.revcontent.dev^
 ||westats.dev^
+# DIGITAL
+||eu.messenger-notify.digital^
+||quadref.digital^
 # DK
 ||blinn.beredskabdanmark.dk^
 ||navas.yoga-aabenraa.dk^
@@ -14949,6 +14960,7 @@
 ||toiletpaper.life^
 ||video.chocobabe.live^
 ||web.spacethenear.live^
+||webdaily.live^
 ||websecured.live^
 ||wholebankcottonpress.live^
 ||wirebasicexcite-5.live^
@@ -15083,6 +15095,7 @@
 ||ads.avads.net^
 ||adsninjacdn.b-cdn.net^
 ||adswizz.podigee-cdn.net^
+||adv.clickadu.net^
 ||adventurefeeds.xml.ak-is2.net^
 ||advertisement.b-cdn.net^
 ||ai.trk42.net^
@@ -15348,6 +15361,7 @@
 ||ogffa.net^
 ||ogfna.net^
 ||onatsoas.net^
+||oomaugnaps.net^
 ||oomsoapt.net^
 ||openstat.net^
 ||ossmightyenar.net^
@@ -15443,6 +15457,7 @@
 ||soumehoo.net^
 ||spire.aarki.net^
 ||spoprod-a.akamaihd.net^
+||spuppeh.net^
 ||srv.carbonads.net^
 ||srv1.aaacompany.net^
 ||srv2.trafficgate.net^
@@ -15482,6 +15497,7 @@
 ||tr.migite.net^
 ||track.analitycs.net^
 ||track.cj.akadns.net^
+||track.eavefrom.net^
 ||tracker-shr.ortb.net^
 ||tracker.euroweb.net^
 ||tracking24.net^
@@ -15653,7 +15669,6 @@
 ||commercialvalue.org^
 ||csgo-pattern.lebanontourism.org^
 ||cyber-crime-fbi.org^
-||datatracker.ietf.org^
 ||eakelandorders.org^
 ||events.tubecup.org^
 ||fbifrauddepartment.org^
@@ -15801,6 +15816,7 @@
 ||vanderlisten.pro^
 ||washimmuchtitfa.pro^
 ||wasshoneaningar.pro^
+||weird-speed.pro^
 ||whamukoji.pro^
 ||wilwasharrabred.pro^
 ||www.awfulmorning.pro^
@@ -15808,6 +15824,7 @@
 ||www.classicguarantee.pro^
 ||www.negative-speed.pro^
 ||www.newcategory.pro^
+||www.pointlessplan.pro^
 ||www.productive-chemical.pro^
 ||www.quintessential-telephone.pro^
 ||www.reberr.pro^
@@ -15932,6 +15949,7 @@
 ||dvw22rk.c2dat.shop^
 ||jumpsite.shop^
 ||jurantsepinine.shop^
+||milta.shop^
 ||ncecafvdeu.shop^
 ||nl.almagrabalkish.shop^
 ||sparredcubans.shop^
@@ -16560,7 +16578,6 @@
 # Steganos Password Manager 18
 # Während der Installation inkl. Webseitenaufruf
 ||steganos.com^
-||b.delivery.consentmanager.net^
 # Consensu.org
 ||admiral.mgr.consensu.org^
 ||api.conversant.mgr.consensu.org^
@@ -17696,6 +17713,7 @@
 ||clarity-ingest-eus-c-sc.eastus.cloudapp.azure.com^
 ||clarity-ingest-eus2-sc.eastus2.cloudapp.azure.com^
 ||claspedtwelve.com^
+||classmatedischargedinnumerable.com^
 ||clckreceiver.com^
 ||cldloadz.com^
 ||cleanleadsonly.com^
@@ -18101,6 +18119,7 @@
 ||edge12-gru.live.mmcdn.com^
 ||edge2-alb.stream.highwebmedia.com^
 ||edgesecretion.com^
+||edgypollnormandy.com^
 ||edgystrangleconcentrate.com^
 ||ediatesuperviso.com^
 ||edioca.com^
@@ -18110,6 +18129,7 @@
 ||eevvhoawzybzpv.com^
 ||effaceecho.com^
 ||effectivelyreport.com^
+||efficientdescent.com^
 ||efreecode.com^
 ||egcc918s.com^
 ||eggs-content.kinkoid.com^
@@ -18158,6 +18178,7 @@
 ||epsilon.6sense.com^
 ||epsilon.com^
 ||epsupuby.com^
+||eptykginkhrnxx.com^
 ||eq.contrapeachen.com^
 ||eraltradiansid.com^
 ||ercoyintu.com^
@@ -18184,7 +18205,6 @@
 ||eu-central-1-widget.lift.acquia.com^
 ||eu-west-1-cs-rtb.openwebmp.com^
 ||eu-west-1-production-rtb-wins.digbearings.com^
-||eu.messenger-notify.digital^
 ||eu1.wbdds.com^
 ||eu2.madsone.com^
 ||eulnl.vornz.com^
@@ -18215,6 +18235,7 @@
 ||exityield.advertise.com^
 ||exoticads.com^
 ||experience.tinypass.com^
+||experttrafficcounter.com^
 ||experttrafficmonitor.com^
 ||exploitedteens.com^
 ||exportspring.com^
@@ -18577,6 +18598,7 @@
 ||hello.fuckbooksite.com^
 ||helltraffic.com^
 ||hemicalcov.com^
+||hengradualtroops.com^
 ||hentaifap.land^
 ||hentaiheroes.com^
 ||hentaiplaytime.com^
@@ -18648,6 +18670,7 @@
 ||icilytired.com^
 ||iclickcdn.com^
 ||ico.minently.com^
+||icon.dt.bmndx.com^
 ||icosiomewpgnmdn.com^
 ||icycorrection.com^
 ||id.a-mx.com^
@@ -18751,6 +18774,7 @@
 ||irblue.ml^
 ||irdetocsp.report-uri.com^
 ||iremukentsiw.com^
+||iringtgandmotiv.com^
 ||is.riverisland.com^
 ||isanalyze.com^
 ||isolatedovercomepasted.com^
@@ -18846,6 +18870,7 @@
 ||kapotlyka.com^
 ||katie.trktnc.com^
 ||kayakm.comm^
+||kdmyatytentionia.com^
 ||kelpmetorealiuk.com^
 ||kerumal.com^
 ||kesimon.com^
@@ -18933,6 +18958,7 @@
 ||liveintent.com^
 ||liveramp.com^
 ||livetracker.voa.pangea-cms.com^
+||ll8kx.bemobpath.com^
 ||llahnch259.com^
 ||lmbf88.hypertrackeraff.com^
 ||lmn-pou-win.com^
@@ -19258,6 +19284,7 @@
 ||nyadra.com^
 ||nytrng.com^
 ||o-2736.cloudtraff.com^
+||oabaubsutha.com^
 ||oazznjmbchmpdg.com^
 ||ob.cheqzone.com^
 ||obituaryfuneral.com^
@@ -19341,6 +19368,7 @@
 ||oskar.themuse.com^
 ||ossgogoaton.com^
 ||otnolatrnup.com^
+||otoadom.com^
 ||oulsools.com^
 ||oulukdltobepa.com^
 ||ourcommonnews.com^
@@ -19675,6 +19703,7 @@
 ||questioningexperimental.com^
 ||quick-speedtest.com^
 ||qvdt3feo.com^
+||qwcxilnoj.com^
 ||qzaoltruzfus.com^
 ||r.254a.com^
 ||r.cdnpure.com^
@@ -19698,6 +19727,7 @@
 ||rapi.walkme.com^
 ||rartobrk.com^
 ||rashbarnabas.com^
+||rd.tk.gaming-adult.com^
 ||rddywd.com^
 ||rdtrck2.com^
 ||re49vdpgg5.com^
@@ -19708,6 +19738,7 @@
 ||recastcompellease.com^
 ||receleges-illoffee.com^
 ||recentphenomenon.com^
+||recessionspeaksanybody.com^
 ||reclinepersuadedraven.com^
 ||recommendedchain.com^
 ||recommender.scarabresearch.com^
@@ -19735,6 +19766,7 @@
 ||requestingreview.com^
 ||requiresfamoushometown.com^
 ||resalag.com^
+||rescueaccredited.com^
 ||research-your-profit1.com^
 ||resistshy.com^
 ||resize.mantisadnetwork.com^
@@ -19853,6 +19885,7 @@
 ||sankakucomplex.com^
 ||santonpardal.com^
 ||santosattestation.com^
+||saptiledispatch.com^
 ||saptorge.com^
 ||sasinator.realestate.com.au^
 ||sasogkbirr.com^
@@ -20151,6 +20184,7 @@
 ||storage.mbidstorage.com^
 ||storage.multstorage.com^
 ||stovecharacterize.com^
+||stptrk.com^
 ||stray228.com^
 ||stream.playbuzz.com^
 ||stretchsquirrel.com^
@@ -20175,6 +20209,7 @@
 ||surrogatelithe.com^
 ||surroundingsliftingstubborn.com^
 ||survey.survicate.com^
+||sutean.com^
 ||svc-stats.linkury.com^
 ||svibeacon.onezapp.com^
 ||swallowcrockerybless.com^
@@ -20766,6 +20801,7 @@
 ||wholenicenews.com^
 ||wholesomehealthshop.com^
 ||wholewowblog.com^
+||whouseem.com^
 ||widget.cdn.vidyome.com^
 ||widget.engageya.com^
 ||widget.infeed.com.ar^
@@ -21242,9 +21278,6 @@
 # 18.66.112.34
 # 18.66.112.40
 ||geo.battle.net^
-# 142.250.185.142
-# 172.217.16.206
-||dl.google.com^
 # 24.105.29.76
 ||telemetry-in.battle.net^
 # 23.213.161.6
@@ -21345,11 +21378,9 @@
 ||cds.s3v6b9i5.hwcdn.net^
 ||d3.shared.global.fastly.net^
 ||sourcemaps.paradox-interactive.com^
-||prs-rgl-prod.ros.rockstargames.com^
-||ps-rgl-prod.ros.rockstargames.com^
-||tm-rgl-prod.ros.rockstargames.com^
-||rsgames.s.llnwi.net^
-||e8290.dscd.akamaiedge.net^
+||prod.cloud.rockstargames.com^
+||249.195.120.34.bc.googleusercontent.com^
+||fra16s65-in-f8.1e100.net^
 # Spyware, Werbung und Tracker
 # 15.236.176.210
 # 18.66.112.34
@@ -22070,6 +22101,7 @@
 ||genzero-cdn.avalanchestudios.com^
 ||oldtracking.avalanchestudios.com^
 ||westus.tts.speech.microsoft.com^
+||tts-ingress-prod-speech2-ame8-usw.westus.cloudapp.azure.com^
 # Ip/s blockieren:
 # 104.16.2.61
 # 104.16.1.61
@@ -22547,8 +22579,6 @@
 ||a1332.b.akamai.net^
 ||rs.gwallet.com^
 ||collect14010thrnb.deltadna.net^
-# Charles University und Czech Academy of Sciences
-# Attentat 1942
 # Charyb Games
 # Take Thy Throne
 # 45.77.107.56
@@ -23866,7 +23896,6 @@
 # RiME
 ||a23-216-77-18.deploy.static.akamaitechnologies.com^
 ||a23-216-77-30.deploy.static.akamaitechnologies.com^
-||249.195.120.34.bc.googleusercontent.com^
 # Grimm Bros, LLC
 # Dragon Fin Soup
 # Twitter, Youtube, Facebook, Googlevideo
@@ -25482,7 +25511,6 @@
 ||ec2-54-166-73-165.compute-1.amazonaws.com^
 ||ec2-18-213-40-51.compute-1.amazonaws.com^
 ||ec2-34-198-225-240.compute-1.amazonaws.com^
-||tv.rockstargames.com^
 ||a.rsg.sc^
 ||prod.telemetry.ros.rockstargames.com^
 ||prod-locator-cloud.rockstargames.com^
@@ -25963,11 +25991,6 @@
 ||ec2-18-210-235-32.compute-1.amazonaws.com^
 ||a2-16-107-73.deploy.static.akamaitechnologies.com^
 ||ec2-54-161-191-212.compute-1.amazonaws.com^
-# Sometimes You
-# Cranium Conundrum
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
 # Dear RED - Extended
 # 208.64.200.105
 # Hexoscope
@@ -26529,10 +26552,6 @@
 ||dungeondefenders.com^
 ||tiny.cc^
 ||duxsites-trendy-assets.s3.amazonaws.com^
-# Trese Brothers
-# Star Traders: Frontiers
-# 172.217.168.46
-||zrh04s14-in-f14.1e100.net^
 ||store.trionworlds.com^
 ||rss.trionworlds.com^
 ||ads.triongames.com^
@@ -26959,6 +26978,8 @@
 ||www.shadowofwar.com^
 ||kraken-api.wbagora.com^
 ||pixel.sitescout.com^
+# Magic 2014
+||dotp.onlinegaming.wizards.com^
 ||1362.api.swrve.com^
 ||media.wizards.com^
 # WOLCEN Studio

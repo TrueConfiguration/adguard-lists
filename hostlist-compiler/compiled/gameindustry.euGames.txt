@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-01-20T09:00:18.950Z
+! Last modified: 2025-02-24T09:00:19.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -17,9 +17,6 @@
 # 18.66.112.34
 # 18.66.112.40
 ||geo.battle.net^
-# 142.250.185.142
-# 172.217.16.206
-||dl.google.com^
 # 24.105.29.76
 ||telemetry-in.battle.net^
 # 23.213.161.6
@@ -156,11 +153,10 @@
 ||cds.s3v6b9i5.hwcdn.net^
 ||d3.shared.global.fastly.net^
 ||sourcemaps.paradox-interactive.com^
-||prs-rgl-prod.ros.rockstargames.com^
-||ps-rgl-prod.ros.rockstargames.com^
-||tm-rgl-prod.ros.rockstargames.com^
-||rsgames.s.llnwi.net^
-||e8290.dscd.akamaiedge.net^
+||csp.withgoogle.com^
+||prod.cloud.rockstargames.com^
+||249.195.120.34.bc.googleusercontent.com^
+||fra16s65-in-f8.1e100.net^
 # Spyware, Werbung und Tracker
 # 15.236.176.210
 # 18.66.112.34
@@ -906,6 +902,7 @@
 ||genzero-cdn.avalanchestudios.com^
 ||oldtracking.avalanchestudios.com^
 ||westus.tts.speech.microsoft.com^
+||tts-ingress-prod-speech2-ame8-usw.westus.cloudapp.azure.com^
 # Ip/s blockieren:
 # 104.16.2.61
 # 104.16.1.61
@@ -1393,8 +1390,6 @@
 ||a1332.b.akamai.net^
 ||rs.gwallet.com^
 ||collect14010thrnb.deltadna.net^
-# Charles University und Czech Academy of Sciences
-# Attentat 1942
 # Charyb Games
 # Take Thy Throne
 # 45.77.107.56
@@ -2757,7 +2752,6 @@
 # RiME
 ||a23-216-77-18.deploy.static.akamaitechnologies.com^
 ||a23-216-77-30.deploy.static.akamaitechnologies.com^
-||249.195.120.34.bc.googleusercontent.com^
 # Grimm Bros, LLC
 # Dragon Fin Soup
 # Twitter, Youtube, Facebook, Googlevideo
@@ -4449,7 +4443,6 @@
 ||ec2-54-166-73-165.compute-1.amazonaws.com^
 ||ec2-18-213-40-51.compute-1.amazonaws.com^
 ||ec2-34-198-225-240.compute-1.amazonaws.com^
-||tv.rockstargames.com^
 ||a.rsg.sc^
 ||prod.telemetry.ros.rockstargames.com^
 ||prod-locator-cloud.rockstargames.com^
@@ -4950,11 +4943,6 @@
 ||ec2-18-210-235-32.compute-1.amazonaws.com^
 ||a2-16-107-73.deploy.static.akamaitechnologies.com^
 ||ec2-54-161-191-212.compute-1.amazonaws.com^
-# Sometimes You
-# Cranium Conundrum
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
 # Dear RED - Extended
 # 208.64.200.105
 # Hexoscope
@@ -5538,10 +5526,6 @@
 ||dungeondefenders.com^
 ||tiny.cc^
 ||duxsites-trendy-assets.s3.amazonaws.com^
-# Trese Brothers
-# Star Traders: Frontiers
-# 172.217.168.46
-||zrh04s14-in-f14.1e100.net^
 ||store.trionworlds.com^
 ||rss.trionworlds.com^
 ||ads.triongames.com^
@@ -5992,6 +5976,8 @@
 ||s.thebrighttag.com^
 ||r.dlx.addthis.com^
 ||d.turn.com^
+# Magic 2014
+||dotp.onlinegaming.wizards.com^
 ||1362.api.swrve.com^
 ||media.wizards.com^
 # WOLCEN Studio
