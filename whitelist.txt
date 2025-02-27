@@ -37,6 +37,8 @@
 ! Extension updates and metadata
 @@|versioncheck.addons.mozilla.org^$important
 @@|services.addons.mozilla.org^$important
+! Mozilla Tracking Protection
+@@||tracking-protection.cdn.mozilla.net^$important
 
 ! Ads lists - The address for this lists will often contain the words 'ad' or 'tracker' which are blocked by regex rules
 ! CHN: anti-AD
@@ -232,9 +234,9 @@
 @@|reddit.map.fastly.net^$important
 @@|www.redditmedia.com^$important
 @@|reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
-! WhatsApp - So far none of my blacklists blocks it, so whitelisting is not necessary
-! @@wa.me^$important
-! @@www.wa.me^$important
+! WhatsApp
+@@|wa.me^$important
+@@|www.wa.me^$important
 ! Signal
 @@|ud-chat.signal.org^$important
 @@|chat.signal.org^$important
@@ -397,6 +399,7 @@
 @@|tracker.ccp.ovh^$important
 @@|tracker.gbitt.info^$important
 @@|tracker.piratepublic.com^$important
+@@||bmtmicro.com^$important
 
 ! Personal day to day whitelist
 ! Xbox App (Windows) thumbnails
@@ -496,3 +499,20 @@
 @@||.mc.tritondigital.com^$important
 @@||iheartmedia.mc.tritondigital.com^$important
 @@||mc.tritondigital.com^$important
+
+! Tenor GIFs
+@@||wa.tenor.co^$important
+@@||media.tenor.co^$important
+@@||media.tenor.com^$important
+
+! GameTouch Controller
+@@||gametouchcontroller.com^$important
+
+! Google Login/Maps/apps
+@@||identitytoolkit.googleapis.com^$important
+@@||streetviewpixels-pa.googleapis.com^$important
+@@||gz0.googleusercontent.com^$important
+
+! Grinding Zone
+@@||grinding.zone^$important
+@@||jnn-pa.googleapis.com^$important
