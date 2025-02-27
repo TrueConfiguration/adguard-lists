@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-02-22T09:00:50.045Z
+! Last modified: 2025-02-27T02:29:43.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12101,3 +12101,14 @@
 ||img.marketing.spyic.com^
 ||i.spyic.com^
 ||www.spyic.com^
+||analytics-azure.groupm.com^
+||analytics-aws.groupm.com^
+||analytics-preprod.groupm.com^
+||analytics-uat.groupm.com^
+||analytics.groupm.com^
+||smartdata-uat.groupm.com^
+||track2-mynamic.groupm.com^
+||deltatrack.groupm.com^
+||smartdata.wavemakerglobal.com^
+||smartdata-uat.wmglobal.com^
+||analytics.evehome.com^
