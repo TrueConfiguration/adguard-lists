@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-02-24T09:00:19.669Z
+! Last modified: 2025-03-05T09:00:17.557Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -153,10 +153,14 @@
 ||cds.s3v6b9i5.hwcdn.net^
 ||d3.shared.global.fastly.net^
 ||sourcemaps.paradox-interactive.com^
+||tm-rgl-prod.ros.rockstargames.com^
+||www.datadoghq-browser-agent.com^
 ||csp.withgoogle.com^
-||prod.cloud.rockstargames.com^
+||geolocation.onetrust.com^
+||privacyportal.onetrust.com^
 ||249.195.120.34.bc.googleusercontent.com^
-||fra16s65-in-f8.1e100.net^
+||fra16s51-in-f8.1e100.net^
+||server-13-32-1-191.vie50.r.cloudfront.net^
 # Spyware, Werbung und Tracker
 # 15.236.176.210
 # 18.66.112.34
@@ -2536,7 +2540,6 @@
 ||web.chtbl.com^
 ||alb.reddit.com^
 ||tr.snapchat.com^
-||www.datadoghq-browser-agent.com^
 ||sf19-scmcdn-va.ibytedtos.com^
 ||cdn.siftscience.com^
 ||analytics.twitter.com^
@@ -4445,6 +4448,8 @@
 ||ec2-34-198-225-240.compute-1.amazonaws.com^
 ||a.rsg.sc^
 ||prod.telemetry.ros.rockstargames.com^
+# Grand Theft Auto V Enhanced
+||tm-gta5-prod.ros.rockstargames.com^
 ||prod-locator-cloud.rockstargames.com^
 # Telemetrie & Spyware
 ||tm-rdr2-prod.ros.rockstargames.com^
