@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-02-28T09:00:50.106Z
+! Last modified: 2025-03-12T09:00:53.364Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12114,3 +12114,10 @@
 ||analytics.evehome.com^
 ||id.nbcnews.com^
 ||adfuel.api.cnn.io^
+||analytics.cert.frost.health.elsevier.com^
+||analytics.stage.frost.health.elsevier.com^
+||analytics.elsevier.com^
+||analytics.prod.frost.health.elsevier.com^
+||analytics.dev.frost.health.elsevier.com^
+||track.authorhub.elsevier.com^
+||click.notification.elsevier.com^
