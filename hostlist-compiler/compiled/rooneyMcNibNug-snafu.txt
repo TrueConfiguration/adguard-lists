@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-03-12T09:00:53.364Z
+! Last modified: 2025-03-13T09:00:51.191Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12121,3 +12121,19 @@
 ||analytics.dev.frost.health.elsevier.com^
 ||track.authorhub.elsevier.com^
 ||click.notification.elsevier.com^
+||api.socialnet.shadowdragon.io^
+||click.service.audiusa.com^
+||click.e.audiusa.com^
+||smetrics.mynextaudi.audiusa.com^
+||smetrics.audiusa.com^
+||analytics.audiusa.com^
+||activity.bigo.tv^
+||statistics.bigo.tv^
+||analyticsread.bio.link^
+||amanalytics.bio.link^
+||analytics.bio.link^
+||adverts-cdn.bitchute.com^
+||metrics.bitchute.com^
+||measure.bitchute.com^
+||tracking.bitchute.com^
+||analytics.clouthub.com^
