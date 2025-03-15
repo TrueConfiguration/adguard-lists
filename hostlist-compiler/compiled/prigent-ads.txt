@@ -3,7 +3,7 @@
 ! Description: Prigent-Ads, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2025-03-13T09:00:48.084Z
+! Last modified: 2025-03-15T09:00:53.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Ads.txt
 !
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 12MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 14MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0nlinemeds.com^
 ||1-2-money.com^
@@ -2709,7 +2709,6 @@
 ||link.digitaladvisor.dk^
 ||link.epicgames.com^
 ||link.freshmail.mx^
-||link.springer.com^
 ||link.swa.info^
 ||link.sylikes.com^
 ||link.wizzair.com^
