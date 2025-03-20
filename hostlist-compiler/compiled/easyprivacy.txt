@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-03-18T09:00:16.459Z
+! Last modified: 2025-03-20T09:00:16.070Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 19MAR25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4916,6 +4916,7 @@
 ||altn.actonservice.com^
 ||altopd.com^
 ||alumni.qualfon.com^
+||alwaysahorse.com^
 ||alwayscarebenefits.actonservice.com^
 ||alwayscare.starmountlife.com^
 ||am3s622gcd6m.tt.live^
@@ -7393,6 +7394,7 @@
 ||bestinfo.bluetrustloans.com^
 ||besucher.nona.de^
 ||beta-link.liilix.com^
+||betazebra.com^
 ||betrice.wantsext.me^
 ||betterhealthrewards.headuplabs.com^
 ||better.herculesrx.com^
@@ -7455,8 +7457,10 @@
 ||bijkep.hotelesestelar.com^
 ||bikepaws.com^
 ||bikesboard.com^
+||bikinginspire.com^
 ||bilahh.feuvert.fr^
 ||bilder11.markt.de^
+||bilingualgeek.com^
 ||billowybead.com^
 ||billowybelief.com^
 ||bi.medscape.com^
@@ -7530,11 +7534,13 @@
 ||blinks.mindoktor.se^
 ||blinks.outcomes4me.com^
 ||blinkstest.mindoktor.se^
+||blisscalendar.com^
 ||blissfulcrescendo.com^
 ||blissfullagoon.com^
 ||blitz-analytics-batch-server.blitz.gg^
 ||blmjbp.casamundo.pl^
 ||blockchain.actonservice.com^
+||blockdial.com^
 ||blog.b2lead.com^
 ||blog.myomnipod.com^
 ||blog.tagcentral.fr^
@@ -7617,6 +7623,7 @@
 ||boilingbeetle.com^
 ||boilingcredit.com^
 ||boilingumbrella.com^
+||boldbars.com^
 ||bolingbrookgolfclub.actonservice.com^
 ||bolt-gcdn.sc-cdn.net.iberostar.com^
 ||bombrw.netshoes.com.br^
@@ -7990,6 +7997,7 @@
 ||bulkbookstore.actonservice.com^
 ||bulozc.tui.be^
 ||bum7.bymycar.fr^
+||bumpermash.com^
 ||bumpydevelopment.com^
 ||bunchance.com^
 ||buonasera.openapp.link^
@@ -8192,6 +8200,7 @@
 ||candid.zone^
 ||candy.sees.com^
 ||cannonchange.com^
+||canvasandsocks.com^
 ||caowuq.babyliss-romania.ro^
 ||capablecows.com^
 ||capablecup.com^
@@ -8255,6 +8264,7 @@
 ||ca.ssl.holdmybeerconsulting.com^
 ||castify-trk.playitviral.com^
 ||cast.net.anwalt.de^
+||casualphysics.com^
 ||catalogcake.com^
 ||catalogdiscovery.com^
 ||catalogs.printplace.com^
@@ -8335,6 +8345,7 @@
 ||ceciliavenus.com^
 ||ceggfe.msc-kreuzfahrten.de^
 ||celestialeuphony.com^
+||celestialquasar.com^
 ||celestialspectra.com^
 ||celigo.actonservice.com^
 ||cellstats.mako.co.il^
@@ -8415,6 +8426,7 @@
 ||chesscherry.com^
 ||chesscolor.com^
 ||chesscrowd.com^
+||chessquery.com^
 ||chevalierusa.actonservice.com^
 ||chewcoat.com^
 ||chgwwj.klimate.nl^
@@ -9049,6 +9061,7 @@
 ||configchain.com^
 ||configure.adlermode.com^
 ||confirm.aon.com^
+||confirmglobal.com^
 ||confirm.ptvgroup.com^
 ||conf.optum.com^
 ||confusedcart.com^
@@ -9207,11 +9220,13 @@
 ||consistpotato.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||console.uxlens.com^
+||consultantchow.com^
 ||consulting.guidehouse.com^
 ||consulting.icmi.com^
 ||consulting.mcgladrey.com^
 ||consumer.equifax.com^
 ||consumer.inform.equifax.com^
+||consumerknowhow.com^
 ||consumerzero.com^
 ||contact.abc-companies.com^
 ||contact.adaptavist.com^
@@ -9353,6 +9368,7 @@
 ||cookietracking.eatonpowersource.com^
 ||cookiex.ngd.yahoo.com^
 ||cooking-app.lkk.com^
+||coolestcatcare.com^
 ||coop.vmware.com^
 ||coordinatedbedroom.com^
 ||coordinatedcoat.com^
@@ -9392,6 +9408,7 @@
 ||cosme.caseepo.jp^
 ||cosmicsculptor.com^
 ||cosmosjackson.com^
+||costwinner.com^
 ||cotemaison.np6.com^
 ||counmg.greatvaluevacations.com^
 ||count5.pconline.com.cn^
@@ -10724,6 +10741,7 @@
 ||dependable-s.hyster.com^
 ||dependenttrip.com^
 ||dep.hmgroup.com^
+||deployinput.com^
 ||descargar.billeteramango.com^
 ||descargar.telocompro.com.bo^
 ||descarga.veikul.com^
@@ -10732,12 +10750,14 @@
 ||de.sharpmarketing.eu^
 ||design.informabi.com^
 ||design.nanawall.com^
+||designsgrid.com^
 ||desirebucket.com^
 ||desiredirt.com^
 ||deskdecision.com^
 ||desuscripcion.phg.palladiumhotelgroup.com^
 ||detailedglue.com^
 ||detailedgovernment.com^
+||detailedkitten.com^
 ||details.pella.com^
 ||detectdinner.com^
 ||detectdiscovery.com^
@@ -10898,6 +10918,7 @@
 ||digital.opsbase.com^
 ||digital.setpointis.com^
 ||digitalworkplace.ricoh.fr^
+||digithalo.com^
 ||dig.lianjia.com^
 ||dig.ultimedia.com^
 ||dii1.bitiba.be^
@@ -11375,6 +11396,7 @@
 ||dramaticdirection.com^
 ||drau.viessmann.si^
 ||drawservant.com^
+||dreamsdome.com^
 ||dreamycanyon.com^
 ||dressexpansion.com^
 ||drfdisvc.walmart.com^
@@ -11476,6 +11498,7 @@
 ||dx.thermo.com^
 ||dx.thermofisher.com^
 ||dy2xcjk8s1dbz.cloudfront.net^
+||dyecloud.com^
 ||dyghye.fashionesta.com^
 ||dynamic-content.croquetteland.com^
 ||dynamic.ziftsolutions.com^
@@ -11809,6 +11832,7 @@
 ||education.ricoh.fr^
 ||education.velocify.com^
 ||educontinua.javeriana.edu.co^
+||educrated.com^
 ||edu.quizdom.gr^
 ||eduynp.fcl-hid.com^
 ||ee93.pandasuite.io^
@@ -11985,6 +12009,7 @@
 ||eloqua.ufm.edu^
 ||eloqua.undergraduateexam.in^
 ||eloqua.upstreamintel.com^
+||eloquenceeye.com^
 ||elq.accuity.com^
 ||elqact.gartner.com^
 ||elq.adaptris.com^
@@ -12887,6 +12912,7 @@
 ||events.kangan.edu.au^
 ||events.limango.com^
 ||events-logs.doctolib.com^
+||eventsmall.com^
 ||events.mapbox.com^
 ||events.marketingcube.com.au^
 ||events.matterport.com^
@@ -13126,6 +13152,7 @@
 ||fallaciousfifth.com^
 ||falsefeet.com^
 ||falseframe.com^
+||falsesight.com^
 ||familiarrod.com^
 ||familydoctor-app.hotdoc.com.au^
 ||familypractice-app.hotdoc.com.au^
@@ -13302,8 +13329,10 @@
 ||firstpartycookie.istockphoto.com^
 ||firsttexture.com^
 ||firurx.invia.hu^
+||fishersfinds.com^
 ||fishing.daigostudio.com^
 ||fitmessage.com^
+||fitnessmapper.com^
 ||fivesidedsquare.com^
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
@@ -13388,6 +13417,7 @@
 ||fokbrd.impo.ch^
 ||followborder.com^
 ||foodbrochure.advancedtech.com^
+||foodfunfestivals.com^
 ||food.informaengage.com^
 ||foodpackaging.kpfilms.com^
 ||food.pentonmarketingsvcs.com^
@@ -13590,6 +13620,7 @@
 ||fretfulfurniture.com^
 ||fr-go.experian.com^
 ||fridaymarketing.actonservice.com^
+||friedone.com^
 ||friendlycrayon.com^
 ||friendlyfold.com^
 ||friends.hyll.com^
@@ -13667,6 +13698,7 @@
 ||furnstudio.com^
 ||furryfork.com^
 ||furryhorses.com^
+||fusedcontent.com^
 ||fuse.forbes.com^
 ||fusion.bonniertidskrifter.se^
 ||fusiontechnology.arrow.com^
@@ -13816,6 +13848,7 @@
 ||gecfnc.foresight.jp^
 ||gedozw.autoscout24.cz^
 ||geekactive.com^
+||geekbackyard.com^
 ||gefkkw.cyberport.de^
 ||gejzgq.gehaltsvergleich.com^
 ||generaleducation.graduateprogram.org^
@@ -14049,12 +14082,14 @@
 ||ghwkuv.lagirl.co.kr^
 ||gi7a.structube.com^
 ||gia.jd.com^
+||gianthypes.com^
 ||giantsvessel.com^
 ||gi-client-tracking.goodgamestudios.com^
 ||giddycoat.com^
 ||gif1.gifi.fr^
 ||giftedglue.com^
 ||giftplanning.westmont.edu^
+||gigkarma.com^
 ||g.ign.com^
 ||gi.inhaabit.com^
 ||ginmon.efscle.com^
@@ -14774,6 +14809,7 @@
 ||greyinstrument.com^
 ||grgnsht.nzxt.com^
 ||gr-go.experian.com^
+||gridbelow.com^
 ||gripcorn.com^
 ||grnext.crockpot-romania.ro^
 ||grn.openapp.link^
@@ -17504,6 +17540,7 @@
 ||jubbie.de^
 ||jubilantaura.com^
 ||jubilantcanyon.com^
+||jubilantcascade.com^
 ||jubilantglimmer.com^
 ||jubilanthush.com^
 ||jubilantlagoon.com^
@@ -23833,6 +23870,7 @@
 ||nova.dice.net^
 ||nova-healthcare.actonservice.com^
 ||novarecoverycenter.actonservice.com^
+||novaseekers.com^
 ||novedades.telecomfibercorp.com.ar^
 ||now.catersource.com^
 ||now.cummins.com^
@@ -25987,6 +26025,7 @@
 ||rac.ruutu.fi^
 ||radar.imgsmail.ru^
 ||radiantcanopy.com^
+||radiantlullaby.com^
 ||radiateprose.com^
 ||radiometer.actonservice.com^
 ||radio.moodybible.org^
@@ -28195,6 +28234,7 @@
 ||serenecascade.com^
 ||serenesurf.com^
 ||serenezenith.com^
+||serenezephyr.com^
 ||s.ergotherapieblog.de^
 ||serioussuit.com^
 ||serpentshampoo.com^
@@ -34542,6 +34582,7 @@
 ||swimfreely.com^
 ||swimslope.com^
 ||swingslip.com^
+||swirlstop.com^
 ||swissinside.easyjet.com.edgekey.net.easyjet.com^
 ||swmhdata.stuttgarter-nachrichten.de^
 ||swmhdata.stuttgarter-zeitung.de^
@@ -35162,6 +35203,7 @@
 ||teach.graduateprogram.org^
 ||te.ackermann.ch^
 ||teacupbooks.com^
+||tealjewel.com^
 ||te.ambria.de^
 ||teamhodges.hodgesualumniandfriends.com^
 ||teammate.arclogics.com^
@@ -39305,6 +39347,7 @@
 ||vhrbxb.vidaxl.nl^
 ||vi.adviso.ca^
 ||via.ssl.holdmybeerconsulting.com^
+||vibrantgale.com^
 ||vibranthaven.com^
 ||vibrantsundown.com^
 ||vibrantvale.com^
@@ -39388,6 +39431,8 @@
 ||viu.viubyhub.com^
 ||vivaciousveil.com^
 ||vividcortex.actonservice.com^
+||vividmeadow.com^
+||vividplume.com^
 ||vjjgpt.diamond.jp^
 ||vkanalytics.net^
 ||vkbvny.ddanzi.com^
