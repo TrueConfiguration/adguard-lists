@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-03-22T09:00:15.596Z
+! Last modified: 2025-03-25T09:00:17.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24MAR25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -10624,6 +10624,7 @@
 ||dd.control4.com^
 ||d.delahorro.app^
 ||d.deloitte.fr^
+||dd.g2.com^
 ||ddioce.wolverine.com^
 ||ddlbr.timesclub.co^
 ||ddlcvm.clas.style^
@@ -10651,6 +10652,7 @@
 ||decisivebase.com^
 ||decisivedrawer.com^
 ||decisiveducks.com^
+||decklibrary.com^
 ||de.contact.alphabet.com^
 ||decoroustitle.com^
 ||decoycreation.com^
@@ -11605,6 +11607,7 @@
 ||earnbaht.com^
 ||ea.roxy.eu^
 ||earthquakescarf.com^
+||earthups.com^
 ||earthycopy.com^
 ||earthyfarm.com^
 ||ea.sadyr.es^
@@ -17613,6 +17616,7 @@
 ||kampanja.bhtelecom.ba^
 ||kampanjat.atea.fi^
 ||kampanjer.yxvisa.no^
+||kape.dataplane.rudderstack.com^
 ||kaputquill.com^
 ||kartik.devishetty.com^
 ||kartik.devishetty.net^
@@ -17893,6 +17897,7 @@
 ||lasttaco.com^
 ||latam.thomsonreuters.com^
 ||l.audibook.si^
+||l.aufeminin.com^
 ||laughablecopper.com^
 ||laughcloth.com^
 ||laughdrum.com^
@@ -17901,15 +17906,19 @@
 ||launch.vypr.it^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
+||l.autojournal.fr^
+||l.autoplus.fr^
 ||law.bppeloqua.com^
 ||lawyers.rigbycooke.com.au^
 ||layeredinsight.actonservice.com^
 ||l.azarlive.com^
 ||lb.billing01.email-allstate.com^
 ||lbc.lesbonscommerces.fr^
+||l.beaute-test.com^
 ||lbgfqn.onward.co.jp^
 ||lbgrwm.zolta.pl^
 ||l.bhaibandhu.com^
+||l.bibamagazine.fr^
 ||l.bigbasket.com^
 ||l.biglion.ru^
 ||lb.marketing01.email-allstate.com^
@@ -17924,6 +17933,8 @@
 ||lciapi.ninthdecimal.com^
 ||l.civic.com^
 ||l.claphere.com^
+||l.closermag.fr^
+||l.cnetfrance.fr^
 ||l.coastapp.com^
 ||lcodff.uta-net.com^
 ||l.create.canva.com^
@@ -17940,15 +17951,18 @@
 ||ldgnrtn.com^
 ||ldgxsr.locasun-vp.fr^
 ||ldhteg.mooihorloge.nl^
+||l.diapasonmag.fr^
 ||ldinry.drinks.ch^
 ||l.dm.casio.info^
 ||ldnlyap.com^
+||l.doctissimo.fr^
 ||ldorlv.seiban.co.jp^
 ||ldqtdd.peing.net^
 ||l.du.coach^
 ||ldvalc.manzara.cz^
 ||ldv.midoplay.com^
 ||ldxpmz.people.com^
+||l.dzfoot.com^
 ||lead.blackrock.com^
 ||leadcertain.actonservice.com^
 ||leadership.zengerfolkman.com^
@@ -18016,6 +18030,7 @@
 ||lemonsandjoy.com^
 ||l.engage.canva.com^
 ||lenpmh.francoisesaget.com^
+||l.entrenous.fr^
 ||leo1.leon-de-bruxelles.fr^
 ||let1.devialet.com^
 ||lets-dev.irl.com^
@@ -18042,15 +18057,20 @@
 ||lfercl.tcb-beauty.net^
 ||lfmhcb.sefamerve.com^
 ||lfn.lfg.com^
+||l.football365.fr^
+||l.football.fr^
 ||lfpfpl.andar.co.kr^
+||l.francetvinfo.fr^
 ||lfuzec.bglen.net^
 ||lfxdqs.mamasandpapas.ae^
 ||lfyqsi.erborian.com^
+||l.gamekult.com^
 ||lgbdxo.azazie.com^
 ||l.getpyfl.com^
 ||lgm.averydennison.com^
 ||l.gocement.com^
 ||l.gpay.to^
+||l.grazia.fr^
 ||l.guesthug.com^
 ||lgylib.dg-home.ru^
 ||lgzkzp.bauhaus.at^
@@ -18996,6 +19016,10 @@
 ||lk.parisfoodies.fr^
 ||lkvkgk.levis.com.tr^
 ||lk.vrstories.com^
+||l.lacremedugaming.fr^
+||l.lechasseurfrancais.com^
+||l.lejournaldelamaison.fr^
+||l.lesnumeriques.com^
 ||l.lilyzhou.com^
 ||llkdiu.chacos.com^
 ||llntrack.messe-duesseldorf.de^
@@ -19005,8 +19029,11 @@
 ||lltrck.com^
 ||llwoyl.mirraw.com^
 ||l.lyfshort.com^
+||l.maison-travaux.fr^
 ||lma.npaw.com^
+||l.mariefrance.fr^
 ||lmavci.eloquii.com^
+||l.melty.fr^
 ||lmeniu.timberland.com.au^
 ||lmepbq.com^
 ||lmgenf.ludwigbeck.de^
@@ -19015,6 +19042,7 @@
 ||lmldvr.centauro.net^
 ||l.m.naver.com^
 ||lmnqof.littletoncoin.com^
+||l.modesettravaux.fr^
 ||lmorsb.highstreettv.com^
 ||lms.roblox.com^
 ||l.m.tradiecore.com.au^
@@ -19022,8 +19050,11 @@
 ||l.myvoleo.com^
 ||ln.ameba.jp^
 ||l.navx.co^
+||l.netmums.com^
 ||l.newnew.co^
+||l.nextplz.fr^
 ||l.nflo.at^
+||l.nicematin.com^
 ||lnjiwo.manzara.sk^
 ||lnk2.patpat.com^
 ||lnk.christmaslistapp.com^
@@ -19199,6 +19230,7 @@
 ||lp.americas.business.samsung.com^
 ||lp.antalis.com^
 ||lp.apac.business.samsung.com^
+||l.paroledemamans.com^
 ||lp.b2bmail.adobe.com^
 ||lp.befly.com.br^
 ||lpbhnv.nbcbayarea.com^
@@ -19298,6 +19330,7 @@
 ||lp.kumamoto4510.com^
 ||l.player.ooyala.com^
 ||lp.leadingauthorities.com^
+||l.pleinevie.fr^
 ||lp.marketing.engie-homeservices.fr^
 ||lp.mkt-email.samsungsds.com^
 ||lp.mnp.ca^
@@ -19319,6 +19352,7 @@
 ||lp.sophos.com^
 ||lp.strayer.edu^
 ||lp.svenskapostkodlotteriet.se^
+||l.psychologies.com^
 ||lptest.email-mobiledx.cjm.adobe.com^
 ||lp.tfd-corp.co.jp^
 ||lp.tix.lehigh.edu^
@@ -19355,12 +19389,15 @@
 ||lrp7.carrefour-banque.fr^
 ||lrpoland.wolterskluwer.com^
 ||lrslovakia.wolterskluwer.com^
+||l.science-et-vie.com^
 ||lsdm.co^
 ||l.sharethis.com^
 ||l.siply.in^
 ||lsixuz.agrifournitures.fr^
 ||lslynl.chiashake.cz^
 ||lspfuw.siwonschool.com^
+||l.sportauto.fr^
+||l.sports.fr^
 ||l.sqrrl.in^
 ||l.support.canva.com^
 ||l.supremapoker.net^
@@ -19372,6 +19409,7 @@
 ||ltdczq.myhome.nifty.com^
 ||l.t.domain.com.au^
 ||ltecrf.dhgate.com^
+||l.telestar.fr^
 ||l-test.civic.com^
 ||l-test.guesthug.com^
 ||lthbdc.become.co.jp^
@@ -19380,6 +19418,7 @@
 ||lthzhy.elv.com^
 ||ltm6.destinia.se^
 ||ltnico.fnac.com^
+||l.topsante.com^
 ||l.topya.com^
 ||ltqpej.vidaxl.ie^
 ||l.training-page.worldvision.ca^
@@ -19471,6 +19510,7 @@
 ||lyxfra.shopee.com.my^
 ||lyypsy.unisportstore.se^
 ||lzcwbt.schuhcenter.de^
+||l.zdnet.fr^
 ||lziqkx.countryoutfitter.com^
 ||lzrhay.farmaciasoccavo.it^
 ||lzrljv.tradera.com^
@@ -23293,6 +23333,7 @@
 ||mon.us.tiktokv.com^
 ||mon.zijieapi.com^
 ||moodlerooms.blackboard.com^
+||mooncrustpizza.com^
 ||moorshoes.com^
 ||morefriendly.com^
 ||more.groups.be^
@@ -25235,6 +25276,7 @@
 ||plausible.kabaret.no^
 ||plausible.kdojang.com^
 ||plausible.kundenportal.io^
+||plausible.k-words.io^
 ||plausible.lesbianromantic.com^
 ||plausible.logicboard.com^
 ||plausible.mattpruitt.com^
@@ -35937,6 +35979,7 @@
 ||toothbrushnote.com^
 ||toothpasterabbits.com^
 ||top3.inhaabit.com^
+||topcrazypress.com^
 ||top.elec.ru^
 ||top-fwz1.mail.ru^
 ||topichawaii.com^
