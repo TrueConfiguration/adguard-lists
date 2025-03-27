@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-03-05T09:00:19.429Z
+! Last modified: 2025-03-27T09:00:20.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2587,6 +2587,7 @@
 ||cdn.lib.getjad.io.cdn.cloudflare.net^
 ||cloudflareinsights.com^
 ||cookie.brealtime.com.cdn.cloudflare.net^
+||csp-reporting.cloudflare.com^
 ||delivery.adrecover.com.cdn.cloudflare.net^
 ||launchreliantcleaver.com^
 ||p.ad.gt.cdn.cloudflare.net^
@@ -7538,11 +7539,16 @@
 ||extend.tv^
 ||zypmedia.com^
 # CounterStrike CS:GO
-# Seiten die für Scam, Abzocke, Accountklau und Gambleseiten für den beliebten Shooter CS:GO und der Plattform Steam der Valve Corporation ausgelegt sind
+# Blockierte Domains mit Bezug zu Phishing, Glücksspiel und betrügerischen Aktivitäten im Umfeld der Steam-Plattform und Spiele wie Counter-Strike.
 ||battle-cup.com^
 ||bitskins.com^
 ||bolocase.com^
 ||buff163.gifts^
+||casenaps.com^
+||caseneiv.com^
+||caseners.com^
+||caseneus.cfd^
+||caserevs.com^
 ||cloudcsgo.com^
 ||communuityprofile.com^
 ||counterluck.com^
@@ -7634,8 +7640,10 @@
 ||egamingbets.com^
 ||egb.com^
 ||eqraffle.com^
+||esl.proseason22.com^
 ||ezskinz.org^
 ||good-gabe.com^
+||invite.playtest184192.com^
 ||item.exchange^
 ||itemgrad.com^
 ||keypacks.com^
@@ -7651,6 +7659,7 @@
 ||randomskinz.com^
 ||rankedxcs.com^
 ||rivalportal.com^
+||simplegive.cn^
 ||skinhell.com^
 ||skinomat.com^
 ||skinprofit.com^
@@ -7668,8 +7677,8 @@
 ||steamcommnuiety.com^
 ||steamcommunity.app2627887.com^
 ||steamconmunmilty.com^
-||steampowered.app262919.com^
 ||steampowered.app2627883.com^
+||steampowered.app262919.com^
 ||steampowered.app2704293.com^
 ||steampowered.app2704295.com^
 ||steampowered.eldenring-nightreign-invite.com^
@@ -11247,6 +11256,7 @@
 ||d1nmxiiewlx627.cloudfront.net^
 ||d1o6jc0ebh0dtu.cloudfront.net^
 ||d1p7gp5w97u7t7.cloudfront.net^
+||d1pdf4c3hchi80.cloudfront.net^
 ||d1pozdfelzfhyt.cloudfront.net^
 ||d1pvpz0cs1cjk8.cloudfront.net^
 ||d1q4x2p7t0gq14.cloudfront.net^
@@ -12452,6 +12462,16 @@
 ||api.edgeoffer.microsoft.com^
 ||edge-http.microsoft.com^
 ||deff.nelreports.net^
+# Windows 11 - Microsoft 365 Copilot App WebViewHost.exe, Microsoft Copilot CopilotNative.exe, Microsoft WebView2 msedgewebview2.exe
+# Ip/s blockieren:
+# 13.89.179.11
+# 51.116.246.106
+# 51.116.246.104
+# 20.42.73.25
+# 20.42.65.89
+# 51.104.15.253
+||copilot.microsoft.com^
+||studiostaticassetsprod.azureedge.net^
 ||a-0016.dc-msedge.net^
 ||a23-207-210-156.deploy.static.akamaitechnologies.com^
 # Windows 11 - Microsoft Edge Update | microsoftedgeupdate.exe
@@ -12470,6 +12490,8 @@
 ||iris-de-prod-azsc-v2-frc.francecentral.cloudapp.azure.com^
 ||iris-de-prod-azsc-v2-neu-b.northeurope.cloudapp.azure.com^
 ||ocws.officeapps.live.com^
+# Windows 11 - License Manager - svchost.exe
+# 135.236.136.109
 # Windows 11 - Runtime Broker - runtimebroker.exe
 # Ip/s blockieren:
 # 52.98.208.18
@@ -12543,12 +12565,14 @@
 ||scontent-arn2-1.cdninstagram.com^
 ||scontent-atl3-2.cdninstagram.com^
 ||scontent-dus1-1.cdninstagram.com^
+||scontent-fra5-2.cdninstagram.com^
 ||scontent-frt3-1.cdninstagram.com^
 ||scontent-frt3-2.cdninstagram.com^
 ||scontent-frx5-1.cdninstagram.com^
 ||scontent-frx5-2.cdninstagram.com^
 ||scontent-gru2-2.cdninstagram.com^
 ||scontent-hel3-1.cdninstagram.com^
+||scontent-iad3-2.cdninstagram.com^
 ||scontent-lax3-1.cdninstagram.com^
 ||scontent-lax3-2.cdninstagram.com^
 ||scontent-lcy1-1.cdninstagram.com^
@@ -14309,6 +14333,7 @@
 ||ad.netmedia.hu^
 ||daserver.ultraweb.hu^
 # ID
+||aeclt.my.id^
 ||ald.my.id^
 ||qstore.id^
 ||www.giftn.id^
@@ -15368,6 +15393,7 @@
 ||mesqwrte.net^
 ||messengerview.1talking.net^
 ||mitself.net^
+||mladedda.net^
 ||mnadshield-a.akamaihd.net^
 ||mormont.gamer-network.net^
 ||moumaiphuch.net^
@@ -15434,6 +15460,7 @@
 ||ptoumsid.net^
 ||pubads.g.doubleclick.uk.net^
 ||push-sdk.net^
+||pv-track.b-cdn.net^
 ||px.owneriq.net^
 ||pxlclnmdecom-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
@@ -15507,6 +15534,7 @@
 ||statserv.net^
 ||statsigapi.net^
 ||statsy.net^
+||steerensout.net^
 ||stefanvd.net^
 ||stesoufteegn.net^
 ||study.korean.net^
@@ -15857,9 +15885,11 @@
 ||whamukoji.pro^
 ||wilwasharrabred.pro^
 ||www.awfulmorning.pro^
+||www.bony-lip.pro^
 ||www.boringoccasion.pro^
 ||www.classicguarantee.pro^
 ||www.jaded-spell.pro^
+||www.lucky-work.pro^
 ||www.negative-speed.pro^
 ||www.newcategory.pro^
 ||www.pointlessplan.pro^
@@ -17048,11 +17078,13 @@
 ||ads.aralego.com^
 ||ads.assemblyexchange.com^
 ||ads.blogherads.com^
+||ads.brattysis.com^
 ||ads.cdngain.com^
 ||ads.contextweb.com^
 ||ads.cpxadroit.com^
 ||ads.creative-serving.com^
 ||ads.cxoinsightme.com^
+||ads.deeplush.com^
 ||ads.escinteractive.com^
 ||ads.glispa.com^
 ||ads.kiwys.com^
@@ -17138,6 +17170,7 @@
 ||agqoshfujku.com^
 ||agre.crosscert.com^
 ||agscirowwsr.com^
+||aha.viadianciean.com^
 ||ahgdsply.com^
 ||aibsgc.com^
 ||aiealgsr.com^
@@ -17334,6 +17367,7 @@
 ||assets.ubembed.com^
 ||assisteggs.com^
 ||assuccessf.com^
+||astonishlandmassnervy.com^
 ||aswpsdkus.com^
 ||async01.admantx.com^
 ||ationwindon.com^
@@ -17493,12 +17527,15 @@
 ||bnc1m.com^
 ||bncloudfl.com^
 ||bngprm.com^
+||bngtrak.com^
 ||bnmjjwinf292.com^
 ||bnvlebfv.com^
 ||boastwelfare.com^
 ||boloptrex.com^
 ||bongacams10.com^
 ||bongacams7.com^
+||bongacams8.com^
+||bonyface.com^
 ||booking.hkexpress.com^
 ||bookpadd.com^
 ||boostingads.com^
@@ -17552,7 +17589,6 @@
 ||c.tmyzer.com^
 ||c.tracking.goodgamestudios.com^
 ||c.zetadeo.com^
-||c10.patreonusercontent.com^
 ||c11ff582fa2fd7dc.com^
 ||c13.patreon.com^
 ||c190da.optimizesmart.com^
@@ -17574,6 +17610,7 @@
 ||camose.com^
 ||camp.purchase-shop.com^
 ||campaign.bet3000.com^
+||campaigns.dropmeawp.com^
 ||camterest.com^
 ||candyprotected.com^
 ||capaciousdrewreligion.com^
@@ -17751,6 +17788,7 @@
 ||chapsartore.com^
 ||chasedeposition.com^
 ||cheatingabate.com^
+||chestgoingpunch.com^
 ||chickensstation.com^
 ||childlikeform.com^
 ||chioneflake.com^
@@ -18117,6 +18155,7 @@
 ||dpvgmbh.germany-2.evergage.com^
 ||draft.blogger.com^
 ||drctslk.com^
+||dreamlikefostergala.com^
 ||drkapoorclinic.com^
 ||droppedrolling.com^
 ||drtuber.desi^
@@ -18180,6 +18219,7 @@
 ||edconside.com^
 ||edge-vids.wirewax.com^
 ||edge.ad1x.com^
+||edge.venatusmedia.com^
 ||edge12-gru.live.mmcdn.com^
 ||edge2-alb.stream.highwebmedia.com^
 ||edgesecretion.com^
@@ -18208,6 +18248,7 @@
 ||ellentmatchwi.com^
 ||elnheagcthtqne.com^
 ||elsa.memoinsights.com^
+||elyandbegantoti.com^
 ||em.licasd.com^
 ||embed.scribblelive.com^
 ||embed.tempestpremium.com^
@@ -18541,6 +18582,7 @@
 ||gmswtottlclddm.com^
 ||go-route.com^
 ||go.alxbgo.com^
+||go.aoalmfwinbsstec23.com^
 ||go.ashhgo.com^
 ||go.automatad.com^
 ||go.bbrdbr.com^
@@ -18632,6 +18674,7 @@
 ||hadesleta.com^
 ||hadsabs.com^
 ||hadsans.com^
+||hafamgvupagz.com^
 ||hafhwagagswy.com^
 ||hairoak.com^
 ||hajoopteg.com^
@@ -18731,6 +18774,7 @@
 ||iabusprivacy.pmc.com^
 ||iadoremakingpics.com^
 ||iapi.takeads.com^
+||ibaugnotseergy.com^
 ||ibclick.stream^
 ||ibrapush.com^
 ||icazsfuho.com^
@@ -19066,6 +19110,7 @@
 ||lp.pctonics.com^
 ||lp.theyellownewtab.com^
 ||lp.wicked.com^
+||lryadsotb.com^
 ||ls.getresponse.com^
 ||ltoftheplans.com^
 ||lucidlydiscretion.com^
@@ -19301,6 +19346,7 @@
 ||newstodaybnv.com^
 ||nextgencounter.com^
 ||nextleveldefend.com^
+||neyandfartooma.com^
 ||nfsredirect.com^
 ||ngfycrwwd.com^
 ||niceanimegames.com^
@@ -19468,6 +19514,7 @@
 ||oyi9f1kbaj.com^
 ||ozcarcupboard.com^
 ||ozobsaib.com^
+||ozxojpgmezzy.com^
 ||p.a64x.com^
 ||p.alcmpn.com^
 ||p.clarity.ms^
@@ -19617,6 +19664,7 @@
 ||player.inforsea.com^
 ||playerservices.live.streamtheworld.com^
 ||playfreegamestoday.com^
+||playhubconnect.com^
 ||playingcremate.com^
 ||pleasantpump.com^
 ||pluckyinfatuatedmason.com^
@@ -20055,6 +20103,7 @@
 ||sierrakermit.com^
 ||sift-campaign-creatives.sift.co^
 ||sifuglie.com^
+||signamentswithd.com^
 ||sih.gainskins.com^
 ||sikorskyleze.com^
 ||sillyflowermachine.com^
@@ -20548,7 +20597,9 @@
 ||track.wg-aff.com^
 ||track.ybbserver.com^
 ||track.youniversalmedia.com^
+||track1.avplayer.com^
 ||track2.securedvisit.com^
+||track4.aniview.com^
 ||tracker.ffftrgf.com^
 ||tracker.idocdn.com^
 ||tracker.iionads.com^
@@ -20589,6 +20640,7 @@
 ||trafokit.com^
 ||tragedyadvertisecosmetic.com^
 ||trakclk.com^
+||traumatic-somewhere.com^
 ||travelstool.com^
 ||travelze.com^
 ||traxex.gannettdigital.com^
@@ -21053,6 +21105,7 @@
 ||www.liveplaygame.com^
 ||www.lokicasino.com^
 ||www.lufbogazixz.com^
+||www.lvtuucmyfpz.com^
 ||www.maplejuddy.com^
 ||www.markmypath.com^
 ||www.marpalsac.com.pe^
@@ -21089,6 +21142,7 @@
 ||www.popads.ne^
 ||www.popbounty.com^
 ||www.predictivdisplay.com^
+||www.primeconvertapp.com^
 ||www.profitablecpmgate.com^
 ||www.profitabledisplaycontent.com^
 ||www.profitabledisplaynetwork.com^
@@ -21215,6 +21269,7 @@
 ||xkpdm.ujscdn.com^
 ||xl-trk.com^
 ||xl.wamarapayor.com^
+||xlx1.com^
 ||xml-v4.pxfindone.com^
 ||xml.acertb.com^
 ||xml.adbetnet.com^
@@ -21394,50 +21449,13 @@
 ||ratt.juno.ea.com^
 ||pin-river.data.ea.com^
 ||jvnlfjixedxncztem7pq-pjz1qn-ea616a9d6-clientnsv4-s.akamaihd.net^
-||qos2.ol.epicgames.com^
-||qos3.ol.epicgames.com^
-||qos4.ol.epicgames.com^
-||merchantpool1.epicgames.com^
-# Version 1 Endpunkt
-||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
-||metrics.ol.epicgames.com^
-# Analytics, Affiliate und Geodatenerfassung
-# 52.2.190.222
-# 54.158.82.37
-# 52.22.160.221
-# 35.153.174.108
-# 34.192.176.27
-# 52.20.219.23
-# 50.17.125.216
-# 34.228.118.104
-# 52.202.229.103
-# 35.188.42.15
-# 34.194.59.21
-# 34.202.239.176
-# 52.202.229.103
-# 3.222.153.230
-# 3.227.104.71
-# 34.228.176.58
-# 54.242.72.161
-# 52.6.71.146
-# 52.22.147.232
+||4c596c9ec80a.466da07a.us-east-1.token.awswaf.com^
 ||datarouter.ol.epicgames.com^
-||datarouter-prod.ak.epicgames.com^
-||accounts.launcher-website-prod07.ol.epicgames.com^
-||tracking-website-prod07-epic-96184209.us-east-1.elb.amazonaws.com^
-||tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com^
-||eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com^
 ||sentry.io^
-||events.elev.io^
-||fpt.dfp.microsoft.com^
-||fpt.microsoft.com^
+||tracking.epicgames.com^
 # Epic Games Datarouter
 # Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
+||datarouter-prod.ak.epicgames.com^
 ||datarouter-weighted.ol.epicgames.com^
 ||datarouter.cfef.live.use1a.on.epicgames.com^
 # Paradox Interactive AB
@@ -22243,6 +22261,12 @@
 ||fra15s29-in-f3.1e100.net^
 ||fra16s13-in-x03.1e100.net^
 ||ams15s22-in-f163.1e100.net^
+||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
 # Little Nightmares
 # 塊魂 | Katamari Damacy Reroll
 # Ip/s blockieren:
@@ -22806,6 +22830,7 @@
 ||stun-2-nat.ol.epicgames.com^
 # s. Eintrag Steam: IP Checks
 ||ingamenews.satisfactorygame.com^
+||metrics.ol.epicgames.com^
 # Valheim
 # Mehrspieler, dedizierte Server, Steam
 # 103.10.124.40
@@ -24167,9 +24192,8 @@
 ||170fdbe261f5e85186a08817806feba2.cloudfront.net^
 ||dfb957c193e8f98057bb6f530c2816a9.cloudfront.net^
 ||metrics.hitman.io^
-||hm3-metrics.hitman.io^
 ||dkcdc01.corp.ioi.dk^
-||waws-prod-db3-183-323c.northeurope.cloudapp.azure.com^
+||hm3-metrics.hitman.io^
 # IonFX Studios
 # Miasmata
 # 208.64.200.105

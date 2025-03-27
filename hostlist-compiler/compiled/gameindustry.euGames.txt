@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-03-05T09:00:17.557Z
+! Last modified: 2025-03-27T09:00:18.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -95,51 +95,15 @@
 ||ratt.juno.ea.com^
 ||pin-river.data.ea.com^
 ||jvnlfjixedxncztem7pq-pjz1qn-ea616a9d6-clientnsv4-s.akamaihd.net^
-||qos2.ol.epicgames.com^
-||qos3.ol.epicgames.com^
-||qos4.ol.epicgames.com^
-||merchantpool1.epicgames.com^
-# Version 1 Endpunkt
-||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
-||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
-||metrics.ol.epicgames.com^
-# Analytics, Affiliate und Geodatenerfassung
-# 52.2.190.222
-# 54.158.82.37
-# 52.22.160.221
-# 35.153.174.108
-# 34.192.176.27
-# 52.20.219.23
-# 50.17.125.216
-# 34.228.118.104
-# 52.202.229.103
-# 35.188.42.15
-# 34.194.59.21
-# 34.202.239.176
-# 52.202.229.103
-# 3.222.153.230
-# 3.227.104.71
-# 34.228.176.58
-# 54.242.72.161
-# 52.6.71.146
-# 52.22.147.232
+||ts-crl.ws.symantec.com^
+||ts-ocsp.ws.symantec.com^
+||4c596c9ec80a.466da07a.us-east-1.token.awswaf.com^
 ||datarouter.ol.epicgames.com^
-||datarouter-prod.ak.epicgames.com^
-||accounts.launcher-website-prod07.ol.epicgames.com^
-||tracking-website-prod07-epic-96184209.us-east-1.elb.amazonaws.com^
-||tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com^
-||eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com^
 ||sentry.io^
-||events.elev.io^
-||bam-cell.nr-data.net^
-||fpt.dfp.microsoft.com^
-||fpt.microsoft.com^
+||tracking.epicgames.com^
 # Epic Games Datarouter
 # Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
+||datarouter-prod.ak.epicgames.com^
 ||datarouter-weighted.ol.epicgames.com^
 ||datarouter.cfef.live.use1a.on.epicgames.com^
 # Paradox Interactive AB
@@ -973,6 +937,12 @@
 ||fra15s29-in-f3.1e100.net^
 ||fra16s13-in-x03.1e100.net^
 ||ams15s22-in-f163.1e100.net^
+||eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com^
+||eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com^
 # Little Nightmares
 # 塊魂 | Katamari Damacy Reroll
 # Ip/s blockieren:
@@ -1548,6 +1518,7 @@
 ||stun-2-nat.ol.epicgames.com^
 # s. Eintrag Steam: IP Checks
 ||ingamenews.satisfactorygame.com^
+||metrics.ol.epicgames.com^
 # Valheim
 # Mehrspieler, dedizierte Server, Steam
 # 103.10.124.40
@@ -2970,9 +2941,8 @@
 # Falls eine Mail bestätigt wird, wird diese mit Land/Sprache an den IOI Account gekoppelt
 ||dc.services.visualstudio.com^
 ||az416426.vo.msecnd.net^
-||hm3-metrics.hitman.io^
 ||dkcdc01.corp.ioi.dk^
-||waws-prod-db3-183-323c.northeurope.cloudapp.azure.com^
+||hm3-metrics.hitman.io^
 # IonFX Studios
 # Miasmata
 # 208.64.200.105
@@ -4626,6 +4596,7 @@
 ||academy.totalwar.com^
 ||cc.cdn.civiccomputing.com^
 ||apikeys.civiccomputing.com^
+||bam-cell.nr-data.net^
 ||bat.bing.com^
 ||secure-ds.serving-sys.com^
 ||lm.serving-sys.com^
