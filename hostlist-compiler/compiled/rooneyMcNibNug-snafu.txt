@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-03-22T09:00:52.919Z
+! Last modified: 2025-03-29T09:00:53.371Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12149,3 +12149,14 @@
 ||aistaging.sitejabber.com^
 ||youtrack.librarything.com^
 ||tr.poshmark.com^
+||smetrics.msg.com^
+||metrics.msg.com^
+||click.email1.msg.com^
+||satisfilabs.com^
+||seated.imgix.net^
+||ip-test.seated.com^
+||stats.seated.com^
+||go-stuart-remove-analytics-env-vars.seated.com^
+||admin-stuart-remove-analytics-env-vars.seated.com^
+||gold-remix-stuart-remove-analytics-env-vars.seated.com^
+||api-stuart-remove-analytics-env-vars.seated.com^

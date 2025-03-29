@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-03-27T09:00:16.262Z
+! Last modified: 2025-03-29T09:00:16.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28MAR25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8341,7 +8341,6 @@
 ||cdn.usefathom.com^
 ||cdnwidget.com^
 ||cdp.cifinancial.com^
-||cdp.yna.co.kr^
 ||cdrive.compellent.com^
 ||cdtm.cdiscount.com^
 ||ceciliavenus.com^
@@ -12723,6 +12722,7 @@
 ||esqxrp.bonprix-fl.be^
 ||esri.nl.actonservice.com^
 ||es-sa.siemensplmevents.com^
+||essayspin.com^
 ||es.sharpmarketing.eu^
 ||essmnx.edreams.ch^
 ||estadisticas.lanacion.com.ar^
@@ -19462,6 +19462,7 @@
 ||luuonz.motoblouz.com^
 ||l.uvcr.me^
 ||luwzem.skala.nl^
+||luxformula.com^
 ||luzfpa.dltviaggi.it^
 ||lv6od3a4sz12.www.logology.co^
 ||lvidqa.unisportstore.de^
@@ -25427,6 +25428,7 @@
 ||podbooth.martela.no^
 ||podbooth.martela.se^
 ||podiumpresto.com^
+||podname.com^
 ||pod.spoti.fi^
 ||poemprompt.com^
 ||poeticpackage.com^
@@ -25986,7 +25988,6 @@
 ||quaintcan.com^
 ||quaintlake.com^
 ||qualitas-app.hotdoc.com.au^
-||quantserve.com^
 ||quantumlagoon.com^
 ||quantumshine.com^
 ||quarterbean.com^
