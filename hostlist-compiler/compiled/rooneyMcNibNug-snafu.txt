@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-03-31T09:00:51.313Z
+! Last modified: 2025-04-07T09:00:50.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10527,6 +10527,7 @@
 ||use.raygun.io^
 ||vpn.raygun.io^
 ||webapi.raygun.io^
+||tf.teleport.raygun.io^
 ||recirculation.spot.im^
 ||a1956.b.akamai.net^
 ||launcher.spot.im^
@@ -12166,3 +12167,5 @@
 ||tracking.tidio.com^
 ||track.tidio.com^
 ||truelytics.kiflo.com^
+||clickrobotrun.incentivio.com^
+||ml.incentivio.com^
