@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-04-11T09:00:19.385Z
+! Last modified: 2025-04-18T09:00:20.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -478,6 +478,7 @@
 ||img.totafofesos1.com^
 ||dt.web-search-home.com^
 ||secure.disc-soft.com^
+||api-us-east-2.protect.glasswire.com^
 # EaseUS Software Co., Ltd.
 # EaseUS Partition Master
 ||track.easeus.com^
@@ -790,6 +791,16 @@
 # 108.138.36.21
 ||hubble.mb-cosmos.com^
 ||ec2-54-200-94-9.us-west-2.compute.amazonaws.com^
+# Windows Firewall Control WFC
+# Ip/s blockieren:
+# 44.236.57.200
+# 45.41.235.33
+# 52.89.79.199, 54.148.128.50
+# Telemetry contains machine ID, product ID, version number, timestamp, license status, domain name/ID and admin rights, file system, language, operating system architecture
+||telemetry.malwarebytes.com^
+||ec2-44-236-57-200.us-west-2.compute.amazonaws.com^
+||ec2-52-89-79-199.us-west-2.compute.amazonaws.com^
+||ec2-54-148-128-50.us-west-2.compute.amazonaws.com^
 # Nero
 # Nero Burning Rom 2018 + Updates + CoverDesigner
 # Während der Installation mit automatischem Webseitenaufruf
@@ -3418,8 +3429,6 @@
 # Feedbackify
 ||cdn.feedbackify.com^
 ||www.feedbackify.com^
-# Feedburner
-||feeds.feedburner.com^
 # Ferientroll.de
 ||ferien.ferientroll.de^
 # Finanzen.net
@@ -7641,6 +7650,8 @@
 ||egb.com^
 ||eqraffle.com^
 ||esl.proseason22.com^
+||eslmasterscup.com^
+||espublicevotes.top^
 ||ezskinz.org^
 ||good-gabe.com^
 ||invite.playtest184192.com^
@@ -12467,12 +12478,16 @@
 ||deff.nelreports.net^
 # Windows 11 - Microsoft 365 Copilot App WebViewHost.exe, Microsoft Copilot CopilotNative.exe, Microsoft WebView2 msedgewebview2.exe
 # Ip/s blockieren:
+# 13.89.178.26
+# 20.189.173.17
 # 13.89.179.11
 # 51.116.246.106
 # 51.116.246.104
 # 20.42.73.25
 # 20.42.65.89
 # 51.104.15.253
+# 104.126.37.169
+# 104.126.37.136
 ||copilot.microsoft.com^
 ||studiostaticassetsprod.azureedge.net^
 ||a-0016.dc-msedge.net^
@@ -26599,6 +26614,9 @@
 ||static.230.198.130.94.clients.your-server.de^
 ||static.197.12.203.116.clients.your-server.de^
 ||static.87.139.47.78.clients.your-server.de^
+||discovery.ezmpl.thqonline.net^
+||static.117.49.47.78.clients.your-server.de^
+||static.147.188.202.116.clients.your-server.de^
 # Expeditions: Rome
 # 54.191.113.36
 # 34.212.224.15

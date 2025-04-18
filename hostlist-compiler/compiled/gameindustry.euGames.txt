@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-04-10T09:00:17.188Z
+! Last modified: 2025-04-18T09:00:18.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5334,6 +5334,9 @@
 ||static.230.198.130.94.clients.your-server.de^
 ||static.197.12.203.116.clients.your-server.de^
 ||static.87.139.47.78.clients.your-server.de^
+||discovery.ezmpl.thqonline.net^
+||static.117.49.47.78.clients.your-server.de^
+||static.147.188.202.116.clients.your-server.de^
 # Expeditions: Rome
 # 54.191.113.36
 # 34.212.224.15
