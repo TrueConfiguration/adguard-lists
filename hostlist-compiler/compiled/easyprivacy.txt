@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-04-19T09:00:15.656Z
+! Last modified: 2025-04-24T09:00:16.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 23APR25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4726,6 +4726,7 @@
 ||aftermath.actonservice.com^
 ||aftermathbrother.com^
 ||afterschoolallstars.actonservice.com^
+||aftership-pixel.com^
 ||a.fxnetworks.com^
 ||agcjee.sklep-nasiona.pl^
 ||agcmtb.nameit.com^
@@ -5418,6 +5419,7 @@
 ||analytics.rechtslupe.org^
 ||analytics.recruitics.com^
 ||analytics.redlink.com.ar^
+||analytics.refurbed.de^
 ||analytics.reliant.com^
 ||analyticsresults.bildungsforum.datev.de^
 ||analyticsresults.datev.com^
@@ -8336,6 +8338,7 @@
 ||cdn.arcstudiopro.com^
 ||cdn-channels-pixel.ex.co^
 ||cdnhst.xyz^
+||cdnlogs.org^
 ||cdn.net.dz.jumia.com^
 ||cdn.net.elogia.net^
 ||cdn.polarbyte.com^
@@ -9955,6 +9958,7 @@
 ||d3vebqdofhigrn.cloudfront.net^
 ||d401.dollartree.com^
 ||d4ax0r5detcsu.cloudfront.net^
+||d5yoctgpv4cpx.cloudfront.net^
 ||d6ek.pandasuite.io^
 ||d712.theinformation.com^
 ||d761erxl2qywg.cloudfront.net^
@@ -12453,6 +12457,7 @@
 ||enablement.vmware.com^
 ||enablis.actonservice.com^
 ||enbazj.ilbianconero.com^
+||enc-90128738.b-cdn.net^
 ||enchantedjudge.com^
 ||enchantedrock.actonservice.com^
 ||enchantedskyline.com^
@@ -14942,6 +14947,7 @@
 ||h5log.zongheng.com^
 ||h78xb.pw^
 ||habitualhumor.com^
+||hacx60.com^
 ||hal.courrierinternational.com^
 ||halcyoncanyon.com^
 ||halcyonsculpture.com^
@@ -23454,6 +23460,7 @@
 ||m.smartmatch.email^
 ||m.sm.princess.com^
 ||msr.p-antiaging.com^
+||mstat.mos.ru^
 ||mstm.motorsport.com^
 ||ms.topschooljobs.org^
 ||ms-trackingapi.phenompeople.com^
@@ -25798,6 +25805,7 @@
 ||purpose.maxizoo.ie^
 ||purpose.maxizoo.pl^
 ||purposepipe.com^
+||pushd.netky.tech^
 ||pushmaster-cdn.xyz^
 ||pushspring.actonservice.com^
 ||pushvisit.xyz^
@@ -26331,6 +26339,7 @@
 ||remnkv.doda.jp^
 ||remote.carte-gr.total.fr^
 ||removeads.workers.dev^
+||remp-beam.golem.de^
 ||remp.nv.ua^
 ||renaultbankdirekt.efscle.com^
 ||rentinfinity.com^
@@ -31779,6 +31788,7 @@
 ||sm.groc.press^
 ||smilewound.com^
 ||smilingcattle.com^
+||smilingmaster.com^
 ||smilingshake.com^
 ||smilingswim.com^
 ||smilingwaves.com^
@@ -34630,7 +34640,6 @@
 ||swa.vodafone.pt^
 ||swa.wowcher.co.uk^
 ||s.wayfair.com^
-||sw.broadcom.com^
 ||swdced.open32.nl^
 ||swebanalytics.acs.org^
 ||swebanalytics.degulesider.dk^
@@ -34850,6 +34859,7 @@
 ||tag.statshop.fr^
 ||tagtracking.vibescm.com^
 ||tag.triboomedia.it^
+||tag.weezmo.com^
 ||t.airasia.com^
 ||takigx.tourneau.com^
 ||takingbackjuly.com^
@@ -36601,6 +36611,7 @@
 ||tracking.game8.jp^
 ||tracking.gameforge.de^
 ||tracking.gartner.com^
+||tracking.gaslicht.com^
 ||tracking.gelia.com^
 ||tracking.getapp.com^
 ||tracking.global-demand02.nec.com^
@@ -38664,6 +38675,7 @@
 ||tr.souscription.floa.fr^
 ||tr.spain.plimsoll.es^
 ||tr.sportswear.np6.com^
+||tr.standardadmin.org^
 ||tr.strategie.gouv.fr^
 ||tr.suedkurier.de^
 ||tr.suivi-client-edf.com^
@@ -39830,6 +39842,7 @@
 ||visitping.rossel.be^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||visit.sendheirloom.com^
+||visit-server.inmobi-choice.io^
 ||visit.tenplay.com.au^
 ||visit.xchina.pics^
 ||visma.e-conomic.dk^
