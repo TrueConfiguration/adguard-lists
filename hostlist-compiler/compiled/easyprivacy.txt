@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-04-24T09:00:16.509Z
+! Last modified: 2025-04-26T09:00:16.541Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 23APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 25APR25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -153,6 +153,7 @@
 ||66jo.societegenerale.fr^
 ||671c.pandasuite.io^
 ||68-175.net.jumia.co.ke^
+||682a5845.b-cdn.net^
 ||69-74.net.jumia.sn^
 ||6ldu6qa.com^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
@@ -5182,6 +5183,7 @@
 ||analytics.eikko.ai^
 ||analytics.eikondigital.it^
 ||analytics.eip.telegraph.co.uk^
+||analytics.ekonsilio.io^
 ||analytics.emol.com^
 ||analytics.erepublic.com^
 ||analytics.ericafischerphotography.com^
@@ -5742,6 +5744,7 @@
 ||apilog-web.acfun.cn^
 ||api.ryanyao.design^
 ||apis.4bn.xyz^
+||api.sae.systems^
 ||apisensor.actonservice.com^
 ||api-visitor-analytics.intercom.com^
 ||api-websystems.landing.ni.com^
@@ -7180,6 +7183,7 @@
 ||aydtkb.pikabu.ru^
 ||aygccr.eonet.jp^
 ||ayleaf.petersofkensington.com.au^
+||ayo.arredoitaliano.it^
 ||az693360.vo.msecnd.net^
 ||azbrtw.anydesk.com^
 ||azcoct.bikkembergs.com^
@@ -8548,6 +8552,7 @@
 ||click360v2-ingest.azurewebsites.net^
 ||click.aabacosmallbusiness.com^
 ||click.aaptiv.com^
+||click.afiliados.uol.com.br^
 ||click.alternate.de^
 ||click.amazingfacts.org^
 ||click.appinthestore.com^
@@ -10633,6 +10638,7 @@
 ||d.cybtel.com^
 ||dd6zx4ibq538k.cloudfront.net^
 ||dd.auspost.com.au^
+||dd.bellesdemeures.com^
 ||dd.betano.com^
 ||dd.control4.com^
 ||d.delahorro.app^
@@ -10647,6 +10653,9 @@
 ||dd.nytimes.com^
 ||ddome-tag.blablacar.com^
 ||ddqwdh.sofastyle.jp^
+||dd.seloger-bureaux-commerces.com^
+||dd.seloger.com^
+||dd.selogerneuf.com^
 ||ddsndt.azubiyo.de^
 ||deadpangate.com^
 ||deafeningdock.com^
@@ -13294,6 +13303,7 @@
 ||ffyvsn.evisu.com^
 ||fgfecw.rebelle.com^
 ||fgfukd.sakazen.co.jp^
+||fgip.rosehosting.com^
 ||fgjfwz.legami.com^
 ||fglrgt.ruggable.com^
 ||fgmaal.u-canshop.jp^
@@ -14706,6 +14716,7 @@
 ||gotoaws.dresslily.com^
 ||gotoaws.rosegal.com^
 ||gotoaws.zaful.com^
+||gotoda.co^
 ||gotoexp.dresslily.com^
 ||goto.firsttechfed.com^
 ||goto.heartlandpaymentsystems.com^
@@ -16941,6 +16952,7 @@
 ||in-go.experian.com^
 ||ingredients.firmenich.com^
 ||ingress.linktr.ee^
+||ingress.trendii.com^
 ||in.invitd.us^
 ||inkubate.actonservice.com^
 ||in-mktg.vodafone.com^
@@ -23349,6 +23361,7 @@
 ||mon.ingservices.nl^
 ||monitor-api.blackcrow.ai^
 ||monitor.channel4.com^
+||monitor.fraudblocker.com^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitoring.iraiser.eu^
 ||monitor.music.qq.com^
@@ -24126,6 +24139,7 @@
 ||ocpi.americanexpress.ca^
 ||ocs.hagerty.com^
 ||ocular.dealabs.com^
+||ocular.hotukdeals.com^
 ||ocular.promodescuentos.com^
 ||ocwlhv.ecid.com.br^
 ||oda.markitondemand.com^
@@ -24962,6 +24976,7 @@
 ||pbox.photobox.it^
 ||pbox.photobox.nl^
 ||pbox.photobox.se^
+||pb.siepomaga.pl^
 ||pbstats.jpmorgan.com^
 ||pbvnwd.moongori.com^
 ||pbxdny.angrybeards.cz^
@@ -25479,6 +25494,7 @@
 ||politicalporter.com^
 ||poll.pollinatepolls.com^
 ||polypak.actonservice.com^
+||ponos.zeronaught.com^
 ||ponyo.cheriefm.fr^
 ||pool.onjoyri.de^
 ||pool.onjoyride.com^
@@ -26140,6 +26156,7 @@
 ||ratings-events.standardandpoors.com^
 ||r.atlasearth.com^
 ||rat.rakuten.co.jp^
+||raven.adeptmind.ai^
 ||razzweb.com^
 ||rba-screen.healthsafe-id.com^
 ||r.bbci.co.uk^
@@ -26731,6 +26748,7 @@
 ||rtek-link.shares.social^
 ||rt.flix360.com^
 ||rtg-adroute.focas.jp^
+||rtgvwr.com^
 ||rtm-tracking.zozo.jp^
 ||rtmugo.deindeal.ch^
 ||rt.newswire.ca^
@@ -27636,6 +27654,7 @@
 ||sdcs.felissimo.co.jp^
 ||s.dc-tag.jp^
 ||sdjthl.tvguide.dk^
+||sdk-analytics-web.cloud.itau.com.br^
 ||sdlmaf.bestsecret.at^
 ||sdome.underarmour.co.jp^
 ||sdpimt.lostgolfballs.com^
@@ -28300,6 +28319,7 @@
 ||sentiment.icis.com^
 ||sentinelp.com^
 ||sentry.music.163.com^
+||sentry.siepomaga.pl^
 ||seoab.io^
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^
@@ -28560,6 +28580,7 @@
 ||shockingship.com^
 ||shop.anu-cosme.com^
 ||shopbreakfast.com^
+||shopify-webhooks.sailthru.com^
 ||shop.iwantclips.com^
 ||shop.lids.ca^
 ||shopmetric.rediff.com^
@@ -34080,6 +34101,7 @@
 ||stats.vidyome.com^
 ||stats.visions.ch^
 ||stats.vk-portal.net^
+||stats.vodlix.com^
 ||stats.voltimum.com^
 ||stats.voyages-sncf.com^
 ||stats.vulture.com^
@@ -35043,6 +35065,7 @@
 ||target.ni.com^
 ||target.nrma.com.au^
 ||target-omtrdc.deka.de^
+||targetone-callback.chedraui.com.mx^
 ||target.onemarketinguxp.com^
 ||target.onlinebanking.bancogalicia.com.ar^
 ||target.openbank.de^
@@ -37058,6 +37081,7 @@
 ||track.list-finder.jp^
 ||track.livasoft.com.tr^
 ||tracklog.58.com^
+||track.magazineluiza.com.br^
 ||track.mailerlite.com^
 ||track-mail.homage.co^
 ||track.marketingcube.com.au^
@@ -39051,6 +39075,7 @@
 ||udonjl.coopdeli.jp^
 ||udr9.livera.nl^
 ||udrnks.vedder-vedder.com^
+||udr.uol.com.br^
 ||udrvvx.kabum.com.br^
 ||udsgty.alkosto.com^
 ||udxsuy.helline.fr^
