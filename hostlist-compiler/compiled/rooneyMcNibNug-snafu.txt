@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-04-23T09:00:48.930Z
+! Last modified: 2025-04-30T09:00:53.531Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12203,3 +12203,12 @@
 ||centerfield.com^
 ||palantirfoundry.com^
 ||sprig.com^
+||assets-dev.bwbx.io^
+||staging-assets.bwbx.io^
+||origin-assets.bwbx.io^
+||api.bwbx.io^
+||mobile-img.bwbx.io^
+||stg-assets.bwbx.io^
+||assets.bwbx.io^
+||assets-prod.bwbx.io^
+||bbg-img.bwbx.io^
