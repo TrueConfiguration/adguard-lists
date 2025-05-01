@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-04-30T09:00:53.531Z
+! Last modified: 2025-05-01T09:00:54.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4670,7 +4670,6 @@
 ||mattel.assets.pixlee.com^
 ||socialfeed.pixlee.com^
 ||collector-pxk266ff2d.perimeterx.net^
-||loader.wisepops.com^
 ||ace.curalate.com^
 ||api.curalate.com^
 ||api-2.curalate.com^
@@ -7937,6 +7936,8 @@
 ||lpinsights2.liveperson.net^
 ||veanalytics.on24.com^
 ||veanalyticsqa.on24.com^
+||analyticsdev.on24.com^
+||analytics.eu.on24.com^
 ||1010data.com^
 ||secondmeasure.com^
 ||point72.com^
@@ -10978,11 +10979,7 @@
 ||i.usefathom.com^
 ||stats.usefathom.com^
 ||cdn-eu.usefathom.com^
-||www.wisepops.com^
-||app.wisepops.com^
-||ping.wisepops.com^
-||popup.wisepops.com^
-||status.wisepops.com^
+||wisepops.com^
 ||insights.revtrax.com^
 ||adorebeauty.sitespect.com^
 ||centurylink.sitespect.com^
@@ -12212,3 +12209,4 @@
 ||assets.bwbx.io^
 ||assets-prod.bwbx.io^
 ||bbg-img.bwbx.io^
+||jasper.ai^
