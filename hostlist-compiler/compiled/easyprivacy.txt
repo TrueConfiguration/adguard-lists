@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-05-10T09:00:15.904Z
+! Last modified: 2025-05-13T09:00:17.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09MAY25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 12MAY25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -73,6 +73,7 @@
 ||1kpv4njzilv.community.intersystems.com^
 ||1l-hit.mail.ru^
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
+||1rer.hummel.net^
 ||1stparty.equifax.co.uk^
 ||1to1.bbva.com^
 ||1vyt1eguj27.ommasign.com^
@@ -7413,6 +7414,7 @@
 ||benelux2.secureforms.mcafee.com^
 ||benthose.com^
 ||bento.agoda.com^
+||beoecomapim.bang-olufsen.com^
 ||beoofo.pairs.lv^
 ||bepartof.wechain.eu^
 ||beqioy.promessedefleurs.com^
@@ -9669,6 +9671,7 @@
 ||cs.nexttv.co.il^
 ||c.snow.com^
 ||csp-collector.appspot.com^
+||csp.godaddy.com^
 ||csplog.kwai-pro.com^
 ||cspmkl.gruppal.com^
 ||csp-reporting.cloudflare.com^
@@ -9704,6 +9707,7 @@
 ||ctd.drivescore.com^
 ||ct-dev.taskhuman.com^
 ||ctdfm.ilgiornale.it^
+||ct-errs.cartrawler.com^
 ||ctg.actonservice.com^
 ||c.thredup.com^
 ||ctiegx.kagu-wakuwaku.com^
@@ -14268,6 +14272,7 @@
 ||globalbanking.wolterskluwer.com^
 ||globalcommunications.sc.com^
 ||global.cphi-china.cn^
+||globale-analytics-sdk.global-e.com^
 ||globaleloqua.americanexpress.com^
 ||global.fia-china.com^
 ||global-go.experian.com^
@@ -17150,6 +17155,7 @@
 ||insights.sitesearch360.com^
 ||insights.sport1.de^
 ||insights.squintopera.com^
+||insights.triad.sk^
 ||insights.v3.decathlon.net^
 ||insights.zinio.com^
 ||insight.velocify.com^
@@ -17698,6 +17704,7 @@
 ||jslog.post.cz^
 ||jsomtq.telescope.com^
 ||jspqms.bellevue-ferienhaus.de^
+||js.verisoul.ai^
 ||jswlpe.modainpelle.com^
 ||jswyrt.jp1880.de^
 ||jszwxm.hometogo.nl^
@@ -18150,6 +18157,7 @@
 ||leadmanagement.leads360.com^
 ||leadmanagement.velocify.com^
 ||leads.commercial.keurig.com^
+||leadsy.ai^
 ||leadtracking.plumvoice.com^
 ||leafpilot.com^
 ||leaguepoll.com^
@@ -19280,6 +19288,7 @@
 ||log.adplex.co.kr^
 ||log-ads.r7.com^
 ||log.aimtell.com^
+||logapi.alza.cz^
 ||log-api.cli.im^
 ||logbak.hicloud.com^
 ||log.bitauto.com^
@@ -19713,6 +19722,7 @@
 ||lzuc.sfr.fr^
 ||lzvwxy.hometogo.pl^
 ||lzwxzz.chintaistyle.jp^
+||m.1gr.cz^
 ||m1.stadiumgoods.com^
 ||m2t.actonservice.com^
 ||m2.washmen.com^
@@ -22313,6 +22323,7 @@
 ||metrics.fifa.com^
 ||metrics.figis.com^
 ||metrics.filemaker.com^
+||metrics.find.gr^
 ||metrics.finn.no^
 ||metrics.flagstar.com^
 ||metrics.flexerasoftware.com^
@@ -36686,6 +36697,7 @@
 ||track.hubspot.com^
 ||track.hujiang.com^
 ||track.hydro.online^
+||trackid.globoid.globo.com^
 ||track.inews.co.uk^
 ||track.info.cancertherapyadvisor.com^
 ||track.info.clinicaladvisor.com^
@@ -36980,6 +36992,7 @@
 ||tracking.guidehouse.com^
 ||tracking.handlesets.com^
 ||tracking.hannoversche.de^
+||tracking.happierleads.com^
 ||tracking.hardoxwearparts.com^
 ||tracking.hcltech.com^
 ||tracking.health.bilh.org^
@@ -38924,6 +38937,7 @@
 ||tr.orcamentos-companeo.pt^
 ||troubleshade.com^
 ||tr.outbrain.com^
+||trovo-tag.com^
 ||tr.oxatis.devisdirect.com^
 ||tr.panels-mediametrie.fr^
 ||tr.partenaire.groupe-vyv.fr^
