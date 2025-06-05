@@ -3,7 +3,7 @@
 ! Description: This is a list of categorized domains, with additional entries for wildcard blocking. The domains are documented as to keep a record of what is being blocked or allowed.
 ! Homepage: https://github.com/DRSDavidSoft/additional-hosts
 ! License: MIT License
-! Last modified: 2023-07-05T12:22:26.336Z
+! Last modified: 2025-06-05T09:00:12.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -88,6 +88,8 @@
 ||adjust.com^
 # Affle: Mobile marketing platform (based in India)
 ||affle.com^
+# BODIS: Domain Monetization (based in Tampa, Florida)
+||bodis.com^
 # Braze, Inc. (formerly AppBoy Inc. 2011-2017, based in New York City)
 ||appboy.com^
 ||braze.com^

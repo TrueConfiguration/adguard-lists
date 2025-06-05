@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-06-03T09:00:15.648Z
+! Last modified: 2025-06-05T09:00:15.790Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 04JUN25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5381,6 +5381,7 @@
 ||analytics-production.hapyak.com^
 ||analytics.productreview.com.au^
 ||analytics-proxy.springboard.com^
+||analytics.pyksid.com^
 ||analytics.qogita.com^
 ||analytics.qualcomm.com^
 ||analytics.qualityquestions.co^
@@ -7359,6 +7360,7 @@
 ||bestbuy.actonservice.com^
 ||bestill.help.no^
 ||bestinfo.bluetrustloans.com^
+||bestshoesboot.com^
 ||besucher.nona.de^
 ||beta-link.liilix.com^
 ||betazebra.com^
@@ -9838,11 +9840,13 @@
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
+||d2i34c80a0ftze.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
+||d2lyx5ly60ksu3.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
@@ -32126,6 +32130,7 @@
 ||speedyfox.io^
 ||speedyrhino.co^
 ||speee-ad.akamaized.net^
+||spellknight.com^
 ||spellmist.com^
 ||spellsalsa.com^
 ||spenvp.gate.shop^
@@ -35031,6 +35036,7 @@
 ||tdbnom.madeleine.de^
 ||tdbrochure.advancedtech.com^
 ||tdbsoc.thegivingmovement.com^
+||td.doubleclick.net^
 ||t.deepnote.com^
 ||t.deloittece.com^
 ||td.emails.domain.com.au^
@@ -36051,6 +36057,7 @@
 ||tracker.nbcuas.com^
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
+||tracker.oval.id^
 ||tracker.personizely.net^
 ||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.prom.ua^
@@ -39047,6 +39054,7 @@
 ||urs.metacritic.com^
 ||urxbvw.tui.nl^
 ||usabilitybook.com^
+||usage.centsdonations.com^
 ||u.salony.com^
 ||usaoptimizedby.increasingly.co^
 ||us.appbackupapi.micloud.xiaomi.net.iberostar.com^
