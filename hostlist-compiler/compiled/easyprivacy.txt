@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-06-10T09:00:15.684Z
+! Last modified: 2025-06-12T09:00:16.512Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 11JUN25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5383,6 +5383,7 @@
 ||analytics.propensity.com^
 ||analytics-proxy.springboard.com^
 ||analytics.pyksid.com^
+||analytics.python.org^
 ||analytics.qogita.com^
 ||analytics.qualcomm.com^
 ||analytics.qualityquestions.co^
@@ -6874,6 +6875,7 @@
 ||atlkse.aosom.it^
 ||at.maxblue.de^
 ||at.mclaren.com^
+||atmtd.com^
 ||at.neom.com^
 ||at.norisbank.de^
 ||atom-log.3.cn^
@@ -12868,6 +12870,7 @@
 ||events.tubecup.org^
 ||events.turbosquid.com^
 ||events.ubembed.com^
+||events.verifymy.io^
 ||events.verticurl.com^
 ||events.whisk.com^
 ||event.syftdata.com^
@@ -34212,6 +34215,7 @@
 ||subscriptions.opentext.com^
 ||subscriptions.outbound.luxair.lu^
 ||subscriptions.reedpop.com^
+||subseaagent.com^
 ||subseacare.com^
 ||subseasecurity.com^
 ||subsequentstew.com^
@@ -35836,6 +35840,7 @@
 ||t.owlsports.com^
 ||townhouses.woodlea.com.au^
 ||townsquareinteractive.actonservice.com^
+||toysbasics.com^
 ||toytakeover.com^
 ||t.paciolan.com^
 ||tp.ackermann.ch^
