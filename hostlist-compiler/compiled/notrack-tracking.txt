@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2025-07-01T09:00:43.559Z
+! Last modified: 2025-07-03T09:00:42.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -71,6 +71,7 @@
 ||aatkit.com^
 ||aax-us-iad.amazon.com^
 ||aaxads.com^
+||ab1n.net^
 ||abmr.net^
 ||abtasty.com^
 ||abtest.mistat.xiaomi.com^
@@ -359,6 +360,7 @@
 ||adv.ettoday.net^
 ||adv.r7.com^
 ||adv.sec.intl.miui.com^
+||adv.widdimo.com^
 ||advanced-web-analytics.com^
 ||advcake.com^
 ||adventive.com^
@@ -472,6 +474,7 @@
 ||analytics.algolia.com^
 ||analytics.apache.org^
 ||analytics.archive.org^
+||analytics.audioeye.com^
 ||analytics.autodesk.com^
 ||analytics.bigdata.samsung.com^
 ||analytics.binaryfortress.com^
@@ -739,7 +742,6 @@
 ||backstory.ebay.ph^
 ||backstory.ebay.pl^
 ||bam-x.com^
-||bande2az.com^
 ||bankerconcludeshare.com^
 ||banner.ws.pho.to^
 ||bannerflow.com^
