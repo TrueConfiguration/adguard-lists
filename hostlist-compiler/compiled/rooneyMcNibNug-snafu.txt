@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-07-02T09:00:50.178Z
+! Last modified: 2025-07-10T09:00:46.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16061,3 +16061,13 @@
 ||telemetry.es.chef.io^
 ||telemetry.chef.io^
 ||prod.gcp.us-west1.sync-metrics-service.fivetran.com^
+||analytics.ettoday.net^
+||ad-dre-dt-dbankcloud-com-dre.appacc.dbankedge.cn^
+||clicks.contentsquare.com^
+||enrichment-api.ba.contentsquare.com^
+||enrichment-api.aa.contentsquare.com^
+||enrichment-api-staging.af.contentsquare.com^
+||hotjarapi.contentsquare.com^
+||click.contentsquare.com^
+||hotjarapi.aws-eu.staging.contentsquare.com^
+||korrelate.net^
