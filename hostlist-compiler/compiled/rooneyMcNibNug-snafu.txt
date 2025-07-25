@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-07-24T09:00:42.724Z
+! Last modified: 2025-07-25T09:00:47.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11590,7 +11590,6 @@
 ||ad.medallia.com^
 ||launchpad.medallia.com^
 ||conrad.medallia.com^
-||ad.agkn.com^
 ||bafwer.co.in^
 ||povesx.co.in^
 ||argenferia.com^
@@ -16088,3 +16087,16 @@
 ||a-portal.stepex.co^
 ||sales.stepex.co^
 ||stackadapt.com^
+||iponweb.com^
+||agkn.com^
+||adlog.wpp.com^
+||super-data-genie-prd-one.os.wpp.com^
+||click.email.wpp.com^
+||adobealliance.wpp.com^
+||campaign-genie-prd-one.os.wpp.com^
+||rds.axerp.wpp.com^
+||microsoft.wpp.com^
+||insights-genie-prd-one.os.wpp.com^
+||brandz.wpp.com^
+||m.wpp.com^
+||reports.wpp.com^
