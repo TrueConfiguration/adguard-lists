@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-07-29T09:00:13.906Z
+! Last modified: 2025-07-31T09:00:13.856Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 30JUL25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8305,6 +8305,7 @@
 ||cdn7.baunetz.de^
 ||cdn.arcstudiopro.com^
 ||cdn-channels-pixel.ex.co^
+||cdn-eu.usefathom.com^
 ||cdnhst.xyz^
 ||cdnlogs.org^
 ||cdn.net.dz.jumia.com^
@@ -35896,6 +35897,7 @@
 ||top.skyzone.ro^
 ||topspin.npo.nl^
 ||top-staging.mail.ru^
+||t.optiwizehealth.com^
 ||top.wn.com^
 ||to.quit.guru^
 ||t.oralia.fr^
@@ -38868,7 +38870,6 @@
 ||tyumen.net.anwalt.de^
 ||tyvuwf.lameteoagricole.net^
 ||tzgurwizule3.app.cardahealth.com^
-||tzm.px-cloud.net^
 ||tzovkp.aboutyou.at^
 ||tzwaw.pw^
 ||u0crsrah75fy.camberlion.com^
@@ -39113,6 +39114,7 @@
 ||uqd.io^
 ||uqhpej.wiberrentacar.com^
 ||urbanairship.com^
+||urbanlaurel.com^
 ||ur.b.inhaabit.com^
 ||urehgr.halekulani.com^
 ||ureoaw.netthandelen.no^
@@ -39748,6 +39750,7 @@
 ||videocdnmetrika.com^
 ||videoevents.outbrain.com^
 ||video.funnelbox.com^
+||video-intel.pixels.ai^
 ||videoplayerhub.com^
 ||videos.adp.ca^
 ||videos.personneltoday.com^
