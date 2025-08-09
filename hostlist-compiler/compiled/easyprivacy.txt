@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-08-05T09:00:13.054Z
+! Last modified: 2025-08-09T09:00:13.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08AUG25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7524,6 +7524,7 @@
 ||blissfulcrescendo.com^
 ||blissfullagoon.com^
 ||blitz-analytics-batch-server.blitz.gg^
+||blitzcampaigns.com^
 ||blmjbp.casamundo.pl^
 ||blockchain.actonservice.com^
 ||blockdial.com^
@@ -8850,6 +8851,7 @@
 ||collector.hippodromeonline.com^
 ||collector.mazeberry.com^
 ||collector.megaxh.com^
+||collector.net-logger.com^
 ||collector.pi.spectrum.net^
 ||collector-px0py5pczn.octopart.com^
 ||collector.quillbot.com^
@@ -12625,6 +12627,7 @@
 ||eroar.lionsclubs.org^
 ||erp.qwic.nl^
 ||err.ifengcloud.ifeng.com^
+||error-analytics-production.shopifysvc.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-collector.ted.com^
 ||errorreports.couponcabin.com^
@@ -13707,7 +13710,6 @@
 ||gaafbi.fashiondays.hu^
 ||ga-beacon.appspot.com^
 ||gaccwr.dutramaquinas.com.br^
-||ga.finam.ru^
 ||ga.groc.press^
 ||gagysn.floward.com^
 ||gahhfg.bobo.com.br^
@@ -13765,6 +13767,7 @@
 ||gdsngr.chainreactioncycles.com^
 ||gdt.qq.com^
 ||gea-exchange-03.net.jumia.ug^
+||gearbubbles.com^
 ||gear.echovisuals.com^
 ||gecfnc.foresight.jp^
 ||gedozw.autoscout24.cz^
@@ -14977,6 +14980,7 @@
 ||hello.stbpost.be^
 ||hello.steadyapp.com^
 ||hello.trailblazers.com^
+||hellounbox.com^
 ||hello.wellocution.com^
 ||helpcollar.com^
 ||helpdesk.thinkhdi.com^
@@ -28608,6 +28612,7 @@
 ||skxbbj.clasic.jp^
 ||skylightdata.com^
 ||slackb.com^
+||slackpod.com^
 ||slashnext.actonservice.com^
 ||s.latam.cemex.com^
 ||slaunch.shopcanopy.com^
@@ -35229,6 +35234,7 @@
 ||telemetry.navispherecarrier.com^
 ||telemetry.owenscorning.com^
 ||telemetry.phenixrts.com^
+||telemetry.proton.me^
 ||telemetry.reembed.com^
 ||telemetry.ruthschris.com^
 ||telemetry.sdk.inmobi.com^
@@ -35475,6 +35481,7 @@
 ||thefishstops.com^
 ||thefontzone.com^
 ||thejavalane.com^
+||themangotea.com^
 ||theme.echovisuals.com^
 ||themepicker.com^
 ||thepowerstones.com^
@@ -36105,6 +36112,7 @@
 ||track.emeza.ch^
 ||track.emeza.com^
 ||tracker-00.qvb.qcloud.com^
+||tracker.3dissue.com^
 ||tracker.520call.me^
 ||tracker-aa.pafbetscore.lv^
 ||tracker-aa.paf.es^
