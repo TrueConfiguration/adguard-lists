@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-08-13T09:00:43.895Z
+! Last modified: 2025-08-14T09:00:40.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11958,6 +11958,7 @@
 ||youborafds01.com^
 ||ads.bandsintown.com^
 ||adops.bandsintown.com^
+||8x202.r.a.d.sendibm1.com^
 ||sendibm3.com^
 ||brevo.com^
 ||tracker.cloud.tyk.io^
@@ -16464,3 +16465,5 @@
 ||mail.dndmelectrical.co.za^
 ||sollopromo.com.br^
 ||muyprepaidcenter.com^
+||metrics.yoast.com^
+||tracking.yoast.com^
