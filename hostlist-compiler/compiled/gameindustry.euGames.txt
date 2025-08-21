@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-04-18T09:00:18.880Z
+! Last modified: 2025-08-21T09:00:13.373Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -93,7 +93,6 @@
 ||redirector.gvt1.com^
 ||r3---sn-gxuo03g-vqne.gvt1.com^
 ||ratt.juno.ea.com^
-||pin-river.data.ea.com^
 ||jvnlfjixedxncztem7pq-pjz1qn-ea616a9d6-clientnsv4-s.akamaihd.net^
 ||ts-crl.ws.symantec.com^
 ||ts-ocsp.ws.symantec.com^
@@ -443,8 +442,10 @@
 ||news.shift.services.gearbox.com^
 ||ttwxp-mim.vivox.com^
 ||ttwxp.www.vivox.com^
-||508223012e5a5ff19f30a391b2bdadc0.my.2k.com^
 ||telemetryk.api.2kcoretech.online^
+||ec2-52-5-69-8.compute-1.amazonaws.com^
+||ec2-98-84-245-96.compute-1.amazonaws.com^
+||ec2-3-211-86-232.compute-1.amazonaws.com^
 # WWE 2K17
 # 192.81.242.188
 ||prod-win32-sp.wwe17.2ksports.com^
@@ -454,6 +455,7 @@
 # WWE 2K19
 # 104.255.107.194
 ||prod-win32-sp.wwe19.2ksports.com^
+||508223012e5a5ff19f30a391b2bdadc0.my.2k.com^
 ||668ae874.clp.app.game.2kcoretech.online^
 # XCOM: Enemy Unknown
 # 192.81.242.201
@@ -4998,6 +5000,8 @@
 ||scontent-dus1-1.xx.fbcdn.net^
 ||a23-48-23-194.deploy.static.akamaitechnologies.com^
 ||a23-48-23-181.deploy.static.akamaitechnologies.com^
+||nrt13s49-in-f238.1e100.net^
+||th-in-f156.1e100.net^
 ||sqm.microsoft.com^
 ||dns.msftncsi.com^
 # Deus Ex: The Fall
@@ -5016,13 +5020,9 @@
 # 63.33.106.137
 ||bluewhale.os.eidos.com^
 ||lblon.os.eidos.com^
-# Lara Croft and the Guardian of Light
-# 208.64.200.105
-# Legend of Mana
-# s. Rubrik Kopierschutz / AntiCheat
-# Life is Strange
-# 208.64.200.105
 ||lis.os.eidos.com^
+||a88-221-110-129.deploy.static.akamaitechnologies.com^
+||a88-221-110-154.deploy.static.akamaitechnologies.com^
 # Life is Strange 2
 # s. Rubrik Kopierschutz / AntiCheat
 # Ip/s blockieren:
@@ -5064,9 +5064,6 @@
 ||t4.os.eidos.com^
 # Fallen Enchantress: Legendary Heroes
 ||impulsedriven.com^
-# Sorcerer King: Rivals
-# 208.64.200.105
-||skrivals-api-tachyon.stardock.net^
 ||tachyon-alert.stardock.net^
 ||tachyon-alertservice.herokuapp.com^
 ||us-east-1-a.route.herokuapp.com^
@@ -5089,8 +5086,9 @@
 ||tinmangames.atlassian.net^
 # Stolen Couch Games
 # Ichi
-# Facebook & Twitter
-# 208.64.200.105
+# Service shutdown 2019 - Connections are still being established successfully
+# 172.67.128.20
+# 104.21.0.144
 ||www.stolencouchgames.com^
 # Sunside Inc
 # Abducted
