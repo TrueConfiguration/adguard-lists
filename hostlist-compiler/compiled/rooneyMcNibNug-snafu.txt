@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-08-21T09:00:44.199Z
+! Last modified: 2025-08-22T09:00:43.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15994,6 +15994,10 @@
 ||growthloop.com^
 ||sales.storyblok.com^
 ||links.mail.storyblok.com^
+||rundeck.teleport.storyblok.com^
+||algolia.plugins.storyblok.com^
+||go.storyblok.com^
+||redshift.teleport.storyblok.com^
 ||948jojobet.com^
 ||ww12.yotuube.com^
 ||battlegroundai.com^
@@ -16473,3 +16477,5 @@
 ||fb-api.otter.ai^
 ||link.thrivecap.com^
 ||crystalbloom.bid^
+||algolia.ai^
+||algolia.com^
