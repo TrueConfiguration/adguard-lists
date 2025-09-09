@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-09-02T09:00:11.688Z
+! Last modified: 2025-09-09T09:00:11.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08SEP25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5159,6 +5159,7 @@
 ||analytics.disneyinternational.com^
 ||analytics.disneyplus.com^
 ||analytics.dvidshub.net^
+||analytics.dv.socure.io^
 ||analytics.edgekey.net^
 ||analytics.egdata.app^
 ||analytics.egernsund.com^
@@ -5561,6 +5562,7 @@
 ||analytics.webgains.io^
 ||analytics.webpushr.com^
 ||analytics.websolute.it^
+||analytics.webynize.com^
 ||analytics.weldonowen.com^
 ||analytics.wellington.com^
 ||analytics.whostheboss.co.uk^
@@ -9388,6 +9390,7 @@
 ||count.candou.com^
 ||count.carrierzone.com^
 ||count.darkreader.app^
+||counter1.fc2.com^
 ||counter.1i.kz^
 ||counter247.live^
 ||counter2.blog.livedoor.com^
@@ -10761,6 +10764,7 @@
 ||dev.go.levelbank.com^
 ||dev.gomi.do^
 ||dev.got-it.link^
+||deviceinf.com^
 ||devilishdinner.com^
 ||dev-iradimed.actonservice.com^
 ||dev-link.aira.io^
@@ -13444,6 +13448,7 @@
 ||fpapi.io^
 ||fpaudience.com^
 ||fpb8.esce.fr^
+||fp.bizjournals.com^
 ||fpc.acpinternist.org^
 ||fpc.acpjournals.org^
 ||fpc.acponline.org^
@@ -13497,6 +13502,7 @@
 ||fpt.inxinternational.com^
 ||fptls2.com^
 ||fptls3.com^
+||fptls4.com^
 ||fptls.com^
 ||fpt.microsoft.com^
 ||fp-upload.dun.163.com^
@@ -21183,6 +21189,7 @@
 ||mc.webvisor.org^
 ||mc.yandex.com^
 ||mc.yandex.ru^
+||mc.yango.com^
 ||mczpco.darty.com^
 ||mczqzk.yves-rocher.hu^
 ||m.d11.io^
@@ -23871,6 +23878,7 @@
 ||nr-data.noelleeming.co.nz^
 ||nrg.red-by-sfr.fr^
 ||nrjcur.pomelofashion.com^
+||nr-js.imaios.com^
 ||nr.noelleeming.co.nz^
 ||nrpukcsgboqr0gz2o8.www.bolighub.dk^
 ||nrquff.supurgemarket.com^
@@ -24456,6 +24464,7 @@
 ||optimisation.data.lloydsbankinggroup.com^
 ||optimizely.techtarget.com^
 ||optimize.mcafee.com^
+||optimizer.poxo.com^
 ||optionen.hager.de^
 ||optistats.ovh^
 ||optis-world.actonservice.com^
@@ -24535,6 +24544,7 @@
 ||os.vudu.com^
 ||o.swisscom.ch^
 ||otel-collector.lenta.tech^
+||otel-mobile.doordash.com^
 ||othanasis.openapp.link^
 ||othisf.tagomago.pl^
 ||otisxx.sullyn.com^
@@ -25489,6 +25499,7 @@
 ||private.cervicalcancer-risk.com^
 ||privateclient.hubinternational.com^
 ||private.roche.com^
+||private.wccftech.com^
 ||prkvlr.camper.com^
 ||pr.nss.netease.com^
 ||prnzxf.glamira.se^
@@ -25752,6 +25763,7 @@
 ||qaapp.forever21.com^
 ||qa-branch-app.liketoknow.it^
 ||qa-brc.emails.rakuten.com^
+||qa-events-schema.viacom.tech^
 ||qaghzg.planteon.pl^
 ||qa-go.ebat.es^
 ||qago.qiagen.com^
@@ -26634,6 +26646,7 @@
 ||rum.azion.com^
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
+||rum.cronitor.io^
 ||rum.hlx.page^
 ||rum-ingress-coralogix.com^
 ||rum.ingress.layer0.co^
@@ -33073,6 +33086,7 @@
 ||stat.juridicas.com^
 ||stat.jusnetkarnovgroup.pt^
 ||stat.kaago.com^
+||stat.khanate.pro^
 ||stat.kiwibank.co.nz^
 ||stat.kkpp.cz^
 ||stat.kleos.cz^
@@ -33541,6 +33555,7 @@
 ||stats.literacysomerset.org^
 ||stats.literaturkreis.online^
 ||stats.lmdsp.com^
+||stats.lmofficial.to^
 ||stats.locallabs.com^
 ||stats.localmetravel.com^
 ||stats.lord.io^
@@ -35389,6 +35404,7 @@
 ||teyvmb.moniquelhuillier.com^
 ||tf.360.cn^
 ||t.fabulousfox.com^
+||t.factorform.com^
 ||t.fairparkdallas.com^
 ||tfdtpa.dot-st.com^
 ||t.fermion.fi^
@@ -35431,6 +35447,7 @@
 ||t.gojacks.com^
 ||t.golobos.com^
 ||t.gomocs.com^
+||t.goodchop.com^
 ||t.gopack.com^
 ||t.gophersports.com^
 ||t.gopoly.com^
@@ -35469,6 +35486,7 @@
 ||thefishstops.com^
 ||thefontzone.com^
 ||thejavalane.com^
+||t.hellowork.com^
 ||themangotea.com^
 ||theme.echovisuals.com^
 ||themepicker.com^
@@ -35811,6 +35829,7 @@
 ||tms.fmm.io^
 ||tms.hft.everyplate.com^
 ||tms.hft.factor75.com^
+||tms.hft.goodchop.com^
 ||tms.hft.greenchef.com^
 ||tms.hft.hellofresh.com^
 ||tms-st.cdn.ngenix.net^
@@ -35965,6 +35984,7 @@
 ||t.poyry.com^
 ||t.pplcenter.com^
 ||tp.quelle.de^
+||t.prageru.com^
 ||t.prod1.discover.binge.com.au^
 ||tp.sheego.de^
 ||tp.sieh-an.at^
