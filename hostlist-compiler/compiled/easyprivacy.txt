@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-09-11T09:00:11.816Z
+! Last modified: 2025-09-13T09:00:12.053Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 12SEP25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -11875,6 +11875,7 @@
 ||ekfwof.finnishdesignshop.fi^
 ||eklexu.kibuba.com^
 ||ekphpa.perfectlypriscilla.com^
+||ek-tracker.ekitan.com^
 ||elasticchange.com^
 ||elastoproxy.actonservice.com^
 ||elconfidencialdigital.actonservice.com^
@@ -22541,6 +22542,7 @@
 ||metrics.rainbowmagic.co.uk^
 ||metrics.ralphlauren.com^
 ||metrics.ralphlauren.fr^
+||metrics.rapidedge.io^
 ||metrics.rarediseasesignup.com^
 ||metrics.rbcgam.com^
 ||metrics.rbcgma.com^
@@ -24466,7 +24468,6 @@
 ||optimisation.data.lloydsbankinggroup.com^
 ||optimizely.techtarget.com^
 ||optimize.mcafee.com^
-||optimizer.poxo.com^
 ||optionen.hager.de^
 ||optistats.ovh^
 ||optis-world.actonservice.com^
@@ -35485,6 +35486,7 @@
 ||thebdx.actonservice.com^
 ||thebigvan.com^
 ||thecea.actonservice.com^
+||thecrazychili.com^
 ||thefishstops.com^
 ||thefontzone.com^
 ||thejavalane.com^
@@ -37065,6 +37067,7 @@
 ||traffic.acwebconnecting.com^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||traffic.hostedstatus.page^
+||trafficid.brandwell.ai^
 ||traffic.prod.cobaltgroup.com^
 ||traffic.shareaholic.com^
 ||traffic.taktikal.is^
@@ -37787,6 +37790,7 @@
 ||trk.bona.nl^
 ||trk.bonella.com.ec^
 ||trk-branch.balinea.com^
+||trk-brevinate.com^
 ||trk.broomwade.com^
 ||trk.brummelandbrown.com^
 ||trk.business.westernunion.at^
