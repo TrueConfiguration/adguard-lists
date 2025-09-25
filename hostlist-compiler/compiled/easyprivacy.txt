@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-09-23T09:00:13.828Z
+! Last modified: 2025-09-25T09:00:11.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24SEP25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5531,6 +5531,7 @@
 ||analytics.truckingauthority.com^
 ||analytics.trust.page^
 ||analytics.trutv.com^
+||analytics.tufos.com.br^
 ||analytics.turnertv.com^
 ||analytics.tver.jp^
 ||analytics.ubs.com^
@@ -8002,6 +8003,8 @@
 ||bum7.bymycar.fr^
 ||bumpermash.com^
 ||bumpydevelopment.com^
+||bundle.9gtb.com^
+||bundle.dyn-rev.app^
 ||bundle.ppas.monster^
 ||bungeesleeves.com^
 ||buonasera.openapp.link^
@@ -10027,6 +10030,7 @@
 ||data.americas.coca-cola.com^
 ||data.a.news.aida.de^
 ||data.apac.coca-cola.com^
+||data.armexfort.uk^
 ||data.articles.ringcentral.com^
 ||data.asp.coca-cola.com^
 ||data.atea.no^
@@ -11710,6 +11714,7 @@
 ||ecdoib.26p.jp^
 ||ecefyu.geox.com^
 ||e.channelexco.com^
+||echoacloud.com^
 ||echoinghaven.com^
 ||eclick.360doc.com^
 ||eclick.baidu.com^
@@ -12693,6 +12698,7 @@
 ||etop.ro^
 ||etoqel.nordicnest.de^
 ||etppmr.luko.eu^
+||etracker.noon.com^
 ||etrack.ext.arubainstanton.com^
 ||etrack.ext.arubanetworks.com^
 ||etrack.ext.hpe.com^
@@ -12749,6 +12755,7 @@
 ||eultech.fnac.com^
 ||eumarketing.sedgwick.com^
 ||eumeainfo.motorolasolutions.com^
+||eum.instana.rewe-group.com^
 ||eu-mobile.events.data.microsoft.com^
 ||e.unchealthcare.org^
 ||euqsfp.belluna.jp^
@@ -12780,6 +12787,7 @@
 ||event3.thermofisher.com^
 ||event3.thermoscientific.com^
 ||event.api.drift.com^
+||event.api.instant.one^
 ||eventapi.libring.com^
 ||event-api.rdstation.com.br^
 ||event-api.reverb.com^
@@ -15350,6 +15358,7 @@
 ||icaubf.casamundo.de^
 ||icfckg.myft.com.br^
 ||icg-in.com^
+||icg-in.info^
 ||icharts.actonservice.com^
 ||icmakp.united-arrows.tw^
 ||icoktb.onygo.com^
@@ -17630,6 +17639,7 @@
 ||kitchen.juicer.cc^
 ||kitetuning.com^
 ||k.itribe.in^
+||kittycatking.com^
 ||kiwi.mdldb.net^
 ||kjdfho.eidaihouse.com^
 ||kjjuuy.icaniwill.fi^
@@ -25665,6 +25675,7 @@
 ||pswgpb.seshop.com^
 ||psychedelicarithmetic.com^
 ||pt.balluff.com^
+||pt.blubrry.com^
 ||pt.crossmediaservices.com^
 ||p.tencentmind.com^
 ||pt.ispot.tv^
@@ -27394,6 +27405,7 @@
 ||schwacke.autovistagroup.com^
 ||schwaebischhall.efscle.com^
 ||sc.icarly.com^
+||science.ctf.gg^
 ||sciencedart.com^
 ||science.schoolspecialtynews.com^
 ||scientificshirt.com^
@@ -34374,6 +34386,7 @@
 ||suncanny.marvel.com^
 ||suncanny.marvelhq.com^
 ||sunlightmetrics.b-cdn.net^
+||sunsetcampfires.com^
 ||sunsetstatic.com^
 ||sunshinegates.com^
 ||sunshinepint.com^
@@ -39166,6 +39179,7 @@
 ||upqmpu.leasingtime.de^
 ||upscaledigest.com^
 ||upstats.yadro.ru^
+||uptime2.fastrr.com^
 ||uptime.fastrr.com^
 ||uptvmovies.uptv.com^
 ||upwkcv.vidaxl.ro^
