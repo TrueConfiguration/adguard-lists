@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-09-30T09:00:11.687Z
+! Last modified: 2025-10-02T09:00:11.806Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01OCT25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8872,6 +8872,7 @@
 ||collector.betway.com^
 ||collector.cint.com^
 ||collector.clareity.net^
+||collector.dgnet.ltd.uk^
 ||collector-direct.xhamster.com^
 ||collector.ex.co^
 ||collector.fiverr.com^
@@ -8933,6 +8934,7 @@
 ||commanslabdspace.carte-gr.total.fr^
 ||commerce.bing.com^
 ||commerce.edc.ca^
+||commercial-analytics-collector.news.co.uk^
 ||commercial.davey.com^
 ||commercial.equifax.com^
 ||commercial.inform.equifax.com^
@@ -11312,6 +11314,7 @@
 ||domself.de^
 ||d.omsnative.de^
 ||donjigrad.viessmann.rs^
+||do-not-tracker.org^
 ||dopljl.noleggiosemplice.it^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
@@ -11791,6 +11794,7 @@
 ||edge.truistmomentum.com^
 ||edge.truistsecurities.com^
 ||edge.wnetwork.com^
+||ediemidnightzombies.com^
 ||ed.large.be^
 ||ed.large.nl^
 ||edm.healthroundtable.org^
@@ -12952,6 +12956,7 @@
 ||evergage1.actonservice.com^
 ||eversource.actonservice.com^
 ||evhvza.sodimac.com.br^
+||eviltracker.net^
 ||e.viously.com^
 ||evkjai.grandado.com^
 ||ev.moneymade.io^
@@ -25014,6 +25019,7 @@
 ||phoenix-content.cresa.com^
 ||phoenix.thexlife.co^
 ||phonecup.com^
+||phoneresult.com^
 ||phonetrack.hukumkaikka.in^
 ||photography.hursey.com^
 ||photohints.com^
@@ -36256,6 +36262,7 @@
 ||tracker.services.vaix.ai^
 ||tracker.shanon-services.com^
 ||tracker.shopclues.com^
+||trackersimulator.org^
 ||tracker.smartframe.io^
 ||tracker.smartseminar.jp^
 ||tracker.softcube.com^
