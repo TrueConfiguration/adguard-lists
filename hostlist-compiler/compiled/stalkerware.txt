@@ -3,7 +3,7 @@
 ! Description: Indicators of compromise (IOC) for Stalkerware and Watchware applications for Android and iOS
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
 ! License: CC-BY
-! Last modified: 2025-04-11T09:01:24.626Z
+! Last modified: 2025-10-04T09:01:37.994Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -217,6 +217,7 @@
 ||info-taxi.info^
 ||inv.logger.mobi^
 ||ioi.life^
+||ios-gw.spynger.net^
 ||izapk.xyz^
 ||izspy-1313.firebaseio.com^
 ||jjspy.com^
@@ -318,6 +319,7 @@
 ||my.phonsee.com^
 ||my.securechildren.online^
 ||my.spylix.com^
+||my.spynger.net^
 ||my.thespyapp.com^
 ||my.thetruthspy.com^
 ||myappmobile-537f7.firebaseio.com^
