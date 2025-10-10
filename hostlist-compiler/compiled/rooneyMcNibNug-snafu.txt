@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-10-09T09:00:40.864Z
+! Last modified: 2025-10-10T09:00:41.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7573,6 +7573,7 @@
 ||bitrix24.com^
 ||analytics-api.cloudinary.com^
 ||tracking.cloudinary.com^
+||mkto.cloudinary.com^
 ||smetrics.consumerreports.org^
 ||pricespider.com^
 ||punchtab.com^
@@ -16311,6 +16312,7 @@
 ||amp1.tidio.com^
 ||tracking.tidio.com^
 ||track.tidio.com^
+||ai-transformation.tidio.com^
 ||truelytics.kiflo.com^
 ||clickrobotrun.incentivio.com^
 ||ml.incentivio.com^
@@ -16667,3 +16669,55 @@ cdn.bc0a.com
 ||adstradata.com^
 ||aditude.com^
 ||fattail.com^
+||ads.emarketer.com^
+||mingle.emarketer.com^
+||branding-na2.emarketer.com^
+||engineering-docs.flick.social^
+||status.flick.social^
+||cio-analytics.flick.social^
+||smm.flick.social^
+||marketing.flick.social^
+||cio-link.flick.social^
+||learn.flick.social^
+||fb-analytics.flick.social^
+||staging.flick.social^
+||schedule.flick.social^
+||frontend.flick.social^
+||www.flick.social^
+||cio-anlytics.flick.social^
+||design-system.flick.social^
+||api.flick.social^
+||email.lc.linkgraph.com^
+||hubspot.linkgraph.com^
+||crm.linkgraph.com^
+||backlink.linkgraph.com^
+||gsc.linkgraph.com^
+||carrot2-dev.linkgraph.com^
+||hello.linkgraph.com^
+||info1.linkgraph.com^
+||stg.linkgraph.com^
+||dev.linkgraph.com^
+||info.linkgraph.com^
+||www.linkgraph.com^
+||info2.linkgraph.com^
+||marketing.deepbrain.io^
+||smtracking.aistudios.com^
+||uk1.jacquard.com^
+||go.jacquard.com^
+||mail-tracking.jacquard.com^
+||www.jacquard.com^
+||eu1.jacquard.com^
+||us2.jacquard.com^
+||tracking.optimove.com^
+||marketing.optimove.com^
+||tracking.chatfuel.com^
+||monitoring2.chatfuel.com^
+||monitoring.chatfuel.com^
+||monitoring3.chatfuel.com^
+||ai.chatfuel.com^
+||pixel-api.customers.ai^
+||wpx.customers.ai^
+||sales.customers.ai^
+||emails.customers.ai^
+||emplifi.io^
+||analytics.napkin.ai^
