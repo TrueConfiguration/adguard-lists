@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-10-16T09:00:39.598Z
+! Last modified: 2025-10-22T09:00:43.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -111,6 +111,7 @@
 ||r.fullstory.com^
 ||rs.fullstory.com^
 ||rs-2.fullstory.com^
+||r.eu1.fullstory.com^
 ||app.fullstory.com^
 ||internal.fullstory.com^
 ||services.fullstory.com^
@@ -145,6 +146,8 @@
 ||play.fullstory.com^
 ||prom.fullstory.com^
 ||randy-maugans-i-iz-a-netelligent-limestone-geekstorage-whore.fullstory.com^
+||edge.eu1.fullstory.com^
+||walmart.fullstory.com^
 ||thefullstory.com^
 ||adblockext.com^
 ||i.trackmytarget.com^
@@ -16733,3 +16736,5 @@ cdn.bc0a.com
 ||metrics.plaid.com^
 ||advertise.acast.com^
 ||analytics.acast.com^
+||tracking.chess.com^
+||ip.varify.dev^
