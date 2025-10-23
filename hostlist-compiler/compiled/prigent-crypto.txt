@@ -3,7 +3,7 @@
 ! Description: Prigent-Crypto, parsed and mirrored by https://firebog.net
 ! Homepage: https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 ! License: MIT License
-! Last modified: 2025-10-21T09:00:37.973Z
+! Last modified: 2025-10-23T09:00:40.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Prigent-Crypto.txt
 !
 # Prigent-Crypto, parsed and mirrored by https://firebog.net
-# Updated 20OCT25 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
+# Updated 22OCT25 from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 ||0.0.0.0adminer.com^
 ||0.0.0.0adminka-pro.ru^
@@ -12368,13 +12368,10 @@
 ||nilupool.xyz^
 ||nim.sh^
 ||nimbocoin.com^
-||nimiq-network.com^
 ||nimiq.agency^
-||nimiq.com^
 ||nimiq.net^
 ||nimiq.network^
 ||nimiq.terorie.com^
-||nimiq.watch^
 ||nimiqpool.com^
 ||nimiqtest.ml^
 ||nimiqtest.net^
