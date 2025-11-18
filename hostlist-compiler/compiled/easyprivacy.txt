@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-11-15T09:00:12.042Z
+! Last modified: 2025-11-18T09:00:12.447Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 14NOV25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 17NOV25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6840,6 +6840,7 @@
 ||assets2.terrischeer.com.au^
 ||assets2.vanz.vero.co.nz^
 ||assets2.vero.co.nz^
+||assets.9gtb.com^
 ||assets.channelplay.in^
 ||assets.datarize.ai^
 ||assets.eafit.edu.co^
@@ -8003,6 +8004,7 @@
 ||bu.adpinfo.com^
 ||buasmk.earthshoes.com^
 ||bubblewrapp.actonservice.com^
+||bubblyaction.com^
 ||budibu.saksfifthavenue.com^
 ||buf.lemonde.fr^
 ||bugdsm.buffalo-boots.com^
@@ -8132,6 +8134,7 @@
 ||cadsuta.net^
 ||caf.actonservice.com^
 ||cafefrench.com^
+||cafescampfires.com^
 ||cafirebreather.com^
 ||cagkpu.suitdirect.co.uk^
 ||cakeagenda.com^
@@ -8386,6 +8389,7 @@
 ||cesario.bt.no^
 ||cfaexam.quantresear.ch^
 ||cfa.fidelity.com^
+||cf.api.instant.one^
 ||cfb.8it.me^
 ||cf.campagnes-france.com^
 ||c.fingerprint.com^
@@ -11344,6 +11348,7 @@
 ||d.omsnative.de^
 ||donjigrad.viessmann.rs^
 ||do-not-tracker.org^
+||doomhedge.com^
 ||dopljl.noleggiosemplice.it^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
@@ -12931,6 +12936,7 @@
 ||events.nuance.com^
 ||events.oakstreethealth.com^
 ||events.ocdn.eu^
+||events-ocu.zipify.com^
 ||events.oddo-bhf.com^
 ||events.onet.pl^
 ||events.paramount.tech^
@@ -17365,6 +17371,7 @@
 ||jeccmq.wehkamp.nl^
 ||jeedmact.sc.com^
 ||jeffersonawards.actonservice.com^
+||jellyfinstream.com^
 ||jelndb.truereligion.com^
 ||jelr1.dili.fr^
 ||jensenhughes.actonservice.com^
@@ -25210,6 +25217,7 @@
 ||pixelvariety.com^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
+||pixel.wetracked.io^
 ||pixel.wp.com^
 ||pixel.wp.pl^
 ||pixel.yabidos.com^
@@ -38995,6 +39003,7 @@
 ||tvcoag.brw.pl^
 ||t.veranstaltungsticket-bahn.de^
 ||tver-metrics.streaks.jp^
+||t.vibe.co^
 ||t.villanova.com^
 ||t.virginiasports.com^
 ||tvkfms.nta.co.jp^
