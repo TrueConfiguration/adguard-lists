@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-11-18T09:00:43.798Z
+! Last modified: 2025-11-21T09:00:42.595Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16761,3 +16761,41 @@ srcpref-svc.app-staging.klue.com
 ||growth.update.widgetbot.io^
 ||metadata.widgetbot.io^
 ||analytics.memrise.com^
+||aiq-in.delish.com^
+||tollbit.delish.com^
+||new-docs.tollbit.com^
+a.tollbit.com                   
+api.tollbit.com                 
+log.tollbit.com                                                 
+app.tollbit.com                                                 
+||careers.tollbit.com^
+||docs.tollbit.com^
+tollbit.com                     
+||pre-hack.tollbit.com^
+||test-docs.tollbit.com^
+||tollbit.tollbit.com^
+||clerk.tollbit.com^
+||devs.tollbit.com^
+||oauth.tollbit.com^
+||pre-devs.tollbit.com^
+||pre-log.tollbit.com^
+||servers.pre-mcp.tollbit.com^
+||chat.tollbit.com^
+||aws-deployment-app.tollbit.com^
+||gateway.tollbit.com^
+||content-cache.tollbit.com^
+||assets.cdn.tollbit.com^
+||tiles-demo.tollbit.com^
+||preproduction.tollbit.com^
+||signup.tollbit.com^
+why.tollbit.com                 
+||hack.tollbit.com^
+||pre-api.tollbit.com^
+||pre-docs.tollbit.com^
+www.tollbit.com                 
+cf.app.preproduction.tollbit.com 
+||accounts.tollbit.com^
+||apps.tollbit.com^
+||pre-app.tollbit.com^
+||advertising.discogs.com^
+||analytics.discogs.com^
