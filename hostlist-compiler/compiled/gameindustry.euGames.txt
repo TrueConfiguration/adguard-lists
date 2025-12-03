@@ -3,7 +3,7 @@
 ! Description: Increased protection against spyware, advertising, analytics, tracking in games
 ! Homepage: https://github.com/KodoPengin
 ! License: CC BY-NC-SA 4.0
-! Last modified: 2025-08-21T09:00:13.373Z
+! Last modified: 2025-12-03T09:00:13.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3112,8 +3112,6 @@
 ||scontent-frt3-2.xx.fbcdn.net^
 ||video-frx5-1.xx.fbcdn.net^
 ||xx-fbcdn-shv-01-muc2.fbcdn.net^
-||d2v02itv0y9u9t.cloudfront.net^
-||d2nvs31859zcd8.cloudfront.net^
 ||s.amazon-adsystem.com^
 ||c.amazon-adsystem.com^
 ||aax-eu.amazon-adsystem.com^
@@ -3799,7 +3797,6 @@
 ||nxnxp-ws.vivox.com^
 ||nxnxp-mim.vivox.com^
 ||sdk-push.mp.nexon.com^
-||gtable.inface.nexon.com^
 ||d30y0swoxkbnsm.cloudfront.net^
 ||jyp.nexon.com^
 ||livestream.inface.nexon.com^
@@ -3855,45 +3852,10 @@
 # 104.19.234.38
 # 104.18.16.97
 ||fast-static-api.nkstatic.com^
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# SAS: Zombie Assault 4
-# 104.19.235.38
-# 104.18.16.97
-# 104.19.234.38
-# NIS America, Inc.
-# Criminal Girls: Invite Only / クリミナルガールズ INVITATION
-# 208.64.200.105
-# ラングリッサーI&II | Langrisser I & II
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# Operation Abyss: New Tokyo Legacy
-# 208.64.200.105
-# Strangers of Sword City
-# Ip/s blockieren:
-# 208.64.200.105
-# 208.64.200.105
-# 深夜廻 Yomawari: Midnight Shadows
-# 208.64.200.105
-# Nitrome
-# Bomb Chicken
-# Ip/s blockieren:
-# 34.111.113.40
-# 34.107.172.168
-# Nkidu Games Inc.
-# Solstice Chronicles: MIA
-# TwinStick-Win64-Shipping.exe
-# Ip/s blockieren:
-# 172.68.195.1 # Cloudflare auch bei Agony aktiv
-# No Matter Studios
-# Praey for the Gods
-# Ip/s blockieren:
-# 35.190.78.8
-# Nordic Games
-# Red Faction®: Armageddon™
-# 208.64.200.105
+||mor-analytics-live-941107368707.us-east1.run.app^
+||d2hjvmnsrtrg65.cloudfront.net^
+||a104-109-143-157.deploy.static.akamaitechnologies.com^
+||a104-109-143-162.deploy.static.akamaitechnologies.com^
 # Northway Games
 # Rebuild III: Gangs of Deadsville
 # Betriebssystem inkl. Architektur, Produktbezeichnung, Spracheinstellungen
@@ -3915,7 +3877,6 @@
 # NVLMaker
 # Soulslayer～灭魂·误佳期～
 ||open.bakery.moe^
-# 208.64.200.105
 # Nyu Media
 # Yatagarasu Attack on Cataclysm
 # 133.208.182.78
@@ -4500,7 +4461,6 @@
 ||ingame.companyofheroes.com^
 ||pop-up-market-medias.community.amplitude-studios.com^
 ||stun.stunprotocol.org^
-||d2hjvmnsrtrg65.cloudfront.net^
 ||eos-general.s3.amazonaws.com^
 ||ec2-34-254-84-86.eu-west-1.compute.amazonaws.com^
 ||ec2-18-202-193-192.eu-west-1.compute.amazonaws.com^
