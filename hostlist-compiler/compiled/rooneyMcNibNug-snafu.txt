@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-12-02T09:00:43.283Z
+! Last modified: 2025-12-04T09:00:49.097Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,7 +20,6 @@
 ||location.l.force.com^
 ||foodanddrink.tile.appex.bing.com^
 ||travel.tile.appex.bing.com^
-||in.treasuredata.com^
 ||redshell.io^
 ||b2c-msm.marketo.com^
 ||munchkin.marketo.net^
@@ -16950,3 +16949,21 @@ cf.app.preproduction.tollbit.com
 ||stats.np.norton.com^
 ||rum-metrics.bunny.net^
 ||leadsy.ai^
+||clicks.freepik.com^
+||analytics.looker.resy.com^
+sl.treasuredata.com          
+utilization.treasuredata.com                                    
+||treasuredata.com^
+||metarouter.io^
+||marketing.veed.io^
+||landing.veed.io^
+||clicks.veed.io^
+||icustomer.ai^
+||tag.listsurge.ai^
+||px.listsurge.ai^
+||amperity.com^
+||analytics.wotnot.io^
+||monitor.bubblebox.wotnot.io^
+||monitor.archie.wotnot.io^
+||monitor.replycx.wotnot.io^
+||bardeen.ai^
