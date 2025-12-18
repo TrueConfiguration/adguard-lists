@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-12-14T09:00:42.575Z
+! Last modified: 2025-12-18T09:00:43.173Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16966,3 +16966,39 @@ utilization.treasuredata.com
 ||monitor.archie.wotnot.io^
 ||monitor.replycx.wotnot.io^
 ||bardeen.ai^
+||engagement.cdata.com^
+||metrics.cdata.com^
+lp.moengage.com                
+dev1.moengage.com   
+mtls-test.moengage.com                                         
+ws.moengage.com                                                
+mtls.moengage.com                                              
+qadev.moengage.com         
+bapi-01.moengage.com                                           
+image-100.moengage.com  
+go.moengage.com       
+hemanth-v2-proxy.moengage.com                                  
+prod.moengage.com              
+sec-px.moengage.com  
+sslpinningpoc.moengage.com 
+stage.moengage.com           
+exp.moengage.com        
+docs.moengage.com    
+sdk-05-sg.moengage.com                                         
+moengage.com                   
+||synergy.ortec.com^
+||guideline.ai^
+||connexity.com^
+||meredith.com^
+||people.inc^
+||advendio.com^
+||sdk.userled.io^
+||trail.userled.io^
+||identity.userled.io^
+||marketing.userled.io^
+||api.userled.io^
+||vyadd.com^
+||invibes.com^
+||adictiz.com^
+||brax.io^
+||nativeadbuzz.com^
