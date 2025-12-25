@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-12-23T09:00:12.030Z
+! Last modified: 2025-12-25T09:00:11.751Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22DEC25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24DEC25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -6340,7 +6340,6 @@
 ||app.mylogoinc.com^
 ||app.myrbhs.com.au^
 ||app.mywaggle.com^
-||app.naga.com^
 ||app.naked.insure^
 ||app.nala.money^
 ||app.nalogi.online^
@@ -7401,7 +7400,6 @@
 ||beginnerpancake.com^
 ||be-go.experian.com^
 ||behave.sn.at^
-||belgium.wolterskluwer.com^
 ||belong.curtin.edu.au^
 ||beneficios.davivienda.hn^
 ||beneficios.davivienda.sv^
@@ -8246,6 +8244,7 @@
 ||canvasandsocks.com^
 ||caowuq.babyliss-romania.ro^
 ||capablecup.com^
+||capi.connatix.com^
 ||capping.sirius.press^
 ||capplanllc.actonservice.com^
 ||capriciouscorn.com^
@@ -9636,6 +9635,7 @@
 ||cs.hot.net.il^
 ||c.sibnet.ru^
 ||csi.gstatic.com^
+||cs.media.net^
 ||csmetrics.wilton.com^
 ||csm.magnetintell.com^
 ||cs.nakanohito.jp^
@@ -13557,10 +13557,13 @@
 ||form.vocalink.com^
 ||forpci3.siege-corp.com^
 ||fortunatemark.com^
+||forwardslashetc.com^
+||fossilzero.com^
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
 ||fourpawsahead.com^
 ||fourtimessmelly.com^
+||foxlagoon.com^
 ||foxt.actonservice.com^
 ||foxtinfo.foxt.com^
 ||foxtrotdata.com^
@@ -14859,6 +14862,7 @@
 ||grayoranges.com^
 ||grayreceipt.com^
 ||grayscaleart.com^
+||graywords.net^
 ||gr-business.vodafone.com^
 ||grc2.secureforms.mcafee.com^
 ||grc.openapp.link^
@@ -19475,7 +19479,6 @@
 ||lqvfkk.sosyopix.com^
 ||lqxjrk.fbs.com^
 ||lravwm.spa.cz^
-||lrbelgium.wolterskluwer.com^
 ||lrdnuu.shopee.co.th^
 ||lrdxki.hakutou-shop.com^
 ||l.redcross.or.ke^
@@ -38950,7 +38953,6 @@
 ||tr.xlead.digital^
 ||tr.xleads.digital^
 ||trx.zip.co^
-||try.abtasty.com^
 ||try.blackboard.com^
 ||try.jaranda.kr^
 ||try.joonapp.io^
