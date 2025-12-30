@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2025-12-27T09:00:11.713Z
+! Last modified: 2025-12-30T09:00:11.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26DEC25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29DEC25 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4449,6 +4449,7 @@
 ||ad.magokoro-care-shoku.com^
 ||admaxium.com^
 ||admeasure.hh-online.jp^
+||admetrics.events^
 ||admin.academyforconsciousleadership.net^
 ||adminer.com^
 ||administrator.pnclassaction.com^
@@ -4880,6 +4881,7 @@
 ||alliedfundingcorp.actonservice.com^
 ||allinsurance.allinsure.ca^
 ||alloutdubstep.com^
+||alloy-web.zvuk.com^
 ||allreach.actonservice.com^
 ||allrisks.actonservice.com^
 ||a.lls.org^
@@ -6391,6 +6393,7 @@
 ||app.pally.live^
 ||app.pandasuite.io^
 ||app.panomoments.com^
+||app.partnerboost.com^
 ||app.partner.fisglobal.com^
 ||app.pawsket.com^
 ||app.payments.53.com^
@@ -7053,6 +7056,7 @@
 ||awmonitor.com^
 ||awogtl.1stopbedrooms.com^
 ||awowwo.forever21.com^
+||aw.perlesandco.com^
 ||awrgkd.1000farmacie.it^
 ||aws-br-cdn.kwai.net.iberostar.com^
 ||aws-br-pic.kwai.net.iberostar.com^
@@ -8370,6 +8374,7 @@
 ||cdl.lvsafe.io^
 ||cdn1.skrill.com^
 ||cdn7.baunetz.de^
+||cdn.9gtb.com^
 ||cdn.arcstudiopro.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-eu.usefathom.com^
@@ -8958,6 +8963,7 @@
 ||coloradoserves.com^
 ||colorfulpet.com^
 ||coloringisland.com^
+||coloroptimizer.com^
 ||colors.chamoji.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
@@ -16177,6 +16183,7 @@
 ||impactradius-event.com^
 ||imp.ad-plus.cn^
 ||imp.go.sohu.com^
+||imponestvional.com^
 ||imp.optaim.com^
 ||importantmeat.com^
 ||importedinsect.com^
@@ -17296,6 +17303,7 @@
 ||i.shelf.im^
 ||ish.tumedia.no^
 ||isjoui.cainz.com^
+||islandssouth.com^
 ||islandwebhelp.com^
 ||is.lg.com^
 ||is-log.furunavi.jp^
@@ -17648,6 +17656,7 @@
 ||jupiterhealth-app.hotdoc.com.au^
 ||justconfig.com^
 ||justicejudo.com^
+||justlagoon.com^
 ||justpickaname.com^
 ||just.playvici.com^
 ||justsayyes.infor.com^
@@ -18008,6 +18017,7 @@
 ||layeredinsight.actonservice.com^
 ||l.azarlive.com^
 ||lazychord.com^
+||lazyexplore.com^
 ||lb.billing01.email-allstate.com^
 ||lbc.lesbonscommerces.fr^
 ||l.beaute-test.com^
@@ -19086,6 +19096,7 @@
 ||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||l.itribe.in^
+||littlesun.net^
 ||live.alljobs.co.il^
 ||live.comunicaciones.jetstereo.com^
 ||livecounter.theyosh.nl^
@@ -19237,6 +19248,7 @@
 ||loggychops.paulsmith.site^
 ||log.hiiir.com^
 ||log.hypebeast.com^
+||logicalminds.net^
 ||logicanalytics.io^
 ||log.idnes.cz^
 ||login.e-ticket.co.jp^
@@ -22876,7 +22888,6 @@
 ||metrics.stockhead.com.au^
 ||metrics.store.irobot.com^
 ||metrics.strategiccoach.com^
-||metrics.streaks.jp^
 ||metrics.striderite.com^
 ||metrics.strokeawareness.com^
 ||metrics.stubhub.co.uk^
@@ -24208,7 +24219,9 @@
 ||obqvss.debameubelen.be^
 ||obrazy.dlabiznesu.pracuj.pl^
 ||obrqts.hudforeclosed.com^
+||obs.branderblender.com^
 ||obscenesidewalk.com^
+||obs.du89buildings.com^
 ||observe.metarouter.io^
 ||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
@@ -36116,6 +36129,7 @@
 ||tmxjdr.benaza.ro^
 ||tmx.td.com^
 ||tmy8.madeindesign.ch^
+||t.mydialoginsight.com^
 ||t.mynexity.fr^
 ||t.nativendo.de^
 ||t.navysports.com^
@@ -37337,6 +37351,7 @@
 ||tradetooth.com^
 ||tr.adhesion.ircom-laverriere.com^
 ||traffic.acwebconnecting.com^
+||traffic.askrella.de^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||traffic.hostedstatus.page^
 ||trafficid.brandwell.ai^
@@ -37574,6 +37589,7 @@
 ||trck.comms.watlow.com^
 ||trck.coomeet.com^
 ||trck.copeland.com^
+||trck.digiteka.com^
 ||trck.e.atradius.com^
 ||trck.el.supremapoker.com.br^
 ||trck.employerservices.experian.com^
@@ -38436,6 +38452,7 @@
 ||tr.mes-bonsplans.be^
 ||tr.mes-prestataires.fr^
 ||tr.message.maaf.fr^
+||tr.metaflow.de^
 ||tr.mhch.moet.hennessy.com^
 ||tr.mh-connect.moethennessy.com^
 ||tr.mhdconnect.mhdfrance.fr^
@@ -39108,7 +39125,6 @@
 ||t.voyages-sncf.com^
 ||tvpixel.com^
 ||tvppa.actonservice.com^
-||t.vrbo.io^
 ||tv-test.esvdigital.com^
 ||tv.totaljobs.com^
 ||tvuaeb.taqi.com.br^
@@ -39326,10 +39342,7 @@
 ||ultravalid.com^
 ||ultund.misterspex.nl^
 ||ulutlv.esprit.fr^
-||umami.aigenerations.net^
-||umami.askrella.de^
 ||umami.flixer.su^
-||umami.heroku.uk^
 ||umami.spencerdevs.xyz^
 ||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
@@ -40719,6 +40732,7 @@
 ||wgeaqi.laredoute.gr^
 ||wgnrrd.culturekings.com^
 ||wgpepw.boatoutfitters.com^
+||wgs.wgs-static.com^
 ||wgyapq.stormberg.com^
 ||whahmy.timberland.es^
 ||whale3.io^
@@ -40833,6 +40847,7 @@
 ||workplace.ricoh.it^
 ||workplacesolutions.equifax.com^
 ||workplacesolutions.inform.equifax.com^
+||work.selecdoo.com^
 ||workspacesolutions.gos1.com^
 ||worldlever.com^
 ||worldmtcs.nhk.jp^
