@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2025-12-18T09:00:43.173Z
+! Last modified: 2025-12-31T09:00:43.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -17002,3 +17002,16 @@ moengage.com
 ||adictiz.com^
 ||brax.io^
 ||nativeadbuzz.com^
+||metorik.com^
+||analytics-ut1.geico.com^
+||sadobeanalytics.geico.com^
+||analytics-lt1.geico.com^
+||analytics-dv1.geico.com^
+||analytics.geico.com^
+||analytics-read.geico.com^
+||analytics-tr.geico.com^
+||analytics-in1.geico.com^
+||data-analytics-dev-tealium.ace.aaa.com^
+||smetrics.midatlantic.aaa.com^
+||opensend.com^
+||event.kindly.ai^
