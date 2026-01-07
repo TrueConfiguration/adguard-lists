@@ -3,7 +3,7 @@
 ! Description: Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 ! License: MIT License
-! Last modified: 2026-01-05T09:00:06.775Z
+! Last modified: 2026-01-07T09:00:05.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6684,7 +6684,8 @@
 ||web.ali213.net^
 ||alia-iso.com^
 ||tr.info.aliae.com^
-||aliapp.org^
+||cdn.ynuf.aliapp.org^
+||umdc.aliapp.org^
 ||aliasanvil.com^
 ||aliasfoot.com^
 ||crm-eve.b2b.alibaba-inc.com^
