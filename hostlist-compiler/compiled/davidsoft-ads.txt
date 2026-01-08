@@ -3,7 +3,7 @@
 ! Description: This is a list of categorized domains, with additional entries for wildcard blocking. The domains are documented as to keep a record of what is being blocked or allowed.
 ! Homepage: https://github.com/DRSDavidSoft/additional-hosts
 ! License: MIT License
-! Last modified: 2025-06-05T09:00:12.500Z
+! Last modified: 2026-01-08T09:00:08.849Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -74,6 +74,8 @@
 # Apple Metrics
 ||metrics.apple.com^
 ||metrics.icloud.com^
+# APKCar: Used in advertising trojan malware
+||apkcar.com^
 # Admedo: Self-serve advertising platform (based in London, UK)
 ||admedo.com^
 # Adversal: Self-serve native advertising (based in Indiana, US)
@@ -539,6 +541,8 @@
 # Fyber: Mobile apps monetization platform (part of Digital Turbine, Inc)
 ||digitalturbine.com^
 ||fyber.com^
+# Flyermobi: Used in advertising trojan malware
+||flyermobi.com^
 # Oath ad:tech, owned by Verizon Media (formerly AOL AdTech, based in Frankfurt, Germany)
 ||adtechus.com^
 ||aka-cdn.adtech.de^
