@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-01-17T09:00:42.529Z
+! Last modified: 2026-01-22T09:00:45.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -17060,3 +17060,15 @@ moengage.com
 ||rwadx.fuseplatform.net^
 ||bauer-media.fuseplatform.net^
 ||log-filtering.memberful.com^
+||clicks.justwatch.com^
+||click.justwatch.com^
+||pixel.justwatch.com^
+||usanetwork.api.viewlift.com^
+||usanetwork.web.viewlift.com^
+||monitor-foxone-uw4.viewlift.com^
+||analytics.eu.chargebee.com^
+||trackman.chargebee.com^
+||retention.chargebee.com^
+||insights.eu.chargebee.com^
+||leadpages.io^
+||clearout.io^

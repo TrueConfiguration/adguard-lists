@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-01-20T09:00:13.039Z
+! Last modified: 2026-01-22T09:00:13.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 21JAN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8114,6 +8114,7 @@
 ||bx-cloud.com^
 ||bxiaev.linvosges.com^
 ||bxlsct.ex-shop.net^
+||bxtag.com^
 ||bxumze.buckscountycouriertimes.com^
 ||bxumze.gadsdentimes.com^
 ||bxumze.jacksonville.com^
@@ -8397,6 +8398,7 @@
 ||cdn.ravm.tv^
 ||cdn-rum.ngenix.net^
 ||cdns.brsrvr.com^
+||cdn.sy-d.io^
 ||cdn.usefathom.com^
 ||cdnwidget.com^
 ||cdp.cifinancial.com^
@@ -8907,6 +8909,7 @@
 ||collect.elvia.ch^
 ||collect-eu.attraqt.io^
 ||collect.ezidox.com^
+||collectfront.nector.io^
 ||collect.helsana.ch^
 ||collect.helsana-preprod.ch^
 ||collect.hollisterco.com^
@@ -8950,6 +8953,7 @@
 ||collector.spankbang.party^
 ||collector.sspinc.io^
 ||collector.taoxh.life^
+||collector.theconversation.com^
 ||collector.t-idr.com^
 ||collector-videoplayer.5centscdn.net^
 ||collector.wawlabs.com^
@@ -9622,6 +9626,7 @@
 ||crossees.com^
 ||crossengage.io^
 ||crowdedmass.com^
+||cr-relay.com^
 ||crrm.onjoyri.de^
 ||crs.actonservice.com^
 ||crta.and.co.uk^
@@ -10010,11 +10015,13 @@
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d39ion77s0ucuz.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
+||d3banl4fzuxsjl.cloudfront.net^
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3gi6isrskhoq.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
+||d3ip4t8fp90x81.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
@@ -10039,6 +10046,7 @@
 ||d761erxl2qywg.cloudfront.net^
 ||d810.mysanantonio.com^
 ||d81mfvml8p5ml.cloudfront.net^
+||d94qwxh6czci4.cloudfront.net^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||da.bodenhaus.de^
 ||dabu.askmediagroup.com^
@@ -11323,6 +11331,7 @@
 ||dl-test.myathath.com^
 ||dl-test.rivafashion.com^
 ||dl.thebeat.co^
+||dlthst9q2beh8.cloudfront.net^
 ||dl.tytocare.com^
 ||dluat.pokerbros.net^
 ||dluat.supremapoker.net^
@@ -13295,6 +13304,7 @@
 ||fc.vodafone.de^
 ||fd.bawag.at^
 ||fdbs.actonservice.com^
+||fd.cleantalk.org^
 ||fdiinc.actonservice.com^
 ||fd.ivoclar.com^
 ||fdixsh.platypusshoes.com.au^
@@ -13747,6 +13757,7 @@
 ||ftaysn.meinekette.de^
 ||ftfnews.actonservice.com^
 ||ft.groc.press^
+||ftlaunchpad.ai^
 ||ftm.fluencyinc.co^
 ||ftmsyy.jbl.com.br^
 ||ftnnce.autodoc.dk^
@@ -13918,6 +13929,7 @@
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcowhi.thesalarycalculator.co.uk^
+||gcp.fasthorse.workers.dev^
 ||gcprivacy.com^
 ||gct.americanexpress.com^
 ||gc.titans.com.au^
@@ -19352,6 +19364,7 @@
 ||loobmf.hardloop.fr^
 ||look-ahead.nurturemarketing.com^
 ||loopcybersec.com^
+||loosecase.com^
 ||looseloaf.com^
 ||l.ooyala.com^
 ||lord.actonservice.com^
@@ -19368,6 +19381,7 @@
 ||lowermybills.actonsoftware.com^
 ||lowerthewatts.net^
 ||lowgxl.yokumoku.jp^
+||lowkeypalmtree.com^
 ||lozano.net.anwalt.de^
 ||lozjnq.stateandliberty.com^
 ||lp3.dentsplysirona.com^
@@ -21652,6 +21666,7 @@
 ||melodiousharmony.com^
 ||melodioussymphony.com^
 ||melodothogy.meng2x.com^
+||melodyglobe.com^
 ||meltmilk.com^
 ||member-app.rightwayhealthcare.com^
 ||members.atomcomplete.com^
@@ -25916,6 +25931,7 @@
 ||pt.balluff.com^
 ||pt.blubrry.com^
 ||pt.crossmediaservices.com^
+||pt.dwcdn.net^
 ||p.tencentmind.com^
 ||pt.ispot.tv^
 ||pt.legalstart.fr^
@@ -26847,6 +26863,7 @@
 ||rovememoirs.com^
 ||rowsrm.atasunoptik.com.tr^
 ||roxtec.actonservice.com^
+||royalespring.com^
 ||royalsbagels.com^
 ||royalsweeper.com^
 ||royzgi.giftishow.com^
@@ -26950,6 +26967,7 @@
 ||rumsey.actonservice.com^
 ||rumstat.cdnvideo.ru^
 ||rumt-sg.com^
+||rumt-zh.com^
 ||rum.uptime.com^
 ||rup5.destinia.ru^
 ||ruralrobin.com^
@@ -36419,6 +36437,7 @@
 ||track.abrdnjapan.co.uk^
 ||track.abrdnnewindia.co.uk^
 ||track.abrdnpit.co.uk^
+||track.aimroas.com^
 ||track.americansongwriter.com^
 ||track.asiadragontrust.co.uk^
 ||track.asia-focus.co.uk^
@@ -36571,6 +36590,7 @@
 ||track.ferraridealers.com^
 ||track.financialfairness.org.uk^
 ||track.fusionmedia.io^
+||track.getgobot.com^
 ||track.gleeph.net^
 ||track.go.shokubai.co.jp^
 ||track.healthcare-distribution.com^
