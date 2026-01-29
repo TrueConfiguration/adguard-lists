@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-01-27T09:00:12.315Z
+! Last modified: 2026-01-29T09:00:11.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28JAN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5199,6 +5199,7 @@
 ||analytics.erepublic.com^
 ||analytics.ericafischerphotography.com^
 ||analytics.esporteinterativo.com.br^
+||analytics.eternagame.org^
 ||analytics.eventbrite.com^
 ||analytics.everythingstream.com^
 ||analytics.evo.co.uk^
@@ -5309,6 +5310,7 @@
 ||analytics.lunge.de^
 ||analytics.m7g.twitch.tv^
 ||analytics.maikel.pro^
+||analytics.maileon.com^
 ||analytics.mailmunch.co^
 ||analytics.makeitmeme.com^
 ||analytics.makro.be^
@@ -11296,6 +11298,7 @@
 ||dlh1.hilton.com^
 ||dl.hadaaya.com^
 ||dl.health-programs.express-scripts.com^
+||d.lilstts.com^
 ||dlink.blueapron.com^
 ||dlink.hsdyn.com^
 ||dlink-staging.blueapron.com^
@@ -13382,6 +13385,7 @@
 ||fieldconfig.com^
 ||fight.offtherecord.com^
 ||figsprotein.com^
+||figurehunter.net^
 ||fiimox.lebenskraftpur.de^
 ||filament-stats.herokuapp.com^
 ||filbrandtco.actonservice.com^
@@ -17370,6 +17374,7 @@
 ||itservices.ricoh.ie^
 ||itservices.ricoh.no^
 ||it.sharpmarketing.eu^
+||itsstats.wp1.site^
 ||itt.enterprises.proximus.com^
 ||itznub.gap.co.uk^
 ||iujeaa.menz-style.com^
@@ -17832,6 +17837,7 @@
 ||kitchen.juicer.cc^
 ||kitetuning.com^
 ||k.itribe.in^
+||kittentacos.com^
 ||kittycatking.com^
 ||kiwi.mdldb.net^
 ||kjdfho.eidaihouse.com^
@@ -19231,6 +19237,7 @@
 ||loaddisplay.com^
 ||loadedhearts.com^
 ||loader-cdn.azureedge.net^
+||loader.mantis-intelligence.com^
 ||load.nootiz.com^
 ||loadsurprise.com^
 ||loansales.cbre.com^
@@ -33266,6 +33273,7 @@
 ||sstats.www.o2.cz^
 ||sstats.yourchi.org^
 ||sst.babypark.nl^
+||sst.brodo.com^
 ||sst.bwt.com^
 ||s.stcatharinesstandard.ca^
 ||sst.colemanfurniture.com^
@@ -33484,6 +33492,7 @@
 ||stats2.bonappetit.com^
 ||stats2.cntraveler.com^
 ||stats2.golfdigest.com^
+||stats2.helpmonks.com^
 ||stats2.indianpornempire.com^
 ||stats2.mytuner.mobi^
 ||stats2.newyorker.com^
@@ -33580,6 +33589,7 @@
 ||stats.briskoda.net^
 ||stats.broddin.be^
 ||stats.brumtechtapas.co.uk^
+||stats.bryancollins.com^
 ||stats.buddiy.net^
 ||stats.bungeefit.co.uk^
 ||stats.bunkr.ru^
@@ -39481,7 +39491,6 @@
 ||unequaltrail.com^
 ||uni7.uniplaces.com^
 ||unicontainers.com^
-||unidays.world^
 ||unifiedwfo.verintsystemsinc.com^
 ||unifilabs.actonservice.com^
 ||uninterestedquarter.com^
