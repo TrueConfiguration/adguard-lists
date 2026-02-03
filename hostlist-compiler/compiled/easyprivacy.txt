@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-01-31T09:00:11.510Z
+! Last modified: 2026-02-03T09:00:11.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02FEB26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5348,6 +5348,7 @@
 ||analytics.mlstatic.com^
 ||analytics.mobile.yandex.net^
 ||analytics.mondotv.jp^
+||analytics.morphe.software^
 ||analytics.mouthshut.com^
 ||analytics.moviepilot.de^
 ||analytics.multithread.studio^
@@ -5776,6 +5777,7 @@
 ||api.autopilothq.com^
 ||api.bunzlaucastle.com^
 ||a.pickme.lk^
+||api.croct.io^
 ||api.digitalpiloten.org^
 ||api.elliehuxtable.com^
 ||api.fuck.education^
@@ -8395,6 +8397,7 @@
 ||cdn1.skrill.com^
 ||cdn7.baunetz.de^
 ||cdn.9gtb.com^
+||cdn-a.raptor.digital^
 ||cdn.arcstudiopro.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-eu.usefathom.com^
@@ -13653,6 +13656,7 @@
 ||fpc.singleplatform.com^
 ||fpc.trimarkusa.com^
 ||fpc.utexas.edu^
+||fp-flame.vercel.app^
 ||fpghll.rossmann.hu^
 ||fpida.amphi.jp^
 ||fpida.bodybook.jp^
@@ -18265,6 +18269,7 @@
 ||likethedog.com^
 ||lilogy.actonservice.com^
 ||l.imax.com^
+||limecodesign.com^
 ||limepeal.com^
 ||limone.iltrovatore.it^
 ||lincolnfinancialgroup.lfg.com^
@@ -21689,6 +21694,7 @@
 ||melodyglobe.com^
 ||meltmilk.com^
 ||member-app.rightwayhealthcare.com^
+||membernook.com^
 ||members.atomcomplete.com^
 ||membership.mortonarb.org^
 ||memberships.clubcorp.com^
@@ -23548,6 +23554,7 @@
 ||mortgage.leads360.com^
 ||mortgage.velocify.com^
 ||mosvnx.livup.com.br^
+||motionarray.net^
 ||motionflowers.com^
 ||motion.kollmorgen.com^
 ||motionlessbelief.com^
@@ -24741,6 +24748,7 @@
 ||ophan.theguardian.com^
 ||opim.pixmania.com^
 ||oply.hearstapps.com^
+||op-mobile.opera.com^
 ||opo4.assuronline.com^
 ||opoffice.actonservice.com^
 ||opportunity.businessbroker.net^
@@ -26986,6 +26994,7 @@
 ||rum.layer0.co^
 ||rum.marquardmedia.hu^
 ||rum.mauve.eu^
+||rum.optimizely.com^
 ||rum.perfops.net^
 ||rumsey.actonservice.com^
 ||rumstat.cdnvideo.ru^
@@ -36560,6 +36569,7 @@
 ||tracker.gleanview.com^
 ||tracker.grupanya.com^
 ||tracker.hdtvcloud.com^
+||tracker.hollandandbarrett.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
 ||tracker.iltrovatore.it^
@@ -36627,6 +36637,7 @@
 ||track.heritagebuildings.com^
 ||track.hg.healthgrades.com^
 ||track.hk01.com^
+||trackhorizon.nnmtools.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
 ||track.hydro.online^
@@ -40253,6 +40264,7 @@
 ||visitor-microservice.ext.p-a.im^
 ||visitor.novartisoncology.us^
 ||visitors.gigianddavid.com^
+||visitor-speed.com^
 ||visitping.rossel.be^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||visit.sendheirloom.com^
