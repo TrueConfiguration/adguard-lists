@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-02-12T09:00:11.692Z
+! Last modified: 2026-02-14T09:00:11.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11FEB26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13FEB26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4884,6 +4884,7 @@
 ||alliantdata.actonservice.com^
 ||alliedfundingcorp.actonservice.com^
 ||allinsurance.allinsure.ca^
+||allnewhost.com^
 ||alloutdubstep.com^
 ||alloy-web.zvuk.com^
 ||allreach.actonservice.com^
@@ -7570,6 +7571,7 @@
 ||bkrtx.com^
 ||bksckn.minhacasasolar.com.br^
 ||bkstg.flyx.me^
+||blackbelted.com^
 ||blackbirdventures.actonservice.com^
 ||blackbook.coniferhealth.com^
 ||blackbrake.com^
@@ -8200,6 +8202,7 @@
 ||calmcactus.com^
 ||calmradio.actonservice.com^
 ||calmstudent.com^
+||calvarycards.com^
 ||calvera-telemetry.polaris.me^
 ||calypsocapsule.com^
 ||ca.macheq.com^
@@ -8269,6 +8272,7 @@
 ||candidate.response.ingenovishealth.com^
 ||candid.zone^
 ||candy.sees.com^
+||cannonborough.com^
 ||cannonchange.com^
 ||canvasandsocks.com^
 ||caowuq.babyliss-romania.ro^
@@ -12950,6 +12954,7 @@
 ||event.instiengage.com^
 ||event.jma.or.jp^
 ||event-listener.air.tv^
+||event-log-api-data-platform-data-lake-prod.gryphline.com^
 ||eventlog.chatlead.com^
 ||event-logger.tagboard.com^
 ||eventlog.inspsearchapi.com^
@@ -17294,7 +17299,6 @@
 ||i.poker2u.app^
 ||i.pokerbros.net^
 ||i.pokernews.com^
-||i.posthog.com^
 ||iptmgi.akan.co.kr^
 ||iptmih.hifi-regler.de^
 ||ipummv.pharao24.de^
@@ -27042,6 +27046,7 @@
 ||rwevib.harmontblaine.com^
 ||rwfkzw.wuerth.it^
 ||rwhneg.breaking-news.jp^
+||r.winf.site^
 ||rwlnfq.alindashop.ro^
 ||rw.marchex.io^
 ||rwohdj.motocard.com^
