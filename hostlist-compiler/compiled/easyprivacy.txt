@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-02-28T09:00:11.750Z
+! Last modified: 2026-03-03T09:01:22.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27FEB26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02MAR26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4680,6 +4680,7 @@
 ||af.eficads.com^
 ||afep.pivn.shop^
 ||affa8.hikkoshi-master.com^
+||affectionknit.com^
 ||afficv.lettuce.co.jp^
 ||affilate.hh.ru^
 ||affiliate-api.raptive.com^
@@ -9141,6 +9142,7 @@
 ||condemnedcomb.com^
 ||conditionchange.com^
 ||conditioncrush.com^
+||conduit.redfast.com^
 ||conference.all-energy.com.au^
 ||conference.flsmidth.com^
 ||conferences.cigna.com^
@@ -11450,6 +11452,7 @@
 ||dopljl.noleggiosemplice.it^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
+||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotvox.actonservice.com^
 ||doubledefend.com^
@@ -19291,6 +19294,7 @@
 ||locateskill.com^
 ||location.imsmetals.com^
 ||lockuplookup.com^
+||locolava.com^
 ||lodicoandco.actonservice.com^
 ||lodlww.carcon.co.jp^
 ||lofo3l15c674.platform.replai.io^
@@ -19304,6 +19308,7 @@
 ||log.aliyuncs.com^
 ||logapi.alza.cz^
 ||log-api.cli.im^
+||log.arkansasonline.com^
 ||logbak.hicloud.com^
 ||log.bitauto.com^
 ||log.china.cn^
@@ -24364,6 +24369,7 @@
 ||occidente.ubmmexico.com^
 ||oceanair.actonservice.com^
 ||oceanautomotive.actonservice.com^
+||oceancloudhosts.com^
 ||ochre-app.hotdoc.com.au^
 ||oci.dyn.com^
 ||ocmxbu.hanatour.com^
@@ -25854,6 +25860,7 @@
 ||priceypies.com^
 ||pricklydebt.com^
 ||pricklypollution.com^
+||prideproms.com^
 ||primary-app.hotdoc.com.au^
 ||primary.hasegawa.jp^
 ||primavera.actonservice.com^
@@ -32689,6 +32696,7 @@
 ||spottednoise.com^
 ||sp.pcid.ca^
 ||sp.pcoptimum.ca^
+||sp.pluto.tv^
 ||spread.epoolers.com^
 ||springballet.com^
 ||springboard.aon.com^
@@ -36520,6 +36528,7 @@
 ||tr5.mailperf.com^
 ||tr5.mperf.com^
 ||tr6.mperf.com^
+||tr6.snapchat.com^
 ||tr.aasi.espmp-agfr.net^
 ||tr.abo.cotemaison.fr^
 ||traccoon.intellectsoft.net^
@@ -40326,7 +40335,6 @@
 ||vision.cbre.com.au^
 ||vision.cbresi.com.au^
 ||visit.adelaide.edu.au^
-||visit.asb.co.nz^
 ||visit.atea.fi^
 ||visit.campermate.com^
 ||visit.donateblood.com.au^
@@ -40453,6 +40461,7 @@
 ||vtneexam.quantresear.ch^
 ||vtodss.livenation.com^
 ||v.topya.com^
+||vtrk.dv.tech^
 ||vtrtl.de^
 ||vttics.world.co.jp^
 ||v-t.topya.com^
