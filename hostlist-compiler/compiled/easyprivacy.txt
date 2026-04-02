@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-03-31T09:01:22.757Z
+! Last modified: 2026-04-02T09:01:22.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01APR26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5008,7 +5008,7 @@
 ||ana.chat.shalove.net^
 ||anaconda.net.anwalt.de^
 ||ana.e-ticket.co.jp^
-||anal.billingserv.com^
+||anal.baseserv.com^
 ||anal.doubledouble.top^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
@@ -7414,6 +7414,7 @@
 ||beacon.statful.com^
 ||beacon.walmart.com^
 ||beacon.watch.impress.co.jp^
+||beacon.webpresence.work^
 ||beacon.wikia-services.com^
 ||beafdf.restaupro.com^
 ||beagle.prod.tda.link^
@@ -9000,7 +9001,6 @@
 ||collector.theconversation.com^
 ||collector.t-idr.com^
 ||collector-videoplayer.5centscdn.net^
-||collector.wawlabs.com^
 ||collector.xhaccess.com^
 ||collector.xhamster2.com^
 ||collector.xhamster3.com^
@@ -25245,6 +25245,7 @@
 ||payqjd.subito.it^
 ||payroll.smartsalary.com.au^
 ||pay.truemoney.me^
+||pbc.barrons.com^
 ||pbc.programbrokerage.com^
 ||pbecrm.aquanet.ru^
 ||pb.i.sogou.com^
@@ -26027,6 +26028,7 @@
 ||prospex.actonservice.com^
 ||pro.stormwindstudios.com^
 ||protapes.actonservice.com^
+||protechts.net^
 ||protectpool.com^
 ||protestcopy.com^
 ||protosell.actonservice.com^
@@ -35226,6 +35228,7 @@
 ||tags.air1.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
+||tags.barrons.com^
 ||tags.catapultx.com^
 ||tags.cmp.tail.digital^
 ||tags.dxmdp.com^
@@ -40673,6 +40676,7 @@
 ||wa.vodafone.pt^
 ||wavrlh.cedok.cz^
 ||wavzlt.michaelstars.com^
+||wa.wawlabs.com^
 ||wa.wdr.de^
 ||wa.wdrmaus.de^
 ||wa.web.de^
@@ -41070,10 +41074,12 @@
 ||widgethouse.com^
 ||widget-pixels.outbrain.com^
 ||wigkxx.jetcost.com^
+||wikiquotations.com^
 ||wikiwhatwhere.com^
 ||wildcommittee.com^
 ||wildwoodavenue.com^
 ||w.ilfattoquotidiano.it^
+||windbeetle.com^
 ||win.staticstuff.net^
 ||wirecomic.com^
 ||wiredforcoffee.com^
