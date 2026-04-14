@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-04-11T09:01:21.940Z
+! Last modified: 2026-04-14T09:01:23.259Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13APR26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4112,7 +4112,6 @@
 ||academics.academicsuperstore.com^
 ||acadian-asset.actonservice.com^
 ||a.careangel.com^
-||acbp0020171456.page.tl^
 ||accenture.epoise.com^
 ||accenturetest.epoise.com^
 ||acceptcards.americanexpress.co.uk^
@@ -8803,7 +8802,6 @@
 ||cloud.webtrack.online^
 ||cloudwp.io^
 ||cloverleaf.infor.com^
-||cl-pbr.cxr.skeepers.io^
 ||clp-mms.cloudpro.co.uk^
 ||clrt.ai^
 ||cls7.theushuaiaexperience.com^
@@ -25312,6 +25310,7 @@
 ||peacefullimit.com^
 ||pear.ca-eko-globetrotter.fr^
 ||peards.zevvle.com^
+||pearpouch.com^
 ||pedropanther.com^
 ||peeringhost.net^
 ||pegasus.unifygroup.com^
