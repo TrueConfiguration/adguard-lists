@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-04-14T09:01:23.259Z
+! Last modified: 2026-04-16T09:01:22.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 15APR26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -17265,7 +17265,6 @@
 ||in.upipr.co^
 ||inv3te.oui.sncf^
 ||invata.actonservice.com^
-||inventorycache.com^
 ||inventtango.com^
 ||investment.lianest.co.jp^
 ||investments.aberdeenstandard.com^
@@ -24164,7 +24163,6 @@
 ||nnivvr.zimmo.be^
 ||nnkeoi.timarco.com^
 ||nnkkxb.nuts.com^
-||nnmtools.comthird-party^
 ||nnobek.waschbaer.de^
 ||nnofmj.studiof.com.co^
 ||nnqyed.laredoute.be^
@@ -36735,6 +36733,7 @@
 ||tracker.jkstremum.xyz^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.metricool.com^
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
 ||tracker.multisearch.io^
