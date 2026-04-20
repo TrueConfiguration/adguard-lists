@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Use this file to prevent your computer from connecting to selected internet hosts
 ! Homepage: http://someonewhocares.org/hosts/zero/
-! Last modified: 2026-04-18T09:00:48.252Z
+! Last modified: 2026-04-20T09:00:48.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1052,6 +1052,7 @@
 ||zz.cqcounter.com^
 # sites with known trojans, phishing, or other malware
 ||0.nextyourcontent.com^
+||00000.uno^
 ||05tz2e9.com^
 ||1-bmo-client-login.com^
 ||1-directshipmtdhlsexpress-order.help^
@@ -1970,6 +1971,7 @@
 ||lemnode.fr^
 ||lemondde.fr^
 ||lemovnde.fr^
+||leojblog.com^
 ||leomonde.fr^
 ||leparirien.fr^
 ||leparisein.fr^
