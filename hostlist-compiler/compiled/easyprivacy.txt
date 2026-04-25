@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-04-23T09:01:22.747Z
+! Last modified: 2026-04-25T09:01:22.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24APR26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -8546,6 +8546,7 @@
 ||childlikecrowd.com^
 ||childlikeexample.com^
 ||childlikeform.com^
+||chillingtofu.com^
 ||chingovernment.com^
 ||chipperisle.com^
 ||chivalrouscord.com^
@@ -8797,7 +8798,6 @@
 ||cloudchickens.com^
 ||cloud.diagral.fr^
 ||cloudfront-labs.amazonaws.com^
-||cloudguppy.com^
 ||cloudhosting.actonservice.com^
 ||cloudhosting-business.vodafone.com^
 ||cloudhustles.com^
@@ -13318,6 +13318,7 @@
 ||fairytaleflame.com^
 ||faithrowold.com^
 ||fakedisguise.com^
+||fakeschool.com^
 ||fakexa-post.mno.link^
 ||fal2.carrefour-banque.fr^
 ||fallaciousfifth.com^
@@ -13417,6 +13418,7 @@
 ||feedback.nslsc-csnpe.ca^
 ||feedme.use-beez.com^
 ||feedten.com^
+||feelwarmth.com^
 ||feignedfaucet.com^
 ||femalecook.com^
 ||f-emc.ngsp.gov.vn^
@@ -14284,6 +14286,7 @@
 ||gi-client-tracking.goodgamestudios.com^
 ||giddycoat.com^
 ||gif1.gifi.fr^
+||giftclothings.com^
 ||giftplanning.westmont.edu^
 ||gigkarma.com^
 ||g.ign.com^
@@ -36630,6 +36633,7 @@
 ||tr.account.np6.com^
 ||tr.acd-comexpert.fr^
 ||trace.bluemonkey.jp^
+||tracecontent.com^
 ||trace.insead.edu^
 ||trace.qq.com^
 ||tracer.autoscout24.ch^
