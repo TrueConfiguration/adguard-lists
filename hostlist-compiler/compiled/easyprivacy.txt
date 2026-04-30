@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-04-28T09:01:24.698Z
+! Last modified: 2026-04-30T09:01:22.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29APR26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7281,6 +7281,7 @@
 ||babyblissgifts.com^
 ||baccarat.abzorbagames.com^
 ||backoffice.verintsystemsinc.com^
+||backtension.com^
 ||backupcat.com^
 ||baconbags.com^
 ||badgeboat.com^
@@ -17279,6 +17280,7 @@
 ||intg.snapchat.com^
 ||in.treasuredata.com^
 ||intricateberry.com^
+||introjava.com^
 ||int-shares.ri.la^
 ||intuitvisitorid.api.intuit.com^
 ||in.upipr.co^
@@ -23930,6 +23932,7 @@
 ||nappyattack.com^
 ||nappyneck.com^
 ||narc-dc.actonservice.com^
+||narrativ.com^
 ||nasi.etherscan.com^
 ||nasscom.epoise.com^
 ||nasscomtest.epoise.com^
@@ -24820,6 +24823,7 @@
 ||onlywoofs.com^
 ||onmlkjiion.carte-gr.total.fr^
 ||onoztg.ultimate-guitar.com^
+||onsitestats.bluecore.com^
 ||ontxgr.hofer-reisen.at^
 ||oocrzh.byojet.com^
 ||oo.ooshop.com^
@@ -34333,7 +34337,6 @@
 ||stats.sebastiangale.ca^
 ||stats.sec.telefonica.com^
 ||stats.selectam.io^
-||stats.sender.net^
 ||stats.sendngnt.com^
 ||stats.senty.com.au^
 ||stats.servicedesignjobs.com^
