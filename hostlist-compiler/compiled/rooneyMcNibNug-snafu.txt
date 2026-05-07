@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-05-06T09:04:56.127Z
+! Last modified: 2026-05-07T09:04:51.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -18296,3 +18296,16 @@ moengage.com
 ||viirl.com^
 ||viralnation.com^
 ||leadpipe.com^
+||browser-intake-datadoghq.com^
+||browser-intake-us1-datadoghq.com^
+||browser-intake-us2-datadoghq.com^
+||browser-intake-us3-datadoghq.com^
+||browser-intake-us4-datadoghq.com^
+||browser-intake-us5-datadoghq.com^
+||browser-intake-ap1-datadoghq.com.^
+||browser-intake-corporateclash.net.^
+||browser-intake-datad0g.com^
+||browser-intake-ddog-gov.com^
+||browser-intake-foxbusiness.com^
+||browser-intake-interactio.com^
+||browser-intake-rheaply.com^
