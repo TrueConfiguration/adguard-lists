@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-05-09T09:04:53.196Z
+! Last modified: 2026-05-12T09:04:54.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16626,7 +16626,6 @@ cdn.bc0a.com
 ||marvel-processor.bc0a.com^
 ||smsbump.com^
 ||cdn-zeptoapps.com^
-||icanhazip.com^
 ||analytics.rclone.org^
 ||metrics.newegg.com^
 ||ad.newegg.com^
@@ -18310,3 +18309,16 @@ moengage.com
 ||browser-intake-interactio.com^
 ||browser-intake-rheaply.com^
 ||rlets.com^
+||collect-analytics.cohere.com^
+||preview-analytics-be.north.internal.cohere.com^
+||preview-analytics.north.internal.cohere.com^
+||preview-aar10n-ratelimit-metrics-1.north.internal.cohere.com^
+||preview-danish-dua-metric-exc.north.internal.cohere.com^
+||vercel-marketing-app.staging.gamma.app^
+||vercel-marketing-app.gamma.app^
+||ci-metrics-grpc.internal.glean.com^
+||tracksuit-be.glean.com^
+||cointracker-internal-be.glean.com^
+||clearwateranalytics-internal-be.glean.com^
+||clearwateranalytics-be.glean.com^
+||hausanalytics-be.glean.com^
