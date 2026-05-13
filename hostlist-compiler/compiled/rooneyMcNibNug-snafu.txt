@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-05-12T09:04:54.624Z
+! Last modified: 2026-05-13T09:04:54.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -18322,3 +18322,17 @@ moengage.com
 ||clearwateranalytics-internal-be.glean.com^
 ||clearwateranalytics-be.glean.com^
 ||hausanalytics-be.glean.com^
+||ccs-system-test-itaanalytics.cohesity.com^
+||analytics-stage.systemhealth.netinsights.eng.cohesity.com^
+||helios-sandbox2-itaanalyticsagent.cohesity.com^
+||helios-sandbox2-itaanalytics.cohesity.com^
+||analytics-pen.systemhealth.netinsights.cohesity.com^
+||analytics-qa.systemhealth.netinsights.eng.cohesity.com^
+||helios-itaanalytics.cohesity.com^
+||helios-itaanalyticsagent.cohesity.com^
+||analytics.cohesity.com^
+||ccs-system-test-itaanalyticsagent.cohesity.com^
+||ccs-integration-itaanalytics.cohesity.com^
+||analytics.systemhealth.netinsights.cohesity.com^
+||ccs-integration-itaanalyticsagent.cohesity.com^
+||raven.ai^
