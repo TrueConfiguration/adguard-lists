@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-05-28T09:01:23.450Z
+! Last modified: 2026-05-30T09:01:22.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29MAY26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4982,6 +4982,7 @@
 ||ampltd2.medal.tv^
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
+||ampscamp.net^
 ||am.siemensplmevents.com^
 ||ams.lelong.com.my^
 ||ams.oraclecloud.com^
@@ -22682,6 +22683,7 @@
 ||metrics.motortrend.com^
 ||metrics.mrporter.com^
 ||metrics.mrrooter.com^
+||metrics.mtcgame.com^
 ||metrics.mum.edu^
 ||metrics.mycareforward.com^
 ||metrics.myclubwyndham.com^
@@ -34700,6 +34702,7 @@
 ||strack.www.allianzcare-corporate.com^
 ||straightnest.com^
 ||straindrinks.com^
+||strandedgame.com^
 ||strangeclocks.com^
 ||strapi.clickjogos.com.br^
 ||strategycompanion.actonservice.com^
@@ -36593,6 +36596,7 @@
 ||track.abrdnjapan.co.uk^
 ||track.abrdnnewindia.co.uk^
 ||track.abrdnpit.co.uk^
+||track.addevent.com^
 ||track.aimroas.com^
 ||track.americansongwriter.com^
 ||track.asiadragontrust.co.uk^
