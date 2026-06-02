@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-05-30T09:01:22.149Z
+! Last modified: 2026-06-02T09:01:22.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01JUN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4162,6 +4162,7 @@
 ||ac.geechs-job.com^
 ||acidicstraw.com^
 ||acidpigs.com^
+||a.cineflix.st^
 ||aciysf.destockage-fitness.com^
 ||ac.livelty.com^
 ||aclordi.actonservice.com^
@@ -4890,6 +4891,7 @@
 ||allinsurance.allinsure.ca^
 ||allnewhost.com^
 ||alloutdubstep.com^
+||alloytitans.com^
 ||alloy-web.zvuk.com^
 ||allreach.actonservice.com^
 ||allrisks.actonservice.com^
@@ -5532,6 +5534,7 @@
 ||analytics-ssl.seton.co.uk^
 ||analytics-stamp.confi.com.vc^
 ||analytics-static.ugc.bazaarvoice.com^
+||analytics.steast.io^
 ||analytics.strangeloopnetworks.com^
 ||analytics.superstation.com^
 ||analytics.superstructure.ai^
@@ -7332,6 +7335,7 @@
 ||bat.maydream.com^
 ||baton.cuetv.online^
 ||bats.video.yahoo.com^
+||battleburst.com^
 ||battlekite.com^
 ||battlenet.openapp.link^
 ||bavvgo.zingat.com^
@@ -22012,6 +22016,7 @@
 ||metrics.aviasales.ru^
 ||metrics.aviationweek.com^
 ||metrics.avnet.com^
+||metrics-a.wbx2.com^
 ||metrics.axs.com^
 ||metrics.babycenter.de^
 ||metrics.baitoru.com^
@@ -39249,6 +39254,7 @@
 ||tsa.taxslayer.com^
 ||t-s.avastin.com^
 ||t-s.avastin-hcp.com^
+||tsa.webex.com^
 ||t-s.biooncology.com^
 ||tsbkht.puritan.com^
 ||tsbmkf.zonnebrillen.com^
@@ -39607,6 +39613,7 @@
 ||ultravalid.com^
 ||ultund.misterspex.nl^
 ||ulutlv.esprit.fr^
+||umami.dev^
 ||umami.flixer.su^
 ||umami.spencerdevs.xyz^
 ||umami.vidfast.pro^
