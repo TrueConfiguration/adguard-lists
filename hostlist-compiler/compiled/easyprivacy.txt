@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-06-06T09:01:22.088Z
+! Last modified: 2026-06-09T09:01:23.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08JUN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -13490,6 +13490,7 @@
 ||financialservices.teranet.ca^
 ||find.api.micloud.xiaomi.net.iberostar.com^
 ||findthetruth.allergyai.com^
+||findyourdelight.com^
 ||findyourinfluence.actonservice.com^
 ||fingerprinter-production.herokuapp.com^
 ||finley.fecinc.com^
@@ -28006,6 +28007,7 @@
 ||seamlesssalon.com^
 ||seao.business.samsung.com^
 ||search.anonymous.ads.brave.com^
+||seaskypro.com^
 ||seatsmoke.com^
 ||sebotr.rizeclinic.com^
 ||seb.sharpmarketing.eu^

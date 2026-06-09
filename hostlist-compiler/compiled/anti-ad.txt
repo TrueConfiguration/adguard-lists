@@ -3,7 +3,7 @@
 ! Description: Committed to becoming the ad filtering list with the highest hit rate in the Chinese region, to achieve accurate ad blocking and privacy protection.
 ! Homepage: https://github.com/privacy-protection-tools/anti-AD
 ! License: MIT License
-! Last modified: 2026-06-08T09:00:26.231Z
+! Last modified: 2026-06-09T09:00:25.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -80782,6 +80782,7 @@
 ||adstats.tencentmusic.com^
 ||ssp.tencentmusic.com^
 ||report.tencentmusic.com^
+||adcdn6.tencentmusic.com^
 ||tend-new.com^
 ||tend.io^
 ||uoqxdh.tendapro.it^
