@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-06-13T09:01:22.225Z
+! Last modified: 2026-06-16T09:01:22.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 15JUN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -15640,6 +15640,7 @@
 ||idlecollect.com^
 ||idlqzb.puntoscolombia.com^
 ||idm.api.autohome.com.cn^
+||id.nbcuni.com^
 ||idndlc.kango-oshigoto.jp^
 ||idqwqm.kkday.com^
 ||idrivelogistics.actonservice.com^
@@ -19203,7 +19204,6 @@
 ||link.zurp.com^
 ||lio8.destinia.com.pa^
 ||liosix.mtvuutiset.fi^
-||lipstat.com^
 ||liquid.agora.pl^
 ||li.rtl2.de^
 ||listen.trakks.com^
@@ -21433,6 +21433,7 @@
 ||mas.nth.ch^
 ||massivemark.com^
 ||master.cifraclub.com.br^
+||masterenter.com^
 ||masternaut.actonservice.com^
 ||mastertag.kpcustomer.de^
 ||mastertag.q-sis.de^
@@ -24517,6 +24518,7 @@
 ||om.cyberrentals.com^
 ||om.dowjoneson.com^
 ||o.medallia.com^
+||omegaroutes.com^
 ||om.escapehomes.com^
 ||om.etnetera.cz^
 ||ometrics.ameds.com^
@@ -25971,7 +25973,6 @@
 ||profiling.ruukki.com^
 ||profit.edc.ca^
 ||profitrumour.com^
-||proftrafficcounter.com^
 ||profusesupport.com^
 ||progmxs.com^
 ||programmes-skema.skema-bs.fr^
@@ -36945,8 +36946,6 @@
 ||tracking.carsales.com.au^
 ||tracking.cat898.com^
 ||tracking.cdiscount.com^
-||tracking.cds.dmm.co.jp^
-||tracking.cds.dmm.com^
 ||tracking.cello-square.com^
 ||tracking.cengage.com^
 ||tracking.cenomicenters.com^
