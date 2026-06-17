@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-06-11T09:04:46.807Z
+! Last modified: 2026-06-17T09:04:46.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -18364,3 +18364,14 @@ moengage.com
 ||jalebiuser.moonfroglabs.com^
 ||events.moonfroglabs.com^
 ||click.inc42.com^
+||origin-dev-xcmetrics-backend.ns.paramount.tech^
+||chinougoo.cfd^
+||go2bank-verify.store^
+||go2bank-verify.org^
+||go2bank-verify.online^
+||go2bank-verify.com^
+||fidelitybankaccount.com^
+||analytics02.aptoide.com^
+||analytics.aptoide.com^
+||aptoide-mmp-stats.dev.aptoide.com^
+||aptoide-mmp-stats.aptoide.com^
