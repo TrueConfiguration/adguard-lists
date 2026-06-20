@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-06-18T09:01:21.908Z
+! Last modified: 2026-06-20T09:01:21.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 19JUN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5033,6 +5033,7 @@
 ||analytic-client.blitzmightyparty.com^
 ||analytic-client.chickgoddess.com^
 ||analytic-client.panowars.com^
+||analytic.divee.ai^
 ||analytic.fishtrack.com^
 ||analytic.hawaii.aaa.com^
 ||analytic.hotelclub.com^
@@ -5344,6 +5345,7 @@
 ||analytics.metro.fr^
 ||analytics.metro.pk^
 ||analytics.metro.ua^
+||analytics.mgm.gov.tr^
 ||analytics.midas-antilles.fr^
 ||analytics.midas.be^
 ||analytics.midas.ci^
@@ -10795,6 +10797,7 @@
 ||ddlbr.timesclub.co^
 ||ddlcvm.clas.style^
 ||dd.leboncoin.fr^
+||ddlnk.net^
 ||ddm.frandroid.com^
 ||ddmfrg.modivo.bg^
 ||ddnahc.mesbagages.com^
@@ -26977,6 +26980,7 @@
 ||roas-service.store-services-prod.remarkable.com^
 ||robotflowermobile.com^
 ||robotgarages.com^
+||robotsrefinery.com^
 ||rochelle.wantsext.me^
 ||rockagainst.com^
 ||rockstarwriter.com^
@@ -33465,6 +33469,7 @@
 ||stan.xing.com^
 ||stape.brascast.com^
 ||starchild.odencat.com^
+||starfurniture.net^
 ||starget.aircanada.com^
 ||starget.airmiles.ca^
 ||starget.bitdefender.com^
@@ -34769,6 +34774,7 @@
 ||st.tulastudio.se^
 ||stt.wawacity.onl^
 ||studentadvantage.actonservice.com^
+||studioalkaline.com^
 ||studio.joinsalut.com^
 ||studycooking.com^
 ||study.jcu.edu.au^
@@ -36014,6 +36020,7 @@
 ||thebigvan.com^
 ||thebrainybulb.com^
 ||thecea.actonservice.com^
+||thecounter.net^
 ||thecrazychili.com^
 ||thefishstops.com^
 ||thefontzone.com^
@@ -40630,6 +40637,7 @@
 ||warnwing.com^
 ||warrenfcu.actonservice.com^
 ||warrjy.feiler.jp^
+||wart.val.town^
 ||wasc.homedepot.ca^
 ||wasc.homedepot.com^
 ||wasc.kaufland.ro^
