@@ -3,7 +3,7 @@
 ! Description: Domains classified as tracking or advertising
 ! Homepage: https://gitlab.com/quidsup/notrack-blocklists
 ! License: GPLv3
-! Last modified: 2026-06-17T09:04:12.596Z
+! Last modified: 2026-06-24T09:04:12.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -488,7 +488,6 @@
 ||analytics.tripwireinteractive.com^
 ||analytics.trovit.com^
 ||analytics.twitter.com^
-||analytics.typedream.com^
 ||analytics.us.algolia.com^
 ||analytics.valiuz.com^
 ||analytics.voissa.fr^
@@ -538,7 +537,6 @@
 ||api.us-west-2.aiv-delivery.net^
 ||api64.com^
 ||apien.ldmnq.com^
-||apnanalytics.com^
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
@@ -598,13 +596,11 @@
 ||attn.tv^
 ||attributionapp.com^
 ||atwola.com^
-||audienceinsights.net^
 ||audiencemanager.de^
 ||audrte.com^
 ||audtd.com^
 ||augur.io^
 ||auto.netdirector.co.uk^
-||autotrack.g.ebay.com^
 ||avada.io^
 ||avantisvideo.com^
 ||avazunativeads.com^
@@ -723,12 +719,10 @@
 ||bnc.lt^
 ||bngdyn.com^
 ||bngpt.com^
-||bnserving.com^
 ||bntrace.com^
 ||bombora.com^
 ||bongacash.com^
 ||bonzai.co^
-||boo-box.com^
 ||books-analytics-events.apple.com^
 ||boomads.com^
 ||boostable.com^
@@ -754,13 +748,11 @@
 ||brightline.tv^
 ||brilliantcollector.com^
 ||britepool.com^
-||britishinquisitive.com^
 ||browser-intake-datadoghq.com^
 ||browser-intake-datadoghq.eu^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||browsiprod.com^
-||brunettemattersrefused.com^
 ||bstats.org^
 ||btloader.com^
 ||btrll.com^
@@ -771,7 +763,6 @@
 ||bugly.weplayer.cc^
 ||bugsnag.com^
 ||bumlam.com^
-||bunintruder.com^
 ||buysellads.com^
 ||buysellads.net^
 ||buysub.com^
@@ -802,7 +793,6 @@
 ||carrotquest.io^
 ||casalemedia.com^
 ||case.clmbtech.com^
-||catapultx.com^
 ||cauly.co.kr^
 ||cb-telemetry.academicmerit.com^
 ||cbdatatracker.com^
@@ -813,7 +803,6 @@
 ||cdn1.adcdnx.com^
 ||cdn4ads.com^
 ||cdnads.com^
-||cdnativepush.com^
 ||cdnondemand.org^
 ||cdntrf.com^
 ||cdp.cloud.unity3d.com^
@@ -838,7 +827,6 @@
 ||cheetahmail.com^
 ||chicdn.net^
 ||chimpstatic.com^
-||chipspasteprowl.com^
 ||choicestream.com^
 ||circulate.com^
 ||citruserve.com^
@@ -852,8 +840,6 @@
 ||clearbit.com^
 ||clearbitjs.com^
 ||clearbitscripts.com^
-||clearcode.cc^
-||clenchedyouthmatching.com^
 ||clevernt.com^
 ||cleverpush.com^
 ||clevertap-prod.com^
@@ -904,10 +890,8 @@
 ||cmail4.com^
 ||cmail5.com^
 ||cmcore.com^
-||cmdspassets.com^
 ||cnzz.com^
 ||co-buying.com^
-||cobwebcomprehension.com^
 ||codigo.se^
 ||cogocast.net^
 ||collect.analytics.unity3d.com^
@@ -934,7 +918,6 @@
 ||config.toto.zipoapps.com^
 ||config.uca.cloud.unity3d.com^
 ||confirmsubscription.com^
-||conjunctionrepresentativepowerless.com^
 ||connatedresspint.com^
 ||connatix.com^
 ||connectad.io^
