@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-06-27T09:01:22.254Z
+! Last modified: 2026-06-30T09:01:22.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29JUN26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5075,11 +5075,13 @@
 ||analytics-api.klickly.com^
 ||analyticsapi.qogita.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-api-s.cloudinary.com^
 ||analytics.apnewsregistry.com^
 ||analytics.archive.org^
 ||analytics.argeton.com^
 ||analytics.arunraghavan.net^
 ||analytics.asml.com^
+||analytics.atlas5.co^
 ||analytics.atom.com^
 ||analytics.audioeye.com^
 ||analytics.audionow.de^
@@ -5192,6 +5194,7 @@
 ||analytics.disneyinternational.com^
 ||analytics.disneyplus.com^
 ||analytics.distributednews.com^
+||analytics.divulg.org^
 ||analytics.dvidshub.net^
 ||analytics.dv.socure.io^
 ||analytics.edgekey.net^
@@ -10728,6 +10731,7 @@
 ||dc.kfz-steuercheck.de^
 ||dckiwt.eataly.com^
 ||dclnxirp001cou.net.jumia.co.tz^
+||dclsrv.com^
 ||dc.luzygas.ahorraconrepsol.com^
 ||dc.madridistas.com^
 ||dcnkrd.baseballsavings.com^
@@ -11598,6 +11602,7 @@
 ||d.sondakika.com^
 ||d.sourcepoint.capitalfm.com^
 ||dsoxjxin5jji.controlconceptsusa.com^
+||dsp-track-global.zmaticoo.com^
 ||dspx.tv^
 ||dst05lp2.net.mydays.de^
 ||d-staging.groc.press^
@@ -24902,6 +24907,7 @@
 ||origin-smetrics.go365.com^
 ||origin-target.humana.com^
 ||origin.www.images.2.forms.healthcare.philips.com^
+||orion.bendingspoons.com^
 ||orionember.com^
 ||orionmarketing.actonservice.com^
 ||orlmarketing.nfp.com^
@@ -35150,6 +35156,7 @@
 ||synbiobeta.actonservice.com^
 ||sync-a8.cocolocala.jp^
 ||sync.adap.tv^
+||syncingbridge.com^
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
 ||synonymoussticks.com^
@@ -36770,6 +36777,7 @@
 ||tracker.services.vaix.ai^
 ||tracker.shanon-services.com^
 ||tracker.shopclues.com^
+||tracker-shr.ortb.net^
 ||trackersimulator.org^
 ||tracker.smartframe.io^
 ||tracker.smartseminar.jp^
@@ -39285,6 +39293,7 @@
 ||tr.zojh.espmp-aluk.net^
 ||t-s.actemra.com^
 ||t-s.activase.com^
+||tsa-f.webex.com^
 ||t-s.allergicasthma.com^
 ||ts-analysis.shoalter.com^
 ||tsa.taxslayer.com^
