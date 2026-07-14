@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-07-09T09:04:47.810Z
+! Last modified: 2026-07-14T09:04:47.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -666,7 +666,6 @@
 ||snakeoil.kochava.com^
 ||stage.kochava.com^
 ||static.kochava.com^
-||support.kochava.com^
 ||xxxbidder.kochava.com^
 ||www.appdynamics.com^
 ||analytics.appdynamics.com^
@@ -16848,7 +16847,6 @@ cf.app.preproduction.tollbit.com
 ||client-buycbrandscom.mikmak.ai^
 ||client-shophinecognaccom.mikmak.ai^
 ||client-shoptreehutsheacom.mikmak.ai^
-||support.mikmak.ai^
 ||client-buybiofreezecom.mikmak.ai^
 ||stg-client-noketch-stgshoptimisefr.mikmak.ai^
 ||client-discoverofficialminiversecom.mikmak.ai^
