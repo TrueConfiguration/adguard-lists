@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-07-28T09:01:22.356Z
+! Last modified: 2026-07-30T09:01:22.062Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27JUL26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29JUL26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -4819,6 +4819,7 @@
 ||airefcoinc.actonservice.com^
 ||airplanecoffee.com^
 ||air-weigh.actonservice.com^
+||aisiteanalytics.com^
 ||ai.thermo.com^
 ||ai.thermofisher.com^
 ||a.itim.es^
@@ -5523,6 +5524,7 @@
 ||analytics.sixtmiddleeast.com^
 ||analytics.sixt.nl^
 ||analytics.skinit.com^
+||analytics.skroutz.gr^
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
 ||analytics.sleeknote.com^
@@ -5608,6 +5610,7 @@
 ||analytics.vendemore.com^
 ||analytics.verizon.com^
 ||analytics.verizonwireless.com^
+||analytics.veygo.co^
 ||analytics.vgtimes.com^
 ||analytics.villagehouse.jp^
 ||analytics.vinovo.si^
@@ -8369,6 +8372,7 @@
 ||carlisleit.actonservice.com^
 ||carloforward.com^
 ||carolina.actonservice.com^
+||carpoolmatch.com^
 ||carpoolqueen.com^
 ||carreras.unisabana.edu.co^
 ||carsarace.com^
@@ -8996,7 +9000,6 @@
 ||collect.helsana-preprod.ch^
 ||collect.hollisterco.com^
 ||collect.igodigital.com^
-||collection.e-satisfaction.com^
 ||collection.mola.tv^
 ||collection.saga.co.uk^
 ||collections.equifax.com^
@@ -13626,6 +13629,7 @@
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||fly.caljetelite.com^
+||flyflightstar.com^
 ||flystranger.com^
 ||flznib.weblio.jp^
 ||fma7.aegon.es^
@@ -13660,6 +13664,7 @@
 ||food.pentonmarketingsvcs.com^
 ||foodsouvlakibar.openapp.link^
 ||foomjy.teacollection.com^
+||footballmedal.com^
 ||forbes.realclearpolitics.com^
 ||forbidden.actonservice.com^
 ||forbin.actonservice.com^
@@ -14386,6 +14391,7 @@
 ||globallearningsystems.actonservice.com^
 ||globalmed.actonservice.com^
 ||global-mktg.transunion.com^
+||globalorders.net^
 ||global.raboag.com^
 ||globalsolutions.risk.lexisnexis.com^
 ||global.successfactors.com^
@@ -14455,6 +14461,7 @@
 ||go.app.sharekey.com^
 ||go.asian.mingle.com^
 ||go.askbee.my^
+||goatcounter.ssp.sh^
 ||goat.hepicgamerz.com^
 ||goat.nhimmeo.cf^
 ||goat.skeetstats.xyz^
@@ -14779,6 +14786,7 @@
 ||go.northsidemedia.com^
 ||go.norway.innovatedating.com^
 ||go.nvp.com^
+||goodfoodtours.com^
 ||google-analytics-cn.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
@@ -23603,6 +23611,7 @@
 ||mm.openapp.link^
 ||mm-sdk-analytics.api.cx.metamask.io^
 ||mmulsx.comet.it^
+||mm-uxrv.com^
 ||mmwlwm.autoscout24.pl^
 ||m.mylifetime.com^
 ||m.mywd.com^
@@ -24054,6 +24063,7 @@
 ||net.shop.com.mm^
 ||netstat.yunnan.cn^
 ||net.steiner-vision.de^
+||netsurfconsult.com^
 ||net.tradeers.de^
 ||net.voopter.com.br^
 ||network.cogentco.com^
@@ -24209,6 +24219,7 @@
 ||nljjem.honeys-onlineshop.com^
 ||nl-nl.coloplastcare.com^
 ||nlp-japan.life-and-mind.com^
+||nltcs.idfnet.net^
 ||nltihf.fashiondays.ro^
 ||nltzqx.autodoc.co.uk^
 ||nlvnht.miror.jp^
@@ -24511,6 +24522,7 @@
 ||offer.slgnt.eu^
 ||offers.storagepipe.com^
 ||offgridcrops.com^
+||officestylist.com^
 ||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
@@ -25553,6 +25565,7 @@
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
+||pixel.nudgify.com^
 ||pixel.patch.com^
 ||pixel.poptok.com^
 ||pixel.propublica.org^
@@ -25842,6 +25855,7 @@
 ||pnvnpy.scullyandscully.com^
 ||pny.net.penny.de^
 ||pocketfaucet.com^
+||pocustrack.com^
 ||poczta.carte-gr.total.fr^
 ||poczta.happ.social^
 ||podbooth.martela.com^
