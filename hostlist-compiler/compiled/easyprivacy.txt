@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-08-04T09:01:22.771Z
+! Last modified: 2026-08-06T09:01:23.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03AUG26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 05AUG26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5343,6 +5343,7 @@
 ||analytics.massivwerthaus.at^
 ||analytics.matchbin.com^
 ||analytics.maxroll.gg^
+||analytics.maxx53.com^
 ||analytics.mc500.info^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
@@ -12349,6 +12350,7 @@
 ||elq.xperthr.nl^
 ||elr.sfr.fr^
 ||els298548211.medtronic.com^
+||el.siglo.mx^
 ||eltlio.boribori.co.kr^
 ||elusivebreeze.com^
 ||elusivecascade.com^
@@ -12789,6 +12791,7 @@
 ||engage.jlclive.com^
 ||engage.krm22.com^
 ||engage.marketone.com^
+||engagement.coremedia.cloud^
 ||engagement.feedly.com^
 ||engagemetrics.cisco.com^
 ||engage.mhainc.com^
@@ -13130,6 +13133,7 @@
 ||eventsink.api.redbee.live^
 ||events.interface.com^
 ||events.jotform.com^
+||events.julephosting.de^
 ||events.kangan.edu.au^
 ||events.limango.com^
 ||events-logs.doctolib.com^
@@ -13398,6 +13402,7 @@
 ||fancydune.com^
 ||fangfeeling.com^
 ||fan.info.heat.com^
+||fanless.net^
 ||faokwl.sklepogrodniczy.pl^
 ||faqtjp.redley.com.br^
 ||farahatco.actonservice.com^
@@ -13823,7 +13828,6 @@
 ||fptls3.com^
 ||fptls4.com^
 ||fptls.com^
-||fpt.microsoft.com^
 ||fp-upload.dun.163.com^
 ||fpvrgm.blackforestdecor.com^
 ||fpxewa.ilmeteo.it^
@@ -15723,6 +15727,7 @@
 ||idqwqm.kkday.com^
 ||idrivelogistics.actonservice.com^
 ||ids.actonservice.com^
+||idsmodules.com^
 ||idstatus.sky.com^
 ||iduk.barcodesgroup.com^
 ||id-ward.com^
@@ -21929,6 +21934,7 @@
 ||metric.emerils.com^
 ||metric.fatcatalog.com^
 ||metric.foodbusinessnews.net^
+||metricfresh.com^
 ||metric.fxdd.com^
 ||metric.genesis.es^
 ||metric.golfnow.com^
@@ -25280,6 +25286,7 @@
 ||pa.opqr.co^
 ||papamug.com^
 ||papemz.rcwilley.com^
+||pa.pinpoll.com^
 ||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||paqqlk.motatos.de^
@@ -25318,6 +25325,7 @@
 ||partnersuccessmetrics.cisco.com^
 ||partnerwith.us.streetbond.com^
 ||partplanes.com^
+||partycharge.com^
 ||passivepolo.com^
 ||passwordbyte.com^
 ||pa-stats.encore.dev^
@@ -32395,6 +32403,7 @@
 ||snowflake.qq.com^
 ||snowman.odencat.com^
 ||snowmentor.com^
+||snowpeaksoftware.com^
 ||snowplowjs.darwin.cx^
 ||snprxx.wwfmarket.com^
 ||snptrk.com^
@@ -32440,6 +32449,7 @@
 ||solidsub.com^
 ||solmax.actonservice.com^
 ||solosduetstrios.com^
+||solsticeblack.com^
 ||solucionesreales.americanexpress.es^
 ||solution.agc-chemicals.com^
 ||solution.resonac.com^
@@ -32760,6 +32770,7 @@
 ||s-onetag.com^
 ||soneticscorp.actonservice.com^
 ||songsterritory.com^
+||sonicsessions.net^
 ||so.opentable.com^
 ||so.opentable.co.uk^
 ||soothingglade.com^
@@ -33995,6 +34006,7 @@
 ||stats.executebig.org^
 ||stats.exploratv.ca^
 ||stats.extendedstayamerica.com^
+||stats.externulls.com^
 ||stats.extramilefloorcare.com^
 ||stats.eyehelp.co^
 ||stats.fabiofranchino.com^
@@ -35504,7 +35516,6 @@
 ||target.eon.de^
 ||target.ey.com^
 ||target.farnell.com^
-||targetfax.com^
 ||target.fiatusa.com^
 ||target.firestonebpco.com^
 ||target.fleetcardsusa.com^
