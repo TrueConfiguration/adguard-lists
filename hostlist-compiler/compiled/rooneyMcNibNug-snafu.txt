@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-08-14T09:04:57.401Z
+! Last modified: 2026-08-15T09:04:56.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7563,6 +7563,11 @@
 ||mobileanalytics.web.ue1.app.chime.aws^
 ||mobileanalytics.web.ue1.b.app.chime.aws^
 ||mobileanalytics.web.ue1.a.app.chime.aws^
+||mobileanalytics.web.ue1.g.app.chime.aws^
+||api.stats.ue1.b.app.chime.aws^
+||api.stats.ue1.g.app.chime.aws^
+||api.stats.ue1.a.app.chime.aws^
+||api.stats.ue1.app.chime.aws^
 ||analytics.indeed.com^
 ||analyticsperf-analytics.indeed.com^
 ||ads.dyn.indeed.com^
