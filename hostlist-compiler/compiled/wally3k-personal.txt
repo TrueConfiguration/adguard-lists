@@ -3,7 +3,7 @@
 ! Description: Content added to this list has been manually verified, and is updated irregularly
 ! Homepage: https://firebog.net/about
 ! License: CC BY 4.0
-! Last modified: 2024-03-13T09:01:33.298Z
+! Last modified: 2026-08-28T09:06:45.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -195,6 +195,8 @@ open.oneplus.net
 ctoid.net 
 ||exclusive-vouchers.com^
 ||specialdeals.g5e.com^
+# Virus scam popup
+||otelev.com^
 # Phishing
 ||aloseks.org^
 ||shortyz.co^
