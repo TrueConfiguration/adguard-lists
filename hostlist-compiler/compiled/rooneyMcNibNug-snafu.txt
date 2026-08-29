@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-08-25T09:04:47.847Z
+! Last modified: 2026-08-29T09:04:48.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -343,7 +343,7 @@
 ||segment-data-us-east.zqtk.net^
 ||api.speedcurve.com^
 ||lux.speedcurve.com^
-||sts3.wsj^
+||sts3.wsj.com^
 ||fastlane.rubiconproject.com^
 ||beacon.tru.am^
 ||djibeacon.dowjoneson.com^
@@ -792,7 +792,7 @@
 ||gumdrops.gumgum.com^
 ||ie-g2.gumgum.com^
 ||insights.gumgum.com^
-||jp-g2.gumgum.comm^
+||jp-g2.gumgum.com^
 ||mail1-ie.gumgum.com^
 ||mail1-va.gumgum.com^
 ||mail2-ie.gumgum.com^
@@ -3753,7 +3753,6 @@
 ||o333o.com^
 ||dynatrace.com^
 ||jivox.com^
-||evs.jivox.come^
 ||dw8wjz3q0i4gj.cloudfront.net^
 ||metrics.cvshealth.com^
 ||www.zmags.com^
@@ -4052,7 +4051,7 @@
 ||new.linksense.io^
 ||pages.linksense.io^
 ||infinigrow.com^
-||snowplowanalytics.snowplow^
+||snowplowanalytics.snowplow.com^
 ||snowplowanalytics.com^
 ||api.company-target.com^
 ||segments.company-target.com^
@@ -11847,7 +11846,7 @@
 ||carina.cloud4wi.com^
 ||kafka-manager.cloud4wi.com^
 ||blog.cloud4wi.com^
-||status.cloud4wi^
+||status.cloud4wi.com^
 ||vigorous-harbor-449.notion.site^
 ||apps.rokt.com^
 ||adt.rokt.com^
@@ -12152,7 +12151,7 @@
 ||streaming.jsonmediapacks.com^
 ||js.schema-forms.org^
 ||stylesheet.webstaticcdn.com^
-||assets.watchasync.^
+||assets.watchasync.com^
 ||tags.stickloader.info^
 ||apps.marketing-counter.com^
 ||forwardoffernow.com^
@@ -18303,8 +18302,8 @@ moengage.com
 ||browser-intake-us3-datadoghq.com^
 ||browser-intake-us4-datadoghq.com^
 ||browser-intake-us5-datadoghq.com^
-||browser-intake-ap1-datadoghq.com.^
-||browser-intake-corporateclash.net.^
+||browser-intake-ap1-datadoghq.com^
+||browser-intake-corporateclash.net^
 ||browser-intake-datad0g.com^
 ||browser-intake-ddog-gov.com^
 ||browser-intake-foxbusiness.com^
@@ -18412,3 +18411,6 @@ safernetwork.io
 ||metrics.paddle.com^
 ||pulse-ai.paddle.com^
 ||id.paddle.com^
+||metrics.documentfoundation.org^
+||stats.documentfoundation.org^
+||tracker.documentfoundation.org^
