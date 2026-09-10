@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-09-08T09:01:23.062Z
+! Last modified: 2026-09-10T09:01:23.841Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 09SEP26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -35236,6 +35236,7 @@
 ||suncanny.marvelhq.com^
 ||sunflaggroup.com^
 ||sunlightmetrics.b-cdn.net^
+||sunnylettings.com^
 ||sunsetcampfires.com^
 ||sunsetstatic.com^
 ||sunshinegates.com^
@@ -35273,6 +35274,7 @@
 ||survey.xo.com^
 ||s.useeffectbyexample.com^
 ||s.usenix.org^
+||sushivolant.com^
 ||sustainability.ricoh.ch^
 ||sustainability.ricoh.co.za^
 ||sustainable.optum.com^
@@ -36086,10 +36088,12 @@
 ||tearfulglass.com^
 ||te.baur.de^
 ||techadv.actonservice.com^
+||techcatcher.com^
 ||techconverter.com^
 ||techdrivethru.com^
 ||tech.finalto.com^
 ||techgifts.tradeshow.globalsources.com^
+||techmix.net^
 ||technical.kyzen.com^
 ||technology1.informaengage.com^
 ||technologyadvice.actonservice.com^
