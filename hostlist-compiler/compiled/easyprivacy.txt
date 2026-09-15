@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-09-12T09:01:23.507Z
+! Last modified: 2026-09-15T09:01:24.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 14SEP26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5112,6 +5112,7 @@
 ||analytics.bestreviews.com^
 ||analytics.betterplaces.nl^
 ||analytics.bgr.com^
+||analytics.bhaskarsaikia.in^
 ||analytics.bigfishgames.com^
 ||analytics.bitchute.com^
 ||analytics.bitrix.info^
@@ -7693,6 +7694,8 @@
 ||bloomsend.com^
 ||blsoof.wirwinzer.de^
 ||bl-test.curatedplanet.com^
+||bluebellbooks.com^
+||bluebirdteam.com^
 ||bluebusiness.actonservice.com^
 ||bluecollarmuse.com^
 ||bluecore-email.branch.rocks^
@@ -8049,6 +8052,7 @@
 ||broadcastbed.com^
 ||broaddoor.com^
 ||broadstreet.ai^
+||broflask.com^
 ||b.rohde-schwarz.com^
 ||bronxvanilla.openapp.link^
 ||brooklynway.openapp.link^
@@ -8270,6 +8274,7 @@
 ||ca.clubavantages.net^
 ||ca.connect.finning.com^
 ||ca.creditacceptance.com^
+||cactus.jd.com^
 ||cactus.joybuy.com^
 ||caderonline.bu.edu^
 ||cadsuta.net^
@@ -9797,6 +9802,7 @@
 ||crypticgenius.com^
 ||crypto.egghead.link^
 ||crystalboulevard.com^
+||crystaldewfarm.com^
 ||crzohw.intersport.gr^
 ||cs0010sbeda.theory-clinic.com^
 ||cs1470sbeda.schoolasp.com^
@@ -10926,6 +10932,7 @@
 ||debug-inform.liilix.com^
 ||debug-r.rover.com^
 ||decidedrum.com^
+||decimalnet.com^
 ||decisionhut.com^
 ||decisivebase.com^
 ||decisivedrawer.com^
@@ -13245,6 +13252,7 @@
 ||events.pella.com^
 ||events.pickrr.com^
 ||events.plus.yandex.net^
+||events.plutus.ninja^
 ||events.practo.com^
 ||events.prd.api.max.com^
 ||events.privy.com^
@@ -15462,6 +15470,7 @@
 ||hemblx.vans.cl^
 ||herbgreencolumn.com^
 ||herbstarsbuilding.com^
+||hermes.jd.com^
 ||herpes2.pa-ruit.jp^
 ||hesconet.actonservice.com^
 ||hesprh.sony.jp^
@@ -17338,6 +17347,7 @@
 ||inkcoupon.com^
 ||inkubate.actonservice.com^
 ||in-mktg.vodafone.com^
+||inmobicdn.net^
 ||inmtuj.jobs.ie^
 ||inmuzp.popsockets.com^
 ||innerskinresearch.com^
@@ -19596,6 +19606,7 @@
 ||log.go.com^
 ||log.gs3.goo.ne.jp^
 ||loggychops.paulsmith.site^
+||log-h5.imdada.cn^
 ||log.hiiir.com^
 ||log.hypebeast.com^
 ||logicalminds.net^
@@ -22022,6 +22033,7 @@
 ||merchant.libertycarz.com^
 ||merchant-mail.neosurf.com^
 ||mercuryace.com^
+||mercury.jd.com^
 ||meremark.com^
 ||merequartz.com^
 ||merryvault.com^
@@ -23754,6 +23766,7 @@
 ||mlinks.helloalfred.com^
 ||mlkblr.la-becanerie.com^
 ||mlkklg.suncamp.de^
+||mllog.jd.com^
 ||mlmswk.janpara.co.jp^
 ||mlqzau.koffer.com^
 ||ml-sys.xyz^
@@ -35523,6 +35536,7 @@
 ||synbiobeta.actonservice.com^
 ||sync-a8.cocolocala.jp^
 ||sync.adap.tv^
+||synccache.com^
 ||syncingbridge.com^
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
@@ -37078,6 +37092,7 @@
 ||track.docusign.mx^
 ||track.docusign.nl^
 ||track.dunedinincomegrowth.co.uk^
+||track.dws.com^
 ||track.dws.de^
 ||track.eadv.it^
 ||track-e.cypress.com^
@@ -40145,6 +40160,7 @@
 ||uqckxr.chilli.se^
 ||uqd.io^
 ||uqhpej.wiberrentacar.com^
+||uranus.jd.com^
 ||urbanairship.com^
 ||urbanlaurel.com^
 ||urbanopus.net^
@@ -41563,6 +41579,7 @@
 ||wl.bl.frequentvalues.com.au^
 ||wlct-one.de^
 ||wlct-two.de^
+||wl.jd.com^
 ||wlkojk.orange.ro^
 ||wlog.kuaishou.com^
 ||wlp3.aegon.es^
