@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-10-01T09:01:23.153Z
+! Last modified: 2026-10-03T09:01:23.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02OCT26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5096,6 +5096,7 @@
 ||analytics-api.samsunghealthcn.com^
 ||analytics-api-s.cloudinary.com^
 ||analytics.apnewsregistry.com^
+||analytics.app.funnelish.com^
 ||analytics.archive.org^
 ||analytics.argeton.com^
 ||analytics.arunraghavan.net^
@@ -8079,6 +8080,7 @@
 ||browser.covatic.io^
 ||browserguides.net^
 ||browser.pipe.aria.microsoft.com^
+||browsertdidticket.m.qq.com^
 ||browser-updater.yandex.net^
 ||brpayless.eccocar.com^
 ||br.potato1.influitive.com^
@@ -9809,6 +9811,7 @@
 ||crrm.onjoyri.de^
 ||crs.actonservice.com^
 ||crta.and.co.uk^
+||crta.dailymail.com^
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
 ||cruisetourist.com^
@@ -12148,6 +12151,7 @@
 ||ed.originalpress.com^
 ||edpsmart.edpcomunicacao.com.br^
 ||edriving.actonservice.com^
+||edshowpigs.com^
 ||ed-sys.net^
 ||edtrainingcenter.actonservice.com^
 ||education.bendigotafe.edu.au^
@@ -13295,6 +13299,7 @@
 ||events.ricoh.ie^
 ||events.s4long.com^
 ||events.santander.co.uk^
+||events.searchtap.net^
 ||events.shareably.net^
 ||events.shoplift.ai^
 ||events.sk.ht^
@@ -14209,6 +14214,7 @@
 ||gatan.actonservice.com^
 ||gateway.aimia.com^
 ||gateway.foresee.com^
+||gatherer.m.qq.com^
 ||ga-tracker-dot-detmir-bonus.appspot.com^
 ||gaudyairplane.com^
 ||gawayez.e-postserv.com^
@@ -14524,6 +14530,7 @@
 ||gkopqp.coccodrillo.eu^
 ||gk.sina.cn^
 ||gksqdt.reitmans.com^
+||gkx.gokwik.co^
 ||gl5g98t0vfjb.panprices.com^
 ||gladysway.com^
 ||glamhawk.com^
@@ -19670,6 +19677,7 @@
 ||log.mix.sina.com.cn^
 ||log.mofa.go.kr^
 ||log.m.sm.cn^
+||log.news.baidu.com^
 ||log.nordot.jp^
 ||log.olark.com^
 ||log.outbrain.com^
@@ -20213,6 +20221,7 @@
 ||map.rockwellautomation.com^
 ||ma.prover.com^
 ||marblediscussion.com^
+||marbleseeds.com^
 ||marceline.wantsext.me^
 ||march.landing.ni.com^
 ||marcomauto.globalfoundries.com^
@@ -26431,6 +26440,7 @@
 ||p.ryanhalliday.com^
 ||pr.yokohama-chokin.com^
 ||przucu.elkjop.no^
+||p.sa7eer.com^
 ||psbiaf.converse.com^
 ||psfcnf.ochsnersport.ch^
 ||psilikaki.openapp.link^
@@ -26488,6 +26498,7 @@
 ||pulse.ecmapps.com^
 ||pulse.genki.world^
 ||pulse.munsonhealthcare.org^
+||pulsepoint.ideal.house^
 ||pulse.shopflo.com^
 ||pumlmb.netcologne.de^
 ||pumpedpancake.com^
@@ -26927,6 +26938,7 @@
 ||realsolutions.americanexpress.fr^
 ||realsolutions.americanexpress.it^
 ||realsolutions.americanexpress.se^
+||realtimeanalytics.yext.com^
 ||realtime.bbcl.cl^
 ||realtimely.io^
 ||realtime-profiling.datarize.ai^
@@ -36216,6 +36228,7 @@
 ||te.creation-l.de^
 ||t.ecupirates.com^
 ||teczbq.amicashop.com^
+||ted.dailymail.co.uk^
 ||tediousbear.com^
 ||tedioustooth.com^
 ||teefiksummin.visma.fi^
@@ -37166,6 +37179,7 @@
 ||track.concur.com.sg^
 ||track.connectwise.com^
 ||track.contently.com^
+||track.convertfox.com^
 ||track.cordial.io^
 ||track.cornerstonebuildingbrands.com^
 ||track.craudia.com^
@@ -38162,6 +38176,7 @@
 ||traffic.shareaholic.com^
 ||traffic.taktikal.is^
 ||traffic.wdc.center^
+||trafik.koopit.ist^
 ||tr.afpa.espmp-cufr.net^
 ||tr.ag2rlamondiale.fr^
 ||tr.agefiseminaires.com^
@@ -41509,6 +41524,7 @@
 ||webstats.volvoce.com^
 ||webstats.volvoit.com^
 ||webstat.vodafone.com^
+||webstat.ws.126.net^
 ||web.tamaris.com^
 ||webt.aqipa.com^
 ||webtarget.astrogaming.com^
