@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-10-03T09:01:23.114Z
+! Last modified: 2026-10-06T09:01:22.858Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02OCT26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 05OCT26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -5002,6 +5002,7 @@
 ||ams.lelong.com.my^
 ||ams.oraclecloud.com^
 ||ams-pageview-public.s3.amazonaws.com^
+||amspbs.com^
 ||amsunsolar.actonservice.com^
 ||a.mts.ru^
 ||amuckafternoon.com^
@@ -5055,6 +5056,7 @@
 ||analytic.fishtrack.com^
 ||analytic.hawaii.aaa.com^
 ||analytic.hotelclub.com^
+||analytic.is^
 ||analytic.newmexico.aaa.com^
 ||analytic.northernnewengland.aaa.com^
 ||analytic.rollout.io^
@@ -8238,6 +8240,7 @@
 ||bwmxdg.kimono-365.jp^
 ||bwntyd.neuve-a.net^
 ||b.workhere.com^
+||bws.airwallex.com^
 ||bwspqc.bloomonline.jp^
 ||bwujxl.yoga-lava.com^
 ||bxbuvv.zeelool.com^
@@ -8548,6 +8551,7 @@
 ||cdn.seonintelligence.com^
 ||cdn.sy-d.io^
 ||cdn.usefathom.com^
+||cdn-vitals.com^
 ||cdnwidget.com^
 ||cdp.cifinancial.com^
 ||cdp.howtotrade.com^
@@ -11690,6 +11694,7 @@
 ||dpckzt.mesrecettesfaciles.fr^
 ||dplp1.ibmnorthamerica.adobesandbox.com^
 ||dpm.demdex.net.iberostar.com^
+||dppesulohfqre.cloudfront.net^
 ||dppublishinginc.actonservice.com^
 ||dp.shoprunner.com^
 ||dptgdj.usagi-online.com^
@@ -13761,6 +13766,7 @@
 ||floodedpixel.com^
 ||floodprincipal.com^
 ||floorforce.actonservice.com^
+||floors.dev^
 ||flotech.actonservice.com^
 ||flourishingcollaboration.com^
 ||flourishingendeavor.com^
@@ -14053,6 +14059,7 @@
 ||fsm.lapresse.ca^
 ||fsqwdj.live-tennis.eu^
 ||fsresidential.actonservice.com^
+||fsrv.io^
 ||fst-ec.perimeterx.net^
 ||fsugco.rcn.nl^
 ||fsz1.francoisesaget.com^
@@ -28255,6 +28262,7 @@
 ||sc.hl.co.uk^
 ||sc.hm.com^
 ||scholarloop.com^
+||scholarsark.com^
 ||sc.holtsmilitarybank.co.uk^
 ||schoolpaws.com^
 ||schwacke.autovistagroup.com^
@@ -35166,6 +35174,7 @@
 ||stpc.vivo.com.cn^
 ||st.picshuffle.com^
 ||st.preciousamber.com^
+||st.putler.com^
 ||str1kee.com^
 ||str2-bbyca-track.bestbuy.com^
 ||str2-fsca-track.bestbuy.com^
@@ -35817,6 +35826,7 @@
 ||t.ao.walletjoy.com^
 ||tap.carling.com^
 ||tapi.kaufda.de^
+||tapoutmusic.com^
 ||t.appsflyer.com^
 ||t.appstatesports.com^
 ||t.arcade.show^
@@ -36989,6 +36999,7 @@
 ||topicalcartel.com^
 ||topicjungle.com^
 ||toplaunch.net^
+||topratedwaterfilter.com^
 ||topsecretapp.net^
 ||top.skyzone.ro^
 ||topspin.npo.nl^
