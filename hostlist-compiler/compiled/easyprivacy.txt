@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-10-06T09:01:22.858Z
+! Last modified: 2026-10-08T09:01:22.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05OCT26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07OCT26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7677,6 +7677,7 @@
 ||blackenterprise.black.news^
 ||blackjack.abzorbagames.com^
 ||blackmesh.actonservice.com^
+||blackrednecks.com^
 ||blacktri-a.akamaihd.net^
 ||bladv.actonservice.com^
 ||blaltn.physicianschoice.com^
@@ -8454,6 +8455,7 @@
 ||c.arstechnica.com^
 ||carte.fleet-page.total.fr^
 ||cartelsalsa.com^
+||cartersci.com^
 ||cartjoint.com^
 ||cartlug.com^
 ||cartoon.hardalist.com^
@@ -24102,6 +24104,7 @@
 ||muqtti.motoin.de^
 ||mushroomgods.com^
 ||mushywaste.com^
+||musicenforcer.com^
 ||musicflashcard.com^
 ||muteknife.com^
 ||mutemailbox.com^
@@ -34385,6 +34388,7 @@
 ||stats.fishersci.de^
 ||stats.fishersci.it^
 ||stats.flightsphere.com^
+||stats.flixcloud.cc^
 ||stats.flixhq.live^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
@@ -41008,6 +41012,7 @@
 ||visma.e-conomic.dk^
 ||vismaturva.visma.fi^
 ||visor.sberbank.ru^
+||visualcommservices.com^
 ||visualscience.external.bbc.co.uk^
 ||vitalimages.actonservice.com^
 ||vitalmedia.actonservice.com^
