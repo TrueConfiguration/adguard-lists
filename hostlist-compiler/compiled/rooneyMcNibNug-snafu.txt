@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-10-07T09:04:49.325Z
+! Last modified: 2026-10-09T09:04:48.558Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -18447,3 +18447,25 @@ safernetwork.io
 ||tiaraid.lat^
 ||turkeyal.lat^
 ||realtime.email^
+||clicks.toast.app^
+||data-science-api.ccgateway.net^
+||adapex.ccgateway.net^
+||analytics.ccgateway.net^
+||profiling.ccgateway.net^
+||api.ccgateway.net^
+||tag-api-2-0.ccgateway.net^
+||cdn.ccgateway.net^
+||adlift.ccgateway.net^
+||imgur.ccgateway.net^
+||dm.ccgateway.net^
+||dm-dev.ccgateway.net^
+||urlmatch.ccgateway.net^
+||pixel.ccgateway.net^
+||ads.ccgateway.net^
+||clicksco.ccgateway.net^
+||adiq.ccgateway.net^
+||categorisation-admin.ccgateway.net^
+||profile-api.ccgateway.net^
+||categorisation-api.ccgateway.net^
+||serve.ccgateway.net^
+||imgur-categorisation.ccgateway.net^
