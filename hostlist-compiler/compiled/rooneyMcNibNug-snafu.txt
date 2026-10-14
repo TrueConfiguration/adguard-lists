@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-10-09T09:04:48.558Z
+! Last modified: 2026-10-14T09:04:48.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9042,6 +9042,7 @@
 ||integrate.pxoe.wip.247-inc.net^
 ||united-app.pxoe.wip.247-inc.net^
 ||t.posthog.com^
+||squeak.posthog.com^
 ||www.bnc.lt^
 ||custom.bnc.lt^
 ||custom2.bnc.lt^
@@ -18469,3 +18470,5 @@ safernetwork.io
 ||categorisation-api.ccgateway.net^
 ||serve.ccgateway.net^
 ||imgur-categorisation.ccgateway.net^
+||hextom.com^
+||uppromote.com^
