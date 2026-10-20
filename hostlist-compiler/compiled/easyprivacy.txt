@@ -3,7 +3,7 @@
 ! Description: General tracking systems
 ! Homepage: https://github.com/easylist/easylist
 ! License: MIT License
-! Last modified: 2026-10-17T09:01:22.756Z
+! Last modified: 2026-10-20T09:01:22.213Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12,7 +12,7 @@
 ! Source: https://v.firebog.net/hosts/Easyprivacy.txt
 !
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 16OCT26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 19OCT26 from https://easylist.to/easylist/easyprivacy.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -7458,6 +7458,7 @@
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.cdnma.com^
+||beacon.cdnpure.com^
 ||beacon.cdn.qq.com^
 ||beaconcdn.qq.com^
 ||beacon.coofis.com^
@@ -13708,6 +13709,7 @@
 ||fimyxg.bloomberght.com^
 ||fimyxg.haberturk.com^
 ||finalizeforce.com^
+||finalleague.com^
 ||finaloptics.com^
 ||financefear.com^
 ||financialeducation-info.uchicago.edu^
@@ -13750,7 +13752,9 @@
 ||fishspies.com^
 ||fitgreatest.com^
 ||fitnessmapper.com^
+||fitnesssponsor.com^
 ||fitwithalpine.com^
+||fiveplusthree.com^
 ||fivesidedsquare.com^
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
@@ -13778,6 +13782,7 @@
 ||flashplayerfeedback.adobe.com^
 ||flashstats.libsyn.com^
 ||flashtexting.com^
+||flatpebble.com^
 ||flavors.firmenich.com^
 ||fldoai.municipal.com^
 ||fleathecat.com^
@@ -14053,6 +14058,7 @@
 ||frdoki.selftanning.work^
 ||frdoki.studioglass.work^
 ||frdoki.woodblock.work^
+||freakywacko.com^
 ||freedomgrail.com^
 ||freezingbuilding.com^
 ||frenchgerleman.actonservice.com^
@@ -14104,6 +14110,7 @@
 ||ftmsyy.jbl.com.br^
 ||ftnnce.autodoc.dk^
 ||ftp.happ.social^
+||ftpmagic.com^
 ||ftuart.chomedeynissan.com^
 ||ftwnwght.net.anwalt.de^
 ||ftwo-feedback.autohome.com.cn^
@@ -14241,6 +14248,7 @@
 ||gallerysouvlakeri.openapp.link^
 ||galop.leferacheval-saintcloud.com^
 ||gameplanfinancial.actonservice.com^
+||gamerhunk.com^
 ||gamerone.net^
 ||gammamaximum.com^
 ||ganon.yahoo.com^
@@ -15258,6 +15266,7 @@
 ||grassrootsunwired.actonservice.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||graychalk.com^
 ||graylog.prod.cams.run^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -15296,6 +15305,7 @@
 ||growth-channel.net^
 ||growthmodemarketing.actonservice.com^
 ||grow.urbandictionary.network^
+||g.rtbrain.app^
 ||grumpydime.com^
 ||grumpydrawer.com^
 ||grxokm.kirstein.de^
@@ -27583,6 +27593,7 @@
 ||rumt-zh.com^
 ||rum.uptime.com^
 ||rup5.destinia.ru^
+||r.upload.app^
 ||ruralrobin.com^
 ||ru-ru.siemensplmevents.com^
 ||rusticfrench.com^
@@ -34917,6 +34928,7 @@
 ||stats.tazeros.com^
 ||stats.tdameritrade.com^
 ||stats.teamdetails.com^
+||stats.techinate.com^
 ||stats.te.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^
