@@ -3,7 +3,7 @@
 ! Description: A general ad & tracking domain blocklist for pi-hole.
 ! Homepage: https://github.com/RooneyMcNibNug/pihole-stuff
 ! License: WTFPL
-! Last modified: 2026-10-30T09:04:47.517Z
+! Last modified: 2026-10-31T09:04:47.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5909,6 +5909,28 @@
 ||tech.forter.com^
 ||m.api.usw.forter.com^
 ||www2.forter.com^
+||bots-api.forter.com^
+||intelligence.forter.com^
+||iris-webhooks.use.forter.com^
+||metrics-proxy.use.forter.com^
+||mcp.forter.com^
+||atlas.use.forter.com^
+||cdn8.euw.forter.com^
+||cdn.euw.forter.com^
+||cdn6.forter.com^
+||cdn0.euw.forter.com^
+||cdn9.euw.forter.com^
+||cdn9.forter.com^
+||1bd322f6925642d59b4c34a8c2a6bdfb-8a81eebba889.cdn.forter.com^
+||cdn3.euw.forter.com^
+||cdn11.euw.forter.com^
+||cdn8.forter.com^
+||cdn14.forter.com^
+||cdn123.forter.com^
+||cdn3.forter.com^
+||cdn0.forter.com^
+||cdn4.forter.com^
+||cdn11.forter.com^
 ||academysports.btttag.com^
 ||accountnow.btttag.com^
 ||adamandeve13991z.btttag.com^
@@ -18485,3 +18507,4 @@ safernetwork.io
 ||mgtrk.revize.com^
 ||smetrics.bbb.org^
 ||apptracking.services.dev.corp.lego.com^
+||pages09.net^
